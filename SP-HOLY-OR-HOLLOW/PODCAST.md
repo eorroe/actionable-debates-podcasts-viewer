@@ -1,8 +1,8 @@
-# Holy or Hollow | Street Preachers | Phillip Anthony Mitchell & Tim Timberlake
+# Holy or Hollow | Street Preachers | Philip Anthony Mitchell & Tim Timberlake
 
 ## Overview
 
-This podcast challenges listeners to distinguish authentic Christianity from hollow imitation by pursuing true holiness rather than curated appearances. Tim Timberlake and Philip Anthony Mitchell walk through Scripture—specifically 1 Peter—to confront the deception of a polished but powerless faith and call believers to lives genuinely transformed by the gospel.
+This podcast challenges listeners to distinguish authentic Christianity from hollow imitation by pursuing true holiness rather than polished but powerless faith. Tim Timberlake and Philip Anthony Mitchell walk through Scripture—specifically 1 Peter—to confront the deception of a polished but powerless faith and call believers to lives genuinely transformed by the gospel.
 
 ## When to Follow Podcast
 
@@ -80,7 +80,7 @@ A new believer cleaned church bathrooms while listening to worship music, making
 
 ### Live With an Eternal Perspective
 
-Many believers are trapped in a myopic view that sees only the present moment—their job, their comfort, their immediate circumstances. They miss the bigger picture of what God is doing in history and where their life fits into eternity. To live well, you must keep one eye on your current responsibilities and both eyes on eternity. Stepping back from the immediacy of now allows you to see the details of how God desires to prepare you for the coming of His Son.
+Believers are trapped in a myopic view that sees only the present moment—their job, their comfort, their immediate circumstances. They miss the bigger picture of what God is doing in history and where their life fits into eternity. To live well, you must keep one eye on your current responsibilities and both eyes on eternity. Stepping back from the immediacy of now allows you to see the details of how God desires to prepare you for the coming of His Son.
 
 #### Steps
 
@@ -89,7 +89,7 @@ Many believers are trapped in a myopic view that sees only the present moment—
 Intentionally create space to see beyond your immediate situation.
 ##### Step 2: Visualize eternity.
 
-Daily remind yourself that this life is temporary and that you are moving toward an never-ending existence with God or apart from Him.
+Daily remind yourself that this life is temporary and that you are moving toward a never-ending existence with God or apart from Him.
 ##### Step 3: Ask the "end of life" question.
 
 Determine what you want to be known for when you take your last breath. If you had to limit it to one word, what would it be?
@@ -143,7 +143,7 @@ John Wesley and George Whitfield traveled on horseback across Europe and America
 
 ### Obey God's Promptings and Die Empty
 
-God has given each person specific instructions and callings. Many believers sit on what God told them to do in a previous season while asking for new assignments in the current season. This is zeal without wisdom. The call is to obey now, be faithful and fruitful with what you have been given, and live in such a way that you die empty—having poured out everything God placed in you. When you stand before the Lord, you want to say, "I fought the good fight, I kept the faith, I finished my race," and hear, "Well done, good and faithful servant."
+God has given each person specific instructions and callings. Believers sit on what God told them to do in a previous season while asking for new assignments in the current season. This is zeal without wisdom. The call is to obey now, be faithful and fruitful with what you have been given, and live in such a way that you die empty—having poured out everything God placed in you. When you stand before the Lord, you want to say, "I fought the good fight, I kept the faith, I finished my race," and hear, "Well done, good and faithful servant."
 
 #### Steps
 
@@ -265,7 +265,7 @@ If God gave you only $100 and you would never receive another dollar, you would 
 
 ### Reconcile Broken Relationships
 
-There are likely relationships you need to reconcile, people you need to apologize to, and works you need to go back and fix. Before you make a list of all the ministry plans you want to do for God in the future, examine what He has already told you to do in the past. Unresolved conflict and unrepented sin block your ability to move forward in faithfulness. Reconciliation is not optional for the believer—it is a mark of genuine Christianity.
+There are relationships you need to reconcile, people you need to apologize to, and works you need to go back and fix. Before you make a list of all the ministry plans you want to do for God in the future, examine what He has already told you to do in the past. Unresolved conflict and unrepented sin block your ability to move forward in faithfulness. Reconciliation is not optional for the believer—it is a mark of genuine Christianity.
 
 #### Steps
 
@@ -293,7 +293,7 @@ The hosts warn against having a list of future ministry plans while ignoring the
 
 ##### Example 2: Katherine's Testimony
 
-Katherine Coleman said she wants to stand before the Lord and say, "Lord, I tried. I gave it my best." This is the heart of reconciliation—not perfection, but a life marked by effort and humility to make things right.
+Katherine Kman said she wants to stand before the Lord and say, "Lord, I tried. I gave it my best." This is the heart of reconciliation—not perfection, but a life marked by effort and humility to make things right.
 
 #### Best Practices
 
@@ -382,7 +382,7 @@ The hosts reference Tim Timberlake's book, *The Power of 1440*, which teaches th
 
 ### Define Success by Eternal Metrics
 
-The world defines success by attendance numbers, financial growth, platforms, and comfort. But the believer's definition of success must align with Paul's final words: "I have fought the good fight, I have kept the faith, I have finished my race." Success is not measured by how many people attend your church or how much money you leave for your children. It is measured by whether you lived a life that pleased God, poured out for Christ, and finished the specific race He set before you.
+Culture often defines success by attendance numbers, financial growth, platforms, and comfort. But the believer's definition of success must align with Paul's final words: "I have fought the good fight, I have kept the faith, I have finished my race." Success is not measured by how many people attend your church or how much money you leave for your children. It is measured by whether you lived a life that pleased God, poured out for Christ, and finished the specific race He set before you.
 
 #### Steps
 
