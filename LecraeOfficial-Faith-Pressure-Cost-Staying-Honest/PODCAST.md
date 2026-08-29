@@ -42,15 +42,15 @@ When you feel disillusioned with the church, culture, or systems, ask yourself w
 
 ##### Example 1: Lecrae's Crisis of Faith
 
-After Trayvon Martin was killed in 2012–2013, Lecrae expressed grief on social media and faced pushback from believers who told him to stop being political. This launched him into a dark season where he became disillusioned with the church's racial and political divisions. He wrote lyrics describing being "mad at Christians" and thinking "the church was disgusting" before the Holy Spirit patiently stirred his faith back to life.
+After Trayvon Martin was killed in 2012–2013, Lecrae expressed grief on social media and faced pushback from believers who told him to stop being political. This launched him into a dark season where he became disillusioned with the church's racial and political divisions. His lyrics state: "I was mad at Christians for a while / Thought the church was disgusting," before the Holy Spirit patiently stirred his faith back to life.
 
 ##### Example 2: The Egypt Trip Turning Point
 
-While visiting tombs in Egypt with his wife, Lecrae's non-Christian tour guide acknowledged a Pharaoh who freed the slaves without knowing the Bible. Lecrae realized the Christian story is real and global. This encounter pulled him back from abandoning his faith entirely and showed him that God is bigger than American politics or church culture.
+While visiting tombs in Egypt with his wife, Lecrae's non-Christian tour guide acknowledged a Pharaoh who freed the slaves without knowing the Bible. Lecrae said, "This is real," and "Maybe I shouldn't throw the whole baby away." He entered a church and saw scholars from Egypt and Ethiopia, then said, "Oh, this is a global faith. This isn't an American faith. This is the world." He asked himself, "What's bigger, the kingdom or the empire?"
 
 ##### Example 3: The Reconstructed Tour and Album
 
-Lecrae's "Reconstruction" album and world tour are built on the metaphor of Michelangelo's David, which was sculpted from discarded marble. This represents God's work of taking people and things the world has thrown away and rebuilding them. The tour takes this message to Zimbabwe, Zambia, Kenya, South Africa, Australia, New Zealand, and the United States, celebrating reconstruction while also mourning those in need of healing.
+Lecrae's "Reconstruction" album and world tour are built on the metaphor of Michelangelo's David, which was sculpted from discarded marble. This represents the reconstruction concept that God wants to rebuild humans and communities that have been discarded. The tour takes this message to Zimbabwe, Zambia, Kenya, South Africa, Australia, New Zealand, and the United States, celebrating reconstruction while also mourning those in need of healing.
 
 #### Best Practices
 
@@ -60,15 +60,15 @@ Lecrae's "Reconstruction" album and world tour are built on the metaphor of Mich
 - Hold tightly to the core of your faith while being willing to release cultural trappings
 - Find mentors and elders who can speak into your life during confusion
 - Share your experience of pain to help others who are struggling
-- God uses broken things to paint a picture of his glory and goodness
+- Lecrae describes God using broken things to paint a picture of his glory and goodness
 
 #### Keep In Mind
 
-- Lecrae's experience demonstrates that depression and anxiety are real struggles he faced
+- Lecrae experienced depression and anxiety as real struggles during his dark season
 - Lecrae's pain did not disqualify him from ministry or purpose
 - Lecrae was disillusioned with church culture but did not abandon his faith
-- God met Lecrae in his dark season and used it for good
-- Lecrae's testimony has helped others
+- The Holy Spirit stirred Lecrae's faith back to life during his dark season
+- Countless listeners told Lecrae the song "Take Me As I Am" resonated with them
 
 #### Security & Safety Notes
 
@@ -94,7 +94,7 @@ Lecrae's "Reconstruction" album and world tour are built on the metaphor of Mich
 
 ##### Step 1: Identify Your Unique Brokenness
 
-Lecrae grew up in a broken home and was raised in hip-hop culture, which he describes as a "broken thing." Recognize the specific brokenness or cultural context of your own life, because God uses those exact experiences.
+Lecrae grew up in a broken home and was raised in hip-hop culture, which he describes as a "broken thing." Recognize the specific brokenness or cultural context of your own life, because, as Lecrae experienced, God can use those exact experiences.
 
 ##### Step 2: Learn the Culture You Want to Reach
 
@@ -110,7 +110,7 @@ Early in his career, Lecrae faced pushback from Christians who questioned whethe
 
 ##### Step 5: Use Your Platform to Create Bridges
 
-Lecrae describes himself as translating between the hip-hop world and the church for both sides. Your unique position can connect communities if you intentionally build connections between communities that otherwise would not understand each other.
+Lecrae describes himself as translating between the hip-hop world and the church for both sides. Your unique position can connect communities if you intentionally build connections between communities.
 
 #### Examples
 
@@ -120,11 +120,11 @@ When critics questioned Lecrae's unconventional approach, he used the story of y
 
 ##### Example 2: Song "Take Me as I Am"
 
-Lecrae wrote this song after waking up at 5:46 a.m. with Ephesians on his mind, articulating that he thought he had to earn God's love but realized God would take him as he was. People responded with "That's me. That's me," indicating they also felt they had to earn God's love. This demonstrates how personal testimony expressed authentically can lead others to Christ.
+Lecrae wrote this song after waking up at 5:46 a.m. with Ephesians on his mind, articulating that he thought he had to earn God's love but realized God would take him as he was. Countless listeners responded with "That's me. That's me," saying they also felt they had to earn God's love. This demonstrates how personal testimony expressed authentically can lead others to Christ.
 
 ##### Example 3: Generational Connection in Ministry
 
-Lecrae's pastor in Atlanta, Pastor Lee Jenkins in his mid-60s, creates an environment where older and younger generations feel valued. He brings young people up to speak and finds ways to connect generations. Lecrae emphasizes that churches that fail to pass the baton between generations eventually decline, as illustrated by a congregation that started with 100 members and has since shrunk to 85.
+Lecrae's pastor in Atlanta, Pastor Lee Jenkins in his mid-60s, creates an environment where older and younger generations feel valued. He brings young people up to speak and finds ways to connect generations. Lecrae emphasizes that churches that fail to pass the baton between generations eventually decline, as illustrated by a congregation that started with 100 members and declined to 85.
 
 #### Best Practices
 
@@ -181,11 +181,11 @@ Lecrae was challenged by Dr. Crawford Loritts' statement: "Legacy is what you le
 
 ##### Step 4: Translate Between Worlds
 
-Lecrae's greatest desire is to translate between the hip-hop world and the church. He wants people to see that he was deeply committed to practicing the way of Jesus while also being culturally relevant. Translating between worlds requires fluency in multiple communities and a willingness to be misunderstood by both.
+Lecrae's greatest desire is to translate between the hip-hop world and the church. He wants people to see that he was deeply committed to practicing the way of Jesus while also being culturally relevant. Translating between worlds requires fluency in multiple communities and a willingness to be misunderstood by both communities.
 
 ##### Step 5: Embrace the Reconstruction Mindset
 
-The reconstruction theme of Lecrae's album and tour is rooted in the idea that humans and communities can be discarded by the world, but God wants to rebuild them. Adopt this mindset for your own life and ministry: recognize that brokenness is not the end, and God specializes in taking discarded pieces and making something beautiful.
+The reconstruction theme of Lecrae's album and tour is rooted in the idea that humans and communities can be discarded by the world, but the reconstruction concept holds that God wants to rebuild them. Adopt this mindset for your own life and ministry: recognize that brokenness is not the end, and God takes discarded pieces and makes something new.
 
 #### Examples
 
@@ -195,11 +195,11 @@ When asked what he would tell his younger self, Lecrae names specific struggles:
 
 ##### Example 2: The Generational Wisdom Gap
 
-Lecrae, now in his 40s with teenagers, recognizes he needs older mentors because he has never parented a teenager before, and his teenagers have never been teenagers before. He appreciates Pastor Lee Jenkins' model of valuing both older and younger generations rather than discarding one for the other. This demonstrates the practical necessity of intergenerational relationships.
+Lecrae, in his 40s with teenagers, recognizes he needs older mentors because he has never parented a teenager before, and his teenagers have never been teenagers before. He appreciates Pastor Lee Jenkins' model of valuing both older and younger generations rather than discarding one for the other. This demonstrates the practical necessity of intergenerational relationships.
 
 ##### Example 3: Lecrae's 20-Year Marriage and Family
 
-Lecrae and his wife will celebrate 20 years of marriage. He met her at the University of North Texas when she was driving from Denton to Oak Cliff Bible Fellowship on Sundays. Their story is grounded in church community and long-term commitment, providing an example of long-term commitment.
+Lecrae and his wife will celebrate 20 years of marriage next month. He met her at the University of North Texas when she was driving from Denton to Oak Cliff Bible Fellowship on Sundays. Their story is grounded in church community and long-term commitment, providing an example of long-term commitment.
 
 #### Best Practices
 
@@ -213,9 +213,9 @@ Lecrae and his wife will celebrate 20 years of marriage. He met her at the Unive
 
 #### Keep In Mind
 
-- Pride disguised as spiritual maturity is one of the destructive temptations
+- Pride disguised as spiritual maturity is a temptation that can derail growth
 - Zeal and hunger for God are gifts, but there is no need to rush your personal formation
-- Legacy is what you leave in people, not what you leave to people in terms of inheritance
+- Dr. Crawford Loritts stated: "Legacy is what you leave in people, not what you leave to people"
 - Translating between worlds means being stretched between two communities; it is Kingdom work
 - The gospel is always relevant
 
