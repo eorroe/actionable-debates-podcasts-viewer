@@ -44,7 +44,7 @@ Lecrae encourages the hosts: "Keep your strength as your weakness." Do not let t
 
 - Ari's story of being in a relationship where she had not yet laid down sexual sin. She felt spiritually dead, with no peace, no joy, and no direction—until she surrendered completely.
 - Ari describes putting her identity into a relationship as the reason she came up empty. She found freedom only after choosing to walk with Jesus alone first, spending two years with Him.
-- Lecrae shares his own experience of living for applause and describes the enemy's agenda as making believers "aesthetically pleasing, be entertaining, and say the right things" rather than genuinely surrendered.
+- Lecrae describes the enemy's agenda as making believers "aesthetically pleasing, be entertaining, and say the right things" rather than genuinely surrendered.
 
 #### Best Practices
 
@@ -59,12 +59,12 @@ Lecrae encourages the hosts: "Keep your strength as your weakness." Do not let t
 
 - Putting your identity into another person always leaves you empty. True fulfillment comes from Jesus alone.
 - The entertainment industry in Los Angeles and the lights, cameras, and action will never fulfill you. Hollywood will "chew you up, spit you out, use you, promise you things that it never has any intention of bringing you." You are not meant to carry glory—only Jesus is.
-- Lecrae's encouragement: "Keep your strength as your weakness." Don't let the Christian industry or social pressure make you pretend to be perfect.
+- Lecrae's encouragement to the hosts: "Keep your strength as your weakness." Don't let the Christian industry or social pressure make you pretend to be perfect.
 
 #### Security & Safety Notes
 
-- Do not drink alcohol or use relationships as a way to cope with pain or trauma when the only thing that makes you feel better. These will only deepen your bondage. Ari drank "because I wanted to be okay," and it led to full-blown alcoholism.
-- If you are in a relationship where you feel spiritually dead, confused, or in bondage, it is a sign that sin is present. Ari wrote in her journal, "Jesus, I'm dead. I am spiritually dead. I am just getting by." Sexual sin specifically clouds your ability to see Jesus clearly.
+- Do not drink alcohol or use relationships as a way to cope with pain or trauma when the only thing that makes you feel better. These will only deepen your bondage. Ari drank because she wanted to be okay, and it led to full-blown alcoholism.
+- If you are in a relationship where you feel spiritually dead, confused, or in bondage, it is a sign that sin is present. Ari wrote in her journal, "Jesus, I'm dead. I am spiritually dead. I am just getting by. I have nothing in me. I don't know what's going on. I don't feel you're nowhere to be found. I know you're here, but I have separated myself from you." Sexual sin specifically clouds your ability to see Jesus clearly.
 - When you feel pressure to perform, look perfect, or hide your struggles, remember that transparency and vulnerability set people free.
 
 #### Common Pitfalls
@@ -117,7 +117,7 @@ When you lay down sin, your mind is freed. Obsessive thoughts, depression, and t
 #### Keep In Mind
 
 - Sexual sin is not just "like other sins"—it has a unique power to pervert your mind. You will be confused and directionless if you are living in sexual sin.
-- The freedom Ari experienced—no more obsessive thoughts, no more tormenting mind—came only after she fully surrendered. those six months led to one moment where like the stars aligned. Me and God come into alignment. We come into agreement that it's over.
+- Those six months led to one moment where like the stars aligned. Me and God come into alignment. We come into agreement that it's over.
 - Lecrae warns that Satan keeps Christians in bondage through sexual sin so they cannot be a voice for the Lord. Their shame keeps their mouth closed.
 
 #### Security & Safety Notes
@@ -135,7 +135,7 @@ When you lay down sin, your mind is freed. Obsessive thoughts, depression, and t
   **Solution:** Get godly people around you who will speak truth. "I need your help. I'm done."
 
 - **Problem:** Letting shame from past sexual sin keep you silent and unable to share your testimony.
-  **Solution:** that's what testimonies do. They bear the image of Jesus Christ. Share your story everywhere—Uber, work, Starbucks.
+  **Solution:** That is what testimonies do. They bear the image of Jesus Christ. Share your story everywhere—Uber, work, Starbucks.
 
 ---
 
@@ -242,7 +242,7 @@ The moment you start making your ministry or platform about yourself, you have m
 
 #### Keep In Mind
 
-- People are broken. depression's at an all-time high. More suicides than ever. Your vulnerability can be the thing that saves someone's life.
+- People are broken. Depression is at an all-time high. More suicides than ever. Your vulnerability can be the thing that saves someone's life.
 - Social media creates a fake aesthetic of perfect Christianity. Do not buy into it. The real power is in the raw, unfiltered truth.
 - The enemy wants you to be aesthetically pleasing, entertaining, and saying the right things. But Jesus calls you to deny yourself, die to self, and share the truth.
 
