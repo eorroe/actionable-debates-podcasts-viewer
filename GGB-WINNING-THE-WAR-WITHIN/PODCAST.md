@@ -2,7 +2,7 @@
 
 ## Overview
 
-This podcast episode from "Girls Gone Bible" features an intimate interview with Pastor Philip Anthony Mitchell discussing the urgency of end-time stewardship, maintaining spiritual fire, suffering well, preaching amid personal sickness, and the spiritual dangers of pride. The conversation explores how believers can live faithfully for Christ in the last seconds of the church age, contend inwardly against shame and depression, and steward God's favor without idolizing platform or fame. Pastor Mitchell shares two life-altering promises he made to God, his theology of suffering as a gift, and his commitment to faithful proclamation even when sick in his own body.
+This podcast episode from "Girls Gone Bible" features an intimate interview with Pastor Philip Anthony Mitchell discussing the urgency of end-time stewardship, maintaining spiritual fire, suffering well, preaching amid personal sickness, and the spiritual dangers of pride. The conversation explores how believers can live faithfully for Christ probably in the last seconds of the church age, contend inwardly against shame and depression, and steward God's favor without idolizing platform or fame. Pastor Mitchell shares two promises he made to God, his theology of suffering as a gift, and his commitment to faithful proclamation even when sick in his own body.
 
 ## When to Follow Podcast
 
@@ -206,7 +206,7 @@ The Apostle Paul wrote from a Roman prison cell that suffering is a gift granted
 - Suffering is part of the Christian experience
 - There is no walk with Jesus without suffering
 - God will never create a life for us that makes Him unnecessary
-- Even your most favorite preacher or the greatest platform will not make you immune to suffering
+- Even your favorite preacher or a platform will not make you immune to suffering
 - The enemy wants to make you feel condemned for your feelings and make you think God is mad at you
 
 #### Security & Safety Notes
@@ -233,7 +233,7 @@ The Apostle Paul wrote from a Roman prison cell that suffering is a gift granted
 
 ##### Step 1: Acknowledge Your Condition Honestly
 
-Pastor Philip deals with a mysterious medical condition and is seeing a specialist. He posted about being laid up in a medical bed so people could see that his life is not perfect and that he is suffering with the brothers and sisters.
+Pastor Philip deals with a medical condition and is seeing a specialist. He posted about being laid up in a medical bed so people could see that his life is not perfect and that he is suffering with the brothers and sisters.
 
 ##### Step 2: Separate Your Condition from God's Character
 
@@ -579,7 +579,7 @@ Pastor Philip has brothers in his life, lateral relationships with men of God wh
 - Your children can and should rebuke you
 - Real men take accountability, apologize, and own their mistakes
 - You need people in your life who have your best interests at heart
-- Accountability is huge for spiritual survival
+- Accountability is essential for spiritual survival
 
 #### Security & Safety Notes
 
@@ -631,7 +631,7 @@ Men in their nature desire tangible things: cars, money, fame, status. These thi
 
 ##### Example 1: The Absentee Father Correlation
 
-Pastor Philip taught middle school for about four years. During that time, approximately 75% of his students lived in homes without their fathers. As he studied the psychological damage of that, he saw a clear correlation between the absenteeism of fathers and men and a lot of human brokenness in adults. This is strategic.
+Pastor Philip taught middle school for about four years. During that time, about 75% of his students lived in homes without their fathers. As he studied the psychological damage of that, he saw a clear correlation between the absenteeism of fathers and men and human brokenness in adults. This is strategic.
 
 ##### Example 2: Teaching His Own Sons
 
@@ -684,7 +684,7 @@ Pastor Philip says, "I think much of this is a systematic spiritual attack again
 
 ##### Step 1: Understand the Book's Origin
 
-Pastor Philip's book "Contend" is based on a message he preached in London during the 2019 crusade. The message was from the letter of Jude, and the book centers on contending for the faith both in culture and in the heart. It is coming out October 13th and is available for pre-order on Amazon.
+Pastor Philip's book "Contend" is based on a message he preached in London during the 2019 crusade. The message was from the letter of Jude, and the book centers on contending for the faith both in culture and in the heart. It is expected to come out October 13th and is available for pre-order on Amazon.
 
 ##### Step 2: Identify Who the Book Is For
 
@@ -729,7 +729,7 @@ Pastor Philip has kept a journal for over 20 years. He is an urban dude with dep
 
 #### Keep In Mind
 
-- The book drops October 13th
+- The book is expected to drop October 13th
 - It is based on the message of Jude preached in London
 - It is for those struggling with shame, depression, regret, betrayal, and loss
 - It is about contending for the faith inwardly, not just outwardly
