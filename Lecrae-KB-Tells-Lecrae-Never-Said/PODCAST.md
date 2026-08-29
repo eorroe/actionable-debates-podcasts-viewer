@@ -8,7 +8,7 @@ This podcast episode features Lecrae and KB in a raw, candid conversation about 
 
 - When you need to understand how to navigate tension in a mentorship or leadership relationship
 - When working through conflict where intent doesn't match impact
-- When the user asks about maintaining grace while holding strong convictions
+- When maintaining grace while holding strong convictions
 - When building or sustaining a Christian creative movement
 
 ## Discussed
