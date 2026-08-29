@@ -1,4 +1,4 @@
-# Concerning this Salvation ｜ Street Preachers Podcast ｜ Phillip Anthony Mitchell & Tim Timberlake [wzB6nqjzfbo]
+# Concerning this Salvation ｜ Street Preachers Podcast ｜ Phillip Anthony Mitchell & Tim Timberlake
 
 ## Overview
 
@@ -26,7 +26,7 @@ When Jesus was alive on earth he said, "I am the way, the truth, and the life. N
 
 ##### Step 3: Evaluate who is credible
 
-You must choose: either Jesus was credible or he was a liar. If Jesus was credible, there is only one God and one pathway to God. No other founder of a major religion has ever come back from the grave. Jesus was seen alive by over 500 eyewitnesses who wrote accurate accounts that have been preserved in history.
+You must choose: either Jesus was credible or he was a liar. If Jesus was credible, there is only one God and one pathway to God. No other founder of a major religion has ever come back from the grave. Jesus was seen alive by over 500 eyewitnesses whose accurate accounts have been preserved in the historical record.
 
 ##### Step 4: Know the cost of the apostles' witness
 
@@ -52,15 +52,15 @@ Peter was crucified upside down. James was thrown off the temple and his head ba
 
 #### Keep In Mind
 
-- There is no documented evidence in history of anyone ever coming back from the grave who was a founder of a religion but one: Jesus
-- The Bible contains prophecies that have come to pass, and not one prophecy from the scriptures has ever fallen to the floor
-- The Bible was written by 40 human authors over 1500 years on three different continents in three different languages, yet from Genesis to Revelation there is a unity of thought that Phillip asserts is impossible apart from the inspiration of the Holy Spirit
+- There is no verifiable historical record of anyone ever coming back from the grave who was a founder of a religion but one: Jesus
+- The Bible contains prophecies that have come to pass, and not one prophecy from the scriptures has ever failed to come to pass
+- The Bible was written by 40 human authors over 1500 years on three continents in three different languages, yet from Genesis to Revelation there is a unity of thought that Phillip asserts is impossible apart from the inspiration of the Holy Spirit
 
 #### Security & Safety Notes
 
 - Phillip Anthony Mitchell has one page on Facebook, one on TikTok, one on Instagram, and one on X only. He does not have 25 pages on different platforms
 - He does not ask people for money in DMs, does not prophesy to people in DMs, does not sell holy water, and does not give out false prophecies
-- Be aware of AI-generated videos and deepfakes that impersonate public figures and promote false content, including AI videos of preachers promoting churches or people they have never met
+- Be aware of artificial intelligence (AI)-generated videos and deepfakes that impersonate public figures and promote false content, including AI videos of preachers promoting churches or people they have never met
 - Be aware of fake pages created with AI on social media platforms
 
 #### Common Pitfalls
@@ -74,7 +74,7 @@ Peter was crucified upside down. James was thrown off the temple and his head ba
 
 ##### Step 1: Consider the unity and prophecy of scripture
 
-The Bible is the only religious book in the world with prophecies that have come to pass. Not one prophecy from the scriptures has ever failed. The 40 human authors wrote over 1500 years on three continents in three languages, yet there is a unity of thought from Genesis to Revelation that Phillip says can only come from the inspiration of the Holy Spirit.
+Phillip says the Bible is the only religious book in the world with prophecies that have come to pass. Phillip says not one prophecy from the scriptures has ever failed. The 40 human authors wrote over 1500 years on three continents in three languages, yet there is a unity of thought from Genesis to Revelation that Phillip says can only come from the inspiration of the Holy Spirit.
 
 ##### Step 2: Reflect on the apostles' transformed lives
 
@@ -86,7 +86,7 @@ Salvation is not just words. It is evidenced by real change in real people. Phil
 
 ##### Step 4: Recognize the work of the Holy Spirit
 
-The Holy Spirit is alive on the inside of believers. Phillip says the spirit of God has attached himself to only one world religion, Christianity. The church is empowered by the Holy Spirit who united himself to the church on the day of Pentecost.
+The Holy Spirit is alive on the inside of believers. Phillip says the Holy Spirit is uniquely present and active in Christianity. The church is empowered by the Holy Spirit who descended upon the church at Pentecost.
 
 #### Examples
 
@@ -111,8 +111,8 @@ Tim Timberlake could not envision his life beyond 21. He was selling crack cocai
 
 - The prophets who prophesied about the grace that was to be yours searched and inquired carefully
 - Salvation gives you a future, an eternity with God, and strength
-- Phillip says the Holy Spirit has attached himself to only one world religion: Christianity
-- Wherever the people of God are, power is there, because the Holy Spirit united himself to the church on the day of Pentecost
+- Phillip says the Holy Spirit is uniquely present and active in Christianity
+- Wherever the people of God are, power is there, because the Holy Spirit descended upon the church at Pentecost
 
 #### Common Pitfalls
 
@@ -151,7 +151,7 @@ The Street Team is the collective family all over the world that is helping to s
 
 ##### Example 3: Investfest as a Gathering for Growth
 
-Investfest is a financial literacy festival that drew 25,000 people per day in 2025 and is projected to reach 30,000 people per day in 2026. It brings together investors, business professionals, and entrepreneurs for education and execution. The information is on the hosts, but the execution is on you. It is a place to network, fellowship, and meet the person next to you who may have the same mindset.
+Investfest is a financial literacy festival that drew 25,000 people per day in 2025 and is projected by the organizers to reach 30,000 people per day in 2026. It brings together investors, business professionals, and entrepreneurs for education and execution. The information is on the hosts, but the execution is on you. It is a place to network, fellowship, and meet the person next to you who may have the same mindset.
 
 #### Best Practices
 
