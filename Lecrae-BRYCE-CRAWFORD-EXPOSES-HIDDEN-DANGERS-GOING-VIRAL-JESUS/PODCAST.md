@@ -39,7 +39,7 @@ Stop identifying yourself by your pain and struggles. Declare that Jesus is now 
 
 ##### Step 6: Develop Your Communication Gifts
 
-Take writing classes, practice phrasing arguments, testimonies, and biblical truths in unique ways, and learn from preachers and teachers such as Francis Chan, Pastor Philip Anthony, David Platt, and other mature believers whose ministry aligns with Scripture, who have a proven track record of biblical exposition and Christ-centered teaching, and who are recognized by their local church or trusted Christian organizations such as The Gospel Coalition or 9Marks. Your ability to communicate is a gift that can be cultivated and used to share the gospel with power and emphasis.
+Take writing classes, practice phrasing arguments, testimonies, and biblical truths in unique ways, and learn from preachers and teachers such as Francis Chan, Pastor Philip Anthony, David Platt, and other mature believers whose ministry aligns with Scripture and who are recognized by trusted Christian organizations such as The Gospel Coalition or 9Marks. Your ability to communicate is a gift that can be cultivated and used to share the gospel with power and emphasis.
 
 #### Examples
 
@@ -92,7 +92,7 @@ Choose street evangelism because every person is eternal, and you have no way of
 
 ##### Step 2: Ask Diagnostic Questions and Listen First
 
-Before sharing your testimony, engage people with genuine curiosity. Ask how they are doing, what is going on in their life, and listen intently. Those who have been evangelized consistently report that they remember those who were present for them during difficult times, not those who immediately tried to fix their problems without first listening.
+Before sharing your testimony, engage people with genuine curiosity. Ask how they are doing, what is going on in their life, and listen intently. Bryce emphasizes that listening first is one of the most important evangelism skills: people are more likely to receive what you share after they feel seen and heard, rather than having their problems met with an immediate attempted fix.
 
 ##### Step 3: Earn Trust Before Sharing the Gospel
 
@@ -144,7 +144,7 @@ At Burning Man, Bryce was invited onto an orgy bus. He used the moment to share 
 
 #### Keep In Mind
 
-- The highest conversion rate generally comes through relationships rather than random street encounters, according to Bryce's own ministry experience and training from street evangelism organizations, but street evangelism still matters because you cannot know the eternal destiny of the person standing in front of you or which encounter will plant a seed that God will later grow.
+- Conversion through relationships has a higher rate than random street encounters. Lecrae noted that the percentage of conversion from street evangelism is extremely low, with the highest rate of conversion coming through relationships. Bryce still chooses street evangelism because every person is eternal, and you cannot know their story or where they stand with God.
 - Jesus sat with tax collectors and sinners without fleeing when religious people showed up. Follow His example of being present with those who are far from God.
 - Your response to rejection or persecution is part of your testimony.
 
@@ -179,7 +179,7 @@ Because people are watching, make sure your heart is right. Live in a way that y
 
 ##### Step 3: Be Cautious About What You Share
 
-Not everything needs to be posted. There are dozens of raw, unedited videos filmed and many vulnerable personal moments, such as family struggles, private conversations, and unscripted reactions, experienced that should never hit the internet. Be selective. If the Lord does not lead you to post something, keep it private.
+Not everything needs to be posted. There are raw, unedited videos filmed and vulnerable personal moments, such as family struggles, private conversations, and unscripted reactions, that should never hit the internet. Be selective. If the Lord does not lead you to post something, keep it private.
 
 ##### Step 4: Avoid the Pressure to Constantly Produce Content
 
@@ -187,7 +187,7 @@ Do not become a slave to the internet or feel obligated to always be posting. Yo
 
 ##### Step 5: Recognize the Dark Side of Christian Content Creation
 
-Be aware that a significant number of Christian content creators enter the space because Christianity is popular on social media, not because they are truly committed to discipleship. According to Bryce, half of the Christian social media creators he knew when he first became a Christian are no longer Christians today, and he personally knows of dozens of other creators who have experienced similar deconstruction. This pattern leads to deconstruction, burnout, and a hollow faith. Focus on local church, discipleship, and genuine obedience, not views.
+Be aware that half of Christian content creators enter the space because Christianity is popular on social media, not because they are truly committed to discipleship. According to Bryce, half of the Christian social media creators he knew when he first became a Christian are no longer Christians today, and he personally knows of other creators who have experienced similar deconstruction. This pattern leads to deconstruction, burnout, and a hollow faith. Focus on local church, discipleship, and genuine obedience, not views.
 
 ##### Step 6: Encourage People Back to the Source
 
@@ -201,7 +201,7 @@ Bryce had a dream at night where God spoke to him about what they were doing wit
 
 ##### Example 2: Content That Was Never Posted
 
-Bryce has filmed dozens of videos that never hit the internet and turned off the camera in the middle of countless interactions because he sensed the moment was not for public consumption. This shows intentionality and stewardship over his digital influence.
+Bryce has filmed videos that never hit the internet and turned off the camera in interactions where he sensed the moment was not for public consumption. This shows intentionality and stewardship over his digital influence.
 
 ##### Example 3: The Deconstruction of Peers
 
@@ -222,7 +222,7 @@ When Bryce first became a Christian, half of the friends he made through Christi
 
 #### Keep In Mind
 
-- Christianity has become a label, not a lifestyle, for a growing number of Christian influencers and content creators who entered the space when it became culturally popular on social media platforms. Bryce observed that half of the Christian social media creators he knew when he first became a Christian are no longer Christians, and he personally knows of dozens of others who have experienced similar deconstruction, illustrating this trend.
+- Christianity has become a label, not a lifestyle, for Christian influencers and content creators who entered the space when it became culturally popular on social media platforms. Bryce observed that half of the Christian social media creators he knew when he first became a Christian are no longer Christians, and he personally knows of other creators who have experienced similar deconstruction, illustrating this trend.
 - The goal is not to become the center of attention, but to steward the platform God has given you.
 - People will have opinions about you, but only a small circle of 3 to 5 trusted mentors, pastors, and leaders should have a voice in your life. This is the pattern Jesus modeled with the masses, the 72, the 12, and then the inner circle of Peter, James, and John.
 
@@ -275,7 +275,7 @@ Do not pretend to have it all together. Transparency about your battles with anx
 
 ##### Example 1: Christmas Day Deliverance
 
-At 17, Bryce was on the verge of suicide on Christmas Day. After a stranger at Waffle House spoke a simple truth, Bryce connected the Bible knowledge in his head with his heart, ran to his car, and asked Jesus to take away his anxiety and depression. He was instantly set free and has not experienced crippling anxiety since, with only one minor anxiety attack in the years following.
+At 17, Bryce was on the verge of suicide on Christmas Day. After a stranger at Waffle House spoke a simple truth, Bryce connected the Bible knowledge in his head with his heart, ran to his car, and asked Jesus to take away his anxiety and depression. He was instantly set free and had only one anxiety attack in the years following — about two weeks before this recording.
 
 ##### Example 2: Therapy as Part of God's Provision
 
@@ -411,7 +411,7 @@ Supplement personal reading with structured learning. Bryce attends online Bible
 
 ##### Step 4: Test Everything Against Scripture
 
-When you hear a verse quoted online or in a sermon, look it up yourself. Do not accept a verse out of context or without understanding what it actually says. Research from Bible colleges and Christian organizations indicates that a growing number of young Christians have Bible verses in their Instagram and TikTok bios without knowing what those verses mean or where they are found in Scripture, making them the most biblically illiterate generation in recent church history.
+When you hear a verse quoted online or in a sermon, look it up yourself. Do not accept a verse out of context or without understanding what it actually says. Bryce referenced a video where someone asked people at school who had Bible verses in their Instagram bios what those verses meant; they could not even quote the verse in their bio. This illustrates a pattern of biblical illiteracy among some young believers who post Scripture on social media without knowing what it means.
 
 ##### Step 5: Embrace the Discomfort of Being a Bible Thumper
 
@@ -419,22 +419,22 @@ Do not let Christianity become a vibe or a label. Engage with the Word seriously
 
 ##### Step 6: Understand the Difference Between Label and Lifestyle
 
-Christianity becoming popular on social media has both a positive and a negative effect. The positive effect is that a larger number of people are genuinely turning to Jesus than in previous generations. The negative effect is that Christianity becomes a label or a cultural identity instead of a lifestyle. Following Jesus means denying yourself, picking up your cross, and going all in, not just attending a Bible study or wearing Christian apparel.
+Christianity becoming popular on social media has both a positive and a negative effect. The positive effect is that people are genuinely turning to Jesus. The negative effect is that Christianity becomes a label or a cultural identity instead of a lifestyle. Following Jesus means denying yourself, picking up your cross, and going all in, not just attending a Bible study or wearing Christian apparel.
 
 #### Examples
 
 ##### Example 1: The Instagram Bio Test
 
-Bryce referenced a video where someone asked people at school with Bible verses in their Instagram bios what those verses meant. They could not even quote the verse in their bio. This illustrates how Christianity has become a vibe for many Gen Z believers rather than a lifestyle rooted in Scripture.
+Bryce referenced a video where someone asked people at school with Bible verses in their Instagram bios what those verses meant. They could not even quote the verse in their bio. This illustrates how Christianity has become a vibe for some Gen Z believers rather than a lifestyle rooted in Scripture.
 
 ##### Example 2: Half of Bryce's Peers Left the Faith
 
-When Bryce first became a Christian, many of his friends were doing Christian social media. Half of them are no longer Christians. This is because they entered the faith when Christianity was popular, treating it as a label rather than a lifestyle grounded in biblical truth.
+When Bryce first became a Christian, some of his friends were doing Christian social media. Half of them are no longer Christians. This is because they entered the faith when Christianity was popular, treating it as a label rather than a lifestyle grounded in biblical truth.
 
 #### Best Practices
 
 - ✅ Read the Bible for yourself daily
-- ✅ Use multiple sources, not just one influencer or teacher
+- ✅ Use sources, not just one influencer or teacher
 - ✅ Study Scripture in community with other believers
 - ✅ Look up verses yourself when you see them shared online
 - ✅ Take formal Bible study seriously
@@ -446,7 +446,7 @@ When Bryce first became a Christian, many of his friends were doing Christian so
 
 #### Keep In Mind
 
-- Gen Z is spiritually curious but also the most biblically illiterate generation in recent church history, with research from Bible colleges and Christian organizations showing that a significant number of young believers cannot quote or explain the Bible verses they post on social media.
+- Gen Z is spiritually curious but also the most biblically illiterate generation in recent church history, with Bryce referencing a video in which people at a school who had Bible verses in their Instagram bios could not quote or explain the verses they posted.
 - Content that encourages you is good, but it should lead you back to the Word, not replace it.
 - Biblical literacy requires discipline, time, and intentional study.
 
@@ -476,7 +476,7 @@ Distinguish between content that serves and encourages others and areas of your 
 
 ##### Step 2: Cultivate Private Hobbies and Rhythms
 
-Maintain hobbies, interests, and rest rhythms that are just for you. Bryce loves playing basketball, fishing, and going to the beach, but he also has multiple private hobbies such as reading, hiking, and spending time with close friends that no one knows about. These private spaces keep him grounded and prevent burnout by giving him an identity outside of his public ministry.
+Maintain hobbies, interests, and rest rhythms that are just for you. Bryce loves playing basketball, fishing, and going to the beach, but he also has private hobbies such as reading, hiking, and spending time with close friends that no one knows about. These private spaces keep him grounded and prevent burnout by giving him an identity outside of his public ministry.
 
 ##### Step 3: Practice Sabbath and Rest
 
@@ -492,13 +492,13 @@ Before posting anything, ask whether you are sharing for ministry or for attenti
 
 ##### Step 6: Lean on Trusted People, Not the Public
 
-When you are struggling, turn to your roommates, mentors, pastors, and close friends, not your audience. Bryce has a group chat with his roommates where they check each other before making decisions. Very few people should have a voice in your life.
+When you are struggling, turn to your roommates, mentors, pastors, and close friends, not your audience. Bryce has a group chat with his roommates where they check each other before making decisions. Few people should have a voice in your life.
 
 #### Examples
 
 ##### Example 1: Bryce's Private Hobbies
 
-Bryce has multiple hobbies and interests, such as playing basketball, fishing, going to the beach, reading, and spending time with close friends, that bring him rest and are completely private. He does not want the world to know about them because they are for Bryce and his friends. This intentional privacy keeps him from becoming a product for public consumption.
+Bryce has hobbies and interests, such as playing basketball, fishing, going to the beach, reading, and spending time with close friends, that bring him rest and are completely private. He does not want the world to know about them because they are for Bryce and his friends. This intentional privacy keeps him from becoming a product for public consumption.
 
 ##### Example 2: The Group Chat Accountability System
 
@@ -524,7 +524,7 @@ Bryce emphasizes the importance of finding rhythms of rest and practicing Sabbat
 #### Keep In Mind
 
 - Privacy is not secrecy; it is stewardship. You can be transparent about your ministry while protecting your personal life.
-- Your private life fuels your public ministry. If you burn out or lose your sense of self, your influence will suffer.
+- Your private life supports your public ministry. If you burn out or lose your sense of self, your influence will suffer.
 - The world does not need to know everything about you to be impacted by your testimony.
 
 #### Security & Safety Notes
@@ -550,11 +550,11 @@ Bryce emphasizes the importance of finding rhythms of rest and practicing Sabbat
 
 ##### Step 1: Activate What You Are Learning
 
-Wisdom is not just knowledge; it is the application of what you learn. Bryce is wise beyond his years not because he simply learned sermons, Bible verses, and theological concepts, but because he activated them through real-life experience, street evangelism, and obedience.
+Wisdom is not just knowledge; it is the application of what you learn. Bryce has demonstrated maturity not because he simply learned sermons, Bible verses, and theological concepts, but because he activated them through real-life experience, street evangelism, and obedience.
 
 ##### Step 2: Operate in the Gifts God Has Given You
 
-Recognize that God has given each believer specific gifts for ministry. You may be called to shepherd and care for people through discipleship and relationship, to preach the Word publicly, to teach and explain Scripture in depth, to evangelize and reach the lost on the streets and online, to lead worship, to serve in mercy ministry, or to administer resources. Do not compare your gift to others. Operate in the specific calling God has placed on your life and collaborate with the broader body of Christ.
+Recognize that God has given each believer specific gifts for ministry. You may be called to shepherd and care for people through discipleship and relationship, to preach the Word publicly, to teach and explain Scripture in depth, to evangelize and reach the lost on the streets and online, to lead worship, or to serve in mercy ministry. Do not compare your gift to others. Operate in the specific calling God has placed on your life and collaborate with the broader body of Christ.
 
 ##### Step 3: Keep a Posture of Learning and Humility
 
@@ -572,11 +572,11 @@ Understand that you cannot be in authority unless you have been under authority.
 
 ##### Example 1: Trip Lee and the Lightning Bolt
 
-Lecrae compared Bryce to Trip Lee, who was also discovered at 16 and grew rapidly because he was hungry for the Word and truth. By 21, Trip Lee was saying profoundly wise things about the gospel, suffering, and Christian living in his music and public statements that revealed deep spiritual maturity beyond his years. Supernatural maturity happens when your hands are on the plow and you are actively applying what you learn.
+Lecrae compared Bryce to Trip Lee, who was also discovered at 16 and grew rapidly because he was hungry for the Word and truth. By 21, Trip Lee was saying profound things about the gospel and Christian living that revealed spiritual maturity. Supernatural maturity happens when your hands are on the plow and you are actively applying what you learn.
 
 ##### Example 2: No Sense of Entitlement
 
-Despite having a large platform with hundreds of thousands of followers and being looked up to by many young Christians, Bryce insists that he feels the same as everyone else. He does not feel special or more important. He sees himself as someone who simply loves talking to people and sharing Jesus, just as he did the moment he got saved at 17.
+Despite having a large platform and being looked up to by other young Christians, Bryce insists that he feels the same as everyone else. He does not feel special or more important. He sees himself as someone who simply loves talking to people and sharing Jesus, just as he did the moment he got saved at 17.
 
 #### Best Practices
 
