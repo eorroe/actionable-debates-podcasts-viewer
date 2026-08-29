@@ -42,7 +42,7 @@ When you feel disillusioned with the church, culture, or systems, ask yourself w
 
 ##### Example 1: Lecrae's Crisis of Faith
 
-After Trayvon Martin was killed, Lecrae expressed grief on social media and faced pushback from believers who told him to stop being political. This launched him into a dark season where he became disillusioned with the church's racial and political divisions. He wrote lyrics describing being "mad at Christians" and thinking "the church was disgusting" before the Holy Spirit patiently stirred his faith back to life.
+After Trayvon Martin was killed around 2012–2013, Lecrae expressed grief on social media and faced pushback from believers who told him to stop being political. This launched him into a dark season where he became disillusioned with the church's racial and political divisions. He wrote lyrics describing being "mad at Christians" and thinking "the church was disgusting" before the Holy Spirit patiently stirred his faith back to life.
 
 ##### Example 2: The Egypt Trip Turning Point
 
@@ -50,7 +50,7 @@ While visiting tombs in Egypt with his wife, Lecrae's non-Christian tour guide a
 
 ##### Example 3: The Reconstructed Tour and Album
 
-Lecrae's "Reconstruction" album and world tour are built on the metaphor of Michelangelo's David, which was sculpted from discarded marble. This represents God's work of taking people and things the world has thrown away and rebuilding them. The tour takes this message to Africa, Australia, and beyond, celebrating reconstruction while also mourning those still in need of healing.
+Lecrae's "Reconstruction" album and world tour are built on the metaphor of Michelangelo's David, which was sculpted from discarded marble. This represents God's work of taking people and things the world has thrown away and rebuilding them. The tour takes this message to Zimbabwe, Zambia, Kenya, South Africa, Australia, New Zealand, and the United States, celebrating reconstruction while also mourning those still in need of healing.
 
 #### Best Practices
 
@@ -124,7 +124,7 @@ Lecrae wrote this song after waking up at 5:46 a.m. with Ephesians on his mind, 
 
 ##### Example 3: Generational Bridge in Ministry
 
-Lecrae's pastor in Atlanta, Pastor Lee Jenkins in his mid-60s, creates an environment where older and younger generations feel valued. He brings young people up to speak and finds ways to bridge generational gaps. Lecrae emphasizes that churches that fail to pass the baton between generations eventually decline as the same 100 people age and die off.
+Lecrae's pastor in Atlanta, Pastor Lee Jenkins in his mid-60s, creates an environment where older and younger generations feel valued. He brings young people up to speak and finds ways to bridge generational gaps. Lecrae emphasizes that churches that fail to pass the baton between generations eventually decline, as illustrated by a congregation that started with 100 members and has since shrunk to 85 with no new members joining.
 
 #### Best Practices
 
