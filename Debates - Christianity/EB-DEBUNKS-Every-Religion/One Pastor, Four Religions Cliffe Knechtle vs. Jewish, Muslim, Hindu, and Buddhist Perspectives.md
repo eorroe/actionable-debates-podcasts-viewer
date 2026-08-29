@@ -73,7 +73,7 @@ The Jewish participant asks who Jesus' father is, questioning Davidic lineage.
 
 #### Security & Safety Notes
 
-- Antisemitism in the name of Christianity is called out as "a violent contradiction" and "major hypocrisy"
+- Cliffe Knechtle calls antisemitism in the name of Christianity "a violent contradiction" and "major hypocrisy"
 - Christians worship a Jew (Jesus), making antisemitism incompatible with authentic Christianity
 
 #### Common Pitfalls
@@ -81,7 +81,7 @@ The Jewish participant asks who Jesus' father is, questioning Davidic lineage.
 - **Problem:** Relying on tradition/heritage as evidence
   **Solution:** Examine historical and textual evidence for truth claims
 - **Problem:** Assuming Old Testament mentions Jesus by name explicitly
-   **Solution:** Study Messianic prophecies in context and consider multiple Messianic comings
+   **Solution:** Study Messianic prophecies in context and consider Messianic comings
 
 ### Topic 2: Islam - Muhammad in Song of Solomon
 
@@ -97,8 +97,8 @@ The Muslim participant insists Hebrew matters and must be read aloud to verify t
 
 #### Best Practices
 
-- Verify translations by consulting multiple authoritative sources and scholarly commentaries
-- Consult multiple Hebrew scholars
+- Verify translations by consulting authoritative sources and scholarly commentaries
+- Consult Hebrew scholars
 - Don't rely on semantic word games
 - Don't take words out of context (love poem versus prophecy)
 - Don't use meaning of names as proof of reference
@@ -110,9 +110,9 @@ The Muslim participant insists Hebrew matters and must be read aloud to verify t
 
 #### Security & Safety Notes
 
-- Respect for Muslim participants emphasized ("We're glad you're here in the United States")
-- Warning against stereotyping all Muslims as terrorists
-- Call to recognize intellectual honesty across faith traditions
+- Cliffe Knechtle emphasizes respect for Muslim participants ("We're glad you're here in the United States")
+- Cliffe Knechtle warns against stereotyping all Muslims as terrorists
+- Cliffe Knechtle calls for recognizing intellectual honesty across faith traditions
 
 #### Common Pitfalls
 
@@ -143,14 +143,14 @@ The Hindu participant asks what makes Christianity more true than other religion
 
 #### Keep In Mind
 
-- Hinduism teaches polytheism (multiple deities) versus Christian monotheism (one God)
+- Hinduism teaches polytheism versus Christian monotheism (one God)
 - Jesus stuck to monotheism (repeated the Shema: "Hear O Israel, the Lord our God is one")
 - Hindu avatars are spirits that exist, not historical people who walked the planet
 - BUT: Jesus Christ is different because God in human form actually walked on earth
 
 #### Security & Safety Notes
 
-- Respect for Hindu beliefs expressed ("I got no problem with that")
+- Cliffe Knechtle expresses respect for Hindu beliefs ("I got no problem with that")
 - Clear distinction between respecting beliefs and accepting truth claims
 
 #### Common Pitfalls
@@ -192,8 +192,8 @@ The Buddhist participant hopes there is no afterlife because "this is hard" and 
 
 #### Security & Safety Notes
 
-- Honesty about lack of evidence is praised ("I wish everybody was that stinking honest")
-- Respect for Buddhist engagement with suffering
+- Cliffe Knechtle praises honesty about lack of evidence ("I wish everybody was that stinking honest")
+- Cliffe Knechtle respects the Buddhist participant's engagement with suffering
 
 #### Common Pitfalls
 
@@ -231,8 +231,8 @@ From Birmingham jail, MLK appealed to "law of God above law of the land" when se
 
 #### Security & Safety Notes
 
-- Reference to child abuse as universally recognized evil
-- Warning that moral relativism "crosses you out" of making objective moral decisions
+- Cliffe Knechtle references child abuse as a universally recognized evil
+- Cliffe Knechtle warns that moral relativism "crosses you out" of making objective moral decisions
 
 #### Common Pitfalls
 
@@ -266,14 +266,14 @@ Cliffe Knechtle identifies as heterosexual and admits to sexual sin, illustratin
 
 - NOBODY is worthy of salvation - this is what sets Christianity apart
 - Sin definition: Redefining the purpose God created you for
-- Sexual immorality includes heterosexual lust - it dehumanizes image-bearers
-- Sexual immorality takes multiple forms, including heterosexual lust; if you've sinned, be honest and ask forgiveness
+- Sexual immorality includes heterosexual lust - it dehumanizes people created in the image of God
+- If you've sinned, be honest with yourself and God and ask forgiveness
 - God will hold you responsible for wrong if you reject Christ's offer
 
 #### Security & Safety Notes
 
 - "Whatever religion you are, I have no option as a follower of Christ but to respect you... to love you"
-- If convinced someone is going in wrong direction, warn them out of love
+- Cliffe Knechtle says that if convinced someone is going in the wrong direction, warn them out of love
 
 #### Common Pitfalls
 
@@ -374,7 +374,7 @@ Point out it's a love poem, not prophecy.
 
 #### Step 3: Note text written before Muhammad
 
-Note text written ~1,000 years before Muhammad.
+Note text written 1,000 years before Muhammad.
 
 #### Step 4: Explain meaning translation versus name
 
@@ -578,7 +578,7 @@ Define sin: redefining God's purpose for your life.
 
 #### Step 4: Apply to sexuality
 
-Apply to sexuality: lust dehumanizes image-bearers.
+Apply to sexuality: lust dehumanizes people created in the image of God.
 
 #### Step 5: Admit personal sexual sin
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-This debate examines whether the historical Jesus taught the doctrine of the Trinity — that the Father, Son, and Holy Spirit are co-equal, co-eternal, and one God in essence. Three Christian debaters argue that Jesus' words and actions in the Gospels constitute divine claims compatible only with Trinitarian theology, while three Muslim debaters contend that Jesus taught strict monotheism (tawhid) and that any seemingly divine statements can be understood within a first-century Jewish agency framework. The discussion covers source criticism, the Q document, the historical critical method, and the distinction between metaphysical and historical certainty.
+This debate examines whether the historical Jesus taught the doctrine of the Trinity — that the Father, Son, and Holy Spirit are co-equal, co-eternal, and one God in essence. Three Christian debaters argue that Jesus' words and actions in the Gospels constitute divine claims compatible only with Trinitarian theology, while three Muslim debaters contend that Jesus taught strict monotheism (tawhid) and that any seemingly divine statements can be understood within a first-century Jewish agency framework. The discussion covers source criticism, the Q document, a hypothetical collection of Jesus' sayings, the historical critical method, and the distinction between metaphysical and historical certainty.
 
 ## When to Follow Debate
 
@@ -18,36 +18,37 @@ This debate examines whether the historical Jesus taught the doctrine of the Tri
 
 - **Trinity / Trinitarian**: The Christian doctrine that the Father, Son, and Holy Spirit are co-equal, co-eternal, and one God in essence — the central claim being debated is whether Jesus taught this doctrine
   - **From the Christian Viewpoint**: Jesus' claims to divine titles, prerogatives, and attributes logically necessitate the Trinity; the Father, Son, and Holy Spirit are distinct persons but one God in essence
-  - **From the Muslim Viewpoint**: The Trinity is not taught by Jesus; he affirmed strict monotheism (tawhid) and the concept of three persons in one God is foreign to his teaching and was developed centuries later
-- **Tawhid**: The Islamic doctrine of strict monotheism — the belief that Allah is one and has no partners; the foundation of Islamic theology that Jesus is argued to have taught
-  - **From the Muslim Viewpoint**: Jesus taught tawhid, affirming the Shema and the oneness of God; any seemingly divine statements can be understood within a first-century Jewish agency framework
+   - **From the Muslim Viewpoint**: The Trinity is not taught by Jesus; he affirmed strict monotheism (tawhid) and the concept of three persons in one God is foreign to his teaching and was formally defined at the Council of Nicaea in 325 AD
+ - **Tawhid**: The Islamic doctrine of strict monotheism — the belief that Allah is one and has no partners; the foundation of Islamic theology; Muslims argue that Jesus taught tawhid
+   - **From the Muslim Viewpoint**: Jesus taught tawhid, affirming the Shema and the oneness of God; any seemingly divine statements can be understood within a first-century Jewish agency framework
+- **Historical Jesus**: The scholarly attempt to reconstruct the life and teachings of Jesus of Nazareth using historical-critical methods, separate from the Christ of theological faith; the subject of this debate is whether the historical Jesus taught the Trinity
 - **Shirk**: In Islam, the unforgivable sin of associating partners with Allah; claiming divinity for anyone other than Allah
   - **From the Muslim Viewpoint**: If Jesus claimed to be God, it would be shirk; therefore Jesus could not have taught the Trinity or claimed divinity for himself
   - **From the Christian Viewpoint**: Jesus' claims to divine titles and prerogatives would be shirk if he were not God; therefore his claims prove he is Yahweh
 - **Synoptics / Synoptic Gospels**: The Gospels of Mark, Matthew, and Luke, which share similar content and structure; used by both sides as primary historical sources for Jesus' teachings
-  - **From the Christian Viewpoint**: The Synoptics provide reliable historical data about Jesus; Mark is the earliest (c. 70 AD) and most reliable baseline
+  - **From the Christian Viewpoint**: The Synoptics provide reliable historical data about Jesus; Mark is the earliest (70 AD) and most reliable baseline
   - **From the Muslim Viewpoint**: The Synoptics contain later theological development; only material meeting strict historical criteria can be attributed to the historical Jesus
 - **Q source / Q document**: A hypothetical collection of Jesus' sayings reconstructed by scholars from material common to Matthew and Luke (the "double tradition"); no physical copy exists
   - **From the Christian Viewpoint**: Q contains authentic Jesus material including his claim to send prophets (Q 11:49-51), which is a symmetry breaker proving his divinity
-  - **From the Muslim Viewpoint**: Q is hypothetical and scholars disagree over its contents; Luke preserves Q better than Matthew, and the "I send prophets" saying may not even be in Q
-- **Red letter material**: Jesus' own words in the Gospels, traditionally printed in red in some Bible editions; the primary source for determining what Jesus actually taught
-  - **From the Christian Viewpoint**: Focus on red letter material as the core data for Jesus' teachings, even if gospel authors are anonymous
-  - **From the Muslim Viewpoint**: Not all red letter material is granted; only what can be historically corroborated is accepted
-- **Historical critical method**: An approach to studying biblical texts using criteria like embarrassment, dissimilarity, and multiple attestation to determine what Jesus actually said
+   - **From the Muslim Viewpoint**: Q is hypothetical and scholars disagree over its contents; Luke's version of the Q material says "Therefore also the wisdom of God said, 'I will send them prophets and sages,'" and the original Q saying was about God's wisdom, not Jesus claiming to send prophets
+ - **Red letter material**: Jesus' own words in the Gospels, traditionally printed in red in traditional Bible editions; the primary source for determining what Jesus actually taught
+   - **From the Christian Viewpoint**: Focus on red letter material as the data for Jesus' teachings, even if gospel authors are anonymous
+   - **From the Muslim Viewpoint**: Not all red letter material is granted; only what can be historically corroborated is accepted
+ - **Historical critical method**: An approach to studying biblical texts using criteria of embarrassment, dissimilarity, and attestation to determine what Jesus actually said
   - **From the Christian Viewpoint**: Apply criteria consistently to establish reliable Jesus traditions
   - **From the Muslim Viewpoint**: Apply criteria rigorously, especially the criterion of dissimilarity, to reject sayings that serve later Christian theology
-- **Criteria of embarrassment**: A historical criterion that says if a tradition in the Gospels would have been embarrassing to the early church, it is more likely authentic
+ - **Criteria of embarrassment**: A historical criterion that says if a tradition in the Gospels would have been embarrassing to the early church, it is authentic
   - **From the Christian Viewpoint**: Jesus' "Son of Man" sayings and claims to divinity were embarrassing to the early church, proving they are authentic
   - **From the Muslim Viewpoint**: Apply this criterion to reject post-resurrection narratives and passion predictions that serve later Christian theology
-- **Criteria of dissimilarity**: A historical criterion that says if a saying does not fit later Christian theology, it likely goes back to Jesus himself
+ - **Criteria of dissimilarity**: A historical criterion that says if a saying does not fit later Christian theology, it goes back to Jesus himself
   - **From the Christian Viewpoint**: Jesus' high claims about himself go beyond later Christian theology, proving they are authentic
-  - **From the Muslim Viewpoint**: Sayings that fit later Trinitarian theology were likely invented by the church; only sayings that don't fit later theology can be trusted
-- **Criteria of multiple attestation**: A historical criterion that says if a saying appears in multiple independent sources, it is more likely authentic
-  - **From the Christian Viewpoint**: Mark 2:28 appears in multiple sources and meets multiple critical criteria, making it historically reliable
-  - **From the Muslim Viewpoint**: Material must be independently corroborated across multiple sources to be considered historical
-- **Son of Man / bar enash**: A self-designation used by Jesus; Christians argue it refers to Jesus specifically as a divine figure, while Muslims argue it means humanity generally in first-century Aramaic
+   - **From the Muslim Viewpoint**: Sayings that fit later Trinitarian theology were invented by the church; only sayings that don't fit later theology can be trusted
+ - **Criteria of attestation**: A historical criterion that says if a saying appears in independent sources, it is authentic
+   - **From the Christian Viewpoint**: Mark 2:28 appears in sources and meets critical criteria, making it historically reliable
+   - **From the Muslim Viewpoint**: Material must be independently corroborated across sources to be considered historical
+ - **Son of Man / bar enash**: A self-designation used by Jesus; Christians argue it refers to Jesus specifically as a divine figure, while Muslims argue it means humanity in first-century Aramaic
   - **From the Christian Viewpoint**: Jesus uses "Son of Man" as a self-title referring to himself specifically, especially in Mark 2 where he identifies himself as Lord of the Sabbath
-  - **From the Muslim Viewpoint**: In first-century Palestinian Aramaic, bar enash means humanity generally; the context of Mark 2:23-27 is about Sabbath accommodation for human need, not Jesus' unique identity
+   - **From the Muslim Viewpoint**: In first-century Palestinian Aramaic, bar enash means humanity; the context of Mark 2:23-27 is about Sabbath accommodation for human need, not Jesus' unique identity
 - **Agency / shaliach**: The Jewish legal concept that an agent of God has the same legal status as the sender
   - **From the Muslim Viewpoint**: Jesus' claims to divine knowledge and power can be understood through agency; as God's agent, he has the same legal authority as Yahweh while not actually being Yahweh
   - **From the Christian Viewpoint**: Agency cannot explain Jesus' claims to be Yahweh himself; agents of Yahweh in the Old Testament never claim to be Yahweh, making Jesus' claims a symmetry breaker
@@ -67,19 +68,19 @@ This debate examines whether the historical Jesus taught the doctrine of the Tri
   - **From the Muslim Viewpoint**: Jesus says the Father is greater than he (John 14:28) and he can do nothing on his own (John 5:19, 30), proving subordination
   - **From the Christian Viewpoint**: Jesus' statements of subordination refer to his incarnate state (economic Trinity), not his eternal nature (immanent Trinity)
 - **Resurrection**: The Christian claim that Jesus rose bodily from the dead; Muslims reject this as ahistorical
-  - **From the Christian Viewpoint**: The resurrection is historically verifiable using standard criteria (multiple attestation, embarrassment) and is the ultimate symmetry breaker
-  - **From the Muslim Viewpoint**: Post-resurrection narratives cannot be historical because they require less assumption to explain as later Christian inventions
+   - **From the Christian Viewpoint**: The resurrection is historically verifiable using standard criteria (attestation, embarrassment) and is the ultimate symmetry breaker
+   - **From the Muslim Viewpoint**: Post-resurrection narratives cannot be historical because they can be explained as later Christian inventions
 - **Metaphysical certainty**: In Islamic epistemology, knowledge established through divine revelation (the Quran) rather than historical evidence
   - **From the Muslim Viewpoint**: The Quran provides metaphysical certainty about Jesus; when the Bible contradicts the Quran, the Bible is wrong
   - **From the Christian Viewpoint**: Christians cannot prove the Gospels are metaphysically true; they only have historical certainty, which is weaker
-- **Historical certainty**: Probabilistic knowledge about what likely happened in the past based on historical evidence
-  - **From the Christian Viewpoint**: The resurrection is historically certain using standard criteria; this gives Christians strong evidence for their claims
+ - **Historical certainty**: Probabilistic knowledge about what happened in the past based on historical evidence
+   - **From the Christian Viewpoint**: The resurrection has historical support using standard criteria; this gives Christians strong evidence for their claims
   - **From the Muslim Viewpoint**: Historical certainty is weaker than metaphysical certainty; the Quran overrides any historical evidence that contradicts it
 - **Symmetry breaker**: An argument that in Jewish monotheism, only God sends prophets; if Jesus sends prophets, he must be God
   - **From the Christian Viewpoint**: Jesus' claim to send prophets (Q 11:49-51) is a symmetry breaker — no mere agent would claim Yahweh's unique prerogative; therefore Jesus is God
   - **From the Muslim Viewpoint**: Jesus as God's agent can speak on God's behalf (agency framework); the symmetry breaker fails because Jesus' statements are compatible with first-century Jewish monotheism
 - **Redaction**: The editorial changes made by gospel authors to their source material
-  - **From the Muslim Viewpoint**: Matthew redacted the Q saying to make Jesus sound like he claims to send prophets; Luke preserves the original Q better with "the wisdom of God said"
+   - **From the Muslim Viewpoint**: Matthew redacted the Q saying to make Jesus sound like he claims to send prophets; Luke's version of the Q material says "Therefore also the wisdom of God said, 'I will send them prophets and sages,'" with "the wisdom of God said"
   - **From the Christian Viewpoint**: Redaction criticism helps identify authentic Jesus material by comparing how different gospel authors edited their sources
 
 ## Discussed Topics
@@ -90,22 +91,22 @@ This debate examines whether the historical Jesus taught the doctrine of the Tri
 
 ##### Example 1: Using Synoptics and John
 
-Christians argue that the Synoptic Gospels (Mark, Matthew, Luke) and John provide reliable historical data about Jesus' teachings. They use the historical critical method — criteria of embarrassment, dissimilarity, and multiple attestation — to determine what Jesus actually said. For example, Mark 2:28 ("The Son of Man is Lord even of the Sabbath") is cited as historically reliable because it meets multiple critical criteria.
+Christians argue that the Synoptic Gospels (Mark, Matthew, Luke) and John provide reliable historical data about Jesus' teachings. They use the historical critical method — criteria of embarrassment, dissimilarity, and attestation — to determine what Jesus actually said. For example, Mark 2:28 ("The Son of Man is Lord even of the Sabbath") is cited as historically reliable because it meets critical criteria.
 
 ##### Example 2: Red Letter Emphasis
 
-Christians focus on the "red letter" material — Jesus' own words — as the primary source for determining what he taught. They argue that even if the gospel authors are anonymous, the core traditions preserve authentic Jesus material.
+Christians focus on the "red letter" material — Jesus' own words — as the primary source for determining what he taught. They argue that even if the gospel authors are anonymous, traditions preserve authentic Jesus material.
 
 #### Best Practices
 
-- ✅ Apply historical critical criteria (embarrassment, dissimilarity, multiple attestation)
+ - ✅ Apply historical critical criteria (embarrassment, dissimilarity, attestation)
 - ✅ Focus on Jesus' own words (red letter material)
 - ✅ Use Mark as the earliest gospel as a baseline
 - ✅ Consider corroboration across independent sources
 
 #### Keep In Mind
 
-- The Synoptic Gospels were written 30-60 years after Jesus' death
+ - The Synoptic Gospels were written 30 to 60 years after Jesus' death
 - John contains theological development beyond the historical Jesus
 - The Q source is hypothetical and reconstructed
 
@@ -129,7 +130,7 @@ Muslims argue that only material that can be historically corroborated and meets
 
 ##### Example 2: Rejection of Post-Resurrection Material
 
-Muslims contend that post-resurrection appearances and resurrection claims cannot be historical because they require less assumption to explain as later Christian inventions. Passion predictions, however, are pre-crucifixion sayings; Muslims reject them as ahistorical for the same reason — they serve later Christian theology. The disciples' surprise at the crucifixion shows they didn't expect these events, making post-crucifixion narratives unreliable.
+Muslims contend that post-resurrection appearances and resurrection claims cannot be historical because they can be explained as later Christian inventions. Passion predictions, however, are pre-crucifixion sayings; Muslims reject them as ahistorical for the same reason — they serve later Christian theology. The disciples' surprise at the crucifixion shows they didn't expect these events, making post-crucifixion narratives unreliable.
 
 #### Best Practices
 
@@ -141,8 +142,8 @@ Muslims contend that post-resurrection appearances and resurrection claims canno
 #### Keep In Mind
 
 - The Q document does not physically exist; it is a scholarly reconstruction
-- Different scholars reconstruct Q differently
-- The Gospel of Thomas contains some independent material but is largely dismissed
+ - Scholars reconstruct Q
+- The Gospel of Thomas contains pre-synoptic independent material according to the consensus of scholarship, though it is dismissed by some scholars
 
 #### Security & Safety Notes
 
@@ -151,8 +152,8 @@ Muslims contend that post-resurrection appearances and resurrection claims canno
 
 #### Common Pitfalls
 
- - **Problem:** Accepting post-resurrection narratives as historical
-   **Solution:** Apply the criterion that unexpected events in sources are more likely historical; the disciples' surprise at the crucifixion shows they didn't expect it, but this criterion addresses the crucifixion prediction specifically, not the resurrection claim itself
+  - **Problem:** Accepting post-resurrection narratives as historical
+     **Solution:** Apply the criterion that unexpected events in sources are historical; Christians argue the disciples' surprise at the crucifixion shows they didn't expect it, but this criterion addresses the crucifixion prediction specifically, not the resurrection claim itself
 
 ### Jesus' Divine Claims / Christian View
 
@@ -169,15 +170,15 @@ Jesus claims knowledge that only God possesses — knowing the hearts of all men
 #### Best Practices
 
 - ✅ Identify divine titles Jesus claims for himself (Lord, Son of Man, "I am")
-- ✅ Show that Jesus performs actions only God can do (forgive sins, judge, raise the dead)
+ - ✅ Show that Jesus performs actions only God can do according to Christian theology (forgive sins, judge, raise the dead)
 - ✅ Demonstrate Jesus claims unique knowledge (hearts of all men, all things)
 - ✅ Use symmetry breaker argument: agents don't claim to be the sender
 
 #### Keep In Mind
 
-- Muslims argue "Son of Man" in Mark 2 refers to humanity generally, not Jesus alone
-- The "Son of Man" sayings are disputed as to whether Jesus referred to himself
- - Some divine prerogatives can be shared with creatures in Islamic theology (e.g., the honorific title of "mercy" or the attribute of knowledge, though these are not identical to God's essential attributes)
+ - Muslims argue "Son of Man" in Mark 2 refers to humanity, not Jesus alone
+ - Scholars debate whether the "Son of Man" sayings refer to Jesus specifically or to humanity in first-century Palestinian Aramaic
+ - Divine prerogatives such as mercy and knowledge can be shared with creatures in Islamic theology, though these are not identical to God's essential attributes
 
 #### Security & Safety Notes
 
@@ -195,7 +196,7 @@ Jesus claims knowledge that only God possesses — knowing the hearts of all men
 
 ##### Example 1: Son of Man as Humanity
 
-Muslims argue that "Son of Man" in Mark 2:27-28 refers to humanity generally, not Jesus specifically. They cite Jewish midrashic traditions (Dead Sea Scrolls, Yoma 85b) where "son of man" (bar enash) means humanity. The context in Mark 2:23-27 is about Sabbath accommodation for human need, not Jesus' unique identity.
+Muslims argue that "Son of Man" in Mark 2:27-28 refers to humanity, not Jesus specifically. They cite Jewish midrashic traditions (Dead Sea Scrolls, Yoma 85b) where "son of man" (bar enash) means humanity. The context in Mark 2:23-27 is about Sabbath accommodation for human need, not Jesus' unique identity.
 
 ##### Example 2: Jesus as Agent of God
 
@@ -237,7 +238,7 @@ Christians note that the Holy Spirit is called God (Acts 5:3-4), possesses divin
 
 #### Best Practices
 
-- ✅ Show that Jesus claims divine titles, prerogatives, and attributes
+ - ✅ Show that Jesus claims divine titles, prerogatives, and attributes with specific scriptural citations
 - ✅ Demonstrate the Father, Son, and Holy Spirit are each called God in Scripture
 - ✅ Use the "I am" statements in John as explicit divine claims
 - ✅ Show Jesus receives worship, which only God deserves
@@ -245,13 +246,13 @@ Christians note that the Holy Spirit is called God (Acts 5:3-4), possesses divin
 #### Keep In Mind
 
 - Muslims argue the Trinity is not explicitly taught by Jesus
- - The doctrine of the Trinity was formally developed through church councils beginning in the late 4th century (Nicaea in 325 AD and Constantinople in 381 AD), though the theological framework emerged gradually from the 2nd century onward
+  - The doctrine of the Trinity was formally defined through church councils beginning in the 4th century (Nicaea in 325 AD and Constantinople in 381 AD), though the theological framework emerged from the 2nd century to the 4th century AD
 - Subordinationist views (Son is subordinate to Father) are not orthodox Trinitarianism
 
 #### Security & Safety Notes
 
 - The Trinity is the central doctrine of Christianity
-- Rejection of the Trinity is considered heresy in orthodox Christianity
+ - Orthodox Christianity considers rejection of the Trinity heresy
 
 #### Common Pitfalls
 
@@ -279,8 +280,8 @@ Muslims point to Jesus' statements of dependence on the Father (John 5:19, 8:28,
 
 #### Keep In Mind
 
-- The Gospel of John contains high Christology developed by the early church
-- John 1:1 ("the Word was God") may reflect later theology, not Jesus' own teaching
+- The Gospel of John contains theological development beyond the historical Jesus according to Muslim debaters
+- Muslim debaters argue John 1:1 ("the Word was God") reflects later theology, not Jesus' own teaching
 - The Trinity was formally defined at Nicaea (325 AD), long after Jesus
 
 #### Security & Safety Notes
@@ -325,7 +326,7 @@ Christians argue that Q contains material compatible with Trinitarian theology. 
 #### Common Pitfalls
 
 - **Problem:** Treating Q as a definitive, fixed document
-  **Solution:** Acknowledge Q is a scholarly reconstruction with variations
+  **Solution:** Acknowledge Q is a scholarly reconstruction
 
 ### Q Source and Jesus Sending Prophets / Muslim View
 
@@ -333,7 +334,7 @@ Christians argue that Q contains material compatible with Trinitarian theology. 
 
 ##### Example 1: Luke 11:49 — God's Wisdom, Not Jesus
 
-Muslims argue that in Luke's version of the Q material, it says "Therefore also the wisdom of God said, 'I will send them prophets and sages.'" The speaker is God's wisdom, not Jesus personally. Luke preserves Q better than Matthew, and the original Q saying was about God's wisdom, not Jesus claiming to send prophets.
+Muslims argue that in Luke's version of the Q material, it says "Therefore also the wisdom of God said, 'I will send them prophets and sages.'" The speaker is God's wisdom, not Jesus personally. Luke's version of the Q material says "Therefore also the wisdom of God said, 'I will send them prophets and sages,'" and the original Q saying was about God's wisdom, not Jesus claiming to send prophets.
 
 ##### Example 2: Q Is Hypothetical and Uncertain
 
@@ -341,8 +342,7 @@ Muslims emphasize that Q is a hypothetical reconstruction from double tradition 
 
 #### Best Practices
 
- - ✅ Note that Luke preserves Q better than Matthew
- - ✅ Distinguish between Matthew's redaction and original Q
+  - ✅ Distinguish between Matthew's redaction and original Q
  - ✅ Emphasize that Q is hypothetical and scholars disagree over its contents
  - ✅ Show that even if Jesus said "I send prophets," it could mean agency in first-century Jewish context
 
@@ -353,13 +353,13 @@ Muslims emphasize that Q is a hypothetical reconstruction from double tradition 
 
 #### Security & Safety Notes
 
-- Muslims use the historical critical method selectively — accepting what fits, rejecting what doesn't
+ - Muslims use the historical critical method selectively — accepting what fits with Islamic theology, rejecting what doesn't, according to Christian debaters
 - The Q source undermines the reliability of gospel material for Muslims
 
 #### Common Pitfalls
 
-- **Problem:** Accepting Matthew's version as more original when Luke may preserve Q better
-  **Solution:** Compare Luke and Matthew versions; Luke is usually closer to Q
+ - **Problem:** Accepting Matthew's version as more original
+   **Solution:** Compare Luke and Matthew versions
 
 ### Metaphysical vs Historical Certainty / Muslim View
 
@@ -367,7 +367,7 @@ Muslims emphasize that Q is a hypothetical reconstruction from double tradition 
 
 ##### Example 1: Quranic Metaphysical Certainty
 
-Muslims argue that the Quran provides metaphysical certainty about Jesus because the Quran's divine origin is established through its textual integrity, internal consistency, and fulfilled prophecies (in Islamic epistemology), though these proofs are accepted by faith rather than empirical historical verification. The Quran's claims about Jesus are not historically verifiable but are metaphysically certain within Islamic theology. Therefore, when the Bible contradicts the Quran, the Bible is wrong.
+Muslims argue that the Quran provides metaphysical certainty about Jesus because the Quran's divine origin is established through its textual integrity, internal consistency, and fulfilled prophecies (in Islamic epistemology), though these proofs are accepted by faith rather than historical verification. The Quran's claims about Jesus are not historically verifiable but are metaphysically certain within Islamic theology. Therefore, when the Bible contradicts the Quran, the Bible is wrong.
 
 ##### Example 2: Christians Cannot Prove the Gospels Metaphysically
 
@@ -387,8 +387,8 @@ Muslims challenge Christians to prove the Gospels are metaphysically true (like 
 
 #### Security & Safety Notes
 
- - Muslims claim the Quran is verified by miracles (such as the Quran's textual preservation and scientific accuracy, in Islamic understanding) and prophecies (such as predictions of future events found within the text)
-- Christians claim the resurrection is verified historically
+ - Muslims claim the Quran is verified by textual integrity, internal consistency, and fulfilled prophecies, though these proofs are accepted by faith rather than through verification
+ - Christians argue the resurrection is historically verifiable using standard historical criteria
 
 #### Common Pitfalls
 
@@ -401,18 +401,18 @@ Muslims challenge Christians to prove the Gospels are metaphysically true (like 
 
 ##### Example 1: Resurrection Historically Verified
 
-Christians argue that the resurrection of Jesus is historically verifiable using standard historical criteria (multiple attestation, embarrassment, etc.). The empty tomb, post-mortem appearances, and disciples' transformation from cowards to martyrs provide historical evidence. This gives Christians both historical and metaphysical certainty.
+Christians argue that the resurrection of Jesus is historically verifiable using standard historical criteria (attestation, embarrassment, etc.). The empty tomb, post-mortem appearances, and disciples' transformation from cowards to martyrs provide historical evidence. This gives Christians both historical and metaphysical certainty.
 
 ##### Example 2: Quran Contradicts Historical Jesus
 
-Christians argue that the Quran contradicts reliable historical sources (crucifixion, resurrection, Jesus' divine claims). Since the Quran cannot be historically verified and contradicts verified history, it is unreliable. Muslims must either reject the historical Jesus or reject the Quran.
+Christians argue that the Quran contradicts historical sources (crucifixion, resurrection, Jesus' divine claims). Since the Quran cannot be historically verified and contradicts history, it is unreliable. Muslims must either reject the historical Jesus or reject the Quran.
 
 #### Best Practices
 
 - ✅ Use standard historical criteria to verify resurrection
 - ✅ Point out Quranic contradictions with historical data
 - ✅ Show that the resurrection is the best explanation for the disciples' behavior
-- ✅ Argue that Muslims cannot have their cake and eat it too (reject gospels but use them selectively)
+ - ✅ Argue that Muslims cannot accept the Gospels while rejecting them selectively
 
 #### Keep In Mind
 
@@ -421,13 +421,13 @@ Christians argue that the Quran contradicts reliable historical sources (crucifi
 
 #### Security & Safety Notes
 
-- If the resurrection didn't happen, Christianity is false (1 Corinthians 15:14)
+ - If the resurrection didn't happen, Christian preaching is in vain (1 Corinthians 15:14)
 - The resurrection is the ultimate "symmetry breaker" for Christians
 
 #### Common Pitfalls
 
-- **Problem:** Assuming the resurrection is historically proven beyond doubt
-  **Solution:** Acknowledge that historical arguments for the resurrection are strong but not absolutely certain
+ - **Problem:** Assuming the resurrection is historically proven
+    **Solution:** Acknowledge that historical arguments for the resurrection meet criteria but are not certain
 
 ## Views Table
 
@@ -446,37 +446,37 @@ Christians argue that the Quran contradicts reliable historical sources (crucifi
 
 #### Step 1: Define the Sources
 
-Identify the Synoptic Gospels (Mark, Matthew, Luke) and John as the primary sources for the historical Jesus. Mark is the earliest (c. 70 AD) and most reliable. John contains theological development but preserves authentic Jesus material.
+Identify the Synoptic Gospels (Mark, Matthew, Luke) and John as the primary sources for the historical Jesus. Mark is the earliest (70 AD) and most reliable. John contains theological development but preserves authentic Jesus material.
 
 #### Step 2: Apply Historical Critical Criteria
 
-Use criteria of embarrassment (would the church invent stories that make them look bad?), dissimilarity (sayings that don't fit later church teaching likely go back to Jesus), and multiple attestation (sayings found in multiple independent sources are more likely authentic).
+Use criteria of embarrassment (would the church invent stories that make them look bad?), dissimilarity (sayings that don't fit later church teaching go back to Jesus), and attestation (sayings found in independent sources are authentic).
 
 #### Step 3: Focus on Red Letter Material
 
-Prioritize Jesus' own words (red letters) over gospel narrative. The "Son of Man" sayings, "I am" statements, and pronouncements of forgiveness are the core data.
+Prioritize Jesus' own words (red letters) over gospel narrative. The "Son of Man" sayings, "I am" statements, and pronouncements of forgiveness are the data.
 
 #### Step 4: Reject Muslim Source Criticisms
 
-Muslims' rejection of post-resurrection material is ad hoc — they accept what agrees with Islam and reject what doesn't. Christians should insist on consistent application of historical criteria.
+Muslims' rejection of post-resurrection material is ad hoc — they accept what agrees with Islam and reject what doesn't, according to Christian debaters. Christians should insist on consistent application of historical criteria.
 
 ### Historical Jesus Methodology / Muslim View
 
 #### Step 1: Establish Strict Historical Criteria
 
-Only accept material that can be corroborated through multiple independent sources. Apply the criterion of dissimilarity rigorously — if a saying serves later Christian theology, it likely wasn't said by Jesus.
+Only accept material that can be corroborated through independent sources. Apply the criterion of dissimilarity rigorously — if a saying serves later Christian theology, it wasn't said by Jesus.
 
 #### Step 2: Reject Post-Resurrection Material
 
-Post-resurrection appearances and resurrection claims are ahistorical. Passion predictions (Jesus' pre-crucifixion predictions of his own death) are also rejected as ahistorical because they serve later Christian theology. All these require less assumption to explain as later Christian inventions trying to reconcile a failed Messiah with Jewish scripture.
+Post-resurrection appearances and resurrection claims are ahistorical. Passion predictions (Jesus' pre-crucifixion predictions of his own death) are also rejected as ahistorical because they serve later Christian theology. Muslims argue all these can be explained as later Christian inventions trying to reconcile a failed Messiah with Jewish scripture.
 
 #### Step 3: Use Q Source Selectively
 
-Accept Q material that is consistent with Islamic theology and critically evaluate that which conflicts with it, applying the criterion of least assumption consistently rather than accepting or rejecting material based on theological preference. The "wisdom of God" saying in Luke 11:49 is treated as more reliable than Matthew's version because Luke's phrasing better fits the Jewish monotheistic context.
+Accept Q material that can be corroborated and critically evaluate that which conflicts with Islamic theology, applying the criterion of least assumption consistently rather than accepting or rejecting material based on theological preference. The "wisdom of God" saying in Luke 11:49 is treated as more reliable than Matthew's version because Luke's phrasing fits the Jewish monotheistic context.
 
 #### Step 4: Maintain Islamic Epistemology
 
-The Quran provides metaphysical certainty about Jesus, independent of historical sources. When the Bible contradicts the Quran, the Bible is wrong. Muslims don't need historical verification of the Quran's claims about Jesus.
+Muslims argue the Quran provides metaphysical certainty about Jesus, separate from historical sources. When the Bible contradicts the Quran, the Bible is wrong. Muslims don't need historical verification of the Quran's claims about Jesus.
 
 ### Jesus' Divine Claims / Christian View
 
@@ -490,17 +490,17 @@ Jesus performs actions only God can do: forgive sins (Mark 2:5-7), know the hear
 
 #### Step 3: Use the Symmetry Breaker
 
-Agents of God in the Old Testament (Moses, Aaron, prophets) never claim to be Yahweh. They always say "Thus says the LORD." Jesus claims to be Yahweh himself. This is the symmetry breaker that proves Jesus is not merely an agent.
+Agents of God in the Old Testament (Moses, Aaron, prophets) do not claim to be Yahweh, though the angel of the Lord is a contested example. They always say "Thus says the LORD." Jesus claims to be Yahweh himself. This is the symmetry breaker that proves Jesus is not merely an agent.
 
 #### Step 4: Address Muslim Objections
 
-Muslims argue "Son of Man" refers to humanity, but Jesus uses it as a self-title throughout the Synoptics. The context of Mark 2:27-28 shows Jesus referring to himself specifically, not humanity generally.
+Muslims argue "Son of Man" refers to humanity, but Jesus uses it as a self-title referring to himself specifically, especially in Mark 2. The context of Mark 2:27-28 shows Jesus referring to himself specifically, not humanity.
 
 ### Jesus' Divine Claims / Muslim View
 
 #### Step 1: Read in Jewish Context
 
-"Son of Man" (bar enash) in first-century Palestinian Aramaic refers to humanity, not a divine figure. Jewish midrashic traditions (Dead Sea Scrolls, Yoma 85b) use the same phrase to mean humanity generally.
+"Son of Man" (bar enash) in first-century Palestinian Aramaic refers to humanity, not a divine figure. Jewish midrashic traditions (Dead Sea Scrolls, Yoma 85b) use the same phrase to mean humanity.
 
 #### Step 2: Apply Agency Framework
 
@@ -536,7 +536,7 @@ Jesus' statements of subordination (John 14:28, 5:19) refer to his incarnate sta
 
 #### Step 1: Show No Trinitarian Teaching
 
-Jesus never says "I am part of a Trinity" or "the Father, Son, and Holy Spirit are three persons in one God." He affirms the Shema — one God. The concept of the Trinity is foreign to Jesus' teaching and was developed centuries later at Nicaea.
+Jesus never says "I am part of a Trinity" or "the Father, Son, and Holy Spirit are three persons in one God." He affirms the Shema — one God. Muslims argue the concept of three persons in one God is foreign to Jesus' teaching and was defined at Nicaea in 325 AD.
 
 #### Step 2: Highlight Jesus' Subordination
 
@@ -576,7 +576,7 @@ Q is hypothetical — no physical copy exists. Different scholars reconstruct it
 
 #### Step 2: Cite Luke 11:49
 
-In Luke's version, it says "Therefore also the wisdom of God said, 'I will send them prophets and sages.'" The speaker is God's wisdom, not Jesus. Luke preserves Q better than Matthew. Matthew redacted the saying to make it sound like Jesus is speaking.
+In Luke's version, it says "Therefore also the wisdom of God said, 'I will send them prophets and sages.'" The speaker is God's wisdom, not Jesus. In Matthew's version, Jesus says "I send you prophets and sages." Matthew redacted the saying to make it sound like Jesus is speaking.
 
 #### Step 3: Explain Agency
 
@@ -584,13 +584,13 @@ Even if Jesus said "I send prophets," he could mean he requests God to send them
 
 #### Step 4: Use Muslim Scholars
 
-Muslim scholars argue Kloppenborg's reconstruction is biased. The "I send prophets" saying is not double-tradition (only in Matthew), so it shouldn't be in Q. Muslim debaters interpret Kloppenborg's work as showing Q presents Jesus as a prophetic figure rather than divine, though this is a debater's interpretation of his reconstruction.
+Muslim scholars argue Kloppenborg's reconstruction is biased. The "I send prophets" saying is not double-tradition (only in Matthew), so it shouldn't be in Q. Muslim debaters interpret Kloppenborg's work as showing Q presents Jesus as a prophetic figure rather than divine.
 
 ### Metaphysical vs Historical Certainty / Muslim View
 
 #### Step 1: Distinguish Certainty Types
 
-Historical certainty (what likely happened in the past) is weaker than metaphysical certainty (what we know through divine revelation). The Quran provides metaphysical certainty because its divine origin is established through textual integrity, internal consistency, and fulfilled prophecies (in Islamic epistemology), though these proofs are accepted by faith rather than through external empirical verification.
+Historical certainty (what happened in the past) is weaker than metaphysical certainty (what we know through divine revelation). The Quran provides metaphysical certainty because its divine origin is established through textual integrity, internal consistency, and fulfilled prophecies (in Islamic epistemology), though these proofs are accepted by faith rather than through verification.
 
 #### Step 2: Challenge Christians to Prove the Gospels
 
@@ -612,11 +612,11 @@ The resurrection is historically verifiable using standard criteria. The empty t
 
 #### Step 2: Challenge Quranic Contradictions
 
-The Quran contradicts verified historical facts (crucifixion, resurrection, Jesus' divine claims). Since the Quran cannot be historically verified and contradicts history, it is unreliable.
+The Quran contradicts historical facts (crucifixion, resurrection, Jesus' divine claims). Since the Quran cannot be historically verified and contradicts history, it is unreliable.
 
 #### Step 3: Argue Muslims Cannot Verify Quran
 
-Ask Muslims: "How do you know the Quran is true?" They appeal to Muhammad's prophethood, but this cannot be independently verified through external historical sources apart from Islamic tradition itself. Muslims have no better evidence than Christians.
+Ask Muslims: "How do you know the Quran is true?" They appeal to Muhammad's prophethood, but this cannot be independently verified through historical sources apart from Islamic tradition itself. Muslims have no additional evidence than Christians.
 
 #### Step 4: Show Muslims Are Inconsistent
 

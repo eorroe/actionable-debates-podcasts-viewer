@@ -2,7 +2,7 @@
 
 ## Overview
 
-A structured debate between three Christian apologists and three Muslim apologists examining whether the Quran can be the final revelation from God given its relationship to the Torah and Gospel. The Christian side presents the "Islamic Dilemma": the Quran repeatedly claims to confirm the previous scriptures while simultaneously contradicting them in multiple specific details. The Muslim side defends the Quran through arguments about general versus absolute confirmation, textual corruption of prior scriptures, and the Quranic author's intentional correction of biblical narratives. The discussion engages specific verses, historical-critical methodology, and classical Islamic scholarship to evaluate competing claims about revelation, textual preservation, and hermeneutics.
+A structured debate between three Christian apologists and three Muslim apologists examining whether the Quran can be the final revelation from God given its relationship to the Torah and Gospel. The Christian side presents the "Islamic Dilemma": the Quran repeatedly claims to confirm the previous scriptures while simultaneously contradicting them in specific details. The Muslim side defends the Quran through arguments about general versus absolute confirmation, textual corruption of prior scriptures, and the Quranic author's intentional correction of biblical narratives. The discussion engages specific verses, historical-critical methodology, and classical Islamic scholarship to evaluate competing claims about revelation, textual preservation, and hermeneutics.
 
 ## When to Follow Debate
 
@@ -71,7 +71,7 @@ A structured debate between three Christian apologists and three Muslim apologis
 
 ##### Example 1: The Logical Structure of the Dilemma
 
-The Christians frame the dilemma as a logical syllogism: The Quran claims to confirm the Torah and Gospel (e.g., 2:41, 10:94). However, the Quran contradicts the Torah in numerous specific details (e.g., Moses' hand, Joseph's story, the number of plagues). Therefore, either the Torah is true (making the Quran false) or the Torah is corrupted (making the Quran's confirmation of corrupted scripture meaningless, undermining its claim to be the final revelation).
+The Christians frame the dilemma as a logical syllogism: The Quran claims to confirm the Torah and Gospel (e.g., 2:41, 10:94). However, the Quran contradicts the Torah in specific details (e.g., Moses' hand, Joseph's story, the number of plagues). Therefore, either the Torah is true (making the Quran false) or the Torah is corrupted (making the Quran's confirmation of corrupted scripture meaningless, undermining its claim to be the final revelation).
 
 ##### Example 2: Muslim Response - General vs Absolute Confirmation
 
@@ -99,7 +99,7 @@ Muslims argue the dilemma is a false dichotomy. They claim "confirmation" (saddi
 #### Common Pitfalls
 
 - **Problem:** Assuming "confirmation" must mean absolute verbal agreement without examining the semantic range of the Arabic term.
-  **Solution:** Consult multiple Arabic lexicons and examine how "saddiq" is used elsewhere in the Quran.
+  **Solution:** Consult Arabic lexicons and examine how "saddiq" is used elsewhere in the Quran.
 - **Problem:** Demanding a single unified Muslim position when classical and contemporary scholars hold divergent views on textual corruption.
   **Solution:** Acknowledge the spectrum of Muslim scholarly opinion (e.g., Bukhari, Al-Razi, Ibn Kathir) rather than treating one position as definitive.
 - **Problem:** Using modern historical-critical methods anachronistically to judge 7th century textual transmission.
@@ -126,12 +126,12 @@ Muslims reference tafsir (e.g., The Study Quran) on 12:1, which says the stories
 #### Keep In Mind
 
 - Muslim scholars themselves debate whether the Quran absolutely confirms, generally confirms, or corrects prior scriptures.
-- The "general confirmation" model was not the dominant classical position; a significant number of early scholars held to textual corruption.
+- The "general confirmation" model was not the dominant classical position; early scholars held to textual corruption.
 - The debate over muhaymin (guardian vs. corrector) remains unresolved among contemporary scholars.
 
 #### Security & Safety Notes
 
-- Avoid presenting one Islamic scholarly position as the only valid or orthodox view when significant diversity exists.
+- Avoid presenting one Islamic scholarly position as the only valid or orthodox view when diversity exists.
 - Be careful when discussing hadith authenticity, as this touches on deeply held religious beliefs about the preservation of prophetic tradition.
 
 #### Common Pitfalls
@@ -486,7 +486,7 @@ Claim the Quran provides internal evidence of its own truth: it tells the Jews a
 
 #### Step 5: Challenge Christian Presuppositions
 
-Ask: If the Torah was perfectly preserved, why do Jews and Christians disagree on so many fundamental issues (the Trinity, the messiah, the law)? If the text is clear and preserved, why are there numerous Christian denominations and Jewish interpretive traditions, each claiming to interpret it correctly? The existence of disagreement is evidence of textual and interpretive corruption.
+Ask: If the Torah was perfectly preserved, why do Jews and Christians disagree on fundamental issues (the Trinity, the messiah, the law)? If the text is clear and preserved, why are there Christian denominations and Jewish interpretive traditions, each claiming to interpret it correctly? The existence of disagreement is evidence of textual and interpretive corruption.
 
 ### Topic 5 / Criteria for Evaluating Divine Revelation
 

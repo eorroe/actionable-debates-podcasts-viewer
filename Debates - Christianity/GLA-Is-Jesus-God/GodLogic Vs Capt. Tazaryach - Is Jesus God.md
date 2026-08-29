@@ -11,7 +11,7 @@ A public debate between Avery from GodLogic Apologetics and Captain Cesar (JP) o
 - When studying the meaning of "firstborn of all creation" in Colossians 1
 - When analyzing the relationship between the Father and the Son in the New Testament
 - When discussing whether Jesus has a God or is subordinate to the Father
-- When evaluating the significance of Jesus' statements about his own identity and authority
+- When evaluating the meaning of Jesus' statements about his own identity and authority
 
 ## Glossary / Prerequisite Terms To Know Before Following Debate
 
@@ -71,7 +71,7 @@ Example text: Avery quoted John 1:3: "All things were made through him, and with
 - The debate hinges on whether "firstborn" in Colossians 1:15 refers to preeminence or literal priority in creation.
 - Captain Cesar holds that Colossians 1:19 ("it pleased the Father that in him should all fullness dwell") shows the Father gave Christ his authority and fullness, implying Christ was not eternally equal with the Father.
 - Avery maintains that "firstborn" in Colossians 1 is a title of preeminence, not a statement about origin, supported by the parallel description of Christ as "the image of the invisible God."
-- Both sides agree that the Father is the ultimate source of all things, but disagree on whether Christ is a created agent or the eternal Creator.
+- Both sides agree that the Father is the source of all things, but disagree on whether Christ is a created agent or the eternal Creator.
 
 #### Security & Safety Notes
 
@@ -185,7 +185,7 @@ Example text: Captain Cesar cited Luke 22:42 where Jesus prays, "Not my will, bu
 - **Problem:** Using John 20:17 to prove Jesus is not God without considering the incarnation and the two natures of Christ.
   **Solution:** Acknowledge the mystery of the incarnation and explain that the divine and human natures are distinct yet united in one person.
 - **Problem:** Charging the Trinity with contradiction because of the plurality of persons while affirming monotheism.
-  **Solution:** Clarify that Trinitarian monotheism is monotheism in being (one essence) and polytheism in persons (three persons), not Tritheism.
+   **Solution:** Clarify that Trinitarian monotheism is monotheism in being (one essence) and personal distinction in three persons, not Tritheism.
 - **Problem:** Equating "given authority" with "not inherently possessing authority."
   **Solution:** Distinguish between the eternal possession of divine attributes and the incarnate exercise of those attributes under the Father's will.
 
@@ -275,7 +275,7 @@ Example text: Captain Cesar noted that Isaiah 53:10 speaks of Christ seeing his 
 - **Problem:** Assuming all father-son language operates on the same plane, whether human, national, or divine.
   **Solution:** Categorize the different uses of familial language in Scripture and evaluate Jesus' sonship in its unique context.
 - **Problem:** Arguing that because the Father is eternal, the Son must be created.
-  **Solution:** Explain the eternal generation of the Son in Trinitarian theology: the Son is eternally begotten, not created in time.
+   **Solution:** Explain that the Son is eternally begotten, not created in time, in Trinitarian theology.
 - **Problem:** Reducing Jesus to a mere prophet or messenger because he is called "Son."
   **Solution:** Examine the specific claims Jesus made about himself and the worship he received.
 
@@ -425,7 +425,7 @@ Explain that Matthew 28:18 ("All power is given unto me in heaven and in earth")
 
 #### Step 4: Use Philippians 2:6-7 to Explain Voluntary Humiliation
 
-Quote Philippians 2:6-7: "Who, being in the form of God, thought it not robbery to be equal with God: but made himself of no reputation, and took upon him the form of a servant." Christ voluntarily laid aside the independent exercise of his divine prerogatives in the incarnation, but he never ceased to be God. His prayers in Gethsemane reflect the struggle of his human will, not a lack of divine unity.
+Quote Philippians 2:6-7: "Who, being in the form of God, thought it not robbery to be equal with God: but made himself of no reputation, and took upon him the form of a servant." Christ voluntarily laid aside the independent exercise of his divine prerogatives in the incarnation, but he never ceased to be God. His prayers in Gethsemane reflect the struggle of his human will, not a lack of unity with the Father.
 
 ### Topic 3 / View 2 (Capt. Tazaryach - Subordination Proves Jesus Is Not God)
 
@@ -479,7 +479,7 @@ Argue that if there are two thrones—one for the Father and one for Christ—th
 
 #### Step 4: Explain 1 Corinthians 8:5-6 as Excluding Christ from Being God
 
-Argue that 1 Corinthians 8:6 is explicit: "To us there is but one God, the Father." Christ is called "Lord," but in the context of 1 Corinthians 8, "Lord" means master or ruler, not the Most High God. The chapter's whole point is that there is only one God, the Father, and many so-called lords.
+Argue that 1 Corinthians 8:6 is explicit: "To us there is but one God, the Father." Christ is called "Lord," but in the context of 1 Corinthians 8, "Lord" means master or ruler, not the Most High God. The chapter teaches that there is only one God, the Father, and many so-called lords.
 
 ### Topic 5 / View 1 (Avery - Jesus' Sonship Is Unique, Eternal, and Literal)
 
@@ -493,11 +493,11 @@ Quote John 3:16: "For God so loved the world, that he gave his only begotten Son
 
 #### Step 3: Address the "Father Always Being Father" Argument
 
-When Captain Cesar argues that if the Father has always been the Father, he must have always had a Son, explain that this reflects an eternal relationship within the Godhead. The Father is eternally Father, the Son is eternally Son, and the Spirit is eternally Spirit. This is not a temporal sequence but an eternal distinction of persons within the one divine essence.
+When Captain Cesar argues that if the Father has always been the Father, he must have always had a Son, Avery maintains that this reflects an eternal relationship within the Godhead. The Father is eternally Father, the Son is eternally Son, and the Spirit is eternally Spirit. This is not a temporal sequence but an eternal distinction of persons within the one divine essence.
 
 #### Step 4: Use the Transfiguration as Proof of Unique Sonship
 
-Reference Matthew 17:5 where the Father speaks from heaven: "This is my beloved Son, in whom I am well pleased; hear ye him." Argue that the Father's voice from heaven confirms the unique, literal sonship of Christ and commands the disciples to hear him as the divine Son.
+Reference Matthew 17:5 where the Father speaks from heaven: "This is my beloved Son, in whom I am well pleased; hear ye him." Argue that the Father's voice from heaven confirms the unique, literal sonship of Christ and commands the disciples to hear him as the Son of God.
 
 ### Topic 5 / View 2 (Capt. Tazaryach - "Son of God" Is a Title of Office, Not Literal Divine Sonship)
 
@@ -529,7 +529,7 @@ Quote John 20:28: "And Thomas answered and said unto him, My Lord and my God." N
 
 #### Step 3: Analyze Matthew 19:16-17 as a Challenge, Not a Denial
 
-Argue that when Jesus said, "Why callest thou me good? there is none good but one, that is God," he was not denying his own goodness or deity. Rather, he was challenging the young man's superficial use of "good" and directing him to the only source of true goodness—God. Jesus is that goodness incarnate.
+Argue that when Jesus said, "Why callest thou me good? there is none good but one, that is God," he was not denying his own goodness or deity. Rather, he was challenging the young man's superficial use of "good" and directing him to the only source of true goodness—God. Jesus embodies that goodness.
 
 #### Step 4: Use Jesus' Works and Worship as Evidence
 
@@ -539,7 +539,7 @@ Argue that Jesus' works (forgiving sins, controlling nature, raising the dead) a
 
 #### Step 1: Note That Jesus Never Explicitly Said "I Am God"
 
-Argue that if Jesus were God, he would have clearly stated, "I am God" or "I am Yahweh." Instead, he consistently called himself the "Son of God," a title of submission and office. When the Jews accused him of making himself God (John 10:33), he did not affirm the charge but redirected the conversation to Psalm 82:6.
+Captain Cesar argues that if Jesus were God, he would have clearly stated, "I am God" or "I am Yahweh." Instead, he consistently called himself the "Son of God," a title of submission and office. When the Jews accused him of making himself God (John 10:33), he did not affirm the charge but redirected the conversation to Psalm 82:6.
 
 #### Step 2: Explain John 10:34-36 as a Denial
 
@@ -547,8 +547,8 @@ Argue that Jesus' response in John 10:34-36 is a denial, not an affirmation. He 
 
 #### Step 3: Maintain That Matthew 19:17 Is a Denial of Deity
 
-Argue that Jesus' statement, "Why callest thou me good? there is none good but one, that is God," is a clear denial that he is God or even good in himself. If he were God, he would have said, "I am good, for I am God." Instead, he pointed the young man to the Father as the only good one.
+Captain Cesar argues that Jesus' statement, "Why callest thou me good? there is none good but one, that is God," is a clear denial that he is God or even good in himself. If he were God, he would have said, "I am good, for I am God." Instead, he pointed the young man to the Father as the only good one.
 
 #### Step 4: Argue That Jesus' Submission to the Father Proves He Is Not God
 
-Argue that Jesus' prayers, his obedience, his baptism where the Father speaks from heaven, and his Gethsemane prayer ("Not my will, but thine, be done") all demonstrate a relationship of submission to a higher authority. A God does not report to, obey, or have a God over him. Jesus' own words and actions prove he is not the Most High God.
+Captain Cesar argues that Jesus' prayers, his obedience, his baptism where the Father speaks from heaven, and his Gethsemane prayer ("Not my will, but thine, be done") all demonstrate a relationship of submission to a higher authority. He argues that a God does not report to, obey, or have a God over him, and that Jesus' own words and actions show he is not the Most High God.

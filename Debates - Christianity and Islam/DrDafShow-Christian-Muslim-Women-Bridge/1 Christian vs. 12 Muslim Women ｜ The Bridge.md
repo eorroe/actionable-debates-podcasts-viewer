@@ -339,11 +339,11 @@ Several panelists, including Sawa and Miriam, compare Hadith transmission to a s
 
 ##### Example 1: Questioning the Hadith About Aisha's Age
 
-The panelists challenge the reliability of the Hadith about Aisha's age. They note that Hadith compilers such as Al-Bukhari and Muslim collected their material approximately 200-300 years after Muhammad's death, according to the Dr. Dab Show debate, and that the transmission process is subject to cumulative distortions analogous to the children's game Chinese whispers (where a message changes as it passes through multiple people). They argue that scholars cannot know the exact age with certainty.
+The panelists challenge the reliability of the Hadith about Aisha's age. They note that Hadith compilers such as Al-Bukhari and Muslim collected their material 200-300 years after Muhammad's death, according to the Dr. Dab Show debate, and that the transmission process is subject to cumulative distortions analogous to the children's game Chinese whispers (where a message changes as it passes through multiple people). They argue that scholars cannot know the exact age with certainty.
 
 ##### Example 2: Alternative Historical Calculations
 
-The Muslim panelists argue that based on datable occurrences including the Hijrah (622 CE), the Treaty of Hudaybiyyah (628 CE), the Battle of Badr (624 CE), the Battle of Uhud (625 CE), and Ibn Ishaq's Sirat Rasul Allah (c. 767 CE), Aisha was likely around 19, as noted on the Dr. Dab Show when she married Muhammad, not six or nine. Her exact birth year is uncertain in the historical record.
+The Muslim panelists argue that based on datable occurrences including the Hijrah (622 CE), the Treaty of Hudaybiyyah (628 CE), the Battle of Badr (624 CE), the Battle of Uhud (625 CE), and Ibn Ishaq's Sirat Rasul Allah (c. 767 CE), Aisha was at least 19, as noted on the Dr. Dab Show when she married Muhammad, not six or nine. Her exact birth year is uncertain in the historical record.
 
 ##### Example 3: Distinguishing Contract from Consummation
 
@@ -355,7 +355,7 @@ The panelists explain that life in 7th-century Arabia was drastically different 
 
 ##### Example 5: Turning to the Bible
 
-The panelists cite Deuteronomy 22:28-29 and the case of Mary (Maryam), approximately 12-16 years old at the time, at the Annunciation (Luke 1:26-27), who gave birth to Jesus around age 13-17, according to historical analyses cited on the Dr. Dab Show. They ask whether Christians apply the same moral standard to biblical figures, arguing that if the Bible records similar practices, Christians are applying a double standard.
+The panelists cite Deuteronomy 22:28-29 and the case of Mary (Maryam), 12-16 years old at the time, at the Annunciation (Luke 1:26-27), who gave birth to Jesus around age 13-17, according to historical analyses cited on the Dr. Dab Show. They ask whether Christians apply the same moral standard to biblical figures, arguing that if the Bible records similar practices, Christians are applying a double standard.
 
 #### Best Practices
 
@@ -409,7 +409,7 @@ A Muslim panelist explains that Muslims consider Allah a more precise term becau
 
 ##### Example 4: God's Simplicity and the Trinity
 
-A Muslim panelist argues, according to the Dr. Dab Show debate, that the Trinity is illogical and confusing, stating that Muslims believe God should be comprehensible to 7th-century Arabic speakers according to the Muslim panelists without specialized philosophical training, consistent in His message across all revelation, and logically coherent in His affirmations about His own nature. She references the Islamic concept of tawhid as the natural, intuitive understanding of God's oneness. Christina counters that God's nature is not determined by human simplicity or palatability, and that spiritual truths can be complex.
+A Muslim panelist argues, according to the Dr. Dab Show debate, that the Trinity is illogical and confusing, stating that Muslims believe God should be comprehensible to 7th-century Arabic speakers without specialized philosophical training, consistent in His message across all revelation, and logically coherent in His affirmations about His own nature. She references the Islamic concept of tawhid as the natural, intuitive understanding of God's oneness. Christina counters that God's nature is not determined by human simplicity or palatability, and that spiritual truths can be complex.
 
 #### Best Practices
 
@@ -450,11 +450,11 @@ A Muslim panelist argues, according to the Dr. Dab Show debate, that the Trinity
 
 ##### Example 1: Affirming That Allah Means God
 
-A Muslim panelist stated clearly that "Allah" is simply the Arabic word for God, according to the Muslim panelist on the Dr. Dab Show, used by Arabic Christians and Muslims alike for the same Creator of the universe. The term does not denote a different deity. The Muslim panelist stated that the God of Abraham, Isaac, and Jacob is the same God worshipped in Islam.
+A Muslim panelist stated clearly that "Allah" is simply the Arabic word for God, according to the Dr. Dab Show, used by Arabic Christians and Muslims alike for the same Creator of the universe. The term does not denote a different deity. The same Muslim panelist stated that the God of Abraham, Isaac, and Jacob is the same God worshipped in Islam.
 
 ##### Example 2: Presenting the 99 Names of Allah
 
-The panelist presents the 99 names of Allah as a comprehensive description of God's perfect attributes: the Merciful (Ar-Rahman), the Compassionate (Ar-Rahim), the All-Knowing (Al-Alim), the All-Powerful (Al-Aziz), the Just (Al-Adl). She argues that "Allah" is actually a more precise and complete term, according to the Muslim panelist, than the generic English word "God," because it encompasses the fullness of God's revealed attributes.
+The panelist presents the 99 names of Allah as a comprehensive description of God's perfect attributes: the Merciful (Ar-Rahman), the Compassionate (Ar-Rahim), the All-Knowing (Al-Alim), the All-Powerful (Al-Aziz), the Just (Al-Adl). She argues that "Allah" is actually a more precise and complete term, according to the panelist, than the generic English word "God," because it encompasses the fullness of God's revealed attributes.
 
 ##### Example 3: Clarifying the Hadith About Sin
 
@@ -544,7 +544,7 @@ Christina questions where the teachings of previous prophets can be found if the
 
 #### Keep In Mind
 
-- The Quran was revealed orally over 23 years (610-632 CE) and memorized by numerous companions, with classical Islamic sources such as Ibn Hajar and Al-Dhahabi naming specific individuals including Abu Bakr, Umar, Uthman, Ali, and Zayd ibn Thabit among the first memorizers
+- The Quran was revealed orally over 23 years (610-632 CE) and memorized by many companions, with classical Islamic sources such as Ibn Hajar and Al-Dhahabi naming specific individuals including Abu Bakr, Umar, Uthman, Ali, and Zayd ibn Thabit among the first memorizers
 - The Bible was written by multiple authors over centuries in different languages and cultural contexts
 - Both traditions have internal diversity regarding the authority and interpretation of texts
 - Preservation claims are theological statements as much as historical ones
@@ -582,7 +582,7 @@ The panelists cite Surah Al-Baqarah 2:23-24 and Surah Al-Isra 17:88, where Allah
 
 ##### Example 4: Explaining the Preservation Mechanism
 
-The panelists describe how the Quran was preserved: memorized by numerous companions during Muhammad's lifetime, with classical Islamic sources such as Ibn Hajar and Al-Dhahabi naming specific individuals including Abu Bakr, Umar, Uthman, Ali, and Zayd ibn Thabit among the first memorizers; written on parchment and leaves; and compiled into a single text by Abu Bakr and later standardized by Uthman. They explain that the oral memorization tradition, with many students across generations trained in tajwid (proper recitation), ensures that the text has never been lost or altered.
+The panelists describe how the Quran was preserved: memorized by many companions during Muhammad's lifetime, with classical Islamic sources such as Ibn Hajar and Al-Dhahabi naming specific individuals including Abu Bakr, Umar, Uthman, Ali, and Zayd ibn Thabit among the first memorizers; written on parchment and leaves; and compiled into a single text by Abu Bakr and later standardized by Uthman. They explain that the oral memorization tradition, with many students across generations trained in tajwid (proper recitation), ensures that the text has never been lost or altered.
 
 ##### Example 5: Clarifying What Is Meant by "Corruption"
 
@@ -598,7 +598,7 @@ The panelists explain that the Quran was revealed gradually over 23 years, as no
 
 ##### Example 8: Contrasting with the Bible's Textual History
 
-The panelists note that the Bible was written by approximately 40 authors over a period of approximately 1,500 years, from Moses (c. 1400 BCE) to John the Apostle (c. 95 CE), with no single centralized authority controlling the text. The Quran, by contrast, was preserved centrally from the beginning, according to the Muslim panelists. The Bible's textual variants are cited by some as demonstrating human alteration, while the Quran's uniformity is cited by Muslims as demonstrating divine protection.
+The panelists note that the Bible was written by 40 authors over a period of 1,500 years, from Moses (c. 1400 BCE) to John the Apostle (c. 95 CE), with no single centralized authority controlling the text. The Quran, by contrast, was preserved centrally from the beginning, according to the Muslim panelists. The Bible's textual variants are cited by some as demonstrating human alteration, while the Quran's uniformity is cited by Muslims as demonstrating divine protection.
 
 #### Best Practices
 
@@ -820,7 +820,7 @@ Note that not all Christian sects, such as Unitarians and Oneness Pentecostals, 
 
 #### Step 7: Redirect to the Quran's Clarity
 
-Point out that the Quran explicitly and repeatedly affirms the oneness of God, using clear and accessible language, according to the Muslim panelist. The Quran directly addresses the Trinity doctrine: "Do not say 'Three' - desist! It will be better for you" (Quran 4:171).
+Point out that the Quran explicitly and repeatedly affirms the oneness of God, using clear and accessible language, according to a Muslim panelist. The Quran directly addresses the Trinity doctrine: "Do not say 'Three' - desist! It will be better for you" (Quran 4:171).
 
 #### Step 8: Invite the Christian to Consider Tawhid
 
@@ -864,11 +864,11 @@ Ask what standard is being used to judge Muhammad. If it is Allah's standard, as
 
 #### Step 1: Question the Authenticity of the Hadith
 
-Challenge the reliability of the Hadith about Aisha's age. Note that Hadith compilers such as Al-Bukhari and Muslim collected their material approximately 200-300 years after Muhammad's death, and that the transmission process is subject to cumulative distortions analogous to the children's game Chinese whispers (where a message changes as it passes through multiple people). Argue that scholars cannot know the exact age with certainty.
+Challenge the reliability of the Hadith about Aisha's age. Note that Hadith compilers such as Al-Bukhari and Muslim collected their material 200-300 years after Muhammad's death, and that the transmission process is subject to cumulative distortions analogous to the children's game Chinese whispers (where a message changes as it passes through multiple people). Argue that scholars cannot know the exact age with certainty.
 
 #### Step 2: Present Alternative Historical Calculations
 
-Argue that based on datable occurrences including the Hijrah (migration to Medina, 622 CE), the Treaty of Hudaybiyyah (628 CE), the Battle of Badr (624 CE), the Battle of Uhud (625 CE), and the chronological order of Surah revelation documented in classical sources such as Ibn Ishaq's Sirat Rasul Allah (c. 767 CE), Aisha was likely around 19, as noted on the Dr. Dab Show when she married Muhammad, not six or nine. Note that her exact birth year is uncertain in the historical record.
+Argue that based on datable occurrences including the Hijrah (migration to Medina, 622 CE), the Treaty of Hudaybiyyah (628 CE), the Battle of Badr (624 CE), the Battle of Uhud (625 CE), and the chronological order of Surah revelation documented in classical sources such as Ibn Ishaq's Sirat Rasul Allah (c. 767 CE), Aisha was at least 19, as noted on the Dr. Dab Show when she married Muhammad, not six or nine. Note that her exact birth year is uncertain in the historical record.
 
 #### Step 3: Distinguish Between Contract and Consummation
 
@@ -880,7 +880,7 @@ Explain that life in 7th-century Arabia was drastically different from modern co
 
 #### Step 5: Turn the Question to the Bible
 
-Cite Deuteronomy 22:28-29 and the case of Mary (Maryam), the mother of Jesus, who was approximately 12-16 years old, as noted on the Dr. Dab Show at the Annunciation according to traditional Christian sources (Luke 1:26-27) and gave birth to Jesus around age 13-17, which under many modern legal frameworks would constitute a minor. Ask whether Christians apply the same moral standard to biblical figures. Argue that if the Bible condones or records similar practices, Christians are applying a double standard.
+Cite Deuteronomy 22:28-29 and the case of Mary (Maryam), the mother of Jesus, who was 12-16 years old, as noted on the Dr. Dab Show at the Annunciation according to traditional Christian sources (Luke 1:26-27) and gave birth to Jesus around age 13-17, which under many modern legal frameworks would constitute a minor. Ask whether Christians apply the same moral standard to biblical figures. Argue that if the Bible condones or records similar practices, Christians are applying a double standard.
 
 #### Step 6: Emphasize the Quranic Standard
 
@@ -936,7 +936,7 @@ State clearly that "Allah" is the Arabic word for God, used by Arabic Christians
 
 #### Step 2: Explain the 99 Names of Allah
 
-Present the 99 names of Allah as a comprehensive description including the 99 names of Allah, representing God's perfect attributes: the Merciful, the Compassionate, the All-Knowing, the All-Powerful, the Just. Argue that "Allah" is actually a more precise and complete term, according to the Muslim panelist, than the generic English word "God."
+Present the 99 names of Allah as a comprehensive description including the 99 names of Allah, representing God's perfect attributes: the Merciful, the Compassionate, the All-Knowing, the All-Powerful, the Just. Argue that "Allah" is actually a more precise and complete term, according to the panelist, than the generic English word "God."
 
 #### Step 3: Clarify the Hadith About Sin
 
@@ -990,7 +990,7 @@ Present Quran 2:23-24: "And if you are in doubt about what We have sent down upo
 
 #### Step 7: Contrast with the Bible's Manuscript Evidence
 
-Note that the Bible has thousands of early manuscripts, with New Testament manuscripts such as P52 (Rylands Library Papyrus P52, dated c. 125-175 CE) and P46 (Chester Beatty Papyrus P46, dated c. 175-225 CE) dating within 100-150 years of the original writings. Critics, according to the Dr. Dab Show debate, note the earliest complete Quranic manuscripts date to approximately 200-300 years after Muhammad's death (e.g., the Samarkand Kufic Quran, dated c. 8th-9th century CE; the Topkapi manuscript, dated c. 8th century CE). Ask why the Quran lacks the same kind of early manuscript evidence if it was perfectly preserved.
+Note that the Bible has thousands of early manuscripts, with New Testament manuscripts such as P52 (Rylands Library Papyrus P52, dated c. 125-175 CE) and P46 (Chester Beatty Papyrus P46, dated c. 175-225 CE) dating within 100-150 years of the original writings. Critics, according to the Dr. Dab Show debate, note the earliest complete Quranic manuscripts date to 200-300 years after Muhammad's death (e.g., the Samarkand Kufic Quran, dated c. 8th-9th century CE; the Topkapi manuscript, dated c. 8th century CE). Ask why the Quran lacks the same kind of early manuscript evidence if it was perfectly preserved.
 
 #### Step 8: Appeal to Internal Consistency
 
@@ -1012,7 +1012,7 @@ Cite Surah Al-Baqarah 2:23-24 and Surah Al-Isra 17:88, where Allah challenges an
 
 #### Step 4: Explain the Preservation Mechanism
 
-Describe how the Quran was preserved: memorized by numerous companions during Muhammad's lifetime, with classical Islamic sources such as Ibn Hajar and Al-Dhahabi naming specific individuals including Abu Bakr, Umar, Uthman, Ali, and Zayd ibn Thabit among the first memorizers; written on parchment and leaves; and compiled into a single text by Abu Bakr and later standardized by Uthman. Explain that the oral memorization tradition, with many students across generations trained in tajwid (proper recitation), ensures that the text has never been lost or altered.
+Describe how the Quran was preserved: memorized by many companions during Muhammad's lifetime, with classical Islamic sources such as Ibn Hajar and Al-Dhahabi naming specific individuals including Abu Bakr, Umar, Uthman, Ali, and Zayd ibn Thabit among the first memorizers; written on parchment and leaves; and compiled into a single text by Abu Bakr and later standardized by Uthman. Explain that the oral memorization tradition, with many students across generations trained in tajwid (proper recitation), ensures that the text has never been lost or altered.
 
 #### Step 5: Clarify What Is Meant by "Corruption"
 
@@ -1028,7 +1028,7 @@ Explain that the Quran was revealed gradually over 23 years, as noted on the Dr.
 
 #### Step 8: Contrast with the Bible's Textual History
 
-Note that the Bible was written by approximately 40 authors over a period of approximately 1,500 years, from Moses (c. 1400 BCE) to John the Apostle (c. 95 CE), with no single centralized authority controlling the text. The Quran, by contrast, was preserved centrally from the beginning, according to the Muslim panelists. The Bible's textual variants are cited by some as demonstrating human alteration, while the Quran's uniformity is cited by Muslims as demonstrating divine protection.
+Note that the Bible was written by 40 authors over a period of 1,500 years, from Moses (c. 1400 BCE) to John the Apostle (c. 95 CE), with no single centralized authority controlling the text. The Quran, by contrast, was preserved centrally from the beginning, according to the Muslim panelists. The Bible's textual variants are cited by some as demonstrating human alteration, while the Quran's uniformity is cited by Muslims as demonstrating divine protection.
 
 ### Topic 5 / View 1: Women Are Mistreated in Islam (Christian Perspective)
 
@@ -1092,7 +1092,7 @@ Explain that if a husband is abusive according to classical juristic criteria, t
 
 #### Step 7: Address the Historical Context
 
-Explain that the Quran was revealed in a society where domestic violence was common and women had few protections, as documented in Islamic sources such as the Sira literature, which describe pre-Islamic (Jahiliyyah) customs. Scholars argue the verse actually limits and regulates behavior that was already widespread, moving society toward greater justice for women.
+Explain that the Quran was revealed in a society where domestic violence was common and women lacked protections such as the right to divorce, inheritance, education, and consent to marriage, as documented in Islamic sources such as the Sira literature, which describe pre-Islamic (Jahiliyyah) customs. Scholars argue the verse actually limits and regulates behavior that was already widespread, moving society toward greater justice for women.
 
 #### Step 8: Emphasize the Prophetic Example
 

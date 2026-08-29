@@ -40,11 +40,11 @@ This debate examines whether Jesus of Nazareth can be considered a Muslim accord
 
 ##### Example 1: Linguistic Definition
 
-Dr. Nasser defines a Muslim as "one who submits to God Almighty." He clarifies that this specifically means submitting to the God of Islam as described in the Quran and Hadith, not merely any concept of God. The Christian interlocutor challenges this by noting that many people believe they submit to God but would not be considered Muslim by Dr. Nasser's standards.
+Dr. Nasser defines a Muslim as "one who submits to God Almighty." He clarifies that this specifically means submitting to the God of Islam as described in the Quran and Hadith, not merely any concept of God. The Christian interlocutor challenges this by noting that some people believe they submit to God but would not be considered Muslim by Dr. Nasser's standards.
 
 ##### Example 2: Historical Application
 
-Dr. Nasser explains that at the time of Jesus, submission involved accepting the prophet sent at that time. He argues that Jesus, like Moses and Abraham, taught the same message: belief in the one all-powerful creator. Therefore, Jesus was a Muslim in the sense that he submitted to God and taught monotheism.
+Dr. Nasser explains that at the time of Jesus, submission involved accepting the prophet sent at that time. He argues that Jesus, like Moses and Abraham, taught the same message: that God, the all-powerful creator of the universe, is one God. Therefore, Jesus was a Muslim in the sense that he submitted to God and taught monotheism.
 
 #### Best Practices
 
@@ -92,7 +92,7 @@ The Christian cites Mark 12:29 ("Hear, O Israel: The Lord our God, the Lord is o
 #### Keep In Mind
 
 - The Christian view depends on reading the gospels as historically reliable and theologically normative.
-- The debate over whether Jesus claimed to be the Son of God is central; the Christian affirms he did, the Muslim denies this or reinterprets it.
+- The debate over whether Jesus claimed to be the Son of God is central; the Christian affirms he did, the Muslim denies Jesus claimed unique divine sonship or argues the crowd in Matthew 21 understood Jesus as a prophet.
 
 #### Security & Safety Notes
 
@@ -149,7 +149,7 @@ The Christian cites Quran 5:18: "The Jews and Christians say, 'We are the sons o
 
 ##### Example 2: Surah 19 (Maryam)
 
-The Christian references Surah 19, verses 3 and 93, which he claims affirm that no one can come to Allah except as a servant. He argues this contradicts Jesus' teaching that believers are children of God. Dr. Nasser responds that Allah has many categories of people He loves, and that "son of God" terminology was rejected due to its association with literal divine offspring claims, not because righteous people cannot be beloved.
+The Christian references Surah 19, verses 3 and 93, which he claims affirm that no one can come to Allah except as a servant. He argues this contradicts Jesus' teaching that believers are children of God. Dr. Nasser responds that Allah has eight categories of people He loves, and that "son of God" terminology was rejected due to its association with literal divine offspring claims, not because righteous people cannot be beloved.
 
 #### Best Practices
 
@@ -180,7 +180,7 @@ The Christian references Surah 19, verses 3 and 93, which he claims affirm that 
 
 ##### Example 1: Low vs. High Christology
 
-Dr. Nasser argues that earlier biblical sources reflect lower Christology (Jesus as Jewish prophet) while later sources reflect higher Christology (Jesus as divine Son). He suggests the historical Jesus aligns with Islam. The Christian counters that if the gospel accounts are our best historical source, and those accounts record Jesus calling God "Father" uniquely and claiming sonship, then the historical Jesus held these beliefs.
+Dr. Nasser argues that earlier gospel material reflects lower Christology (Jesus as Jewish prophet) while later gospel material reflects higher Christology (Jesus as divine Son). Dr. Nasser states scholars conclude the historical Jesus aligns with Islam. The Christian counters that if the gospel accounts are our primary source, and those accounts record Jesus calling God "Father" uniquely and claiming sonship, then the historical Jesus held these beliefs.
 
 ##### Example 2: Matthew 21 Parable
 
@@ -197,7 +197,7 @@ Dr. Nasser cites Matthew 21, where after the parable of the tenants, the crowd c
 #### Keep In Mind
 
 - The Christian accepts the Bible as authoritative; the Muslim does not, which means they operate with different evidentiary standards.
-- Dr. Nasser's position relies on a critical reading of biblical development, while the Christian position relies on the final form of the text.
+- Dr. Nasser relies on earlier gospel material showing lower Christology, while the Christian relies on the gospels as reliable historical documents.
 
 #### Security & Safety Notes
 
@@ -232,7 +232,7 @@ Establish what "Muslim" means in general (submission to God) and in specific Isl
 
 #### Step 2: Identify the criteria for membership
 
-Ask: What must a person believe to be a Muslim? Is it merely monotheism and moral behavior, or must they accept the specific message of Muhammad and the Quran's description of God? Dr. Nasser argues for the latter; the Christian argues the former is too broad.
+Ask: What must a person believe to be a Muslim? Is it merely monotheism and moral behavior, or must they accept the specific message of Muhammad and the Quran's description of God? Dr. Nasser argues for the narrow definition; the Christian argues the broad definition is too broad.
 
 #### Step 3: Apply criteria to Jesus
 
@@ -250,7 +250,7 @@ Argue that Jesus' teaching about God as Father and himself as Son cannot be redu
 
 #### Step 3: Conclude impossibility
 
-Given that the Bible is the best historical source for Jesus' life and teachings, and given that Jesus taught a theology incompatible with Islam, conclude that Jesus was not a Muslim.
+Given that the Bible is the primary source for Jesus' life and teachings, and given that Jesus taught a theology incompatible with Islam, conclude that Jesus was not a Muslim.
 
 ### Topic 2 / Terminology: "Father" and "Rock"
 
@@ -274,11 +274,11 @@ If Jesus used "Father" in a way compatible with Islam (i.e., as creator/sustaine
 
 #### Step 1: Challenge the Muslim's refusal to adopt terminology
 
-Argue that if the meaning is affirmed, the word should also be acceptable. If God is truly a father in the sense of creator and sustainer, why refuse the term? This suggests the real objection is not the word but the theology.
+Argue that if the meaning is affirmed, the word should also be acceptable. If God is truly a father in the sense of creator and sustainer, why refuse the term? This indicates the objection is not the word but the theology.
 
 #### Step 2: Expose the underlying theological disagreement
 
-Point out that the Muslim's real objection is to any language that could imply God has offspring or is multi-personal. Therefore, the debate is not about words but about the nature of God: Is God a Trinity? Is Jesus the unique Son? The Christian affirms yes; the Muslim denies it.
+Point out that the Muslim objects to any language that could imply God has offspring or is multi-personal. Therefore, the debate is not about words but about the nature of God: Is God a Trinity? Is Jesus the unique Son? The Christian affirms yes; the Muslim denies it.
 
 #### Step 3: Apply to Jesus' prayer
 
@@ -288,11 +288,11 @@ Cite Jesus' prayers in the gospels (e.g., John 17, Matthew 26:39) where he addre
 
 #### Step 1: Read the verse in context
 
-Read Quran 5:18 in its surrounding context (Surah Al-Ma'idah, verses 15-21). Note that it addresses Jews and Christians who claim special status as "sons of Allah and His loved ones" while persisting in sin. The rebuke is against self-righteousness and presumption, not against being beloved to God per se.
+Read Quran 5:18 in its surrounding context (Surah Al-Ma'idah, verses 15-21). Dr. Nasser notes that it addresses Jews and Christians who claim special status as "sons of Allah and His loved ones" while persisting in sin. The rebuke is against self-righteousness and presumption, not against being beloved to God per se.
 
 #### Step 2: Identify the theological error being corrected
 
-Ask: What specific belief or behavior is the Quran correcting? Dr. Nasser argues it is the arrogance of assuming guaranteed salvation by virtue of religious identity. The Christian argues it is the terminology itself, implying that calling oneself a "son of God" is wrong.
+Ask: What specific belief or behavior is the Quran correcting? Dr. Nasser argues it is the arrogance of ascribing purity to oneself while persisting in sin. The Christian argues it is the terminology itself, implying that calling oneself a "son of God" is wrong.
 
 #### Step 3: Cross-reference with other Quranic verses
 
@@ -300,7 +300,7 @@ Note that the Quran elsewhere affirms Allah loves those who are patient, rely on
 
 #### Step 4: Apply to Jesus
 
-If Jesus, as a righteous prophet, could be considered beloved to God, then there is no contradiction between his teaching and the Quran. The Christian argues Jesus' teaching goes further: he assures his followers of their beloved status in a way the Quran does not.
+If Jesus, as a prophet, could be considered beloved to God, then there is no contradiction between his teaching and the Quran. The Christian argues Jesus' teaching goes further: he assures his followers of their beloved status in a way the Quran does not.
 
 ### Topic 3 / Christian View
 
@@ -314,21 +314,21 @@ Cite Deuteronomy 8:5 ("As a man disciplines his son, so the Lord your God discip
 
 #### Step 3: Conclude theological contradiction
 
-Since Jesus taught that believers are beloved children of God, and the Quran rejects the very idea of being sons/children of God, Jesus' theology contradicts the Quran. Therefore, Jesus cannot be a Muslim.
+Since Jesus taught that believers are beloved children of God, and the Quran rejects the terminology of being sons/children of God, Jesus' theology contradicts the Quran. Therefore, Jesus cannot be a Muslim.
 
 ### Topic 4 / Historical Jesus and Biblical Reliability
 
 #### Step 1: Establish the source for the historical Jesus
 
-Ask: Where do we learn about Jesus? The Christian says the Bible, particularly the gospels. Dr. Nasser says we can reconstruct a historical Jesus from the earliest sources, which show lower Christology. Both agree the Bible is our best source, but they disagree on how to read it.
+Ask: Where do we learn about Jesus? The Christian says the Bible, particularly the gospels. Dr. Nasser says we can reconstruct a historical Jesus from the earliest sources, which show lower Christology. Both agree the Bible is the source for learning about Jesus, but they disagree on how to read it.
 
 #### Step 2: Evaluate the historical reliability of gospel claims
 
-The Christian argues the gospels are reliable historical documents. Dr. Nasser suggests the high Christology (Jesus as divine Son) is a later development. The debate touches on the "Q" source, early vs. late gospel material, and the conclusions of historical Jesus scholarship.
+The Christian argues the gospels are reliable historical documents. Dr. Nasser states the high Christology (Jesus as divine Son) is a later development. The debate touches on the "Q" source, early vs. late gospel material, and the conclusions of historical Jesus scholarship.
 
 #### Step 3: Determine Jesus' self-understanding
 
-Given the historical evidence, ask: Did Jesus see himself as merely a prophet, or as the unique Son of God? The Christian says the evidence shows the latter. The Muslim says the evidence, properly understood, shows the former. The Christian cites Matthew 21's parable where Jesus distinguishes himself as "the son" from the prophets; the Muslim says the crowd concluded he was a prophet, so they understood him correctly.
+Given the historical evidence, ask: Did Jesus see himself as merely a prophet, or as the unique Son of God? The Christian says the evidence shows the latter. The Muslim says the evidence, properly understood, shows the former. The Christian cites Matthew 21's parable where Jesus distinguishes himself as "the son" from the prophets; the Muslim cites Matthew 21, where the crowd concludes Jesus is a prophet, showing the crowd understood Jesus as a prophet.
 
 #### Step 4: Conclude on religious identity
 
@@ -338,7 +338,7 @@ If Jesus was a prophet only, he could be a Muslim. If he claimed unique divine s
 
 #### Step 1: Affirm biblical reliability
 
-Argue that the gospels, while theological, are based on eyewitness testimony and reliably transmit Jesus' teachings. The high Christology is not a late addition but reflects Jesus' own self-understanding.
+Argue that the gospels, while theological, are reliable historical documents and reliably transmit Jesus' teachings. The high Christology is not a late addition but reflects Jesus' own self-understanding.
 
 #### Step 2: Cite Jesus' claims to unique authority
 
@@ -346,4 +346,4 @@ Point to Jesus' authority to forgive sins (Mark 2), his claim to be the unique S
 
 #### Step 3: Conclude Jesus was not a Muslim
 
-Given that Jesus claimed a unique relationship with God as Son, taught a theology of God's fatherhood that includes believers as beloved children, and was worshiped as divine by his followers, he cannot be considered a Muslim. A Muslim, by definition, rejects these teachings.
+Given that Jesus claimed to be the unique Son of God, taught a theology of God's fatherhood that includes believers as beloved children, and was worshiped as divine by his followers, he cannot be considered a Muslim. A Muslim, by definition, rejects these teachings.

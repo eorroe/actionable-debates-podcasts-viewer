@@ -7,7 +7,7 @@ This debate explores how business acumen meets biblical wisdom, featuring Philli
 ## When to Follow Debate
 
 - When building a business or ministry with biblical principles
-- When discerning between multiple business or ministry opportunities
+- When discerning between business or ministry opportunities
 - When struggling with identity beyond your gifts or platform
 - When wanting to advance spiritually and financially without compromising
 - When learning to steward success and influence
@@ -129,7 +129,7 @@ Your gifts can give you relationships, but your character can ruin them
 Before God advances you to a new level of influence, you must be willing to release the previous level completely. True sacrifice means laying down your current blessings, platforms, or relationships and not reclaiming them until God explicitly tells you through His Word, the witness of the Holy Spirit, or clear prophetic direction.
 
 ##### Example 2: Dating Sacrifice
-Dating example: ended a relationship before it started to prove God had his heart
+Dating example: ended a relationship before it started to prove God had Timberlake's heart
 
 #### Best Practices
 
@@ -158,7 +158,7 @@ Dating example: ended a relationship before it started to prove God had his hear
 Every blessing received after a perceived delay was right on time
 
 ##### Example 2: Protection in Delay
-God's brilliance in not blessing you too quickly
+God's protection in not blessing you too quickly
 
 ##### Example 3: Trust During Waiting
 Learning to trust God in the waiting season
@@ -381,7 +381,7 @@ Thinking about your idea more than the problem it solves means you're completely
 Toure Roberts laid everything on the altar and trusted God with outcomes
 
 ##### Example 2: Jessica Lane McDonald's Platform
-Jessica Lane McDonald laid her social media platform on the altar after her account was locked, demonstrating surrender even when God removes what you've built.
+Jessica Lane McDonald laid her social media platform on the altar after her account was locked, leading to a 7-month sabbatical from social media, demonstrating surrender even when God removes what you've built.
 
 ##### Example 3: Control Makes You God
 If you try to control outcomes, you make yourself God in your own life
@@ -422,11 +422,11 @@ Intimacy protects from making bad decisions and being led astray
 
 - ✅ Make God your first thought in the morning
 - ✅ Have honest, unsanitized conversations with God
-- ✅ Confess and renounce sin from your heart through honest prayer and repentance each day.
+- ✅ Confess and renounce sin from your heart through honest prayer and repentance.
 
 #### Keep In Mind
 
-- Intimacy with God looks different for everyone - prayer room, walk in the park, etc.
+- Intimacy with God looks different for each person - for example, one in a prayer room, another on a walk in the park.
 
 #### Security & Safety Notes
 
@@ -512,7 +512,7 @@ Apostle Paul learned contentment in both abundance and lack
 God delays blessings to develop character
 
 ##### Example 3: Wrong Timing Is Harmful
-Very thing prayed for would have been harmful if received at the wrong time
+I can't think of one blessing that came after a perceived delay that wasn't right on time
 
 #### Best Practices
 
@@ -705,7 +705,7 @@ When faced with a decision, run it through your convictions first. Let them dete
 
 Remember that you will give an account to God for every decision. Let this eternal perspective shape your choices.
 
-#### Step 4: Be Willing to Lose the Bag
+#### Step 4: Be Willing to Decline Lucrative Opportunities
 
 Be prepared to turn down lucrative opportunities if they compromise your convictions, witness, or calling.
 

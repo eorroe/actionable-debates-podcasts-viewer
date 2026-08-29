@@ -2,12 +2,12 @@
 
 ## Overview
 
-This podcast explores how business acumen meets biblical wisdom, featuring Phillip Anthony Mitchell, Tim Timberlake, and Toure Roberts at Investfest. The panel discusses prosperity theology, stewardship, character development, discernment of God's opportunities versus good opportunities, and maintaining intimacy with God amid success. The central thesis is that wealth and influence are tools for purpose, not ends in themselves, and that character and intimacy with God determine whether you can sustain the blessings you receive.
+This podcast explores how business acumen meets biblical wisdom, featuring Phillip Anthony Mitchell, Tim Timberlake, and Toure Roberts at Investfest. The panel discusses prosperity theology, stewardship, character development, discernment of God's opportunities versus good opportunities, and maintaining intimacy with God amid success.
 
 ## When to Follow Podcast
 
 - When building a business or ministry with biblical principles
-- When discerning between multiple business or ministry opportunities
+- When discerning between business or ministry opportunities
 - When struggling with identity beyond your gifts or platform
 - When wanting to advance spiritually and financially without compromising
 - When learning to steward success and influence
@@ -51,7 +51,7 @@ Desperate, overly thirsty people walk through every open door and walk off cliff
 
 ##### Example 3: The $37 Million No
 
-Tim Timberlake turned down a $37 million opportunity because it didn't align with core convictions. The deal would have cost reputation, witness, and required compromise.
+Tim Timberlake turned down a $37 million opportunity because it didn't align with core convictions. The deal would have cost reputation and witness.
 
 #### Best Practices
 
@@ -68,7 +68,7 @@ Tim Timberlake turned down a $37 million opportunity because it didn't align wit
 #### Keep In Mind
 
 - Passion and purpose are not the same - good opportunities may align with passion but not purpose
-- It takes a strong person to say no to an open door
+- Say no to an open door
 - You are not random - God knew you before He formed you in your mother's womb
 - You will stand before God and give an account for every decision
 
@@ -122,7 +122,7 @@ Release any desire for wealth that is not assigned to your purpose. Trust that G
 
 ##### Example 1: Biblical Prosperity
 
-God blessed Abraham, David, and Solomon financially, showing scripture supports prosperity. There's nothing wrong with having wealth as long as it doesn't have you.
+God blessed Abraham, David, and Solomon financially. There's nothing wrong with having wealth as long as it doesn't have you.
 
 ##### Example 2: Stewardship Principle
 
@@ -144,12 +144,11 @@ Matthew 25 parable of talents - each person received according to their own abil
 
 #### Keep In Mind
 
-- God is more concerned with your stewardship than with simply pouring out wealth on everyone
+- God does not simply pour out wealth on everyone
 - God assigns wealth according to what He has called you to do
 
 #### Security & Safety Notes
 
-- Receiving a business does not guarantee keeping it without character and integrity
 - Putting trust in riches rather than in God leads to spiritual danger
 
 #### Common Pitfalls
@@ -177,7 +176,7 @@ Yield to God's process rather than rushing past difficulties. Trust that He is b
 
 ##### Step 4: Identify Current Blessings to Sacrifice
 
-List your current platforms, relationships, or blessings that may be holding you back from the next level. Ask God which ones need to be laid down.
+List your current platforms, relationships, or blessings that may be holding you back from the next level.
 
 ##### Step 5: Lay It on the Altar
 
@@ -199,7 +198,7 @@ Before God advances you to a new level of influence, you must be willing to rele
 
 ##### Example 3: Delay Produces Right Timing
 
-Every blessing received after a perceived delay was right on time. God's brilliance in not blessing you too quickly protects and develops you.
+Every blessing received after a delay was right on time. Not blessing you too quickly protects and develops you.
 
 #### Best Practices
 
@@ -217,7 +216,7 @@ Every blessing received after a perceived delay was right on time. God's brillia
 
 - God uses life's difficulties to develop the character needed for sustained blessing
 - The test of the heart is whether you can sacrifice what you've built
-- Delayed blessings are often right on time and correct you in ways immediate blessings would not
+- Delayed blessings are often right on time
 
 #### Security & Safety Notes
 
@@ -232,7 +231,7 @@ Every blessing received after a perceived delay was right on time. God's brillia
 - **Problem:** Being unwilling to sacrifice current blessings for advancement
   **Solution:** Lay it on the altar and let it stay until you die to it
 - **Problem:** Thinking delayed means denied
-  **Solution:** Trust that God knows the end from the beginning and His timing is perfect
+  **Solution:** Trust in God's process.
 
 ### Topic 4: Intimacy with God for Discernment
 
@@ -266,7 +265,7 @@ Let time with God change you. Like a married couple become one, intimacy with Go
 
 ##### Example 1: Prayer Over Preaching
 
-Prayer life is the strongest part of ministry, not preaching. Being honest with God about feelings and desires without sanitizing theology.
+Prayer life matters more than preaching. Being honest with God about feelings and desires without sanitizing theology.
 
 ##### Example 2: Intimacy as Protection
 
@@ -285,14 +284,14 @@ Opening up brokenness to God's wholeness makes you whole. Worship is surrender -
 - ✅ Open up everything to God even when you don't understand it
 - ✅ Trust God's holiness with your brokenness
 - ✅ Cultivate intimacy with God as the foundation for discerning your calling
-- ✅ Learn to say no - it's a powerful word that keeps you out of trouble
+- ✅ Learn to say no - it keeps you out of trouble
 - ✅ Don't be so thirsty for success, money, or platforms
 
 #### Keep In Mind
 
-- Intimacy with God looks different for everyone - prayer room, walk in the park, etc.
+- Intimacy with God looks different for everyone - prayer room, walk in the park
 - Intimacy with God transforms you into His image over time
-- There is nothing that will satisfy you more in this life than a deep intimate personal relationship with Jesus that is happening in private
+- A deep intimate personal relationship with Jesus in private satisfies.
 
 #### Security & Safety Notes
 
@@ -331,7 +330,7 @@ Shift your focus from your idea or platform to the person who will be blessed by
 
 ##### Step 5: Lay Your Business on the Altar
 
-List your business, platform, influence, ideas, and desires. Ask God which ones need to be placed on the altar. Tell Him, "This all belongs to you. I'm fully committed to you."
+Place your business, platform, influence, ideas, and desires on the altar.
 
 ##### Step 6: Let God Define You
 
@@ -341,7 +340,7 @@ Allow God to recognize you as His child rather than seeking identity from what y
 
 ##### Example 1: The Alone Question
 
-Who are you when there's no one to talk to? Who are you to you? And if you only recognize yourself by what you do, then you're missing an opportunity to be recognized by the very person that God sees you as.
+Who are you when there's no one to talk to? Who are you to you? And if you only recognize yourself by what you do, then you're missing being seen by God as who you truly are.
 
 ##### Example 2: Gift for Glory or God's Glory
 
@@ -349,7 +348,7 @@ You can use your gift for your glory or God's glory. Thinking about your busines
 
 ##### Example 3: The Idol Test
 
-If you think about the gift more than the person who gave it to you, it may be an idol. If you think about the gift more than the person the gift is for, you're missing the point.
+If you think about the gift more than the person who gave it to you, you may be idolizing it. If you think about the gift more than the person the gift is for, you're missing the point.
 
 ##### Example 4: Toure Roberts' Altar
 
@@ -372,7 +371,6 @@ Toure Roberts laid everything on the altar and trusted God with outcomes. If you
 
 - God sees you as a son/daughter, not as what you do
 - The gift is a means to serve others, not an end in itself
-- God can trust someone whose business, platform, influence, ideas, and desires is on the altar
 - Your gift is for the person it serves, not for your own promotion
 
 #### Security & Safety Notes
@@ -403,7 +401,7 @@ Practice being content whether you are in abundance or lack. Make this a discipl
 
 ##### Step 2: Trust God's Timing in Delays
 
-When waiting for breakthroughs, trust that God knows the end from the beginning. Delays are often for your development.
+When waiting for breakthroughs, trust in God's timing. Delays are often for your development.
 
 ##### Step 3: Enjoy the Waiting Season
 
@@ -411,7 +409,7 @@ Don't just endure waiting - learn to enjoy the view. Let God teach you during th
 
 ##### Step 4: Avoid Impulsive Decisions
 
-When tempted to act impulsively because of delay or lack, remember that God's timing is perfect and rushing can cost you.
+When tempted to act impulsively because of delay or lack, remember that rushing can cost you.
 
 #### Examples
 
@@ -421,11 +419,11 @@ Apostle Paul learned contentment in both abundance and lack.
 
 ##### Example 2: Delay Develops Character
 
-God delays blessings to develop character. Every blessing received after a perceived delay was right on time.
+God delays blessings to develop character. Every blessing received after a delay was right on time.
 
 ##### Example 3: Wrong Timing Is Harmful
 
-The very thing prayed for would have been harmful if received at the wrong time. God's brilliance in not blessing you too quickly protects you.
+The very thing prayed for would have been harmful if received at the wrong time. Not blessing you too quickly protects you.
 
 #### Best Practices
 
@@ -433,7 +431,6 @@ The very thing prayed for would have been harmful if received at the wrong time.
 - ✅ Learn to enjoy the waiting season
 - ✅ Be content in whatever state you find yourself
 - ✅ Don't rush ahead of God's timing
-- ✅ Slowly is the fastest way to get to where God desires for you to be
 
 #### Keep In Mind
 
@@ -448,6 +445,6 @@ The very thing prayed for would have been harmful if received at the wrong time.
 #### Common Pitfalls
 
 - **Problem:** Thinking delayed means denied
-  **Solution:** Trust God's brilliant timing and enjoy the process of waiting
+  **Solution:** Trust God's timing and enjoy the process of waiting
 - **Problem:** Making failure an identity
   **Solution:** Failure is an event, not an identity. The faster you lick your wounds and move on, the faster you'll be on track for your next assignment.

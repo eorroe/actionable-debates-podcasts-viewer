@@ -2,7 +2,7 @@
 
 ## Overview
 
-Bryce Crawford, a 21-year-old Christian evangelist and content creator, shares his journey from crippling depression and a near-suicide attempt on Christmas Day 2020 to becoming a bold voice for Jesus on social media and in public spaces. He discusses the hidden dangers of treating Christianity as merely a "vibe" rather than a lifestyle, the challenges of digital influence, and practical approaches to mental health that balance supernatural healing with therapy. Through personal stories from Burning Man, street evangelism, and online ministry, Bryce and Lecrae explore what it means to live out authentic faith in Gen Z's hyper-connected world.
+Bryce Crawford, a 21-year-old Christian evangelist and content creator, shares his journey from crippling depression and a suicide attempt on Christmas Day 2020 to becoming a bold voice for Jesus on social media and in public spaces. He discusses the hidden dangers of treating Christianity as merely a "vibe" rather than a lifestyle, the challenges of digital influence, and practical approaches to mental health that balance supernatural healing with therapy. Through personal stories from Burning Man, street evangelism, and online ministry, Bryce and Lecrae explore what it means to live out authentic faith in Gen Z's hyper-connected world.
 
 ## When to Follow Podcast
 
@@ -30,7 +30,7 @@ Build rapport by showing up consistently. Let people know you care about them as
 
 ##### Step 4: Share your story vulnerably
 
-After establishing trust, ask if you can share a little bit of your story. Be honest about your own brokenness and how Jesus changed your life. Authenticity opens doors that argument never will.
+After establishing trust, ask if you can share your story. Be honest about your own brokenness and how Jesus changed your life. Authenticity opens doors that argument never will.
 
 ##### Step 5: Do not argue or egg people on
 
@@ -48,11 +48,11 @@ On Christmas Day 2020, Bryce went to Waffle House planning to end his life. He r
 
 ##### Example 2: Spit on at a club
 
-Lecrae shared a story about being spit on while sharing the gospel in line at a club. He felt embarrassed and angry but chose to pray for the man instead of retaliating. About three years later, a guy came up to him at an event and said he became a Christian that night in line because he saw Lecrae respond with grace instead of anger.
+Lecrae shared a story about being spit on while sharing the gospel in line at a club. He felt embarrassed and angry but chose to pray for the man instead of retaliating. Three years later, a guy came up to him at an event and said he became a Christian that night in line because he saw Lecrae respond with grace instead of anger.
 
 ##### Example 3: Burning Man encounters
 
-Bryce shared stories of being invited to an orgy bus and being offered LSD at Burning Man. He declined and used those moments as opportunities to share the gospel, saying he was "all about Jesus." He acknowledged there were many videos he could not even post because of how wild the environment was.
+Bryce shared stories of being invited to an orgy bus and being offered LSD at Burning Man. He declined and used those moments as opportunities to share the gospel, saying he was "all about Jesus." He acknowledged there were videos he could not even post because of how wild the environment was.
 
 #### Best Practices
 
@@ -66,7 +66,7 @@ Bryce shared stories of being invited to an orgy bus and being offered LSD at Bu
 
 #### Keep In Mind
 
-- The highest rate of conversion is generally through relationships, not street evangelism. That is why following up matters.
+- Conversions happen through relationships rather than street evangelism. That is why following up matters.
 - People remember how you made them feel, not what you said.
 - Persecution is not the same as someone getting riled up because you started an argument.
 - You may be the only Christian that person ever encounters. Represent Jesus well.
@@ -95,7 +95,7 @@ Bryce shared stories of being invited to an orgy bus and being offered LSD at Bu
 
 ##### Step 1: Acknowledge the struggle
 
-Admit to yourself and to God that you are dealing with anxiety or depression. Do not feel shame for it. Mental health struggles are real and affect many believers.
+Admit to yourself and to God that you are dealing with anxiety or depression. Do not feel shame for it. Mental health struggles are real and affect believers.
 
 ##### Step 2: Seek practical help alongside prayer
 
@@ -115,7 +115,7 @@ Even after supernatural healing, you may still experience occasional struggles. 
 
 #### Examples
 
-##### Example 1: Christmas Day near-suicide
+##### Example 1: Christmas Day suicide
 
 At 17, Bryce battled crippling anxiety and depression and planned to end his life on Christmas Day 2020. He went to Waffle House for a last meal, where a stranger's words about love being mutual unexpectedly pierced his heart. For the first time, his head knowledge about God connected with his heart. He asked Jesus to take away his anxiety and depression and felt immediate peace. He has not experienced crippling anxiety since that day, though he did have an anxiety attack two weeks before this podcast.
 
@@ -125,7 +125,7 @@ Bryce went to therapy from ages 18 through 20 and praised God for the wisdom his
 
 ##### Example 3: Lecrae's mental health journey
 
-Lecrae shared that he probably had his first mental breakdown at 22 and went to a mental hospital for a few days. He noted that social media now statistically contributes to 39% of people's mental health deterioration.
+Lecrae shared that he probably had his first mental breakdown at 22 and went to a mental hospital for a few days. He noted that social media contributes to 39% of people's mental health deterioration.
 
 #### Best Practices
 
@@ -175,7 +175,7 @@ Maintain hobbies, rhythms, and relationships that are just for you. You do not n
 
 ##### Step 3: Be honest about your imperfections
 
-Do not pretend to be perfect. Admit when you make mistakes. People can relate to brokenness, not perfection. Have a few trusted mentors who can be real with you and call you out.
+Do not pretend to be perfect. Admit when you make mistakes. People can relate to brokenness, not perfection. Have trusted mentors who can be real with you and call you out.
 
 ##### Step 4: Prioritize local church and discipleship
 
@@ -216,9 +216,9 @@ Bryce emphasized that he loves having a private life. He enjoys basketball, fish
 
 #### Keep In Mind
 
-- Very few people have a voice in your life. Many have opinions, but only a few have earned the right to speak into your life.
+- Many have opinions, but only a few have earned the right to speak into your life.
 - If your whole goal is to be seen by others, you already have your reward.
-- Christianity becoming popular is both a blessing and a danger. Many people are genuinely coming to Jesus, but many are also treating faith as a brand.
+- Christianity becoming popular is both a blessing and a danger. People are genuinely coming to Jesus, while others are treating faith as a brand.
 - You do not have to advertise your music or your faith. Make good content, and if people hear it and their heart changes, that is enough.
 
 #### Security & Safety Notes
@@ -279,7 +279,7 @@ Lecrae asked Bryce about the "Jesus glow" trend where people show their before a
 
 ##### Example 3: Christianity as a vibe
 
-Bryce observed that Christianity has become popular with Gen Z, but the danger is that it becomes a label, not a lifestyle. He said the pro is many are genuinely turning to Jesus, but the con is that many are just following a trend.
+Bryce observed that Christianity has become popular with Gen Z, but the danger is that it becomes a label, not a lifestyle. He said some are genuinely turning to Jesus, while others are just following a trend.
 
 #### Best Practices
 
@@ -295,7 +295,7 @@ Bryce observed that Christianity has become popular with Gen Z, but the danger i
 
 #### Keep In Mind
 
-- Gen Z is more spiritually curious than previous generations, but they are also the most biblically illiterate.
+- Gen Z is spiritually curious but biblically illiterate.
 - Christianity becoming popular is both an opportunity and a danger.
 - Time does not automatically bring maturity. Supernatural maturity happens when you are actively walking with God and applying what you learn.
 - Wisdom is not just knowledge. It is applying what you learn and getting actual experience.
