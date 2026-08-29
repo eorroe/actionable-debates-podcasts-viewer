@@ -2,7 +2,7 @@
 
 ## Overview
 
-This podcast episode from "Girls Gone Bible" features an intimate interview with Pastor Philip Anthony Mitchell discussing the urgency of end-time stewardship, maintaining spiritual fire, suffering well, preaching amid personal sickness, and the spiritual dangers of pride. The conversation explores how believers can live faithfully for Christ probably in the last seconds of the church age, contend inwardly against shame and depression, and steward God's favor without idolizing platform or fame. Pastor Mitchell shares two promises he made to God, his theology of suffering as a gift, and his commitment to faithful proclamation even when sick in his own body.
+This podcast episode from "Girls Gone Bible" features an intimate interview with Pastor Philip Anthony Mitchell discussing the urgency of end-time stewardship, maintaining spiritual fire, suffering well, preaching amid personal sickness, and the spiritual dangers of pride. The conversation explores how believers can live faithfully for Christ in the last seconds of the church age, contend inwardly against shame and depression, and steward God's favor without idolizing platform or fame. Pastor Mitchell shares two promises he made to God, his theology of suffering as a gift, and his commitment to faithful proclamation even when sick in his own body.
 
 ## When to Follow Podcast
 
@@ -28,7 +28,7 @@ When any given Sunday, podcast, or conference ends, ask: Was Christ exalted? Did
 
 ##### Step 3: Take the Call to Multiply Disciples Seriously
 
-Do not compartmentalize your faith. Take your walk with Christ seriously and take your call to spread the gospel and multiply disciples seriously. Get out into the highways and byways making Jesus known and compelling as many people as possible to come into the kingdom.
+Do not compartmentalize your faith. Take your walk with Christ seriously and take your call to spread the gospel and multiply disciples seriously. Get out into the highways and byways making Jesus known and compelling people to come into the kingdom.
 
 ##### Step 4: Reject Complacency
 
@@ -38,7 +38,7 @@ If you are not about advancing the gospel and being with God's people, reconside
 
 ##### Example 1: The Last Sunday
 
-Pastor Philip describes never knowing what Sunday will be his last, what podcast will be his last, or what conference will be his last. There have been testimonies of people leaving a gathering and not making it home, including a church member who died on a motorcycle after a Sunday service and a young man who lost his life the week he planned to attend a 2019 gathering.
+Pastor Philip describes never knowing what Sunday will be his last, what podcast will be his last, or what conference will be his last. There have been testimonies of people leaving a gathering and not making it home, including a brother in their church who died on a motorcycle after leaving a gathering and a young man who lost his life the week he planned to attend a 2019 gathering.
 
 ##### Example 2: The Front Line of Battle
 
@@ -46,7 +46,7 @@ Every moment of speaking, whether on tour or in a Sunday gathering, feels like b
 
 ##### Example 3: The End-Time Burden
 
-Pastor Philip describes the burden to extend the Girls Gone Bible tour as more than a podcast. The desire to be with God's people, teach, preach, lay hands on the sick, and look people in the eye when they are shedding tears is the end-time burden that goes beyond the studio.
+Pastor Philip describes the burden to extend the Girls Gone Bible tour as more than a podcast — they want to be with God's people, teach, preach, lay hands on the sick, and look people in the eye when they are shedding tears.
 
 #### Best Practices
 
@@ -66,9 +66,9 @@ Pastor Philip describes the burden to extend the Girls Gone Bible tour as more t
 
 #### Security & Safety Notes
 
-- Treating ministry casually when people's eternal destinies are at stake is spiritually dangerous
+- Treating ministry casually is spiritually dangerous
 - Assuming you have more time than you actually do leads to complacency and unfaithful stewardship
-- Playing around with the gospel when lives hang in the balance is not an option
+- Playing around with the gospel is not an option
 
 #### Common Pitfalls
 
@@ -93,7 +93,7 @@ When your fire has grown cold, return to the source: Jesus himself. Go back to t
 
 ##### Step 3: Surround Yourself with Fiery Believers
 
-Get around community who is on fire. Tell them you have drifted and ask them to pray for you. Put yourself in gatherings where people are on fire. Watch and engage with those who walk closely with Christ.
+Get around community who is on fire. Tell them you have drifted and ask them to pray for you. Put yourself in gatherings where people are on fire.
 
 ##### Step 4: Throw Wood on the Fire
 
@@ -135,10 +135,6 @@ When the Holy Spirit was poured out on 120 disciples on the day of Pentecost, th
 
 #### Security & Safety Notes
 
-- Public religiosity without private intimacy leaves you vulnerable to losing your fire
-- Condemning yourself for drifting distances you further from the source
-- Chasing platform and fame instead of Christ leads to a counterfeit fire
-
 #### Common Pitfalls
 
 - **Problem:** Feeling condemned when your fire grows cold
@@ -146,7 +142,7 @@ When the Holy Spirit was poured out on 120 disciples on the day of Pentecost, th
 - **Problem:** Defining fire by platform size or fame
   **Solution:** Understand fire as intimacy with Christ, not visibility or volume
 - **Problem:** Trying to reignite without community
-  **Solution:** Get around fiery believers who can pray with you and speak life into you
+  **Solution:** Get around community who is on fire. Tell them you have drifted and ask them to pray for you.
 
 ### Topic 3: Suffering Well / Theology of Suffering
 
@@ -303,7 +299,7 @@ While laying hands on others for healing, Pastor Philip also lays hands on himse
 
 ##### Step 1: Make Your Promise to God After Failure
 
-When Pastor Philip was two and a half years into his walk with Christ, he experienced an epic failure that hurt many people, including family and church members. Staring at a podium in the back room of a church, he thought his ministry was over. Two years later, when asked to preach chapel after two years away from the pulpit, he fasted for a week, studied the text, and made a promise to God.
+When Pastor Philip was two and a half years into his walk with Christ, he experienced an epic failure that hurt a lot of people, including family and church members. Staring at a podium in the back room of a church, he thought his ministry was over. Two years later, when asked to preach chapel after two years away from the pulpit, he fasted for a week, studied the text, and made a promise to God.
 
 ##### Step 2: Promise Faithfulness in Proclamation
 
@@ -325,7 +321,7 @@ His whole ministry and whole life is a second chance. He intends to make good wi
 
 ##### Example 1: The Second Chance Ministry
 
-Pastor Philip says, "My whole ministry and my whole life is a second chance. I intend to make good with my second chance." After an epic failure where he hurt many people, he thought his time serving Jesus was over. But the Lord met him, restored him, and gave him another opportunity.
+Pastor Philip says, "My whole ministry and my whole life is a second chance. I intend to make good with my second chance." After an epic failure where he hurt a lot of people, he thought his time serving Jesus was over. But the Lord met him, restored him, and gave him another opportunity.
 
 ##### Example 2: Preaching to 183 People
 
@@ -684,7 +680,7 @@ Pastor Philip says, "I think much of this is a systematic spiritual attack again
 
 ##### Step 1: Understand the Book's Origin
 
-Pastor Philip's book "Contend" is based on a message he preached in London during the 2019 crusade. The message was from the letter of Jude, and the book centers on contending for the faith both in culture and in the heart. It is expected to come out October 13th and is available for pre-order on Amazon.
+Pastor Philip's book "Contend" is based on a message he preached in London during the 2019 crusade. The message was from the letter of Jude, and the book centers on contending for the faith both in culture and in the heart. It is expected to come out October 13th, if the date does not change, and is available for pre-order on Amazon.
 
 ##### Step 2: Identify Who the Book Is For
 
@@ -729,7 +725,7 @@ Pastor Philip has kept a journal for over 20 years. He is an urban dude with dep
 
 #### Keep In Mind
 
-- The book is expected to drop October 13th
+- The book is expected to drop October 13th, if the date does not change
 - It is based on the message of Jude preached in London
 - It is for those struggling with shame, depression, regret, betrayal, and loss
 - It is about contending for the faith inwardly, not just outwardly
