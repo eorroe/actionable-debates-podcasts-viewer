@@ -2,7 +2,7 @@
 
 ## Overview
 
-This podcast episode features Lecrae and KB in a raw, candid conversation about their long-term ministry partnership and friendship, the tensions that nearly broke their relationship, and the grace that brought them back together. KB opens up for the first time publicly about feeling Lecrae was ashamed of him—specifically in industry events, concerts, and public Christian hip hop spaces where Lecrae's positioning around KB changed as his mainstream success grew—the period KB describes as "50% contentious" that led to counseling, and how Lecrae's leadership style unintentionally hurt those closest to him. Together they discuss navigating fame, racial reconciliation, theological disagreements, and what it means to lead with humility in Christian hip hop.
+This podcast episode features Lecrae and KB in a raw, candid conversation about their long-term ministry partnership and friendship, the 50% contentious period in their relationship, and the grace that brought them back together. KB opens up for the first time publicly about feeling Lecrae was ashamed of him—specifically in industry events, concerts, and public Christian hip hop spaces where Lecrae's positioning around KB changed as his mainstream success grew—the period KB describes as "50% contentious" that led to counseling, and how Lecrae's leadership style unintentionally hurt those closest to him. Together they discuss navigating fame, racial reconciliation, theological disagreements, and what it means to lead with humility in Christian hip hop.
 
 ## When to Follow Podcast
 
@@ -19,7 +19,7 @@ This podcast episode features Lecrae and KB in a raw, candid conversation about 
 
 ##### Step 1: Acknowledge When Something Feels Off
 
-Pay attention when a relationship feels strained or when you sense distance from someone you trust. KB describes how their relationship reached a period he calls "50% contentious"—where roughly half their interactions were marked by frustration or distance—and how he knew something needed to change before they committed to touring together again.
+Pay attention when a relationship feels strained or when you sense distance from someone you trust. KB describes how their relationship reached a period he calls "50% contentious"—where 50% of their interactions were marked by frustration or distance—and how he knew something needed to change before they committed to touring together again.
 
 ##### Step 2: Seek Outside Perspective
 
@@ -35,7 +35,7 @@ When someone shares how they were hurt, resist the urge to explain your intent i
 
 ##### Step 5: Practice Repair and Rebuild Over Time
 
-Reconciliation is not a one-time event but an ongoing process. Lecrae and KB emphasize that their friendship has been strengthened through multiple intentional resets over the years.
+Reconciliation is not a one-time event but an ongoing process. Lecrae and KB emphasize that their friendship has been strengthened through intentional resets over the years.
 
 #### Examples
 
@@ -59,7 +59,7 @@ After KB gave feedback on a song line he found "corny," Lecrae called him the ne
 
 - Unintentional damage is still damage. Lecrae emphasizes that his intent didn't match his impact, and both had to learn this.
 - You cannot assume someone sees your actions the same way you see them. Lecrae notes, "When you take a step, the ground shakes more than you realize."
-- Healing requires humility from both parties. KB survived what he describes as Lecrae's unintentionally harsh leadership style—one that demanded high standards without sufficient awareness of how it landed on those closest to him—by extending grace.
+- Healing requires humility from both parties. KB survived what he describes as Lecrae's unintentionally harsh leadership style—one where he was oblivious to the weight and impact of his actions on those closest to him—by extending grace.
 
 #### Security & Safety Notes
 
@@ -72,7 +72,7 @@ After KB gave feedback on a song line he found "corny," Lecrae called him the ne
 - **Problem:** Assuming your intent excuses your impact. Lecrae realized that even when he didn't mean to hurt KB, the impact was still real and required repair.
   **Solution:** Take responsibility for impact regardless of intent, and ask how you can make it right.
 
-- **Problem:** Letting a relationship go untended until resentment hardens. KB describes how time and unaddressed small tensions—like not speaking up about hurtful comments—turned a once-thriving relationship into a contentious one where roughly half of their interactions were negative.
+- **Problem:** Letting a relationship go untended until resentment hardens. KB describes how time and unaddressed small tensions—like not speaking up about hurtful comments—turned a once-thriving relationship into a contentious one where 50% of their interactions were negative.
   **Solution:** Regularly check in with mentors and peers about the health of the relationship, and address small tensions promptly before they accumulate into large fractures.
 
 - **Problem:** Using rigid, all-or-nothing thinking in your approach to people. KB regrets being overly rigid in his early 20s, dismissing people who were still growing rather than extending grace to them in their process.
@@ -134,7 +134,7 @@ Lecrae received emails congratulating him on number one albums alongside artists
 
 #### Common Pitfalls
 
-- **Problem:** Over-indexing on how many non-believers are listening while overlooking the Christian fans who built the platform. KB points out that Lecrae was so focused on reaching new audiences that he overlooked the millions of Christian fans already supporting Reach Records and Christian hip hop.
+- **Problem:** Over-indexing on how many non-believers are listening while overlooking the Christian fans who built the platform. KB points out that Lecrae was so focused on reaching new audiences that he overlooked the Christian fans already supporting Reach Records and Christian hip hop.
   **Solution:** Balance outreach to non-believers with encouragement and visibility for the community that built your platform.
 
 - **Problem:** Using mainstream positioning strategy to distance yourself from the people who helped build your platform. Lecrae's decision to publicly distance himself from KB and Reach Records in certain mainstream spaces made KB feel ashamed, revealing how leadership choices made for strategic reasons can unintentionally signal rejection to mentors and peers who were with you from the start.
@@ -161,7 +161,7 @@ Create space for hard discussions with people who see differently. KB had hours-
 
 ##### Step 4: Distinguish Between Helpful Truths and Harmful Bearers
 
-Recognize that people can hold valuable insights while still having significant blind spots or sins. KB uses Abraham Lincoln as an example: someone can do good things while still holding racist views. The goal is to extract the true and valuable insights a person offers without holding them up as a flawless model to be emulated in every respect.
+Recognize that people can hold valuable insights while still having blind spots or sins. KB uses Abraham Lincoln as an example: someone can do good things while still holding racist views. The goal is to extract the true and valuable insights a person offers without holding them up as a flawless model to be emulated in every respect.
 
 ##### Step 5: Love Those in Error While Still Speaking the Truth
 
@@ -202,7 +202,7 @@ KB describes the "cage Calvinist stage" where new believers discover reformed th
 - **Problem:** Cutting off relationships with Christians who hold different views on race or theology. KB felt betrayed when brothers who had previously dismissed his concerns suddenly became activists, but he worked through it rather than leaving the church.
   **Solution:** Commit to remaining in community even when it's uncomfortable, and give people time to grow.
 
-- **Problem:** Using theology to justify prejudice or dismiss others' pain. KB confronted his own heroes and found that pro-slavery arguments in 19th-century America were largely advanced by theologically conservative Christians who held views similar to his own, revealing how doctrinal positions can be weaponized to oppress.
+- **Problem:** Using theology to justify prejudice or dismiss others' pain. KB confronted his own heroes and found that 50% of all defenses of slavery in 19th-century America were advanced by theologically conservative Christians who held views similar to his own, revealing how doctrinal positions can be weaponized to oppress.
   **Solution:** Regularly examine whether your theology is being used to oppress or liberate marginalized people, and be willing to repent when it has been misused.
 
 - **Problem:** Feeling like you must have a complete, systematic theological framework before you can speak on a justice issue. KB notes that he lacked the theological vocabulary to articulate what he was experiencing for years, which left him silent when he had something important to contribute.
@@ -267,7 +267,7 @@ Lecrae walked through his office past plaques showing his albums next to Nas and
 - **Problem:** Becoming addicted to productivity and problem-solving. KB describes "hyperproductive codependency"—a pattern where people rewarded for constant productivity become psychologically dependent on the act of helping, solving, and creating, eventually burning out when they can no longer sustain that pace.
   **Solution:** Regularly audit your commitments, and practice resting without guilt. KB is now winding down assets and responsibilities to protect his health.
 
-- **Problem:** Comparing your success to others and feeling like you're not enough. Lecrae notes that even having Kendrick Lamar in the room can make you feel like you're missing something, while overlooking the millions of fans already supporting you.
+- **Problem:** Comparing your success to others and feeling like you're not enough. Lecrae notes that even having Kendrick Lamar in the room can make you feel like you're missing something, while overlooking the fans already supporting you.
   **Solution:** Focus on the specific calling God has given you, and resist the urge to compare your chapter to someone else's.
 
 - **Problem:** Letting fame change how you treat people. KB felt that Lecrae began treating him differently in public as his success grew, which hurt their relationship even though it was unintentional.
@@ -305,7 +305,7 @@ KB shares that doing eight shows in nine days was fine at 29 but is now very cha
 
 ##### Example 2: The Hyperproductive Codependency
 
-KB references a book called "Too Much" by Dr. Christina Melançon that describes "hyperproductive codependency"—when people who have been rewarded for constant productivity become psychologically dependent on it. He spent three years breaking free from the mindset that he had to be helping, solving, and creating at all times in order to be worthy.
+KB references a book called "Too Much" that describes "hyperproductive codependency"—when people who have been rewarded for constant productivity become psychologically dependent on it. He spent three years breaking free from the mindset that he had to be helping, solving, and creating at all times in order to be worthy.
 
 #### Best Practices
 
