@@ -2,7 +2,7 @@
 
 ## Overview
 
-This podcast episode from "Girls Gone Bible" features an intimate interview with Pastor Philip Anthony Mitchell discussing the urgency of end-time stewardship, maintaining spiritual fire, suffering well, preaching amid personal sickness, and the spiritual dangers of pride. The conversation explores how believers can live faithfully for Christ in the last seconds of the church age, contend inwardly against shame and depression, and steward God's favor without idolizing platform or fame. Pastor Mitchell shares two promises he made to God, his theology of suffering as a gift, and his commitment to faithful proclamation even when sick in his own body.
+This podcast episode from "Girls Gone Bible" features an intimate interview with Pastor Philip Anthony Mitchell discussing the urgency of end-time stewardship, maintaining spiritual fire, suffering well, preaching amid personal sickness, and the spiritual dangers of pride. The conversation explores how believers can live faithfully for Christ, probably in the last seconds of the church age, contend inwardly against shame and depression, and steward God's favor without idolizing platform or fame. Pastor Mitchell shares two promises he made to God, his theology of suffering as a gift, and his commitment to faithful proclamation even when sick in his own body.
 
 ## When to Follow Podcast
 
@@ -46,7 +46,7 @@ Every moment of speaking, whether on tour or in a Sunday gathering, feels like b
 
 ##### Example 3: The End-Time Burden
 
-Pastor Philip describes the burden to extend the Girls Gone Bible tour as more than a podcast — they want to be with God's people, teach, preach, lay hands on the sick, and look people in the eye when they are shedding tears.
+Pastor Philip describes the burden to extend the Girls Gone Bible tour as more than a podcast — they want to be with God's people, teach, preach, lay hands on the sick, look people in the eye when they are shedding tears, and get the gospel to God's people.
 
 #### Best Practices
 
@@ -66,9 +66,9 @@ Pastor Philip describes the burden to extend the Girls Gone Bible tour as more t
 
 #### Security & Safety Notes
 
-- Treating ministry casually is spiritually dangerous
+- Treating ministry as casual or routine when it is life or death is spiritually dangerous
 - Assuming you have more time than you actually do leads to complacency and unfaithful stewardship
-- Playing around with the gospel is not an option
+- Playing around with the gospel when lives hang in the balance is not an option
 
 #### Common Pitfalls
 
@@ -134,6 +134,11 @@ When the Holy Spirit was poured out on 120 disciples on the day of Pentecost, th
 - If God is a consuming fire, intimacy with Him is what ignites your own fire
 
 #### Security & Safety Notes
+
+- The enemy can make you feel condemned for your feelings and make you think God is mad at you
+- Condemning yourself for drifting distances you further from God
+- Chasing platform and fame instead of Christ leads to a counterfeit fire
+- Public religiosity without private intimacy leaves you vulnerable to losing your fire
 
 #### Common Pitfalls
 
@@ -202,7 +207,7 @@ The Apostle Paul wrote from a Roman prison cell that suffering is a gift granted
 - Suffering is part of the Christian experience
 - There is no walk with Jesus without suffering
 - God will never create a life for us that makes Him unnecessary
-- Even your favorite preacher or a platform will not make you immune to suffering
+- Even your favorite preacher or a platform cannot remove suffering from your life
 - The enemy wants to make you feel condemned for your feelings and make you think God is mad at you
 
 #### Security & Safety Notes
@@ -376,7 +381,7 @@ Pastor Philip's greatest fear is not death threats, opposition from false religi
 
 ##### Step 2: Take Inventory of God's Favor
 
-When you take inventory of all the ways God has worked in your life — your team, your church, your travels, the doors that have opened, the relationships you have — recognize that these are from God. For a person who is not grounded, these things can make you think it is all for you.
+When you take inventory of all the ways God has worked in your life — your team, your church, your travels, the doors that have opened, the relationships you have — recognize that these blessings are from God. For a person who is not grounded, these blessings can make you think it is all for you.
 
 ##### Step 3: Remember You Are a Steward, Not an Owner
 
