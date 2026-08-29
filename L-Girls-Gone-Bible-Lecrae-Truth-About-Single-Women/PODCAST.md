@@ -34,7 +34,7 @@ Lecrae's motto is to do a constant, daily check of the heart: ask God to search 
 
 ##### Step 4: Be as low to the ground as possible
 
-Your motto should be humility. Ari's motto is, "Be as low to the ground as possible." The lower you get, the more room Jesus has in your life. Do not chase applause, recognition, or glory—only Jesus is meant to carry glory.
+Your motto should be humility. Ari's motto is, "Be as low to the ground as possible." The lower you get, the more he decreases in your life. Do not chase applause, recognition, or glory—only Jesus is meant to carry glory.
 
 ##### Step 5: Keep your strength as your weakness
 
@@ -86,7 +86,7 @@ Lecrae encourages the hosts: "Keep your strength as your weakness." Do not let t
 
 ##### Step 1: Recognize that sexual sin perverts your mind
 
-Sexual sin is unique because it is a sin against your own body. It opens doors to the demonic and prevents you from seeing Jesus clearly. You cannot know how to be in the will of God while living in habitual sexual sin. You will be confused and directionless.
+Sexual sin is unique because it is a sin against your own body. It opens doors to the demonic and prevents you from seeing Jesus clearly. You cannot know how to be in the will of God while living in sexual sin. You will be confused and directionless.
 
 ##### Step 2: Lay down your life of sin completely
 
@@ -94,7 +94,7 @@ One foot in and one foot out will not work. You cannot be walking with the Lord 
 
 ##### Step 3: Get godly community around you
 
-Accountability from mature believers is essential. You cannot overcome sexual sin on your own. Lecrae and the Girls Gone Bible hosts both emphasize the need for people who will tell you the hard things you do not want to hear. Lecrae says, "I need your help. I'm done."
+Accountability from mature believers is essential. You cannot overcome sexual sin on your own. Lecrae and the Girls Gone Bible hosts both emphasize the need for people who will tell you the hard things you do not want to hear. Ari says, "I need your help. I'm done."
 
 ##### Step 4: Walk in the freedom Jesus purchased
 
@@ -116,8 +116,8 @@ When you lay down sin, your mind is freed. Obsessive thoughts, depression, and t
 
 #### Keep In Mind
 
-- Sexual sin is not just "like other sins"—it has a unique power to pervert your mind. You will be confused and directionless if you are living in habitual sexual sin.
-- The freedom Ari experienced—no more obsessive thoughts, no more tormenting mind—came only after she fully surrendered. It was not gradual; it was a moment of complete alignment with God.
+- Sexual sin is not just "like other sins"—it has a unique power to pervert your mind. You will be confused and directionless if you are living in sexual sin.
+- The freedom Ari experienced—no more obsessive thoughts, no more tormenting mind—came only after she fully surrendered. those six months led to one moment where like the stars aligned. Me and God come into alignment. We come into agreement that it's over.
 - Lecrae warns that Satan keeps Christians in bondage through sexual sin so they cannot be a voice for the Lord. Their shame keeps their mouth closed.
 
 #### Security & Safety Notes
@@ -135,7 +135,7 @@ When you lay down sin, your mind is freed. Obsessive thoughts, depression, and t
   **Solution:** Get godly people around you who will speak truth. "I need your help. I'm done."
 
 - **Problem:** Letting shame from past sexual sin keep you silent and unable to share your testimony.
-  **Solution:** Transparency is your weapon. Your testimony sets others free. Share your story everywhere—Uber, work, Starbucks.
+  **Solution:** that's what testimonies do. They bear the image of Jesus Christ. Share your story everywhere—Uber, work, Starbucks.
 
 ---
 
@@ -153,7 +153,7 @@ Ari warns that putting your identity into another person will always leave you e
 
 ##### Step 3: Use your singleness to serve the Lord wholeheartedly
 
-Lecrae shares that through his singleness, he has been able to go to incredible places and serve the Lord in ways he could not if he were married. He says, "The places I've gotten to go to, the friends I've made, it's just me and him." You have freedom and flexibility—use it for the kingdom.
+Lecrae shares that through his singleness, he has been able to go to incredible places and connect deeply with God. He says, "The places I've gotten to go to, the friends I've made, it's just me and him." You have freedom and flexibility—use it for the kingdom.
 
 ##### Step 4: Date with the right priorities and through godly community
 
@@ -165,8 +165,8 @@ Do not prioritize looks, job title, or social media followers. Ask: Who will hol
 
 #### Examples
 
-- Ari's story of a horrendous four-year breakup. She chose to heal with Jesus instead of jumping into a new relationship with a band-aid over the wound. She says, "I can wake up in peace. I love myself, and I'm comfortable with myself now. And it happened later in life for me."
-- Lecrae's philosophy: "Marriage is hard. Single is hard, choose your blessing." Both states have difficulty, but both are blessings when viewed through the lens of kingdom living.
+- Ari's story of an almost four-year breakup. She chose to heal with Jesus instead of jumping into a new relationship with a band-aid over the wound. She says, "I can wake up in peace. I love myself, and I'm comfortable with myself now. And it happened later in life for me."
+- Lecrae's philosophy: "Marriage is hard. Single is hard, choose your heart. Marriage is a blessing. Singleness is a blessing. Choose your blessing." Both states have difficulty, but both are blessings when viewed through the lens of kingdom living.
 - Ari describes how she used to want a man who was spiritually gifted and could pray for her—but after pursuing purity, she realized she literally did not care what they looked like or did for a job. She only cared about who they were in Christ. "Like that's truly and like you can testify that's like literally all I cared about."
 
 #### Best Practices
@@ -179,7 +179,6 @@ Do not prioritize looks, job title, or social media followers. Ask: Who will hol
 
 #### Keep In Mind
 
-- The Christian culture often treats singleness like a problem to be solved, but it is actually a gift to be stewarded.
 - Everyone is a little annoying. What matters is that your future spouse is governed by the Spirit of God, yields to Jesus, and has humility to say "I'm sorry."
 - If you are single, you have freedom to go anywhere, serve anywhere, and say yes to opportunities that married people cannot.
 - Do not compare your singleness journey to others who got married young. God's timing is different for everyone.
@@ -187,7 +186,7 @@ Do not prioritize looks, job title, or social media followers. Ask: Who will hol
 #### Security & Safety Notes
 
 - Do not date someone who is not walking with Jesus. Missionary dating rarely works, and the standard should be someone who wants to look like Jesus.
-- Do not rush into marriage out of fear of being single. Choose your heart—choose your blessing.
+- Do not rush into marriage out of fear of being single. Choose your heart. Choose your blessing.
 - Do not let the world's standards (swipe culture, looks, status) dictate who you date. These are empty and deceptive.
 
 #### Common Pitfalls
@@ -231,7 +230,7 @@ The moment you start making your ministry or platform about yourself, you have m
 
 - Ari almost did not release the first episode of Girls Gone Bible because she was terrified of being exposed. She shared that she almost took her own life, came from generations of mental illness, and had a facade of perfection on Instagram. A girl later messaged them saying their testimony helped her stop taking her own life.
 - The Girls Gone Bible hosts describe getting criticized for modesty early on, but realizing that even through harsh comments, the Lord could work through broken people to bring accountability.
-- Lecrae tells a story of a woman who ripped him apart on modesty. He looked at her profile afterward—her profile picture was wild and immodest. The hosts realized she was projecting: "I'm not serious about Jesus, and I know I should be, but you say that you are. So, be better."
+- Lecrae tells a story of a woman who ripped him apart on modesty. He looked at her profile afterward—her profile picture was wild, like no clothes. The hosts realized she was projecting: "I'm not serious about Jesus, and I know I should be, but you say that you are. So, be better."
 
 #### Best Practices
 
@@ -243,7 +242,7 @@ The moment you start making your ministry or platform about yourself, you have m
 
 #### Keep In Mind
 
-- People are broken. Depression, suicide, and mental illness are at an all-time high. Your vulnerability can be the thing that saves someone's life.
+- People are broken. depression's at an all-time high. More suicides than ever. Your vulnerability can be the thing that saves someone's life.
 - Social media creates a fake aesthetic of perfect Christianity. Do not buy into it. The real power is in the raw, unfiltered truth.
 - The enemy wants you to be aesthetically pleasing, entertaining, and saying the right things. But Jesus calls you to deny yourself, die to self, and share the truth.
 
@@ -265,4 +264,4 @@ The moment you start making your ministry or platform about yourself, you have m
   **Solution:** Constantly check your heart posture. Ask: "Is this glorifying Him?" Be low to the ground. Stay humble.
 
 - **Problem:** Comparing yourself to others who appear to have it all together.
-  **Solution:** Everyone is fighting a battle. The perfect-looking Christians on social media are often the most broken. Your mess is part of your ministry.
+  **Solution:** The perfect-looking Christians on social media are often the most broken. Your mess is part of your ministry.
