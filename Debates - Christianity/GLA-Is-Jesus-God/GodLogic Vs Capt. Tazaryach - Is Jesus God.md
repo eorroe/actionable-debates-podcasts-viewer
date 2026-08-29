@@ -11,7 +11,7 @@ A public debate between Avery from GodLogic Apologetics and Captain Cesar (JP) o
 - When studying the meaning of "firstborn of all creation" in Colossians 1
 - When analyzing the relationship between the Father and the Son in the New Testament
 - When discussing whether Jesus has a God or is subordinate to the Father
-- When evaluating the significance of Jesus' statements about his own identity and authority
+- When analyzing the meaning and implications of Jesus' statements about his own identity and authority
 
 ## Glossary / Prerequisite Terms To Know Before Following Debate
 
@@ -552,3 +552,5 @@ Argue that Jesus' statement, "Why callest thou me good? there is none good but o
 #### Step 4: Argue That Jesus' Submission to the Father Proves He Is Not God
 
 Argue that Jesus' prayers, his obedience, his baptism where the Father speaks from heaven, and his Gethsemane prayer ("Not my will, but thine, be done") all demonstrate a relationship of submission to a higher authority. A God does not report to, obey, or have a God over him. Jesus' own words and actions prove he is not the Most High God.
+
+(End of file - total 554 lines)

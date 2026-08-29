@@ -176,7 +176,7 @@ Christina argues that Nehemiah 9:6 identifies Yahweh as God's personal name, yet
 
 ##### Example 2: Matthew 28:19
 
-Christina cites the Great Commission in Matthew 28:19 where Jesus commands baptism in the singular name of the Father, Son, and Holy Spirit. She asks whether Muslims can perform zakat in the name of Allah, Muhammad, and Jibril. The panelists discuss how church fathers quote the verse, with Christian panelists noting Eusebius paraphrased it differently while others confirm the direct quote, according to the Dr. Dab Show debate
+Christina cites the Great Commission in Matthew 28:19 where Jesus commands baptism in the singular name of the Father, Son, and Holy Spirit. She asks whether Muslims can perform zakat in the name of Allah, Muhammad, and Jibril. The panelists discuss how church fathers quote the verse, with Christian panelists noting that Eusebius quotes Matthew 28:19 both ways, according to the Dr. Dab Show debate
 
 ##### Example 3: The Origin of the Word "Trinity"
 
@@ -816,7 +816,7 @@ State that God's message should be comprehensible to 7th-century Arabic speakers
 
 #### Step 6: Highlight Internal Christian Disagreement
 
-Note that not all Christian sects, such as Unitarians and Oneness Pentecostals, believe in the Trinity as defined at Nicaea. Unitarian Christians (who reject the Trinity entirely), Jehovah's Witnesses (who believe Jesus is a created being), the Church of Jesus Christ of Latter-day Saints (who believe in a corporeal God the Father), Oneness Pentecostals (who reject distinct persons in the Godhead), and Seventh-day Adventists (who hold a nuanced view of the Trinity emphasizing Christ's ministry rather than co-eternity) have different understandings. This diversity suggests to Muslim panelists, according to the Dr. Dab Show debate that the doctrine may be a human construct rather than a clear biblical teaching.
+Note that not all Christian sects, such as Unitarian Christians and Oneness Pentecostals, believe in the Trinity as defined at Nicaea. Unitarian Christians (who reject the Trinity entirely), Jehovah's Witnesses (who believe Jesus is a created being), the Church of Jesus Christ of Latter-day Saints (who believe in a corporeal God the Father), Oneness Pentecostals (who reject distinct persons in the Godhead), and Seventh-day Adventists (who hold a nuanced view of the Trinity emphasizing Christ's ministry rather than co-eternity) have different understandings. This diversity suggests to Muslim panelists, according to the Dr. Dab Show debate that the doctrine may be a human construct rather than a clear biblical teaching.
 
 #### Step 7: Redirect to the Quran's Clarity
 

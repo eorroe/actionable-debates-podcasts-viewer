@@ -2,7 +2,7 @@
 
 ## Overview
 
-A structured debate between three Christian apologists and three Muslim apologists examining whether the Quran can be the final revelation from God given its relationship to the Torah and Gospel. The Christian side presents the "Islamic Dilemma": the Quran repeatedly claims to confirm the previous scriptures while simultaneously contradicting them in multiple specific details. The Muslim side defends the Quran through arguments about general versus absolute confirmation, textual corruption of prior scriptures, and the Quranic author's intentional correction of biblical narratives. The discussion engages specific verses, historical-critical methodology, and classical Islamic scholarship to evaluate competing claims about revelation, textual preservation, and hermeneutics.
+A structured debate between three Christian apologists and three Muslim apologists examining whether the Quran can be the final revelation from God given its relationship to the Torah and Gospel. The Christian side presents the "Islamic Dilemma": the Quran repeatedly claims to confirm the previous scriptures while simultaneously contradicting them in specific details. The Muslim side defends the Quran through arguments about general versus absolute confirmation, textual corruption of prior scriptures, and the Quranic author's intentional correction of biblical narratives. The discussion engages specific verses, historical-critical methodology, and classical Islamic scholarship to evaluate competing claims about revelation, textual preservation, and hermeneutics.
 
 ## When to Follow Debate
 
@@ -71,7 +71,7 @@ A structured debate between three Christian apologists and three Muslim apologis
 
 ##### Example 1: The Logical Structure of the Dilemma
 
-The Christians frame the dilemma as a logical syllogism: The Quran claims to confirm the Torah and Gospel (e.g., 2:41, 10:94). However, the Quran contradicts the Torah in numerous specific details (e.g., Moses' hand, Joseph's story, the number of plagues). Therefore, either the Torah is true (making the Quran false) or the Torah is corrupted (making the Quran's confirmation of corrupted scripture meaningless, undermining its claim to be the final revelation).
+The Christians frame the dilemma as a logical syllogism: The Quran claims to confirm the Torah and Gospel (e.g., 2:41, 10:94). However, the Quran contradicts the Torah in specific details (e.g., Moses' hand, Joseph's story, the number of plagues). Therefore, either the Torah is true (making the Quran false) or the Torah is corrupted (making the Quran's confirmation of corrupted scripture meaningless, undermining its claim to be the final revelation).
 
 ##### Example 2: Muslim Response - General vs Absolute Confirmation
 
@@ -147,7 +147,7 @@ Muslims reference tafsir (e.g., The Study Quran) on 12:1, which says the stories
 
 ##### Example 1: The Joseph Story (Surah Yusuf)
 
-Christians point to 944 alleged irreconcilable differences between the Quranic account of Joseph and the Torah in just 98 verses. Examples include Jacob's reaction to Joseph's supposed death (faith in the Quran vs. despair in the Torah), the number of trips to Egypt, and the water in the pit vs. no water. Christians argue these cannot be accidental scribal errors because they are consistent and systematic.
+Christians point to 944 irreconcilable differences between the Quranic account of Joseph and the Torah in just 98 verses. Examples include Jacob's reaction to Joseph's supposed death (faith in the Quran vs. despair in the Torah), the number of trips to Egypt, and the water in the pit vs. no water. Christians argue these cannot be accidental scribal errors because they are consistent and systematic.
 
 ##### Example 2: The Moses Hand Narrative
 
@@ -318,7 +318,7 @@ Cite the key verses where the Quran claims to confirm prior revelation: 2:41, 2:
 
 #### Step 3: Present Specific Contradictions
 
-Compile the strongest examples of Quranic-biblical differences: Moses' hand (leprosy vs. pure white), Joseph's story (944 alleged differences), number of plagues (10 vs. 7), Saul/Talut conflation, Noah's son dying in the Quran but not the Torah, and Jacob's reaction to Joseph's death.
+Compile the strongest examples of Quranic-biblical differences: Moses' hand (leprosy vs. pure white), Joseph's story (944 differences), number of plagues (10 vs. 7), Saul/Talut conflation, Noah's son dying in the Quran but not the Torah, and Jacob's reaction to Joseph's death.
 
 #### Step 4: Evaluate Muslim Responses
 
@@ -348,7 +348,7 @@ Argue that the Babylonian exile (2 Kings 25) led to the loss of the Torah for 70
 
 #### Step 5: Address the Argument from Pointlessness
 
-Respond to the Christian claim that there is no motive for thousands of random changes by arguing: (1) we lack epistemic access to all motives, (2) the changes follow a pattern of theological editing (e.g., removing prophetic predictions of Muhammad, altering sacrificial systems), and (3) the principle of embarrassment is a weak historical criterion.
+Respond to the Christian claim that there is no motive for thousands of intentional changes by arguing: (1) we lack epistemic access to all motives, (2) the changes follow a pattern of theological editing (e.g., removing prophetic predictions of Muhammad, altering sacrificial systems), and (3) the principle of embarrassment is a weak historical criterion.
 
 ### Topic 2 / Textual Corruption vs Conscious Edits
 
@@ -356,7 +356,7 @@ Respond to the Christian claim that there is no motive for thousands of random c
 
 List the strongest examples of differences between the Quran and Torah/Gospel:
 - Moses' hand: leprous (Exodus 4:6) vs. pure white (Quran 20:22, 26:33)
-- Joseph story: 944 alleged irreconcilable differences in 98 verses
+- Joseph story: 944 irreconcilable differences in 98 verses
 - Saul/Talut: Quran conflates Gideon's river test with Saul's army
 - Noah's son: dies in Quran (11:42-43), survives in Torah
 - Plagues: 10 in Torah, Quran mentions 7 inflicted on Pharaoh
@@ -364,7 +364,7 @@ List the strongest examples of differences between the Quran and Torah/Gospel:
 
 #### Step 2: Evaluate Motive for Changes
 
-Assess whether there is a coherent motive for the alleged changes. Ask: What would Jews gain by changing Moses' hand from leprous to pure white? What theological point is served by making Noah's son die? Argue that without a clear motive, the changes appear arbitrary or the product of a different source tradition.
+Assess whether there is a coherent motive for the changes. Ask: What would Jews gain by changing Moses' hand from leprous to pure white? What theological point is served by making Noah's son die? Argue that without a clear motive, the changes appear arbitrary or the product of a different source tradition.
 
 #### Step 3: Apply the Argument from Pointlessness
 
@@ -514,7 +514,7 @@ Check whether the proposed criterion is applied equally to both texts. If "confi
 
 #### Step 1: Cite Quranic Self-Testimony
 
-Argue that the Quran itself provides the criterion: "If it had been from other than Allah, they would have found many contradictions in it" (4:82). The Quran's internal coherence, linguistic inimitability (i'jaz), and preservation over 1400 years are evidence of its divine origin.
+Argue that the Quran itself provides the criterion: "If it had been from other than Allah, they would have found many contradictions in it" (4:82). The Quran's internal coherence, linguistic inimitability (i'jaz), and preservation are evidence of its divine origin.
 
 #### Step 2: Challenge the Christian Criterion
 

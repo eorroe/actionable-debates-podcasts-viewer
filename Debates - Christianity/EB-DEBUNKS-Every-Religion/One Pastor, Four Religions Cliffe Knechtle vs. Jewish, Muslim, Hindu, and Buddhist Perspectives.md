@@ -81,7 +81,7 @@ The Jewish participant asks who Jesus' father is, questioning Davidic lineage.
 - **Problem:** Relying on tradition/heritage as evidence
   **Solution:** Examine historical and textual evidence for truth claims
 - **Problem:** Assuming Old Testament mentions Jesus by name explicitly
-   **Solution:** Study Messianic prophecies in context and consider multiple Messianic comings
+   **Solution:** Study Messianic prophecies in context and consider Messianic comings
 
 ### Topic 2: Islam - Muhammad in Song of Solomon
 
@@ -97,8 +97,8 @@ The Muslim participant insists Hebrew matters and must be read aloud to verify t
 
 #### Best Practices
 
-- Verify translations by consulting multiple authoritative sources and scholarly commentaries
-- Consult multiple Hebrew scholars
+- Verify translations by consulting authoritative sources and scholarly commentaries
+- Consult Hebrew scholars
 - Don't rely on semantic word games
 - Don't take words out of context (love poem versus prophecy)
 - Don't use meaning of names as proof of reference
@@ -143,7 +143,7 @@ The Hindu participant asks what makes Christianity more true than other religion
 
 #### Keep In Mind
 
-- Hinduism teaches polytheism (multiple deities) versus Christian monotheism (one God)
+- Hinduism teaches polytheism versus Christian monotheism (one God)
 - Jesus stuck to monotheism (repeated the Shema: "Hear O Israel, the Lord our God is one")
 - Hindu avatars are spirits that exist, not historical people who walked the planet
 - BUT: Jesus Christ is different because God in human form actually walked on earth
@@ -166,7 +166,7 @@ The Hindu participant asks what makes Christianity more true than other religion
 
 ##### Example 1: Buddhism as Coping Mechanism
 
-The Buddhist participant spent most of their life reading Buddhist philosophy but admits having "absolutely no evidence that it's true" and uses Buddhism to come to terms with death.
+The Buddhist participant admits having "absolutely no evidence that it's true" and uses Buddhism to come to terms with death.
 
 ##### Example 2: Death as Privilege
 
@@ -267,7 +267,7 @@ Cliffe Knechtle identifies as heterosexual and admits to sexual sin, illustratin
 - NOBODY is worthy of salvation - this is what sets Christianity apart
 - Sin definition: Redefining the purpose God created you for
 - Sexual immorality includes heterosexual lust - it dehumanizes image-bearers
-- Sexual immorality takes multiple forms, including heterosexual lust; if you've sinned, be honest and ask forgiveness
+- Sexual immorality includes heterosexual lust; if you've sinned, be honest and ask forgiveness
 - God will hold you responsible for wrong if you reject Christ's offer
 
 #### Security & Safety Notes
@@ -374,7 +374,7 @@ Point out it's a love poem, not prophecy.
 
 #### Step 3: Note text written before Muhammad
 
-Note text written ~1,000 years before Muhammad.
+Note text written at least 1,000 years before Muhammad.
 
 #### Step 4: Explain meaning translation versus name
 
@@ -442,7 +442,7 @@ List Christian evidence: sinless life, teachings, death, resurrection.
 
 #### Step 1: Acknowledge reading Buddhist philosophy
 
-Acknowledge reading Buddhist philosophy extensively.
+Acknowledge reading Buddhist philosophy.
 
 #### Step 2: Admit no evidence for Buddhism
 
@@ -556,9 +556,9 @@ Ask if God's love is conditional on behavior.
 
 Question why certain sexual behaviors are considered sinful.
 
-#### Step 3: Note most people don't feel sexual guilt
+#### Step 3: Note people don't feel sexual guilt
 
-Note that most people do not feel they have done wrong sexually.
+Note that people do not feel they have done wrong sexually.
 
 #### Step 4: Wonder if people are created with sexuality
 

@@ -254,7 +254,7 @@ When you're not thirsty, you don't feel the need to walk through every door
 God showed Tim Timberlake his purpose before it manifested
 
 ##### Example 2: Unrevealed Opportunities Are No
-If God did not show you an opportunity through His Word, prayer, or prophetic revelation, it is a no - even if it promises seven or eight figures in financial gain.
+If God did not show you an opportunity through His Word, prayer, or prophetic revelation, it is a no - even if it promises $37 million in financial gain.
 
 ##### Example 3: Silence Is Not Approval
 Silence from God does not mean yes
@@ -512,7 +512,7 @@ Apostle Paul learned contentment in both abundance and lack
 God delays blessings to develop character
 
 ##### Example 3: Wrong Timing Is Harmful
-Very thing prayed for would have been harmful if received at the wrong time
+The very thing prayed for would have been harmful if received at the wrong time
 
 #### Best Practices
 
