@@ -53,8 +53,8 @@ Peter was crucified upside down. James was thrown off the temple and his head ba
 #### Keep In Mind
 
 - There is no documented evidence in history of anyone ever coming back from the grave who was a founder of a religion but one: Jesus
-- The Bible contains hundreds or thousands of prophecies that have come to pass, and not one prophecy from the scriptures has ever fallen to the floor
-- The Bible was written by 40 human authors over 1500 years on three different continents in three different languages, yet from Genesis to Revelation there is a unity of thought that is impossible apart from the inspiration of the Holy Spirit
+- The Bible contains hundreds, possibly thousands of prophecies that have come to pass, and not one prophecy from the scriptures has ever fallen to the floor
+- The Bible was written by 40 human authors over 1500 years on three different continents in three different languages, yet from Genesis to Revelation there is a unity of thought that Phillip asserts is impossible apart from the inspiration of the Holy Spirit
 
 #### Security & Safety Notes
 
@@ -74,7 +74,7 @@ Peter was crucified upside down. James was thrown off the temple and his head ba
 
 ##### Step 1: Consider the unity and prophecy of scripture
 
-The Bible is the only religious book in the world with hundreds or thousands of prophecies that have come to pass. Not one prophecy from the scriptures has ever failed. The 40 human authors wrote over 1500 years on three continents in three languages, yet there is a unity of thought from Genesis to Revelation that can only come from the inspiration of the Holy Spirit.
+The Bible is the only religious book in the world with hundreds, possibly thousands of prophecies that have come to pass. Not one prophecy from the scriptures has ever failed. The 40 human authors wrote over 1500 years on three continents in three languages, yet there is a unity of thought from Genesis to Revelation that Phillip says can only come from the inspiration of the Holy Spirit.
 
 ##### Step 2: Reflect on the apostles' transformed lives
 
@@ -86,7 +86,7 @@ Salvation is not just words. It is evidenced by real change in real people. Phil
 
 ##### Step 4: Recognize the work of the Holy Spirit
 
-The Holy Spirit is alive on the inside of believers. Christianity is the only world religion attached to the Spirit of God. The church is empowered by the Holy Spirit who united himself to the church on the day of Pentecost.
+The Holy Spirit is alive on the inside of believers. Phillip says the spirit of God has attached himself to only one world religion, Christianity. The church is empowered by the Holy Spirit who united himself to the church on the day of Pentecost.
 
 #### Examples
 
@@ -111,7 +111,7 @@ Tim Timberlake could not envision his life beyond 21. He was selling crack cocai
 
 - The prophets who prophesied about the grace that was to be yours searched and inquired carefully
 - Salvation gives you a future, an eternity with God, and strength
-- The Holy Spirit has attached himself to only one world religion: Christianity
+- Phillip says the Holy Spirit has attached himself to only one world religion: Christianity
 - Wherever the people of God are, power is there, because the Holy Spirit united himself to the church on the day of Pentecost
 
 #### Common Pitfalls
