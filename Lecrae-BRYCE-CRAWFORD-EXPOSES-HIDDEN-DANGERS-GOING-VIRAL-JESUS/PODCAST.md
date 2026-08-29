@@ -112,7 +112,7 @@ If someone reacts negatively, spits at you, or becomes aggressive, do not retali
 
 ##### Step 7: Play the Long Game
 
-Understand that measurable conversion results from evangelism may not appear for weeks, months, or years. Plant seeds faithfully, even when you do not see immediate decisions for Christ. Trust that God is growing what you have sown in ways you may never witness, and that every seed planted has the potential to produce a harvest in His timing.
+Understand that measurable conversion results from evangelism may not appear for 3 years, 10 years, 20 years, or even 10 minutes. Plant seeds faithfully, even when you do not see immediate decisions for Christ. Trust that God is growing what you have sown in ways you may never witness, and that every seed planted has the potential to produce a harvest in His timing.
 
 #### Examples
 
@@ -261,7 +261,7 @@ Combine prayer and faith with practical discipline. If you cannot get off your p
 
 ##### Step 4: Avoid Self-Help That Contradicts Scripture
 
-There is extensive self-help content online and in bookstores that does not align with biblical truth, including secular psychology frameworks that contradict Scripture, prosperity gospel teachings that promise health and wealth, and motivational speaking that replaces the cross with self-improvement. Examples include books and podcasts that promote the prosperity gospel, self-help gurus who deny the necessity of Christ's atonement, and psychology frameworks that pathologize normal human struggles without reference to sin and redemption. Be discerning about what you consume. Seek counsel and resources that point you back to Christ and the Word of God.
+There is self-help content online and in bookstores that does not align with biblical truth, including secular psychology frameworks that contradict Scripture, prosperity gospel teachings that promise health and wealth, and motivational speaking that replaces the cross with self-improvement. Examples include books and podcasts that promote the prosperity gospel, self-help gurus who deny the necessity of Christ's atonement, and psychology frameworks that pathologize normal human struggles without reference to sin and redemption. Be discerning about what you consume. Seek counsel and resources that point you back to Christ and the Word of God.
 
 ##### Step 5: Lean on Community and Accountability
 
@@ -275,7 +275,7 @@ Do not pretend to have it all together. Transparency about your battles with anx
 
 ##### Example 1: Christmas Day Deliverance
 
-At 17, Bryce was on the verge of suicide on Christmas Day. After a stranger at Waffle House spoke a simple truth, Bryce connected the Bible knowledge in his head with his heart, ran to his car, and asked Jesus to take away his anxiety and depression. He was instantly set free and had only one anxiety attack in the years following — about two weeks before this recording.
+At 17, Bryce was on the verge of suicide on Christmas Day. After a stranger at Waffle House spoke a simple truth, Bryce connected the Bible knowledge in his head with his heart, ran to his car, and asked Jesus to take away his anxiety and depression. He experienced freedom and had only one anxiety attack in the years following — about two weeks before this recording.
 
 ##### Example 2: Therapy as Part of God's Provision
 
@@ -375,7 +375,7 @@ Lecrae and Bryce both addressed the entitlement some Christian men in their earl
 
 - Everyone is of equal value in God's eyes, regardless of their social status, popularity, or bank account.
 - The way you pursue someone reflects your understanding of the gospel.
-- Dating is not about finding the perfect person; it is about pursuing God's will for your heart.
+- Dating is not about choosing from a catalog of options; it is about pursuing God's will for your heart.
 
 #### Security & Safety Notes
 
@@ -385,7 +385,7 @@ Lecrae and Bryce both addressed the entitlement some Christian men in their earl
 #### Common Pitfalls
 
 - **Problem:** Viewing dating as a marketplace where you can pick and choose from a pool of options.
-  **Solution:** Remember that every person is made in God's image and has infinite value. Pursue relationships with reverence, not entitlement.
+  **Solution:** Remember that every person is made in God's image and has equal value. Pursue relationships with reverence, not entitlement.
 - **Problem:** Leading selfishly or manipulatively in a relationship.
   **Solution:** Cling to the Word, lead with love, and always prioritize the other person's well-being over your own desires.
 - **Problem:** Making major relationship decisions without seeking wise counsel.
@@ -446,7 +446,7 @@ When Bryce first became a Christian, some of his friends were doing Christian so
 
 #### Keep In Mind
 
-- Gen Z is spiritually curious but also the most biblically illiterate generation in recent church history, with Bryce referencing a video in which people at a school who had Bible verses in their Instagram bios could not quote or explain the verses they posted.
+- Gen Z is spiritually curious but also the most biblically illiterate generation, with Bryce referencing a video in which people at a school who had Bible verses in their Instagram bios could not quote or explain the verses they posted.
 - Content that encourages you is good, but it should lead you back to the Word, not replace it.
 - Biblical literacy requires discipline, time, and intentional study.
 
@@ -476,7 +476,7 @@ Distinguish between content that serves and encourages others and areas of your 
 
 ##### Step 2: Cultivate Private Hobbies and Rhythms
 
-Maintain hobbies, interests, and rest rhythms that are just for you. Bryce loves playing basketball, fishing, and going to the beach, but he also has private hobbies such as reading, hiking, and spending time with close friends that no one knows about. These private spaces keep him grounded and prevent burnout by giving him an identity outside of his public ministry.
+Maintain hobbies, interests, and rest rhythms that are just for you. Bryce loves playing basketball, fishing, and going to the beach, but he also has other private hobbies that no one knows about. These private spaces keep him grounded and prevent burnout by giving him an identity outside of his public ministry.
 
 ##### Step 3: Practice Sabbath and Rest
 
@@ -498,7 +498,7 @@ When you are struggling, turn to your roommates, mentors, pastors, and close fri
 
 ##### Example 1: Bryce's Private Hobbies
 
-Bryce has hobbies and interests, such as playing basketball, fishing, going to the beach, reading, and spending time with close friends, that bring him rest and are completely private. He does not want the world to know about them because they are for Bryce and his friends. This intentional privacy keeps him from becoming a product for public consumption.
+Bryce keeps certain hobbies and interests completely private, separate from the basketball, fishing, and beach activities he shares publicly. He does not want the world to know about them because they are for Bryce and his friends. This intentional privacy keeps him from becoming a product for public consumption.
 
 ##### Example 2: The Group Chat Accountability System
 
