@@ -1,0 +1,1703 @@
+[
+  {
+    "id": "o5qow0g",
+    "author": "compaholic83",
+    "body": "You lost me at \"Opus 4.6 is useless\".  I know you don't want to hear this, but you need to improvise, adapt, and overcome. Opus 4.6 is far from useless.",
+    "score": 4,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5qow0g/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771271790.0
+  },
+  {
+    "id": "o5rsixd",
+    "author": "fudeel",
+    "body": "Well, I had an issue with three.js (3D stuff on web), the issue was related to some packages and node version (I already knew what was the problem because I dig into some old stackoverflow thing).\n\nI spent 3 hours + 5 questions to opus 4.6 just to let him produce an answer. He is not happy if he doesnt invent. \n\nI prefert an \"I dont know\" instead of spending my tokens. ",
+    "score": 3,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5rsixd/",
+    "parent_id": "t1_o5qow0g",
+    "created_utc": 1771283710.0
+  },
+  {
+    "id": "o5ry8yr",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5ry8yr/",
+    "parent_id": "t1_o5rsixd",
+    "created_utc": 1771285659.0
+  },
+  {
+    "id": "o5ryxht",
+    "author": "therealslimshady1234",
+    "body": "Opus fanboys always having a seizure when their model gets called out for producing slop 😂🤡",
+    "score": 5,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5ryxht/",
+    "parent_id": "t1_o5ry8yr",
+    "created_utc": 1771285893.0
+  },
+  {
+    "id": "o5s2n6f",
+    "author": "Rise-O-Matic",
+    "body": "Clown emojis give me paroxysms, what can I say.  🤷",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5s2n6f/",
+    "parent_id": "t1_o5ryxht",
+    "created_utc": 1771287173.0
+  },
+  {
+    "id": "o5s396i",
+    "author": "therealslimshady1234",
+    "body": "Honk honk, my friend",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5s396i/",
+    "parent_id": "t1_o5s2n6f",
+    "created_utc": 1771287382.0
+  },
+  {
+    "id": "o5t5x2t",
+    "author": "TwistStrict9811",
+    "body": "And this is the worst the models will ever be",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5t5x2t/",
+    "parent_id": "t1_o5ryxht",
+    "created_utc": 1771301508.0
+  },
+  {
+    "id": "o5th4py",
+    "author": "Am-Insurgent",
+    "body": "That's what everyone says and then they nerf the compute and it gets worse.",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5th4py/",
+    "parent_id": "t1_o5t5x2t",
+    "created_utc": 1771306391.0
+  },
+  {
+    "id": "o5tqmm9",
+    "author": "TwistStrict9811",
+    "body": "Even nerfed still better than 3.5 lmao. Also massive ass compute coming online in the coming years. Largest buildout in human history.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5tqmm9/",
+    "parent_id": "t1_o5th4py",
+    "created_utc": 1771311118.0
+  },
+  {
+    "id": "o5ufvwl",
+    "author": "therealslimshady1234",
+    "body": "Maybe with double the capacity you will finally be able to brute force your way out of the slop!",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5ufvwl/",
+    "parent_id": "t1_o5tqmm9",
+    "created_utc": 1771325300.0
+  },
+  {
+    "id": "o5viphm",
+    "author": "TwistStrict9811",
+    "body": "Slop is a skill issue. Slop prompt in = slop prompt out. Still human slop",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5viphm/",
+    "parent_id": "t1_o5ufvwl",
+    "created_utc": 1771340344.0
+  },
+  {
+    "id": "o5viwsu",
+    "author": "therealslimshady1234",
+    "body": "You cant have it both ways. Either LLMs are good for programming or they are bad and need constant babysitting for anything meaningful (its the latter btw)",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5viwsu/",
+    "parent_id": "t1_o5viphm",
+    "created_utc": 1771340405.0
+  },
+  {
+    "id": "o67hktf",
+    "author": "Atlas-Stoned",
+    "body": "Doesn’t that mean the AI is dumb as hell if you have to prompt it perfectly.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o67hktf/",
+    "parent_id": "t1_o5viphm",
+    "created_utc": 1771488023.0
+  },
+  {
+    "id": "o6amel7",
+    "author": "Am-Insurgent",
+    "body": "Yeah, and as with any technology ever, you plateau and await a breakthrough. Despite the breakthroughs we've had (omni, agency) we are still stuck at a base camp on Everest. Its very incremental right now.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6amel7/",
+    "parent_id": "t1_o5tqmm9",
+    "created_utc": 1771529610.0
+  },
+  {
+    "id": "o5zoo9l",
+    "author": "Global-Bad-7147",
+    "body": "☝️☝️☝️☝️\n\n\nBecause there is no ROI. They just asked 6000 execs about this in a global survey. Nobody making money off this shite but Nvidia.\n\n\n🫧  📌 💥 😬",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5zoo9l/",
+    "parent_id": "t1_o5th4py",
+    "created_utc": 1771385634.0
+  },
+  {
+    "id": "o5twy9o",
+    "author": "[deleted]",
+    "body": "[removed]",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5twy9o/",
+    "parent_id": "t1_o5ryxht",
+    "created_utc": 1771314587.0
+  },
+  {
+    "id": "o5u0uj7",
+    "author": "Atlas-Stoned",
+    "body": "To be fair, they aren’t wrong. It is a nice tool to do buncha easy boring crap fast. It’s definitely not replacing an actual human based on that though",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5u0uj7/",
+    "parent_id": "t1_o5twy9o",
+    "created_utc": 1771316807.0
+  },
+  {
+    "id": "o62xna4",
+    "author": "The_Memening",
+    "body": "Where the fuck are all of these elite programmers? I don't remember the last piece of software I ran that wasn't a buggy piece of shit.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o62xna4/",
+    "parent_id": "t1_o5u0uj7",
+    "created_utc": 1771433259.0
+  },
+  {
+    "id": "o6352o7",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6352o7/",
+    "parent_id": "t1_o62xna4",
+    "created_utc": 1771435273.0
+  },
+  {
+    "id": "o637cp2",
+    "author": "The_Memening",
+    "body": "\\-OR- 99% of developers are shit at their job and require the 1% to actually integrate their shit code. ",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o637cp2/",
+    "parent_id": "t1_o6352o7",
+    "created_utc": 1771435894.0
+  },
+  {
+    "id": "o638l0j",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o638l0j/",
+    "parent_id": "t1_o637cp2",
+    "created_utc": 1771436233.0
+  },
+  {
+    "id": "o5zo95p",
+    "author": "Global-Bad-7147",
+    "body": "LOL I know dude. That guy wrote a damn essay in full on AI simp mode. Should have let a chatbot summarize that essay for him.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5zo95p/",
+    "parent_id": "t1_o5ryxht",
+    "created_utc": 1771385480.0
+  },
+  {
+    "id": "o6dm90g",
+    "author": "purleyboy",
+    "body": "This comment will age quickly.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6dm90g/",
+    "parent_id": "t1_o5ryxht",
+    "created_utc": 1771567873.0
+  },
+  {
+    "id": "o6egfmx",
+    "author": "therealslimshady1234",
+    "body": "Hahah keep the copium flowing",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6egfmx/",
+    "parent_id": "t1_o6dm90g",
+    "created_utc": 1771584584.0
+  },
+  {
+    "id": "o6kafbc",
+    "author": "[deleted]",
+    "body": "It doesn't work well for a lot of cases. ",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6kafbc/",
+    "parent_id": "t1_o5ry8yr",
+    "created_utc": 1771656436.0
+  },
+  {
+    "id": "o6luw2c",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6luw2c/",
+    "parent_id": "t1_o6kafbc",
+    "created_utc": 1771685027.0
+  },
+  {
+    "id": "o7hzwpu",
+    "author": "[deleted]",
+    "body": "Useless for my use case.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o7hzwpu/",
+    "parent_id": "t1_o6luw2c",
+    "created_utc": 1772106838.0
+  },
+  {
+    "id": "o5s5ujp",
+    "author": "AggravatinglyDone",
+    "body": "Spending tokens is just a function of perceived value. If you don’t earn enough to perceive the value on the tokens spent that could be a fair assessment for you.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5s5ujp/",
+    "parent_id": "t1_o5rsixd",
+    "created_utc": 1771288274.0
+  },
+  {
+    "id": "o5tsiop",
+    "author": "Immediate_Ask9573",
+    "body": "Sounds like an skill issue.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5tsiop/",
+    "parent_id": "t1_o5rsixd",
+    "created_utc": 1771312126.0
+  },
+  {
+    "id": "o6kagrk",
+    "author": "[deleted]",
+    "body": "Yes... the skill of the AI.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6kagrk/",
+    "parent_id": "t1_o5tsiop",
+    "created_utc": 1771656458.0
+  },
+  {
+    "id": "o5utya1",
+    "author": "quantum-fitness",
+    "body": "Your acting like opus is a omnipotent developer. Its not. Its a tool and an extremely potent one at that.\n\nVibe coding is a fairly high level skill and also fairly deep. By that I dont mean the stuff some non-technical retard can do with it.\n\nI mean what a senior+ engineer who treats it like engineering can do with it.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5utya1/",
+    "parent_id": "t1_o5rsixd",
+    "created_utc": 1771331934.0
+  },
+  {
+    "id": "o6egb3d",
+    "author": "ghosts_dungeon",
+    "body": "Senior coding with ai isn't vibe coding. Vibe coding vs coding with ai.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6egb3d/",
+    "parent_id": "t1_o5utya1",
+    "created_utc": 1771584518.0
+  },
+  {
+    "id": "o5vtlvs",
+    "author": "HominidSimilies",
+    "body": "What is being missed on your part is ai is not a calculator\n\nIt doesn’t have just one way to use an equal button\n\nWhatever you tired that didn’t work starts with you.\n\nJust because I can’t do something with ai means it’s probably me.\n\nLike in a real job those who know how to ask better become managers.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5vtlvs/",
+    "parent_id": "t1_o5rsixd",
+    "created_utc": 1771343568.0
+  },
+  {
+    "id": "o5wnylh",
+    "author": "spookyclever",
+    "body": "AI isn’t super amazing at bespoke UI using 3D. I’ve tried, and while it can do geometric things if you tell it a mathematical pattern (like lay out hexagons in an edge to edge grid. The camera should be pointing at them at a 30 degree angle), it’s not great at doing cool innovative visual things.  That said, it’s amazing at boilerplate, or things it’s seen code for before. I had it port an app I wrote in c# to swift and kotlin and though it took some visual tweaking, it turned a process that would have taken months for me to do manually into a two week thing in swift, and a 12 hour thing from swift to kotlin.  It’s incredible at well defined paths or anything that’s been shared in an open source project. \n\nIt’s FAR from useless. It does help if you’re a  really good developer though, because you can see when/where it has trouble and can course correct before it blows all your tokens on some BS. \n\nI lost my job to AI at the end of last year. My company insisted on us using Corp accounts and basically snooped how/what we all were using it for, then let bunches of us go.  It was basically telling you train your replacement with extra steps. Once your manager knows how you ask it to help you do your job, they can copy that.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5wnylh/",
+    "parent_id": "t1_o5rsixd",
+    "created_utc": 1771352434.0
+  },
+  {
+    "id": "o5x6igx",
+    "author": "AssignmentMammoth696",
+    "body": "How many devs did they keep, what percentage were let go?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5x6igx/",
+    "parent_id": "t1_o5wnylh",
+    "created_utc": 1771357606.0
+  },
+  {
+    "id": "o5xh0kn",
+    "author": "compaholic83",
+    "body": "You need to have a good [CLAUDE.md](http://CLAUDE.md) and instructions for the agent. You gotta remember these models are trained on data thats probably around 6 months old. You also need to break through the default sycophancy issues(See #5 below, its important) It needs instructions on:\n\n1. Finding latest documentation (MCP Server with Context7 is fantastic for this)\n2. Using the web to perform research, but needs a timeline \"Find best answer based on data in current month & year)\n3. It works best when you give it the versions you're using with your dependencies, so if you're using node.js v18 then let it know that, dont assume its going to know.(Unless it has package or package-lock files to browse through)\n4. Its also in the way you ask it when doing the prompt, like drag and drop the .js files into Claude desktop, select Opus 4.6, and say \"Perform a deep analysis on these js files including their dependencies. Factoring in its using node.js version (whatever version here, like v22) analyze this issue i'm having between the three.js and xyz. Also analyze the dependencies for any version conflicts or deprecation issues\"\n5. **This one is huge and most people completely fail at this until there's that light bulb moment. EVERY SINGLE PROMPT you give is going to have sycophancy issues. Meaning that the AI LLM is going to 'side' with you whatever you ask it. You MUST set the tone from the beginning in your prompt or instructions \"Be honest in your response\" or \"Be frank in your response, dont sugar coat your output\" Always assume when you ask AI something, its going to lean in with what you're asking and 'side' with you. That does not help, especially for developers. I WANT it to criticize me, I want it to find the faults. You have to remember that every time you prompt or start a new chat, if its not in the instructions, by default, it will rub your balls and sing you a lullaby unless you tell it to be frank or honest in its output.**\n\nA lot of this stuff you fine tune in the markdown files for the agent instructions. I find it best(when not using claude code for simpler stuff like this) is to create a project folder in Claude, create .md files with instructions on whatever subject matter you want to use in that project folder, for example, project folder just for .js troubleshooting, maybe another for react or rust. The more instructions and documentation you give it, the less you have to iterate in your initial prompts thus reducing reiterations over time as you use it = less usage/token burn rates.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5xh0kn/",
+    "parent_id": "t1_o5rsixd",
+    "created_utc": 1771360601.0
+  },
+  {
+    "id": "o6a7gdw",
+    "author": "Atlas-Stoned",
+    "body": "I agree having a good Claude.md is crucial, but I promise you there is nothing in your Claude md that is going to make it that much better at coding. Our team literally works on making AI tools and we use Claude code and copilot for all our workflows and have been tweaking md files for like over a year now and I still regularly have opus 4.6 this week produce weird nonsensical code descions. I’m still constantly trying babying it with tiny stuff. \n\nGetting more and more bearish that LLMs are gonna ever really replace any coding thought at all. It’s just a glorified keyboard and search engine to me more and more. \n\nTrust me I’m rooting for it tho",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6a7gdw/",
+    "parent_id": "t1_o5xh0kn",
+    "created_utc": 1771525370.0
+  },
+  {
+    "id": "o62m3ih",
+    "author": "sheriffderek",
+    "body": "If you’re counting the questions or prompts / something is wrong.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o62m3ih/",
+    "parent_id": "t1_o5rsixd",
+    "created_utc": 1771430125.0
+  },
+  {
+    "id": "o64ivfl",
+    "author": "RaStaMan_Coder",
+    "body": "The instructions need to be \"try to fix it, then test it\". Obviously errors happen, to humans too. That's why like 85% of the tools a dev has at their disposal are for spotting errors ...",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o64ivfl/",
+    "parent_id": "t1_o5rsixd",
+    "created_utc": 1771448833.0
+  },
+  {
+    "id": "o5rx3a6",
+    "author": "MaleCowShitDetector",
+    "body": "It is useless, unless your idea of SWE is a simple CRUD app.\n\nIt's dogshit in areas where expertise is needed.",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5rx3a6/",
+    "parent_id": "t1_o5qow0g",
+    "created_utc": 1771285262.0
+  },
+  {
+    "id": "o5u129s",
+    "author": "Atlas-Stoned",
+    "body": "It does have good uses though. It saves time on lots of shit. Stuff like “go through and add detailed console logging” is nice if I need that to figure out what’s going on with a bug maybe.\n\nI think it’s useless if your goal is replacing a human or trying to do hard shit with it. To me it’s like a nice tool for an IDE.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5u129s/",
+    "parent_id": "t1_o5rx3a6",
+    "created_utc": 1771316930.0
+  },
+  {
+    "id": "o5uadew",
+    "author": "MaleCowShitDetector",
+    "body": "the issue is that a lot of things can be solved more effectively and at a lower cost.\n\nFor example:\n\nYou have a log and you want to find a specific bug.\n\nYou know that there are only a handful of possibilities that can occur in a log for the bug to be present.\n\nLLM will cost you a lot, Regex wont. Regex is also a guarantee that you will find exactly what you look for.\n\nOnly when data isnt easily classified - you should look for LLMs but most devs wont do that.\n\nInstead of writing a simple script, they just dump it into an LLM",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5uadew/",
+    "parent_id": "t1_o5u129s",
+    "created_utc": 1771322281.0
+  },
+  {
+    "id": "o5vrmwq",
+    "author": "ai-tacocat-ia",
+    "body": "Umm, I basically say \"hey there's this bug, go look in the logs and lmk what's going on\". And Opus will grep the logs, look at the code, give me a report and suggested fix. Then I'll say \"great, fix it\". Then I'll look at the diff in my git repo to see what it changed, run the code to make sure it's fixed, and move on with life. \n\nAnd it cost me about $1 in tokens, and saved me half an hour of digging through logs and code.\n\nIf you're getting paid less than $2/hr, then I can't argue with your logic - you're right, it did cost more.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5vrmwq/",
+    "parent_id": "t1_o5uadew",
+    "created_utc": 1771342989.0
+  },
+  {
+    "id": "o5w6h3u",
+    "author": "TylerBreau_",
+    "body": "Sounds like you aren't learning how to become better at debugging. When the AI fails to debug a more complex issue, will you have the skills to do it manually?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5w6h3u/",
+    "parent_id": "t1_o5vrmwq",
+    "created_utc": 1771347465.0
+  },
+  {
+    "id": "o5w6tdt",
+    "author": "ai-tacocat-ia",
+    "body": "Code architected properly with good logging is very easy to debug. \n\nAnd yes, my 20 years of software engineering experience means I very well do have the skills to manually debug a complex issue. More importantly, I have the skills to avoid needing to spend hours debugging a complex issue.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5w6tdt/",
+    "parent_id": "t1_o5w6h3u",
+    "created_utc": 1771347566.0
+  },
+  {
+    "id": "o5w81fr",
+    "author": "TylerBreau_",
+    "body": "If you can do it manually great for you. The junior devs can't.\n\nThe junior devs that use AI like you do won't ever develop their debugging skills. Nor will they develop code design skills.\n\nThey'll be forever junior devs. ",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5w81fr/",
+    "parent_id": "t1_o5w6tdt",
+    "created_utc": 1771347931.0
+  },
+  {
+    "id": "o5wp4fw",
+    "author": "ai-tacocat-ia",
+    "body": "It's just a new abstraction. Same patterns at a higher level. Junior devs will be fine.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5wp4fw/",
+    "parent_id": "t1_o5w81fr",
+    "created_utc": 1771352753.0
+  },
+  {
+    "id": "o5xh0s2",
+    "author": "Atlas-Stoned",
+    "body": "Won't the junior devs just learn it when the AI bot can't do it? I'm not seeing why the tool would mean you never learn it. With that argument you should never use a package manager and have juniors write stuff from scratch always in case one day they cant find a package to do something. ",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5xh0s2/",
+    "parent_id": "t1_o5w81fr",
+    "created_utc": 1771360603.0
+  },
+  {
+    "id": "o61omcv",
+    "author": "TylerBreau_",
+    "body": "It's not something you learn in a few hours.\n\nAn experienced dev that has done a lot of debugging in the past has learned various tricks and gotten a better sense of what to do.\n\nThey know how to get information, often can ask the right questions and can quickly find the answers. They know how to narrow the issue down to smaller parts of the code base. \n\nA junior dev will get stuck and ask their coworkers or spend several hours while an experienced dev might just need half an hour. \n\n\"With that argument you should never use a package manager and have juniors write stuff from scratch always in case one day they cant find a package to do something.\"\n\nThis is absolutely moronic and you know it. Not even remotely close to my argument. ",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o61omcv/",
+    "parent_id": "t1_o5xh0s2",
+    "created_utc": 1771419943.0
+  },
+  {
+    "id": "o60jba5",
+    "author": "AmbassadorNew645",
+    "body": "If the skills are outdated, no point to have them",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o60jba5/",
+    "parent_id": "t1_o5w81fr",
+    "created_utc": 1771399348.0
+  },
+  {
+    "id": "o6174hz",
+    "author": "Metalthrashinmad",
+    "body": "10x cheaper models and less horrible for the environment can do that... thats like using a hydraulic press to hammer a nail into softwood",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6174hz/",
+    "parent_id": "t1_o5u129s",
+    "created_utc": 1771412413.0
+  },
+  {
+    "id": "o63x8cp",
+    "author": "nokia_its_toyota",
+    "body": "Opus 4.6 is barely good enough for what I’m describing. You think they are way smarter than they are. They regular make bad coding mistakes. Why would I use a crappier model?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o63x8cp/",
+    "parent_id": "t1_o6174hz",
+    "created_utc": 1771442775.0
+  },
+  {
+    "id": "o6gbqkr",
+    "author": "LateMonitor897",
+    "body": "When Chris Lattner, Ryan Dahl, and Salvatore Sanfilippo see value, you should probably too.[](https://en.wikipedia.org/wiki/Salvatore_Sanfilippo)",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6gbqkr/",
+    "parent_id": "t1_o5rx3a6",
+    "created_utc": 1771607275.0
+  },
+  {
+    "id": "o6hrfdl",
+    "author": "MaleCowShitDetector",
+    "body": "Oh wow you must be missing a part of your brain if you think those people are relevant.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6hrfdl/",
+    "parent_id": "t1_o6gbqkr",
+    "created_utc": 1771621892.0
+  },
+  {
+    "id": "o6lofwt",
+    "author": "LateMonitor897",
+    "body": "If the guy behind LLVM is not relevant, who is?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6lofwt/",
+    "parent_id": "t1_o6hrfdl",
+    "created_utc": 1771682737.0
+  },
+  {
+    "id": "o6lzipz",
+    "author": "MaleCowShitDetector",
+    "body": "The fact that you think LLVM is something complicated shows how much you are uneducated. \n\nPractically every CS student has fiddled with writing their own compilers, even from scratch.\n\nWaste of oxygen talking to someone like you. But let me broaden your perspective a little bit:\n\nWhat you're saying is that out of the hundreds if not thousands of academics 1 has said that AI killed SWE. Let that sink in, maybe you'll realize how stupid your statement is.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6lzipz/",
+    "parent_id": "t1_o6lofwt",
+    "created_utc": 1771686568.0
+  },
+  {
+    "id": "o6m0v2z",
+    "author": "LateMonitor897",
+    "body": "I mentioned not one, but three academics and notable software engineers.  \nAnd I did not claim that they say AI killed SWE, they just say that AI has value for SWE.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6m0v2z/",
+    "parent_id": "t1_o6lzipz",
+    "created_utc": 1771687001.0
+  },
+  {
+    "id": "o6nt0xe",
+    "author": "MaleCowShitDetector",
+    "body": "\"I mentioned 3 instead of 1, surely that has a different effect when were talking in the scale of thousands if not millions of computer scientists\"\n\nYes, I've seen the value it brings - security vulnerabilities, poor research and worse performance. Again if you're working on simple CRUD applications - it will bring some value, but most of the real work happens in domains where it's absolutely useless and will create more harm than value.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6nt0xe/",
+    "parent_id": "t1_o6m0v2z",
+    "created_utc": 1771706464.0
+  },
+  {
+    "id": "o6g69mj",
+    "author": "BunnyLifeguard",
+    "body": "Our architect tried the offline version becuase you know companies dislike when you leak their data so that removed their prime opus version so already there its kind of useless. And then on top of all of that even with project context the only good thing it managed to do was to warn about were cases could be null.\n\nIm writing this on my phone so im sorry if my comment is trash. But yeh AI is overhyped.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6g69mj/",
+    "parent_id": "t1_o5qow0g",
+    "created_utc": 1771605772.0
+  },
+  {
+    "id": "ob9tj4d",
+    "author": "Chance-Fan4849",
+    "body": "Exactly, I am also using opus 4.6 for my development especially for the most complex problem and it helps me well, I think we should use this ai tools well for our work then we don't need to worry about fire.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/ob9tj4d/",
+    "parent_id": "t1_o5qow0g",
+    "created_utc": 1773911174.0
+  },
+  {
+    "id": "o5q9bo9",
+    "author": "Tombobalomb",
+    "body": "The job market is ruined because there was massive over hiring during covid and the USA  is currently in a pretty serious recession that is being hidden by the gains of the AI industry",
+    "score": 5,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5q9bo9/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771267357.0
+  },
+  {
+    "id": "o5s5mo4",
+    "author": "guac-o",
+    "body": "To the top.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5s5mo4/",
+    "parent_id": "t1_o5q9bo9",
+    "created_utc": 1771288200.0
+  },
+  {
+    "id": "o5t78qi",
+    "author": "SnooCompliments8967",
+    "body": "Oversimplification of course, but while oversimplifying let's also point out that a LOT of jobs were the result of lots of investment capital. not the money is going into NVIDIA chips instead, and paying for compute, and a weird number of 8-9 figure salaries for people with AI startupo glitter on them on top. The money to build and grow got yanked away form humans and thrown into robots. It's not because people are being replaced with AI, but becaue people were hiring a lot because they had money to burn and were trying to figure out good stuff to do with it. Now they have an infinite money pit to throw it into instead, so investment dried up and other companies started downsizing too.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5t78qi/",
+    "parent_id": "t1_o5q9bo9",
+    "created_utc": 1771302052.0
+  },
+  {
+    "id": "o5ubhs0",
+    "author": "IndubitablyNerdy",
+    "body": "This and the fact that there is massive post covid offshoring in India since they are english speaking they have millions of people with degree and they are cheaper than western workers.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5ubhs0/",
+    "parent_id": "t1_o5q9bo9",
+    "created_utc": 1771322899.0
+  },
+  {
+    "id": "o5qcuau",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 3,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5qcuau/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771268328.0
+  },
+  {
+    "id": "o5r8bcg",
+    "author": "SimpleAccurate631",
+    "body": "Well said. I think there’s still a lot of sweat equity that many people don’t account for. And there are two types of devs. Not AI devs vs traditional devs. It’s devs who will put in the work vs devs looking for a shortcut to putting in the work. And we can guess who will fare better in the job market long term.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5r8bcg/",
+    "parent_id": "t1_o5qcuau",
+    "created_utc": 1771277503.0
+  },
+  {
+    "id": "o5r99mu",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5r99mu/",
+    "parent_id": "t1_o5r8bcg",
+    "created_utc": 1771277782.0
+  },
+  {
+    "id": "o5rnzd2",
+    "author": "SimpleAccurate631",
+    "body": "Probably my biggest pain point with AI is its tendency to over engineer things. If I didn’t have a dev background, a lot of bugs would have been complete nightmares to fix.\n\nNot dogging on vibe coding though. I think it’s the most brilliant way of developing a POC to show people and get some interest in your idea. Problem is, a lot of vibe coders see this as an insult, and swear up and down that you can vibe code a fully scalable enterprise app. But right now, it just can’t get you all the way there without some manual, traditional dev work.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5rnzd2/",
+    "parent_id": "t1_o5r99mu",
+    "created_utc": 1771282229.0
+  },
+  {
+    "id": "o5roiq4",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5roiq4/",
+    "parent_id": "t1_o5rnzd2",
+    "created_utc": 1771282402.0
+  },
+  {
+    "id": "o5rvzyq",
+    "author": "SimpleAccurate631",
+    "body": "So you’re saying that the company you work for trusts AI to handle something like SSO implementation? The security vulnerabilities alone with that are huge. What about configuring a new infrastructure for deployment?\n\nI totally understand vibe coding a front end, an API, and even the majority of a backend. I can see things changing within the next 2-3 years easily. But right now, moving from development to DevOps and security has me still coding as much as ever, and needed more than ever at work. I know that can change. But again, in an enterprise application, I have met people who say that the whole thing was vibe coded, but there were still parts that weren’t",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5rvzyq/",
+    "parent_id": "t1_o5roiq4",
+    "created_utc": 1771284889.0
+  },
+  {
+    "id": "o5rw7zd",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5rw7zd/",
+    "parent_id": "t1_o5rvzyq",
+    "created_utc": 1771284966.0
+  },
+  {
+    "id": "o5zsvk2",
+    "author": "SimpleAccurate631",
+    "body": "This is one of the biggest issues right here. You are misinterpreting what I was saying and taking it as a personal attack. I never once thought that they didn’t trust you. In fact, if they let you handle that much of the codebase, then you obviously are trustworthy, and also probably pretty good at your job, too.\n\nEvery day I get to work with vibe coders who do amazing stuff. Over the last couple months, I have worked with a vibe dev who has basically finished the conversion of an Angular 9 app to React. 5 years ago it would have been a hell of a task to take on and do it properly. A year ago, that same dev was a cook at Tokyo Joe’s. That is some wildly impressive stuff, and I am so fortunate to work with devs like that, and I think vibe coding is the best thing to happen to development.\n\nThe only thing I was saying was that I have heard many devs swear up and down that they can and have developed 100% of a scalable enterprise app from scratch (without piggybacking on an existing one either) with nothing but vibe coding. And every time, it hasn’t been true. I get why it happens. You can absolutely do 98% of it without writing any code at all. There’s just always some piece that is overlooked that someone coded. That will likely change soon. And I welcome that change. I just have yet to see otherwise. That’s all I am saying.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5zsvk2/",
+    "parent_id": "t1_o5rw7zd",
+    "created_utc": 1771387205.0
+  },
+  {
+    "id": "o5qds8j",
+    "author": "sevn2ate",
+    "body": "It’s because people like me with ideas > code knowledge not coming to your companies for work anymore. \n\nNot only that. It’s takes a couple well trained coders to fix a thing that used to take several. GG.",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5qds8j/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771268589.0
+  },
+  {
+    "id": "o5qrslc",
+    "author": "qorzzz",
+    "body": "Sorry to tell you but this mantra of \"ideas is all you need\" is laughable and only morons fall into it.\n\nLet me explain simply, on the off chance you do happen to have a grand idea and vibe code your way through it, what gives you protection? If someone with little to no programming knowledge can vibe code it then anyone can do the same which means your \"grand idea\" as grand as it might be, actually has no marketable value to others.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5qrslc/",
+    "parent_id": "t1_o5qds8j",
+    "created_utc": 1771272641.0
+  },
+  {
+    "id": "o5r5ipl",
+    "author": "Technical_Scallion_2",
+    "body": "I agree with you that he missed your point, but I didn't and while I respect your opinion, I'm not sure I agree. Yes, if your goal is marketing and selling an idea to others, AI will saturate that space (and it's already happening). And maybe that's what sevn2ate meant, is ideas = something to sell. But for people using AI to code solutions for their own use, it doesn't matter if a million other people are doing the same thing, an improvement to your business process saves you time and money, period.",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5r5ipl/",
+    "parent_id": "t1_o5qrslc",
+    "created_utc": 1771276691.0
+  },
+  {
+    "id": "o5r6g52",
+    "author": "sevn2ate",
+    "body": "Bingo… bruh just mad he can’t make easy money anymore 🤦🏾.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5r6g52/",
+    "parent_id": "t1_o5r5ipl",
+    "created_utc": 1771276960.0
+  },
+  {
+    "id": "o5ras2e",
+    "author": "Technical_Scallion_2",
+    "body": "It does seem like the people most rabid about how useless and unsafe agentic AI is, are the people who are doing the jobs that the agents are now doing in 30 seconds",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5ras2e/",
+    "parent_id": "t1_o5r6g52",
+    "created_utc": 1771278228.0
+  },
+  {
+    "id": "o5tlh9b",
+    "author": "GodOfSunHimself",
+    "body": "It does seem like the people most vocal about how awesome agentic AI is, are the people who are producing the most horrible slop.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5tlh9b/",
+    "parent_id": "t1_o5ras2e",
+    "created_utc": 1771308482.0
+  },
+  {
+    "id": "o5vj3tq",
+    "author": "sevn2ate",
+    "body": "Good luck being unemployed bud",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5vj3tq/",
+    "parent_id": "t1_o5tlh9b",
+    "created_utc": 1771340464.0
+  },
+  {
+    "id": "o5rb3r3",
+    "author": "qorzzz",
+    "body": "I have a full time job making great money actually",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5rb3r3/",
+    "parent_id": "t1_o5r6g52",
+    "created_utc": 1771278320.0
+  },
+  {
+    "id": "o5rq340",
+    "author": "sevn2ate",
+    "body": "Yeah ok",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5rq340/",
+    "parent_id": "t1_o5rb3r3",
+    "created_utc": 1771282903.0
+  },
+  {
+    "id": "o5r14vl",
+    "author": "sevn2ate",
+    "body": "To think the 2 products similarity = same marketing is idiotic in itself brother. \n\nBlessings to you.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5r14vl/",
+    "parent_id": "t1_o5qrslc",
+    "created_utc": 1771275414.0
+  },
+  {
+    "id": "o5r2o7f",
+    "author": "qorzzz",
+    "body": "You completely missed the point.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5r2o7f/",
+    "parent_id": "t1_o5r14vl",
+    "created_utc": 1771275862.0
+  },
+  {
+    "id": "o5r33kp",
+    "author": "sevn2ate",
+    "body": "I’m sure I did.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5r33kp/",
+    "parent_id": "t1_o5r2o7f",
+    "created_utc": 1771275987.0
+  },
+  {
+    "id": "o5r3ld3",
+    "author": "qorzzz",
+    "body": "Go talk with other losers on /gettingbigger you freak",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5r3ld3/",
+    "parent_id": "t1_o5r33kp",
+    "created_utc": 1771276132.0
+  },
+  {
+    "id": "o5r4gsb",
+    "author": "sevn2ate",
+    "body": "Go through more people’s reddits you LAME lol",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5r4gsb/",
+    "parent_id": "t1_o5r3ld3",
+    "created_utc": 1771276385.0
+  },
+  {
+    "id": "o5razgy",
+    "author": "Consistent_Age_5094",
+    "body": "bro just set your shit to private if u don't want people doing that\n\nthis \"go through people's data\" like it isn't a fucking 2 second click and it's the only post on your profile; is such a lame uncreative rebuttable to an argument",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5razgy/",
+    "parent_id": "t1_o5r4gsb",
+    "created_utc": 1771278287.0
+  },
+  {
+    "id": "o5rpxuy",
+    "author": "sevn2ate",
+    "body": "I genuinely don’t care 😅",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5rpxuy/",
+    "parent_id": "t1_o5razgy",
+    "created_utc": 1771282856.0
+  },
+  {
+    "id": "o5r7ud8",
+    "author": "SimpleAccurate631",
+    "body": "Wow. The two of you really turned that into a respectful, deeply thoughtful debate. Reddit’s finest…",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5r7ud8/",
+    "parent_id": "t1_o5r4gsb",
+    "created_utc": 1771277366.0
+  },
+  {
+    "id": "o5r7zb6",
+    "author": "sevn2ate",
+    "body": "Right?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5r7zb6/",
+    "parent_id": "t1_o5r7ud8",
+    "created_utc": 1771277407.0
+  },
+  {
+    "id": "o5sm4lz",
+    "author": "roguelikeforever",
+    "body": "Honestly this has always been true, there was just the moat of building it.  But I don’t think much changes, most people are too lazy to even vibe code lol",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5sm4lz/",
+    "parent_id": "t1_o5qrslc",
+    "created_utc": 1771294053.0
+  },
+  {
+    "id": "o5v3apu",
+    "author": "Relative-Category-41",
+    "body": "Yeh, I'd be careful saying ideas is all you need. You'd still need to understand fundamentals for the security aspects or to communicate those ideas effectively.\n\nIt wouldn't be straight forward to just get a coder to read AI code its never been part of the production in to check it for obvious security/performance issues.\n\nAlso with large code bases. You need to provide context or you'll find the LLM will struggle\n\nOn top of that hallucination rates are not zero, and a bad loop can bankrupt you",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5v3apu/",
+    "parent_id": "t1_o5qds8j",
+    "created_utc": 1771335369.0
+  },
+  {
+    "id": "o5viouo",
+    "author": "sevn2ate",
+    "body": "I understand all of this & build on systems that aren’t from scratch. I’ve actually been building my own sites for 20 years and go to better people for particular things.\n\nWith claude I don’t have to do this as much if at all when it comes to changes for my business. The sentiment you’re sharing is for people who are building from scratch with no base code knowledge. \n\nI have no context to my capabilities 😅. We just got a bunch of low level coders in here that went from making 20+ to 3k a month since Covid.\n\nDon’t fret… The same is happening to my niche in music I understand 🙏🏾",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5viouo/",
+    "parent_id": "t1_o5v3apu",
+    "created_utc": 1771340339.0
+  },
+  {
+    "id": "o5wjfoz",
+    "author": "Relative-Category-41",
+    "body": "If your \"build\" is more taking an existing backend system and frontend work and adding data in existing ORMs than yeh, just run crazy with Claude and ignore me\n\nIf you're trying to do full Oauth integrations, then you \n\nI'm not fretting, I've been a professional developer for 20 years. I welcome the fact it's making me more efficient and making things commercially viable for Businesses that wouldn't have been previously without a team\n\nIt will get better and put more and more people out of the job, my goal is to make sure I pivot and be the last person standing rather than cry about it",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5wjfoz/",
+    "parent_id": "t1_o5viouo",
+    "created_utc": 1771351194.0
+  },
+  {
+    "id": "o69gkb5",
+    "author": "sevn2ate",
+    "body": "I respect it",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o69gkb5/",
+    "parent_id": "t1_o5wjfoz",
+    "created_utc": 1771517681.0
+  },
+  {
+    "id": "o5vaghy",
+    "author": "[deleted]",
+    "body": "[removed]",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5vaghy/",
+    "parent_id": "t1_o5qds8j",
+    "created_utc": 1771337740.0
+  },
+  {
+    "id": "o5vhtfr",
+    "author": "sevn2ate",
+    "body": "Ur ghey",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5vhtfr/",
+    "parent_id": "t1_o5vaghy",
+    "created_utc": 1771340077.0
+  },
+  {
+    "id": "o5vifqq",
+    "author": "[deleted]",
+    "body": "[removed]",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5vifqq/",
+    "parent_id": "t1_o5vhtfr",
+    "created_utc": 1771340263.0
+  },
+  {
+    "id": "o5viuuf",
+    "author": "sevn2ate",
+    "body": "Lame ass boy 🤦🏾.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5viuuf/",
+    "parent_id": "t1_o5vifqq",
+    "created_utc": 1771340389.0
+  },
+  {
+    "id": "o5q79wq",
+    "author": "cakemates",
+    "body": "The market is not ruined because of AI yet, you are not paying attention. The media is pointing at AI but most these companies do not have any proper working AI yet, but outsourcing is going massive these days.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5q79wq/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771266795.0
+  },
+  {
+    "id": "o5qmpmv",
+    "author": "gh0stwriter1234",
+    "body": "And won't have for decades for anything other than tech support roles .",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5qmpmv/",
+    "parent_id": "t1_o5q79wq",
+    "created_utc": 1771271155.0
+  },
+  {
+    "id": "o5qbrp8",
+    "author": "YangBuildsAI",
+    "body": "the job market is rough but it's not really because AI replaced engineers, it's because of layoffs + economic correction + too many bootcamp grads flooding entry-level roles. AI is just making senior devs more productive, not eliminating the need for people who can debug weird edge cases ",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5qbrp8/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771268034.0
+  },
+  {
+    "id": "o5qeitq",
+    "author": "PerpetuallySticky",
+    "body": "I’m not sure why you aren’t finding value in AI after a single day of using it, to me that shows a lack of understanding what AI is and how it should be used. \n\nYou’re correct. AI isn’t at the point of taking over full developers positions. Not yet at least, and anyone who says it definitely will is just speculating. But having watched how far it has come in the time it has been widespread, it’s pretty naive to think it *can’t* happen. \n\nAI doesn’t need to do your job for you for it to be useful. Can it write a complex function, understand the entire context, and implement it perfectly? No. Can it take a bite size chunk of the work (writing the isolated function or finding the connection points in a large code base to make implementation easier)? Absolutely. And that’s worlds ahead of what it could do a year or 2 ago. \n\nYou might be pessimistic about the outlook of AI, but if you allow that pessimism to push you away from learning how to *use* it in your job (read: not take over your job) then you are just ignoring what has the chance to be one of the largest means of productivity increasing tools we have/will ever see. \n\nRight now I think most people can at least accept AI is not going away. It *will* be utilized across our lives to various degrees. So by not keeping up with it and learning *how* to use it you will be left behind when the world starts to figure out all of the different niches and situations it applies best in",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5qeitq/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771268797.0
+  },
+  {
+    "id": "o5tzg0u",
+    "author": "PrudentWolf",
+    "body": "How could productivity increase benefit us?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5tzg0u/",
+    "parent_id": "t1_o5qeitq",
+    "created_utc": 1771316000.0
+  },
+  {
+    "id": "o5qnkdv",
+    "author": "lookwatchlistenplay",
+    "body": "Peace be with us.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5qnkdv/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771271405.0
+  },
+  {
+    "id": "o5qpzy6",
+    "author": "MindfulK9Coach",
+    "body": "Because one architect can do the work of ten if they have strong AI orchestration and context engineering skills.\n\nI've been doing, shipping, and teaching it for five years in public, before the standards and best practices were even thought of.\n\nI routinely compress multi-hour/day/week enterprise timelines into minutes.\n\nThis results in higher quality, transparency, and repeatability versus non-AI users who only have experience hand-jamming syntax, also known as the lowest abstraction level.\n\nYou have to think in systems to get the most out of the AI ecosystem.\n\nOtherwise, you'll be screaming \"useless\" while the person next to you does your job ten times as fast and thoroughly, beating the deadline and still meeting stakeholders' requirements.\n\nWith less cognitive load.\n\nAI isn't the issue. It's a skill issue that takes a mindset shift to break free from.\n\nInstead of asking for an artifact, command it and lay out your intent, map the strategy, and desired outcome, and watch your outputs change.\n\nAI is only as useful as your input is contextually rich.\n\nEven for unstructured data. \n\nYou iterate from there.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5qpzy6/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771272112.0
+  },
+  {
+    "id": "o5tzlfg",
+    "author": "PrudentWolf",
+    "body": "LOL, thanks ChatGPT",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5tzlfg/",
+    "parent_id": "t1_o5qpzy6",
+    "created_utc": 1771316085.0
+  },
+  {
+    "id": "o6h5lds",
+    "author": "beheadedstraw",
+    "body": "5 years huh? 🤡",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6h5lds/",
+    "parent_id": "t1_o5qpzy6",
+    "created_utc": 1771615476.0
+  },
+  {
+    "id": "o6h60y6",
+    "author": "MindfulK9Coach",
+    "body": "You been teaching it, better, publicly, for longer? Share your arguments or stfu you reddit clown.\n\nMy background is 17 years in distributed systems, network engineering, intercontinental data grid integration, and IT infrastructure.\n\nYou?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6h60y6/",
+    "parent_id": "t1_o6h5lds",
+    "created_utc": 1771615600.0
+  },
+  {
+    "id": "o6h8mlg",
+    "author": "beheadedstraw",
+    "body": "Senior Systems/Linux Engineer, I also write FPGA code and custom drivers for Fintech RT systems, prior AEGIS Weapons Systems Engineer for the Navy, trained Japanese and South Korean sailors for 2 years.Also worked for IBM doing Z/Systems integrations and Watson (before AI was AI as we know it). Been doing this shit for 20+ years.\n\nChatGPT is only 3 years old. AI/LLM mainstream is only roughly 2 years old. Theres no fucking possible way you’ve been teaching it for 5 years 😂. Sit the fuck down, adults are talking, not kids with AI manifested Dunning Kreuger.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6h8mlg/",
+    "parent_id": "t1_o6h60y6",
+    "created_utc": 1771616350.0
+  },
+  {
+    "id": "o6ha9je",
+    "author": "MindfulK9Coach",
+    "body": "You don't know wtf YOU are talking about. Gpt3 released in 2020. 3.5 in 2022. 💀\n\nThe fact you missed that very obvious date with your experience is enough bullshit for one day.\n\nFucking clown.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6ha9je/",
+    "parent_id": "t1_o6h8mlg",
+    "created_utc": 1771616822.0
+  },
+  {
+    "id": "o6hayof",
+    "author": "beheadedstraw",
+    "body": "Nobody was fucking with gpt-3 when it was released bud. 99.999% of people didn’t even know about it.\n\nNobody gave a shit about it until ChatGPT released, and even then it took over a year to gain broad market sentiment to gain any traction to be “taught”. You can’t teach shit if you don’t know shit, and it’s obvious just from the way you talk you didn’t understand a fucking thing when it was released let alone how to use it 😂.\n\nI bet you’re a converted crypto bro, because you sound like one.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6hayof/",
+    "parent_id": "t1_o6ha9je",
+    "created_utc": 1771617025.0
+  },
+  {
+    "id": "o6hbdh5",
+    "author": "MindfulK9Coach",
+    "body": "YOU weren't fucking with it.\n\nI've been neck-deep in the API for 5 years, teaching, shipping, and developing frameworks for enterprise clients. \n\nI don't need you to believe me; my LinkedIn is public. 🤷🏾",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6hbdh5/",
+    "parent_id": "t1_o6hayof",
+    "created_utc": 1771617143.0
+  },
+  {
+    "id": "o6hc565",
+    "author": "beheadedstraw",
+    "body": "Lmao it wasn’t even usable and it was a PRIVATE BETA. Yet you magically learned how to use it in the blink of an eye, wrote all your APIs out and somehow shipped something in 2021? Agents weren’t even a thing until last year rofl. Then became master extraordinaire and started TEACHING it? They didn’t even have classes in AI until like, beginning of last year 🤡\n\n![gif](giphy|b0E3PPld4558irObaY)",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6hc565/",
+    "parent_id": "t1_o6hbdh5",
+    "created_utc": 1771617366.0
+  },
+  {
+    "id": "o6hciq2",
+    "author": "beheadedstraw",
+    "body": "I can put I was the CEO of a multi billion dollar company in South Africa on LinkedIn, none of that shit is verifiable until you do a background check lmao, you’d know this if you actually performed interviews.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6hciq2/",
+    "parent_id": "t1_o6hbdh5",
+    "created_utc": 1771617475.0
+  },
+  {
+    "id": "o6hdsg2",
+    "author": "MindfulK9Coach",
+    "body": "You mistaking your own late adoption for a global timeline isn't my problem. \n\nJust because you were heads-down in legacy Z/Systems and deterministic FPGA code doesn't mean the rest of the industry was sleeping.\n\n​Here is what the actual operational timeline looks like for someone who didn't wait for a shiny consumer chat UI to start building:\n\n​2020: Deep in the OpenAI API the moment GPT-3 dropped.\n​\nTested Bard through alpha and beta before it was scrapped for Gemini when it was still rough, and building in Google AI Studio long before the Gemini app was even a usable product.\n\n​Been integrating Perplexity via API since their launch into enterprise workflows. \n\n​Pre-Mainstream Claude I was Orchestrating workflows with Claude back in the Sonnet 2 days, well before Opus 3.0 or 3.5 Sonnet made it trendy.\n\nI was also building out complex webhooks and actions the absolute second Custom GPTs were released so they could do real work.\n\n​While you were waiting for 'broad market sentiment' to tell you it was okay to learn something new, I was publicly architecting and shipping thousands of systems that actively address millions of live user data points.\n\n​Coming from a C4ISR systems architecture background, treating these models as stochastic reasoning engines in a distributed workflow is second nature to me. You're still looking at them like a rigid compiler.\n\n​Again, I don't need you to believe me. \n\nThe receipts are public. Keep screaming at the cloud while the rest of us actually build.\n\nI'm done here.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6hdsg2/",
+    "parent_id": "t1_o6hciq2",
+    "created_utc": 1771617850.0
+  },
+  {
+    "id": "o6heljr",
+    "author": "beheadedstraw",
+    "body": "Sweet mother of Jesus, you have to use ChatGPt just to make a fucking response 😂\n\nI write FPGA drivers for bleeding edge Fintech systems that have to be accurate down to the microsecond. I work with the latest kernel source trees and Debian Sid.\n\nAlso check your code in your repository that you vibe coded 2 weeks ago, it’s full of bullshit. Why you doing 1 sec sleeps in a limited range for loop that doesn’t need it 😂.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6heljr/",
+    "parent_id": "t1_o6hdsg2",
+    "created_utc": 1771618088.0
+  },
+  {
+    "id": "o5qqgtn",
+    "author": "phillipcarter2",
+    "body": "It most certainly doesn’t only work where errors are accepted, you just have a skill issue. These tools require work to wield, like any other tool.\n\nThese job market is down for different reasons.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5qqgtn/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771272250.0
+  },
+  {
+    "id": "o5qryri",
+    "author": "[deleted]",
+    "body": "[removed]",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5qryri/",
+    "parent_id": "t1_o5qqgtn",
+    "created_utc": 1771272692.0
+  },
+  {
+    "id": "o5rpi1h",
+    "author": "phillipcarter2",
+    "body": "Massive over-hiring during the pandemic, trump 1’s tax changes coming due, inflation, tariffs, and a shitty environment where investors encourage quarterly layoffs.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5rpi1h/",
+    "parent_id": "t1_o5qryri",
+    "created_utc": 1771282715.0
+  },
+  {
+    "id": "o5qv2z8",
+    "author": "nicolas_06",
+    "body": "Most companies use AI as an excuse for offshoring or reducing cost.\n\nEven if AI was to make people 10X at productive (we are far from that), if you have more than 10X the business, you would hire people. not layoff.\n\nThe main issue is not AI but business prospects and over hiring during the pandemic + more people studying tech/CS wanting to get in.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5qv2z8/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771273614.0
+  },
+  {
+    "id": "o5qwnti",
+    "author": "david_jackson_67",
+    "body": "It's because most of your claims are self-serving hyperbolic nonsense.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5qwnti/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771274089.0
+  },
+  {
+    "id": "o5r08dw",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5r08dw/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771275149.0
+  },
+  {
+    "id": "o5r9vjv",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5r9vjv/",
+    "parent_id": "t1_o5r08dw",
+    "created_utc": 1771277961.0
+  },
+  {
+    "id": "o5t2qtj",
+    "author": "helldogskris",
+    "body": "I don't buy it. Developers don't just \"speak computer\" - they also know how to translate \"vague requirements\" into precise ones by asking the right questions and digging deep before starting work.\n\nIt's not about \"understanding our language\" - non-developers have never been able to articulate in sufficient detail their exact requirements.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5t2qtj/",
+    "parent_id": "t1_o5r08dw",
+    "created_utc": 1771300232.0
+  },
+  {
+    "id": "o5uanas",
+    "author": "FourDimensionalTaco",
+    "body": "Software development is not simply an English to \"computer speak\" (wtf?) translator. That is absolutely ridiculous. Writing code is not the main portion of software development. It is about constructing abstract architectures that make up the software, how to structure them, how to modularize them, how interfaces are to be designed between these components, how to make it all maintainable and extensible in the future. And all of this is based on customer demands that first need to be thoroughly analyzed and discussed with the customer, because customers usually do not have a clear picture of what they want or what they need, and require at least 1-2 meetings to actually produce a clear list of requirements and goals. The actual coding is definitely not the main portion here.\n\nAnd the result has to be *correct*. Not just plausible. LLMs produce plausible output, not necessarily correct one. Opus 4.6 has produced code with non-existing functions several times, and also produced code that compiles, but has subtle bugs, and code that compiles and works okay, but actually does not do what is requested.\n\nI know because I do use Opus during SW development. It is very useful, and definitely accelerates my work. But it is not a software developer.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5uanas/",
+    "parent_id": "t1_o5r08dw",
+    "created_utc": 1771322431.0
+  },
+  {
+    "id": "o5r797c",
+    "author": "SimpleAccurate631",
+    "body": "The problem is, in the eyes of the executives, they don’t need AI to be as good as you are at your job. They just need AI to be barely good enough to replace you. And even if it’s not there yet, they often still will replace you prematurely to save money",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5r797c/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771277195.0
+  },
+  {
+    "id": "o5r7c9d",
+    "author": "Ok-Exam9194",
+    "body": "Economy + overhiring + offshoring. And management needs to show “optimization” to hit their bonuses.\n\nAI hype comes from pet projects and freelancers. In real enterprise world nobody needs 1000 lines of AI-generated code. We need simple, reliable solutions and folks who understand the business.\n\nAI is basically Stack Overflow on steroids. Useful tool, not a replacement.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5r7c9d/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771277219.0
+  },
+  {
+    "id": "o5rbzxa",
+    "author": "btoned",
+    "body": "Our government won't regulate anything with technology so every company with an Internet connection is willing to accept labor from overseas actors for a couple peanuts.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5rbzxa/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771278581.0
+  },
+  {
+    "id": "o5rje4l",
+    "author": "Informal-Spinach-345",
+    "body": "Because greedy executives and their corporations are foaming at the mouth with an opportunity like this, to fuck everyone out of jobs and enrich themselves.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5rje4l/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771280802.0
+  },
+  {
+    "id": "o5rrbjc",
+    "author": "damhack",
+    "body": "The interesting thing about the latest coding agents is that they only produce results that are as good as your understanding of the probelm domain and computer science.  If you’re not a software engineer or architect, you will only produce software that partially works, cannot be trusted and can’t be scaled.\n\nMaybe we need to rephrase “Garbage In, Garbage Out” to “Lacking Knowledge, Lacking Product”.\n\nbtw, you don’t know what stochastic means.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5rrbjc/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771283307.0
+  },
+  {
+    "id": "o5rrwo8",
+    "author": "fudeel",
+    "body": "ok, my PhD in statistics is not valid because damhack tells me I dont know what it is, without assuming I over-simplified its term for you folks ahhaha",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5rrwo8/",
+    "parent_id": "t1_o5rrbjc",
+    "created_utc": 1771283504.0
+  },
+  {
+    "id": "o5tbfe5",
+    "author": "damhack",
+    "body": "Using a technical term is not simplification, especially when you use it to mean deterministic, which is the opposite of its meaning, i.e. random, unpredictable, probability distributed.\n\nIn my main point, I wasn’t criticizing you personally.  I am paraphrasing recent research studies that empirically show that speed of development, code quality, reliability and maintainability are directly related to the experience level of the person steering the coding agent.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5tbfe5/",
+    "parent_id": "t1_o5rrwo8",
+    "created_utc": 1771303825.0
+  },
+  {
+    "id": "o5xojri",
+    "author": "HawocX",
+    "body": "Ok, then tell us how \"stochastic\" makes sense in the context you used it.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5xojri/",
+    "parent_id": "t1_o5rrwo8",
+    "created_utc": 1771362752.0
+  },
+  {
+    "id": "o5s1llk",
+    "author": "Live-Independent-361",
+    "body": "You’re evaluating AI purely on whether it can replace a senior engineer end to end. That’s the wrong lens.\n\nCompanies are not asking “can this fully replace a dev.” They’re asking “can this reduce how many devs we need.”\n\nLayer in three things happening at once:\n\nAI increasing individual output\nOffshoring to lower cost labor markets\nHigher interest rates forcing companies to cut burn\n\nYou don’t need magical AGI for headcount to shrink. A 10 to 20 percent productivity gain plus global wage arbitrage is enough to reduce hiring.\n\nAlso, “AI is useless without real developers” is exactly why hiring changes. If one strong engineer augmented with AI can do the work of two average engineers, the math shifts.\n\nThe market doesn’t care whether Claude feels impressive to you on day two. It cares about cost structure and output per dollar.\n\nDemand shifts in labor markets are normal. The move right now is strategic positioning. Either become the person who uses the leverage tools effectively or move into domains with structural protections like healthcare, regulated infrastructure, physical systems, defense, energy.\n\nComplaining about the capability ceiling of today’s models misses the economic layer of what’s happening.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5s1llk/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771286814.0
+  },
+  {
+    "id": "o5s2sr7",
+    "author": "danteselv",
+    "body": "One engineer doing the work of 2 developmers is not what's happening though. There is not a single public example you could point to demonstrate that. It's just fluff. It sounds amazing but is that what YOU are doing? Where is it happening at? How did you measure 1 vs the other? I know you didn't, that's the point. Everyone's just freestyling opinions that sound good.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5s2sr7/",
+    "parent_id": "t1_o5s1llk",
+    "created_utc": 1771287226.0
+  },
+  {
+    "id": "o5s1pep",
+    "author": "Rise-O-Matic",
+    "body": "It’s not great for production software to sell publicly atm but it’s great for niche custom software and automations that never would have been made without it.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5s1pep/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771286850.0
+  },
+  {
+    "id": "o5s3d25",
+    "author": "[deleted]",
+    "body": "Please say you weren't responsible for writing reports",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5s3d25/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771287419.0
+  },
+  {
+    "id": "o5s3q0v",
+    "author": "fudeel",
+    "body": "aahhaha no, I was just too lazy on the train + phone. ",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5s3q0v/",
+    "parent_id": "t1_o5s3d25",
+    "created_utc": 1771287543.0
+  },
+  {
+    "id": "o5s3hk8",
+    "author": "tokens_go_brrrr",
+    "body": "Imagine posting that you can’t get great results from Opus 4.6 like it’s some kind of flex. I hope you know how to weld..",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5s3hk8/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771287462.0
+  },
+  {
+    "id": "o5s44g1",
+    "author": "Some-Programmer-3171",
+    "body": "I have had issued getting my  mobile game clone to work just vibe coding alone getting it to render what i want correctly but i think that will improve, but defects or enhancements to existing code base are extremely easy now and i get it focus on fixing all the defects. These humans don’t realize as a-lot of code is not done by seniors  just let me know the codebase and i can  learn how it works and then work on enhancing it without too much issue i feel like now",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5s44g1/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771287679.0
+  },
+  {
+    "id": "o5sh1fx",
+    "author": "j00cifer",
+    "body": "I’m going to be honest: judging by your communication here, your prompts are probably bad.\n\nGood prompts are everything.  I’m convinced that engineers who can’t understand how LLMs can be productive are having trouble articulating things. \n\nIf you spent your career barely communicating and communicating poorly you’re going to have a harder time with LLM than someone who didn’t.  \n\nWorkaround for you may be to stage every prompt, have another LLM take what you’re trying to say and forge a working prompt out of it, then you use that.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5sh1fx/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771292221.0
+  },
+  {
+    "id": "o5slirw",
+    "author": "roguelikeforever",
+    "body": "Use AI to proof read your posts, yesh",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5slirw/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771293835.0
+  },
+  {
+    "id": "o5t606j",
+    "author": "TwistStrict9811",
+    "body": "This post won't age well due to how fast the agents are advancing",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5t606j/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771301543.0
+  },
+  {
+    "id": "o5td3v5",
+    "author": "Longjumping-Speed-91",
+    "body": "\"not producing nothing good acceptable for industry\" - written by human",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5td3v5/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771304556.0
+  },
+  {
+    "id": "o5tmmlb",
+    "author": "Fern_Kitsuen",
+    "body": "You have so many misspellings in your post… are you too lazy to do a spell check? Stop bitching about AI and step up",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5tmmlb/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771309056.0
+  },
+  {
+    "id": "o5tympw",
+    "author": "BubblyAd3242",
+    "body": "I'm working in a big enterprise company as a sr software architect. We perform modernization on old, legacy projects.  I can say, more than 6 months we are doing  spec-driven development with claude models. Day by day, it still surprises me.\n\nI still don't want to believe that agentic workers gonna eventually, replace us, maybe not today or not in 3 4 years, but for sure it will dominate small scale companies.\n\nAs you stated, for now, without us, without human in the loop factor, it can't bring big value on big projects due to several factors. But when it gets combined with sr engineers, then it becomes amazing value multiplier. And this means, even if AI won't replace you, for sure it will have a huge impact on headcouts in a team...",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5tympw/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771315535.0
+  },
+  {
+    "id": "o5ub89m",
+    "author": "FourDimensionalTaco",
+    "body": "Yeah. It is not a SW developer. It is an accelerant. And while it surprises me too, it can also be so very wrong. I've had enough results from Opus to know that its output needs to be reviewed thoroughly. I highly doubt that LLMs, with their stochastic nature, can ever be 100% trusted, which is why I am very critical about vibe coding. And, the really important architectural decision should not be made by an LLM. That said, it can function well for discussing one's architectural choices. But again, its responses to that need to be used very carefully and with a healthy degree of skepticism.",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5ub89m/",
+    "parent_id": "t1_o5tympw",
+    "created_utc": 1771322752.0
+  },
+  {
+    "id": "o5typkf",
+    "author": "pertymoose",
+    "body": "The global developer community has cultivated a culture and attitude of \"good enough,\" where bugs and broken features and lack of performance is acceptable so long as the project milestones are reached in time, and any kind of broken mess is released, regardless of quality.\n\nThis, my friend, is why developers are being replaced by generators. Generators are perfectly capable of living up to this very, very low standard of expectation.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5typkf/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771315580.0
+  },
+  {
+    "id": "o5u0v4g",
+    "author": "NoleMercy05",
+    "body": "I imagine your employer thought - \"wow\"; wait..  \"useless\" about your as well.\n\nTry managing a few Jr devs - you have to be able to explain problems and expected solution patterns, provide documentation and best practice references.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5u0v4g/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771316816.0
+  },
+  {
+    "id": "o5uhtfu",
+    "author": "CriticalPolitical",
+    "body": "Humans are not error-less. That’s the thing, all AI has to be is make less errors than humans currently do, not be errorless (but they are moving ever closer to being errorless asymptotically)",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5uhtfu/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771326315.0
+  },
+  {
+    "id": "o5uv7zk",
+    "author": "[deleted]",
+    "body": "Sorry, but if you really think AI is useless in software development, you will be the first to go. And rightfully so.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5uv7zk/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771332439.0
+  },
+  {
+    "id": "o5v1lnu",
+    "author": "Relative-Category-41",
+    "body": "First time developers tried using an IDE instead of coding in the terminal they said... WOW and the next day they said it was useless \n\nYou need to learn how to use a hammer to hammer in the nails. If you don't you are just smashing windows \n\nOnly a very very small percentage of developers are using AI right; and when they do they improve their productivity levels by noticeable amounts\n\nYou have a choice, be one of that small subset of developers who spend time learning the tool. Or be one of those developers without a job\n\nYour choice really...",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5v1lnu/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771334779.0
+  },
+  {
+    "id": "o5v9x58",
+    "author": "TinyCuteGorilla",
+    "body": "Tbf it's not toally AI related. The economy is not that good right now. AI is just a good excuse for companies to lay people off. But most companies are not experiencing huge productivity boost from AI.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5v9x58/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771337564.0
+  },
+  {
+    "id": "o5vjfcd",
+    "author": "superanonguy321",
+    "body": "Man this isnt true and if you stick to your guns you'll be a highly skilled unemployed dude",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5vjfcd/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771340562.0
+  },
+  {
+    "id": "o5vtgjj",
+    "author": "beachguy82",
+    "body": "If you think the current top models are useless, you’re actually the problem.  \n\n\nAnyone using these correctly are multiple times faster than before.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5vtgjj/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771343524.0
+  },
+  {
+    "id": "o5vwzpk",
+    "author": "Number4extraDip",
+    "body": "They are not purpose built for hardware utility. Comparing west to east development from europe stuck in the middle? China is eating western lunch on all fronts",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5vwzpk/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771344558.0
+  },
+  {
+    "id": "o5yupd2",
+    "author": "tr14l",
+    "body": "If you couldn't figure out how to get use out of opus 4.6 you don't belong in this industry",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5yupd2/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771375845.0
+  },
+  {
+    "id": "o5z9exo",
+    "author": "VariousMemory2004",
+    "body": "That ping-pong between \"wow\" and \"useless\" is why I would fire someone.\n\nThe \"wow\" is understandable. It does all kinds of amazing things. \n\nThe \"useless\" is too, momentarily. It's unreliable!\n\nBut if that's where you stop, how did you ever learn any other technology? This is a common experience. \"Wow, so cool, so powerful, makes life easier!'\n\"Useless! The edge cases, the gotchas, the undocumented best practices!\"\n\nBut we stuck it out, right? Over and over. We went over the peak of inflated expectations and into the trough of disillusionment. But we didn't quit. We trudged up the slope of enlightenment and gained actual competence. And those who couldn't do that were in need of another career.\n\nMy question for you, then, is: when and why did you give up on pushing through and learning the thing? AI is a tool for your toolbox. It's not magic.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5z9exo/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771380442.0
+  },
+  {
+    "id": "o5zdi4h",
+    "author": "ForwardBias",
+    "body": "I would agree with another poster that opus 4.6 is not useless. That said it still needs a lot of help in getting things right. Spent several hours today holding its hand through several fixes and changes.\n\nI would be surprised if anyone could really be fired for it right now but it should increase your development speed,. particularly on the straight forward stuff.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5zdi4h/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771381755.0
+  },
+  {
+    "id": "o5zl0u6",
+    "author": "Important_Staff_9568",
+    "body": "People are getting fired because of the economy and companies are using AI as the fall guy",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5zl0u6/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771384322.0
+  },
+  {
+    "id": "o5znp73",
+    "author": "Global-Bad-7147",
+    "body": "OP....there is a market downturn coming.  Nobody knows when, only that each day it gets more likely. It is the regular boom / bust cycle of capital markets plus a lot of political fuckery thrown in. Ahead of the down cycle, AI is the *perfect* excuse for businesses to lay off people they would have had to layoff anyway.\n\n\nAs a CEO, you can say you are RIFing because of uncertainty and underperformance. Or you can say you are RIFing because of AI efficiencies and productivity. Which one sounds better to investors? The choice is clear.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5znp73/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771385279.0
+  },
+  {
+    "id": "o614o3b",
+    "author": "pogsandcrazybones",
+    "body": "Thinking opus 4.6 only works for art, music (human creativity) but it doesn’t for code is crazy lol",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o614o3b/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771411166.0
+  },
+  {
+    "id": "o6153bc",
+    "author": "fudeel",
+    "body": "Because you misunderstood my point. \n\nIt’s not because it works bad, but it still requires me (my expertise) to be there.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6153bc/",
+    "parent_id": "t1_o614o3b",
+    "created_utc": 1771411381.0
+  },
+  {
+    "id": "o61sy8u",
+    "author": "Puzzleheaded-Relief4",
+    "body": "It still absolutely needs a spec, but you can vibe write the spec.  Then it produces good code.  Is it faster than wiring all the code by hand? Usually yes.  Will there sometimes be bugs? Sometimes but rare",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o61sy8u/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771421438.0
+  },
+  {
+    "id": "o62c39n",
+    "author": "smx501",
+    "body": "AI is not as good as you at your work, but your work is being transformed to suit AI.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o62c39n/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771427350.0
+  },
+  {
+    "id": "o641unv",
+    "author": "LibertyCap10",
+    "body": "skill issue",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o641unv/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771444053.0
+  },
+  {
+    "id": "o65iz28",
+    "author": "HalIncandenza2678",
+    "body": "If you think Claude Code w Opus 4.6 is useless, I have a feeling you might be the one lacking value 😂",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o65iz28/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771459556.0
+  },
+  {
+    "id": "o686b67",
+    "author": "sneholi18",
+    "body": "Looking for AI study partner",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o686b67/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771501826.0
+  },
+  {
+    "id": "o68gp1y",
+    "author": "Sufficient-Pause9765",
+    "body": "AI is useless without **supervision** from real developers.\n\nWhich is why for my new co I have 4 staff and 1 senior level eng, and thats it. AI has eliminated the need for the rest of the teams I would have put around them before. We run the same SDLC we would have before, and its actually less overhead to manage the ai orchestration then manage humans, (for the moment at least) there really isn't a personality/psychological/hr component to managing AI.\n\nAI makes mistakes and is not deterministic. Needs supervision and SDLC. Same is true for humans, ",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o68gp1y/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771506200.0
+  },
+  {
+    "id": "o68y54m",
+    "author": "Lunkwill-fook",
+    "body": "Well it’s to milk as much money out of investors as possible before the real cost of AI is placed on companies who now can’t live without it as they laid off all their developers",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o68y54m/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771512150.0
+  },
+  {
+    "id": "o6c2qon",
+    "author": "RainbowSovietPagan",
+    "body": "Software development doesn't accept errors? What are you talking about? Virtually every piece of software on the market is full of bugs. Show me a piece of software that is allegedly bug free, and I'll show you a pile of lies.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6c2qon/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771545826.0
+  },
+  {
+    "id": "o6czyvk",
+    "author": "12jikan",
+    "body": "It’s not AI. If they say they’re replacing their engineers with AI then they get more investment. Then they can cut ppl while stocks go up. It’s leading the donkey with an apple.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6czyvk/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771557965.0
+  },
+  {
+    "id": "o6f04cm",
+    "author": "suglav",
+    "body": "The job market is ruined by AI not because of AI is useful. Yes AI is useless, but they can still ruin the job market. Usefulness and market impact are two unrelated things.  Those who hold the power to decide to hire less people, the investors, managers, etc, don't have any understanding about how your job actually is done. The same people who fall for facebook AI slops hold the button to decide mass lay-offs.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6f04cm/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771593167.0
+  },
+  {
+    "id": "o6fyl5t",
+    "author": "Suspicious_Serve_653",
+    "body": "Oof, you doing it wrong. I suggest reading the Claude code documentation cover to cover. \n\nHad the same initial feelings as you. Once I refined my subagents, skills, hooks, mcps, added a few custom tools, and created an agent team, this thing made me into a full on power house.\n\nIt's definitely worth taking the time to understand and learn.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6fyl5t/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771603690.0
+  },
+  {
+    "id": "o6g7av6",
+    "author": "Dense_Gate_5193",
+    "body": "no you’re getting fired because people don’t know what they are doing (either yourself or management) \n\nif you’re getting laid off - management issue the are stupid and will end up rehiring people back soon - also, refuse lower pay if that happens. \n\nif you’re getting fired - you didn’t keep up",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6g7av6/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771606049.0
+  },
+  {
+    "id": "o6hefg9",
+    "author": "moshujsg",
+    "body": "Its not useless, its a tool. A tool that would maje the average developer more productive.\n\nNow i wouldnt go about firing everyone and let ai do its thing, i thinj thats ridiculous.\n\nTheres also some bad arguments in your post. AI also doesnt really work on art, ai art sucks ass, same with music. And programming isnt \"error free\", if programming doesnt accept errors then i assume your backlog has no bugs to be fixed? When was the laat time you used a program that had no errors?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6hefg9/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771618039.0
+  },
+  {
+    "id": "o6itplm",
+    "author": "mother_a_god",
+    "body": "If you are saying useless, then you are incapable of using the tools. In the right hands, they are very useful, and a productivity boost. Any engineer who doesn't see this is going to be left behind.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6itplm/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771634309.0
+  },
+  {
+    "id": "o6iuhwq",
+    "author": "mother_a_god",
+    "body": "Helicopters are useless because I don't know how to fly them.\n\nBlender is useless because I don't know how to create the 3d scene I want.\n\nEvery tool is useless unless you know how to use it. AI can't solve all coding related problems, but with the proper prompting, it can solve a heck of a lot of them.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6iuhwq/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771634582.0
+  },
+  {
+    "id": "o6xe9jy",
+    "author": "JunkieOnCode",
+    "body": "Some guys look at AI like a swimming pool and immediately go.“Nope, too cold, too annoying, don’t see the point.” So you prefer to stay on the edge, complain about the water, and then proudly announce that swimming itself must be useless.\n\nMeanwhile others get in, even if the first reaction isn’t exactly PG‑rated, and they end up learning how to move faster than they ever did before. You get the parallel, I suppose.\n\nI work at a company that builds AI‑driven products for other businesses, and trust me, the demand for AI‑enabled teams is very real. When a team uses AI the way it’s meant to be used, you can see gains in capacity.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6xe9jy/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1771840538.0
+  },
+  {
+    "id": "o6xkkxx",
+    "author": "fudeel",
+    "body": "I don’t know if you noticed from all previous innovations and technologies. \n\nOnly 1% of the past innovations are structural, fundamental and valid for 10+ years career. \n\nAI definitely is, but until now NOTHING is something we are going to use in 5 years.\n\nDo you remember 2 years ago: chat gpt introduced plugins (ai made mini apps integrated into the chat)  6 months later dismissed.\n\nAgentic AI looks interesting but all the tools AI engineers are studying (n8n, zapier and other) are just a fart 💨 that will disappear until AI biggest player solve this problem from the root instead delegating it to the developer.\n\nThere are many tools that AI “experts” sells you as fundamental but they’re simply not. \n\nSo I am not in the edge, I study AI from its core not from the leaf 🍃",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6xkkxx/",
+    "parent_id": "t1_o6xe9jy",
+    "created_utc": 1771844123.0
+  },
+  {
+    "id": "o8pmk26",
+    "author": "gripntear",
+    "body": "I maintain my stance that our current \"AI\" capabilities are only reliable for one thing: gooning. Even then, the LLM has trouble locking in spatial and temporal coherency for writing fucking stories. Even Opus 4.6 has to be walked like a fucking dog to get shit right. Fucking Opus, can't even lock down a vanilla scene of getting railed by one guy in the back, and one guy deepthroating the fucking mouth. Jesus fucking Christ. Gooners are way ahead of the fucking game and even those guys are dooming on the current state of things.\n\nClaude Code is good, magical even as a harness for AI assisted coding. I won't deny that. But I am terrified that vibe coding your entire stack and trusting that your infra just fucking works is downright madness!",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o8pmk26/",
+    "parent_id": "t3_1r6heii",
+    "created_utc": 1772678239.0
+  },
+  {
+    "id": "o5vj88m",
+    "author": "TwistStrict9811",
+    "body": "It's not having it both ways. What is false about my statement? LLMs are mirrors. You put in a shitty prompt, you get a shitty response. It's just a fact.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o5vj88m/",
+    "parent_id": "t1_o5viwsu",
+    "created_utc": 1771340502.0
+  },
+  {
+    "id": "o624g7g",
+    "author": "dashingstag",
+    "body": "You can’t make bad requirements good.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o624g7g/",
+    "parent_id": "t1_o5viwsu",
+    "created_utc": 1771425087.0
+  },
+  {
+    "id": "o68x684",
+    "author": "TwistStrict9811",
+    "body": "There's no such thing as the perfect prompt. There is such thing as putting in some effort because that's how LLMs work",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o68x684/",
+    "parent_id": "t1_o67hktf",
+    "created_utc": 1771511838.0
+  },
+  {
+    "id": "o6inpfe",
+    "author": "aran0ia0",
+    "body": "Hasn't anyone noticed we don't call it smart, we call it useful?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o6inpfe/",
+    "parent_id": "t1_o67hktf",
+    "created_utc": 1771632241.0
+  },
+  {
+    "id": "o63gzg4",
+    "author": "The_Memening",
+    "body": ">bug-less software exists, avionics pop to mind.\n\nBoeing Max 737; need I elaborate?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o63gzg4/",
+    "parent_id": "t1_o638l0j",
+    "created_utc": 1771438446.0
+  },
+  {
+    "id": "o63jfaw",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o63jfaw/",
+    "parent_id": "t1_o63gzg4",
+    "created_utc": 1771439074.0
+  },
+  {
+    "id": "o63lfxh",
+    "author": "The_Memening",
+    "body": "No; it was a software problem that killed multiple plane loads of people. The software took in a bad input and decided that a nose dive is the only logical response.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1r6heii/am_i_really_getting_fired_because_of_this_state/o63lfxh/",
+    "parent_id": "t1_o63jfaw",
+    "created_utc": 1771439603.0
+  }
+]
