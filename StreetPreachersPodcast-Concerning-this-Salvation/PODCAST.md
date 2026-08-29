@@ -18,7 +18,7 @@ This episode of the Street Preachers Podcast, hosted by Tim Timberlake and Phill
 
 ##### Step 1: Understand that salvation is exclusive
 
-There is only one salvation. The word "this" in "Concerning this salvation" is very important. There is no multiple salvations and no multiple roads to God. If there were multiple roads to God, then Jesus was a liar.
+There is only one salvation. The word "this" in "Concerning this salvation" is very important. There are no multiple salvations and no multiple roads to God. If there were multiple roads to God, then Jesus was a liar.
 
 ##### Step 2: Hear Jesus's own words
 
@@ -53,7 +53,7 @@ Peter was crucified upside down. James was thrown off the temple and his head ba
 #### Keep In Mind
 
 - There is no documented evidence in history of anyone ever coming back from the grave who was a founder of a religion but one: Jesus
-- The Bible contains hundreds, possibly thousands of prophecies that have come to pass, and not one prophecy from the scriptures has ever fallen to the floor
+- The Bible contains prophecies that have come to pass, and not one prophecy from the scriptures has ever fallen to the floor
 - The Bible was written by 40 human authors over 1500 years on three different continents in three different languages, yet from Genesis to Revelation there is a unity of thought that Phillip asserts is impossible apart from the inspiration of the Holy Spirit
 
 #### Security & Safety Notes
@@ -74,7 +74,7 @@ Peter was crucified upside down. James was thrown off the temple and his head ba
 
 ##### Step 1: Consider the unity and prophecy of scripture
 
-The Bible is the only religious book in the world with hundreds, possibly thousands of prophecies that have come to pass. Not one prophecy from the scriptures has ever failed. The 40 human authors wrote over 1500 years on three continents in three languages, yet there is a unity of thought from Genesis to Revelation that Phillip says can only come from the inspiration of the Holy Spirit.
+The Bible is the only religious book in the world with prophecies that have come to pass. Not one prophecy from the scriptures has ever failed. The 40 human authors wrote over 1500 years on three continents in three languages, yet there is a unity of thought from Genesis to Revelation that Phillip says can only come from the inspiration of the Holy Spirit.
 
 ##### Step 2: Reflect on the apostles' transformed lives
 
@@ -92,7 +92,7 @@ The Holy Spirit is alive on the inside of believers. Phillip says the spirit of 
 
 ##### Example 1: Phillip Anthony Mitchell's Testimony
 
-Phillip Anthony Mitchell graduated from North Carolina Central University two months after 9/11. He practiced another religion for a time, stopped eating pork, prayed five times a day, but felt empty. He felt like something was missing. When he gave his life to Christ, he was suicidal in a bathroom over a toilet seat and met the King of Kings and the Lord of Lords who unzipped him and zipped him up with the Holy Spirit, transforming his entire life. That other religion did not do that.
+Phillip Anthony Mitchell graduated from North Carolina Central University two months after 9/11. He practiced another religion, stopped eating pork, prayed five times a day, but felt empty. He felt like something was missing. When he gave his life to Christ, he was suicidal in a bathroom over a toilet seat and met the King of Kings and the Lord of Lords who unzipped him and zipped him up with the Holy Spirit, transforming his entire life. That other religion did not do that.
 
 ##### Example 2: Tim Timberlake's Testimony
 
@@ -129,7 +129,7 @@ God created everything in six days and on the seventh day he rested. God did not
 
 ##### Step 2: Follow the example of Jesus in rest
 
-Jesus himself would slip away often to be alone with God. We see Jesus preaching and slipping away, teaching and slipping away, feeding and slipping away, doing ministry in the thousands and then slipping away.
+Jesus himself would slip away often to be alone with God. We see Jesus preaching and slipping away, teaching and slipping away, feeding and slipping away, doing ministry and then slipping away.
 
 ##### Step 3: Do not give up on people who have lost hope
 
@@ -151,7 +151,7 @@ The Street Team is the collective family all over the world that is helping to s
 
 ##### Example 3: Investfest as a Gathering for Growth
 
-Investfest is the world's largest financial literacy festival. It brings together investors, business professionals, and entrepreneurs for education and execution. The information is on the hosts, but the execution is on you. It is a place to network, fellowship, and meet the person next to you who may have the same mindset.
+Investfest is a financial literacy festival that drew 25,000 people per day in 2025 and is projected to reach 30,000 people per day in 2026. It brings together investors, business professionals, and entrepreneurs for education and execution. The information is on the hosts, but the execution is on you. It is a place to network, fellowship, and meet the person next to you who may have the same mindset.
 
 #### Best Practices
 
@@ -169,7 +169,7 @@ Investfest is the world's largest financial literacy festival. It brings togethe
 
 - God created everything in six days and rested on the seventh day to give us a model
 - Rest is holy and godly
-- Jesus slipped away often to be alone with God despite having crowds of thousands
+- Jesus slipped away often to be alone with God despite having crowds
 - The prepared messenger is always better than the prepared message
 - The information is on the podcast hosts; the execution is on you
 - People in your inner circle may not share your ambitions or goals; that is okay
