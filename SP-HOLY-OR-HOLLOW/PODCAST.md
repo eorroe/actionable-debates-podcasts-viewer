@@ -59,7 +59,7 @@ A new believer cleaned church bathrooms while listening to worship music, making
 
 #### Keep In Mind
 
-- Time is a stewardship, not something you own. God, who lives outside of time, has locked humanity between the boundary of Adam's beginning and Christ's return and called you to steward it.
+- Time is a stewardship, not something you own. God, who lives outside of time, has locked humanity between two boundaries, from Adam's beginning to Christ's return, and called you to steward it.
 - How you steward your time dictates and determines how and where you will spend eternity. This gives new meaning to the phrase "the test of time."
 
 #### Security & Safety Notes
@@ -143,7 +143,7 @@ John Wesley and George Whitfield traveled on horseback across Europe and America
 
 ### Obey God's Promptings and Die Empty
 
-God has given each person specific instructions and callings. Believers sit on what God told them to do in a previous season while asking for new assignments in the current season. This is zeal without wisdom. The call is to obey now, be faithful and fruitful with what you have been given, and live in such a way that you die empty—having poured out everything God placed in you. When you stand before the Lord, you want to say, "I fought the good fight, I kept the faith, I finished my race," and hear, "Well done, good and faithful servant."
+God has given each person things He has told them to do. Believers sit on what God told them to do in a previous season while asking for new assignments in the current season. This is zeal without wisdom. The call is to obey now, be faithful and fruitful with what you have been given, and live in such a way that you die empty—having poured out everything God placed in you. When you stand before the Lord, you want to say, "I fought the good fight, I kept the faith, I finished my race," and hear, "Well done, good and faithful servant."
 
 #### Steps
 
@@ -277,7 +277,7 @@ Who has God placed on your heart that you need to reach out to?
 Whether you were fully at fault or not, humble yourself and apologize where needed.
 ##### Step 3: Go back and fix what you can.
 
-If there is specific work you abandoned or a situation you left incomplete, prayerfully consider how to make it right.
+If there is work you abandoned or a situation you left incomplete, prayerfully consider how to make it right.
 ##### Step 4: Forgive those who have wronged you.
 
 Reconciliation requires both repentance and forgiveness.
@@ -341,7 +341,7 @@ Make giving a habit, not a one-time event.
 Every dollar given to advance the gospel is stored up as eternal reward.
 ##### Step 5: Do not withhold what you have committed to give.
 
-If God has placed a specific amount or mission on your heart, follow through.
+If God has placed an amount or mission on your heart, follow through.
 
 #### Examples
 
@@ -382,16 +382,16 @@ The hosts reference Tim Timberlake's book, *The Power of 1440*, which teaches th
 
 ### Define Success by Eternal Metrics
 
-Culture often defines success by attendance numbers, financial growth, platforms, and comfort. But the believer's definition of success must align with Paul's final words: "I have fought the good fight, I have kept the faith, I have finished my race." Success is not measured by how many people attend your church or how much money you leave for your children. It is measured by whether you lived a life that pleased God, poured out for Christ, and finished the specific race He set before you.
+Culture defines success by attendance numbers, financial growth, platforms, and comfort. But the believer's definition of success must align with Paul's final words: "I have fought the good fight, I have kept the faith, I have finished my race." Success is not measured by how many people attend your church or how much money you leave for your children. It is measured by whether you lived a life that pleased God, poured out for Christ, and finished the race He set before you.
 
 #### Steps
 
 ##### Step 1: Redefine success by Paul's words.
 
 Let "I fought the good fight, I kept the faith, I finished my race" be your standard, not attendance goals or financial milestones.
-##### Step 2: Identify your unique race.
+##### Step 2: Identify your race.
 
-God has given each person a specific calling. Do not compare your race to anyone else's.
+God has given each person a calling. Do not compare your race to anyone else's.
 ##### Step 3: Live with your deathbed in view.
 
 Picture your final moments and ask, "Will I be able to say I finished my race with confidence?"
@@ -425,7 +425,7 @@ Paul wrote that the crown of righteousness was laid up for him because he finish
 
 #### Keep In Mind
 
-- Culture celebrates image, platforms reward performance, and too often the Church has settled for a faith that is polished but powerless. God has never been impressed by what merely looks spiritual. Authentic transformation is what matters.
+- Culture celebrates image, platforms reward performance, and the Church has settled for a faith measured by attendance goals, financial growth, and leaving money for children rather than by finishing your race well. God has never been impressed by what merely looks spiritual. Authentic transformation is what matters.
 
 #### Security & Safety Notes
 
@@ -433,9 +433,9 @@ Paul wrote that the crown of righteousness was laid up for him because he finish
 
 #### Common Pitfalls
 
-- **Problem:** Measuring success by attendance, income, or platform size.
+- **Problem:** Measuring success by attendance, financial growth, or platform size.
   **Solution:** Anchor your definition of success in Scripture, specifically Paul's words about finishing his race well.
 - **Problem:** Comparing your race to someone else's ministry or life.
-  **Solution:** Focus on your own race. God has given you a unique calling. Run it well.
+  **Solution:** Focus on your own race. God has given you a calling. Run it well.
 - **Problem:** Seeking to be known for your preaching, platform, or leadership rather than for love.
   **Solution:** Ask yourself, "What do I want to be known for when I die?" If the answer is not love, realign your priorities.
