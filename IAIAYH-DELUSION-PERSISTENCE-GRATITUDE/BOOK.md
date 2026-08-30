@@ -53,7 +53,7 @@ Your thoughts carry real weight in the universe. Manifestation is not passive da
 
 #### Security & Safety Notes
 
-This chapter encourages public declaration of personal goals and beliefs. Users should exercise discretion about what personal information, financial goals, or sensitive aspirations they share publicly online. The advice to "be delusional" and disregard outside validation should be balanced with critical thinking—blind confidence without reflection can lead to poor decision-making in areas involving risk, finances, or legal commitments. This content is motivational and self-help in nature, not professional financial, legal, or medical advice.
+This chapter encourages public declaration of personal goals and beliefs. Readers should exercise discretion about what personal information, financial goals, or sensitive aspirations they share publicly online. The advice to "be delusional" and disregard outside validation should be balanced with critical thinking—blind confidence without reflection can lead to poor decision-making in areas involving risk, finances, or legal commitments. This content is motivational and self-help in nature, not professional financial, legal, or medical advice.
 
 #### Common Pitfalls
 
@@ -933,7 +933,7 @@ You will fall. A certain amount of struggle is necessary in order to appreciate 
 
 #### Security & Safety Notes
 
-The author demonstrates healthy digital boundaries by deleting social media to protect his mental space and prevent burnout. Being honest about your vulnerabilities can reduce the weaponization of those vulnerabilities against you. Recognizing when you are in a "dark place" and taking deliberate action to step back is an important occupational and mental safety practice for high-pressure pursuits. The chapter implicitly warns against obsessive monitoring of external validation, which can be psychologically harmful and destabilizing.
+The author demonstrates healthy digital boundaries by disconnecting from social media to protect his mental space and prevent burnout. Being honest about your vulnerabilities can reduce the weaponization of those vulnerabilities against you. Recognizing when you are in a "dark place" and taking deliberate action to step back is an important occupational and mental safety practice for high-pressure pursuits. The chapter implicitly warns against obsessive monitoring of external validation, which can be psychologically harmful and destabilizing.
 
 #### Common Pitfalls
 
@@ -1007,7 +1007,7 @@ No specific security or safety concerns are raised in this chapter. General prin
 |Affirmation|A positive declaration written or spoken as if already true, used to reinforce self-belief and manifest desired outcomes|11, 12, 16, 76, 84|
 |Alchemy|The process of transmuting belief and thought into tangible action and results; turning nothing into something|22, 23|
 |Anti-Dogma|The rejection of society's predefined paths, limiting beliefs, and external expectations that constrain personal potential|66, 67, 68, 69, 70, 71|
-|Bo​merang Effect|The principle that what you put out into the universe returns to you in its own perfect timing; trust the "what," detach from the "when"|26, 27, 28|
+|Boomerang Effect|The principle that what you put out into the universe returns to you in its own perfect timing; trust the "what," detach from the "when"|26, 27, 28|
 |Content Buffer|A reserve of completed work (e.g., six months of music) built ahead of time to ensure consistent output when opportunities arise|58, 59|
 |Cup Metaphor|Russell's illustration of self-belief as a cup; overflowing cups sustain persistence, while cups with holes leak belief and lead to quitting|40, 43, 44|
 |Delusion|Unwavering, irrational self-belief that persists even when reality contradicts your aspirations; the first essential quality for turning dreams into reality|17, 18, 19, 20|
