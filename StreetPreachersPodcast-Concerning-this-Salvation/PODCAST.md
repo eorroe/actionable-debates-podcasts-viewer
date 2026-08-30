@@ -30,7 +30,7 @@ You must choose: either Jesus was credible or he was a liar. If Jesus was credib
 
 ##### Step 4: Know the cost of the apostles' witness
 
-The apostles, with the exception of John, gave their lives as martyrs for what they saw. Peter was crucified upside down. James was thrown off the temple and his head bashed with a club. Another was flayed alive. One was thrust through with spears. They died for a resurrected Christ. Very rarely can you find a man to die for the truth, let alone die for a lie.
+The apostles, with the exception of John, gave their lives as martyrs for what they saw. Peter was crucified upside down. James was thrown off the temple and his head bashed with a club. Another was flayed alive. One was thrust through with spears. They died for a resurrected Christ. Rarely can you find a man to die for the truth, let alone die for a lie.
 
 #### Examples
 
@@ -40,7 +40,7 @@ Jesus said, "I am the way, the truth, and the life. No one comes to the Father b
 
 ##### Example 2: The Apostles' Martyrdom
 
-Peter was crucified upside down. James was thrown off the temple and his head bashed with a club. Another apostle was flayed alive. One was thrust through with spears. They died for what they saw: a resurrected Jesus.
+Peter was crucified upside down. James was thrown off the temple and his head bashed with a club. Another man was flayed alive. One was thrust through with spears. They died for what they saw: a resurrected Jesus.
 
 #### Best Practices
 
