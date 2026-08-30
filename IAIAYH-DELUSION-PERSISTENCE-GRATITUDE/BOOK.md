@@ -22,7 +22,7 @@ Russell posted handwritten affirmations on the walls of his basement studio: "I 
 
 ##### Example 2: Manifesting MTV in California
 
-In April 2011, Russell and his best friend Bugus drove around Los Angeles repeatedly saying, "Somehow we are going to get on MTV." They had no plan, no contacts, no idea how to make it happen—but they fully believed it. Within six months, they were on MTV, doing an interview with Sway and Trina. It was sheer force of will: Bugus messaged a producer on Twitter relentlessly until he checked their music, and the opportunity materialized.
+In April 2011, Russell and his best friend Bugus drove around Los Angeles repeatedly saying, "Somehow we are going to get on MTV." They had no plan, no contacts, no idea how to make it happen—but they fully believed it. Within six months, they were on MTV, doing an interview with Sway and Trina. Getting on MTV came from sheer force of will: Bugus messaged a producer on Twitter relentlessly until he checked their music, and the opportunity materialized.
 
 #### Step 1: Identify the specific reality you want to create—be precise about what success looks, feels, and sounds like for you
 
@@ -535,7 +535,7 @@ Russell released his first project in 2011, but his career didn't really take of
 
 - ✅ Create a physical or digital vision board populated with industry leaders, successful strategies, and role models
 - ✅ Document and analyze every release to understand what resonates and what doesn't
-- ✅ Maintain a content pipeline that keeps you six months or more ahead of your release schedule
+- ✅ Maintain a content pipeline that keeps you at least six months ahead of your release schedule
 - ✅ Set aside dedicated time for industry research separate from creative work
 - ✅ Track your failures systematically to identify patterns and adjust strategy
 - ❌ Don't get discouraged when initial projects don't achieve immediate success
@@ -568,7 +568,7 @@ No specific security or safety concerns are addressed in this chapter. The conte
 
 ##### Example 1: Bootlegging the Music Video
 
-Russell and Bugus hired a friend to shoot and edit a music video, who told them it would take a month and a half. They got tired of waiting, so they bought a camera, bootlegged Final Cut Pro, shot the video in one day, and edited it themselves that same night. That video—for "Goodbye"—now has over ninety million views on YouTube and is RIAA Gold Certified. The lesson: it only takes a long time when other people do it.
+Russell and Bugus hired a friend to shoot and edit a music video, who told them it would take a month and a half. They got tired of waiting, so they bought a camera, bootlegged Final Cut Pro, shot the video in one day, and edited it themselves that same night. That video—for "Goodbye"—now has over ninety million views on YouTube and is Recording Industry Association of America (RIAA) Gold Certified. The lesson: it only takes a long time when other people do it.
 
 ##### Example 2: Learning Every Part of the Process
 
@@ -897,13 +897,13 @@ No specific security or safety concerns are addressed in this chapter. The conte
 
 ##### Example 1: The 2018 Dark Place
 
-In 2018, Russell went through a phase where he was not at peace. A massive amount of negativity and lies about him—even from some of his own fans—drove him into a dark place. He turned his "me versus me" journey into a "me versus the world" battle and started losing. He had to step back, disconnect from social media for a month and a half, stop touring and doing interviews, and remind himself that he couldn't control everything—but he could control his thoughts, what he put out into the world, and his behavior. Breakdowns create breakthroughs.
+In 2018, Russell went through a phase where he was not at peace. Negativity and lies about him—even from some of his own fans—drove him into a dark place. He turned his "me versus me" journey into a "me versus the world" battle and started losing. He had to step back, disconnect from social media for a month and a half, stop touring and doing interviews, and remind himself that he couldn't control everything—but he could control his thoughts, what he put out into the world, and his behavior. Breakdowns create breakthroughs.
 
 ##### Example 2: Smooth Seas Do Not Make Skillful Sailors
 
 Russell decided to trust that whatever happened was actually what was supposed to happen and that it would contribute to making everything better in the long run. He didn't want a smooth-sailing career. On the other side of adversity is strength. When you come back from a fall, you feel more powerful than you ever did before. The struggle is necessary. You will fall. But you will also come back to life.
 
-#### Step 1: Accept that struggle is necessary—a certain amount of hardship is required to truly appreciate success
+#### Step 1: Accept that struggle is necessary—hardship is required to truly appreciate success
 
 #### Step 2: Reframe adversity as "you versus you," never "you versus the world"—the only real battle is internal
 
@@ -929,7 +929,7 @@ Russell decided to trust that whatever happened was actually what was supposed t
 
 #### Keep In Mind
 
-You will fall. A certain amount of struggle is necessary in order to appreciate success. Critics and naysayers will try to discourage you. But if that happens, breakdowns create breakthroughs. On the other side of adversity is strength. Smooth seas do not make skillful sailors.
+You will fall. Struggle is necessary in order to appreciate success. Critics and naysayers will try to discourage you. But if that happens, breakdowns create breakthroughs. On the other side of adversity is strength. Smooth seas do not make skillful sailors.
 
 #### Security & Safety Notes
 
