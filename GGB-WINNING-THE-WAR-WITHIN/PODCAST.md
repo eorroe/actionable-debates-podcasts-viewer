@@ -312,7 +312,7 @@ His first promise was that if God would anoint him again to preach, he would be 
 
 ##### Step 3: Promise Faithfulness Regardless of Platform
 
-The second promise came when his church changed its name from Victory to 2019 in January 2023. With only 183 disciples, preaching in an empty high school auditorium where you could come an hour late and still get a seat, he promised God he would be faithful to preach to whomever God put in front of him, whether the room was full or empty.
+The second promise came when his church changed its name from Victory to 2019 in January 2023. With only 183 disciples, preaching in an empty high school auditorium where you can come an hour late and still get a seat, he promised God he would be faithful to preach to whomever God put in front of him, whether the room was full or empty.
 
 ##### Step 4: Refuse to Bend the Scriptures
 
