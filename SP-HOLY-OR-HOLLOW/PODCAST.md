@@ -80,7 +80,7 @@ A new believer cleaned church bathrooms while listening to worship music, making
 
 ### Live With an Eternal Perspective
 
-Believers are trapped in a myopic view that sees only the present moment—their job, their comfort, their immediate circumstances. They miss the bigger picture of what God is doing in history and where their life fits into eternity. To live well, you must keep one eye on your current responsibilities and both eyes on eternity. Stepping back from the immediacy of now allows you to see the details of how God desires to prepare you for the coming of His Son.
+Too many believers fall into a myopic view that sees only the present moment—their job, their comfort, their immediate circumstances. They miss the bigger picture of what God is doing in history and where their life fits into eternity. To live well, you must keep one eye on your current responsibilities and both eyes on eternity. Stepping back from the immediacy of now allows you to see the details of how God desires to prepare you for the coming of His Son.
 
 #### Steps
 
@@ -112,7 +112,7 @@ If you stare only at your immediate circumstances, you miss the vast plan of red
 
 ##### Example 3: Wesley and Whitfield
 
-John Wesley and George Whitfield traveled on horseback across Europe and America, taking boats across the sea, enduring long horseback rides and boat voyages across continents to spread the gospel. They saw the bigger picture of eternity and were willing to sacrifice comfort for the spread of the message. Today, with cars, planes, and resources, there is no excuse for not doing the same.
+John Wesley and George Whitfield traveled on horseback across Europe and America, taking boats across the sea, enduring long horseback rides and boat voyages across continents to spread the gospel. They saw the bigger picture of eternity and were willing to sacrifice comfort for the spread of the message. Today, with cars, planes, and resources, what is our excuse for not doing the same?
 
 #### Best Practices
 
@@ -124,7 +124,7 @@ John Wesley and George Whitfield traveled on horseback across Europe and America
 #### Keep In Mind
 
 - You cannot see the details of how God is preparing you if you are standing too close to now. Distance from the immediate gives you perspective on the eternal.
-- The church needs bold voices to wake people up to the bigger picture of what is really going on in these final days.
+- The church needs bold voices to wake people up to the bigger picture of what is really going on in these final days of the church age.
 
 #### Security & Safety Notes
 
@@ -143,7 +143,7 @@ John Wesley and George Whitfield traveled on horseback across Europe and America
 
 ### Obey God's Promptings and Die Empty
 
-God has given each person things He has told them to do. Believers sit on what God told them to do in a previous season while asking for new assignments in the current season. This is zeal without wisdom. The call is to obey now, be faithful and fruitful with what you have been given, and live in such a way that you die empty—having poured out everything God placed in you. When you stand before the Lord, you want to say, "I fought the good fight, I kept the faith, I finished my race," and hear, "Well done, good and faithful servant."
+Believers sit on what God told them to do in a previous season while asking for new assignments in the current season. The call is to obey what God has already told you to do, be faithful and fruitful with it, and live in such a way that you die empty—having poured out everything God placed in you. When you stand before the Lord, you want to say, "I fought the good fight, I kept the faith, I finished my race," and hear, "Well done, good and faithful servant."
 
 #### Steps
 
@@ -158,7 +158,7 @@ Confess that you have been unfaithful with what He has already given you.
 Obedience does not require perfect conditions—it requires a willing heart. Start today.
 ##### Step 4: Be faithful in the small assignments.
 
-Love your spouse, love your children, disciple them, give a tithe (10%) of your income to gospel ministry, and serve your local church faithfully.
+Love your spouse, love your children, disciple them, give a portion of your income to gospel ministry, and serve your local church faithfully.
 ##### Step 5: Live like a man or woman running out of time.
 
 Write, speak, serve, and give as if you may not get another opportunity.
@@ -171,7 +171,7 @@ Tim Timberlake packed his first book with as much content as possible because he
 
 ##### Example 2: Die Empty
 
-The hosts encourage people to "die empty"—to pour out everything God placed in them rather than arriving in glory with unfinished work. This means using your gifts, resources, and opportunities now, because God will not need your sermons, songs, or podcast in eternity. They are for now.
+The hosts encourage people to "die empty"—to pour out everything God placed in them rather than arriving in glory with unfinished work. This means using your gifts, resources, and opportunities now. When you arrive in glory, God will not need the sermons you preached, the songs you sang, or the podcast you made; those are for now.
 
 ##### Example 3: The Drink Offering
 
@@ -182,7 +182,7 @@ Paul described his life being offered up like a drink offering—poured out comp
 - ✅ Keep a journal of what God speaks to you and review it regularly to check your obedience.
 - ✅ Make amends quickly when you realize you have wronged someone or not obeyed God.
 - ✅ Serve faithfully in your local church even when it is inconvenient or unnoticed.
-- ✅ Give a tithe (10%) of your income to support gospel ministry and soul-winning.
+- ✅ Give a portion of your income to support gospel ministry and soul-winning.
 
 #### Keep In Mind
 
@@ -265,7 +265,7 @@ If God gave you only $100 and you would never receive another dollar, you would 
 
 ### Reconcile Broken Relationships
 
-There are relationships you need to reconcile, people you need to apologize to, and works you need to go back and fix. Before you make a list of all the ministry plans you want to do for God in the future, examine what He has already told you to do in the past. Unresolved conflict and unrepented sin block your ability to move forward in faithfulness. Reconciliation is not optional for the believer—it is a mark of genuine Christianity.
+Before you make a list of all the ministry plans you want to do for God in the future, examine what He has already told you to do in the past. Ask yourself: what relationship do you need to reconcile? Who do you need to apologize to? What work do you need to go back and fix? Unresolved conflict and unrepented sin block your ability to move forward in faithfulness. Reconciliation is not optional for the believer—it is a mark of genuine Christianity.
 
 #### Steps
 
@@ -327,9 +327,9 @@ God has called believers to use a portion of their income to support the spread 
 
 #### Steps
 
-##### Step 1: Determine a percentage of your income to give.
+##### Step 1: Determine a portion of your income to give.
 
-Commit to giving a tithe (10%) to support gospel ministry.
+Commit to giving a portion of your income to support gospel ministry.
 ##### Step 2: Choose where to give.
 
 Support local churches, missionaries, and ministries that are faithfully proclaiming the gospel.
