@@ -1,15 +1,14 @@
 # Winning the War Within w/ Pastor Philip Anthony Mitchell
-
 ## Overview
 
-Pastor Philip Anthony Mitchell discusses the urgency of end-time stewardship, maintaining spiritual fire, suffering well, preaching amid personal sickness, and the spiritual dangers of pride. He shares two promises he made to God, his theology of suffering as a gift, and his commitment to faithful proclamation even when sick in his own body.
+Pastor Philip Anthony Mitchell discusses the call to faithful stewardship in the present era, maintaining passion for Christ, processing suffering, preaching amid personal sickness, and the dangers of pride. He shares two promises he made to God, his theology of suffering as a gift, and his commitment to proclaiming the gospel faithfully even when sick in his own body.
 
 ## When to Follow Podcast
 
-- When preparing to minister or preach and need a framework for urgency and faithfulness
-- When walking through seasons of suffering, depression, or spiritual dryness and need biblical permission to feel
-- When wrestling with pride or the temptation to idolize platform, influence, or personal fame
-- When discerning how to respond to critique, slander, or spiritual attack on your ministry
+- When preparing to minister or preach and need a framework for faithful stewardship
+- When walking through seasons of suffering, depression, or feeling distant from God and need the Psalms' example of honest emotion before God
+- When wrestling with pride or the temptation to prioritize platform, influence, or personal fame over Christ
+- When discerning how to respond to critique, slander, or direct spiritual opposition to your ministry
 - When seeking accountability structures and godly relationships that keep you grounded
 
 ## Discussed
@@ -24,15 +23,15 @@ Before stepping onto any platform, Sunday gathering, podcast, or conference, ask
 
 ##### Step 2: Evaluate Your Proclamation
 
-When a Sunday, podcast, or conference ends, ask: Was Christ exalted? Did we have gospel conversations? Were the scriptures properly proclaimed and faithfully exegeted rather than read into to suit personal preferences? Let these questions govern your preparation.
+When a Sunday, podcast, or conference ends, ask: Was Christ exalted? Did we have gospel conversations? Were the scriptures properly proclaimed and faithfully exegeted rather than read into the text to suit personal preferences? Let these questions govern your preparation.
 
 ##### Step 3: Take the Call to Multiply Disciples Seriously
 
-Do not compartmentalize your faith. Take your walk with Christ seriously and take your call to spread the gospel and multiply disciples seriously. Get out into the highways and byways making Jesus known and compelling people to come into the kingdom.
+Do not compartmentalize your faith. Take your walk with Christ seriously and take your call to spread the gospel and multiply disciples seriously. Get out into public spaces making Jesus known and inviting people to come into the kingdom.
 
 ##### Step 4: Reject Complacency
 
-If you are not advancing the gospel and being with God's people, reconsider what you are doing. The present time is serious about the work and purposes of the kingdom. Complacency in this era is a failure of stewardship.
+If you are not proclaiming the gospel and not engaging with God's people, examine whether your current direction honors the call. The present era demands intentionality in the work and purposes of the kingdom. Neglecting this call is neglect of stewardship.
 
 #### Examples
 
@@ -52,21 +51,21 @@ Pastor Philip describes the burden to extend the Girls Gone Bible tour as more t
 
 - ✅ Treat every Sunday, podcast, and conference as potentially your last
 - ✅ Ask whether Christ was exalted and whether scriptures were properly proclaimed
-- ✅ Take your call to spread the gospel with urgency
-- ✅ Go into the highways and byways making Jesus known
-- ✅ Compel people to come into the kingdom
+- ✅ Take your call to proclaim the gospel faithfully
+- ✅ Go out to people around you making Jesus known
+- ✅ Invite people to come into the kingdom
 - ✅ Do not compartmentalize your faith from your daily life
 
 #### Keep In Mind
 
-- Life is fragile and held in the palm of God's hands
-- No one knows what day will be their last
-- The Holy Spirit is sounding an alarm in our nation and globally
-- The present time is serious about the work and purposes of the kingdom
+- Life is fragile and every moment is fleeting
+- No one knows the day of their death
+- The Holy Spirit is calling the church to respond to the present moment in our nation and globally
+- Every season requires intentionality in the work and purposes of the kingdom
 
 #### Security & Safety Notes
 
-- Treating ministry as casual or routine when it is life or death is spiritually dangerous
+- Treating ministry as casual or routine when it is life or death is a serious error
 - Assuming you have more time than you actually do leads to complacency and unfaithful stewardship
 - Treating the message of the gospel lightly when lives are at stake is not an option
 
@@ -85,107 +84,107 @@ Pastor Philip describes the burden to extend the Girls Gone Bible tour as more t
 
 ##### Step 1: Normalize Seasons of Drift
 
-Understand that seasons of drift are common. Every believer experiences times when their passion for Christ feels dim or they feel cold and distant from God. This is normal in our humanity. Do not condemn yourself for it.
+Christians experience seasons when their passion for Christ feels dim or they feel cold and distant from God. This is part of human experience. Do not condemn yourself for it.
 
 ##### Step 2: Return to the Source
 
-When your fire has grown cold, return to Jesus himself. Go back to the secret place and be honest. Say, "Lord, I am in a dry place. I have drifted away from you." Honesty in the secret place is the starting point for rekindling.
+When your passion has grown cold, return to Jesus himself. Go back to private prayer and be honest with God. Say, "Lord, I am in a dry place. I have drifted away from you." Honesty with God in private prayer is the starting point for rekindling your passion for Christ.
 
-##### Step 3: Surround Yourself with Fiery Believers
+##### Step 3: Surround Yourself with Committed Believers
 
-Get around community that is passionate for Christ and tell them you have drifted. Ask them to pray for you. Put yourself in gatherings where believers are growing in their faith.
+Get around community that is committed to Christ and tell them you have drifted. Ask them to pray for you. Put yourself in gatherings where believers are growing in their walk with Christ.
 
-##### Step 4: Throw Wood on the Fire
+##### Step 4: Pursue Spiritual Disciplines
 
-Do what is necessary to reignite your passion for Christ: engage in community, read scripture, pray, fast, and pursue purity. Acknowledge when you have fallen from God and take intentional action to pursue Christ again.
+Engage in community, read scripture, pray, fast, and pursue purity to pursue Christ again. Recognize when you have distanced yourself from God and take practical steps through community, scripture, prayer, fasting, and purity to pursue Christ again.
 
 ##### Step 5: Pursue Holiness and Purity
 
-The more you read, pray, consecrate, fast, distance yourself from iniquity and sin, and pursue holiness and purity of heart, the more you will grow in intimacy with Christ. Intimacy with Christ is the fire.
+The more you read, pray, consecrate, fast, distance yourself from iniquity and sin, and pursue holiness and purity of heart, the more you will grow in closeness to Christ. Closeness to Christ produces passion for God.
 
 #### Examples
 
-##### Example 1: The Quiet Fire
+##### Example 1: Quiet Passion
 
-Fire is not about platform or fame. There is a fire that is passionate and visible, but there is also a quiet passion for Christ of an elderly woman who sits in the back of a church and nobody knows her name. She does not have a global platform or podcast, but when she kneels to pray, she intercedes effectively. When she goes into a prayer closet, she moves things in the spiritual realm.
+Passion for Christ is not measured by platform or fame. There is visible passion that others can see, but there is also quiet passion for Christ in an elderly woman who sits in the back of a church and nobody knows her name. She does not have a public platform or podcast, but when she kneels to pray, she intercedes effectively.
 
-##### Example 2: The Donkey Illustration
+##### Example 2: The Humility Illustration
 
-We are merely instruments that Jesus uses. The people are praising the person Jesus, not the instrument. If the donkey could talk in its prideful state, it might say, "Look at all these people honoring me." We must not take the glory that belongs to Christ alone.
+We are the means through which Jesus works. The people honor Jesus, not the one through whom He works. If the donkey could talk in its prideful state, it might say, "Look at all these people honoring me." We must not take the honor that belongs to Christ alone.
 
-##### Example 3: Pentecostal Fire
+##### Example 3: Pentecost
 
-When the Holy Spirit was poured out on 120 disciples on the day of Pentecost, the Holy Spirit manifested as tongues of fire resting on each of them. They began speaking in other languages. God empowered those 120 for ministry. It is God's will for His people to be passionate for Him, which means being very intimate with Him.
+When the Holy Spirit was poured out on 120 disciples on the day of Pentecost, the Holy Spirit appeared as tongues of fire resting on each of them. They began speaking in other languages. God enabled those 120 for ministry. Being passionate for God means being close to Him.
 
 #### Best Practices
 
-- ✅ Normalize seasons of drift and do not condemn yourself
-- ✅ Return to the secret place and be honest with God
-- ✅ Surround yourself with community that is passionate for Christ
+- ✅ Recognize seasons of reduced passion and do not condemn yourself
+- ✅ Return to honest prayer with God
+- ✅ Surround yourself with community that is committed to Christ
 - ✅ Engage in prayer, fasting, scripture, and purity
-- ✅ Pursue intimacy with Christ rather than platform
-- ✅ Understand fire as symbolic of passion for Christ
+- ✅ Pursue closeness to Christ rather than platform
+- ✅ Understand passion for Christ as closeness to Christ
 
 #### Keep In Mind
 
-- God desires for His people to be passionate for Him, not lukewarm or distant
-- A quiet passion for Christ in an obscure believer is powerful
-- It is not about a platform and a name; it is about how passionate you are for Christ
-- If God is a consuming fire, intimacy with Him is what strengthens your own passion for Christ
+- God calls His people to pursue closeness to Him
+- Passion for Christ in an obscure believer is real and meaningful
+- It is not about a platform and a name; it is about your closeness to Christ
+- Closeness to Christ produces passion for God
 
 #### Security & Safety Notes
 
 - The enemy can make you feel condemned for your feelings and make you think God is angry with you
-- Condemning yourself for drifting distances you further from God
-- Chasing platform and fame instead of Christ leads to a counterfeit passion
-- Public religiosity without private intimacy leaves you vulnerable to losing your passion for Christ
+- Condemning yourself for seasons of reduced passion distances you further from God
+- Chasing platform and fame instead of Christ leads to inauthentic passion
+- Public religiosity without private prayer leaves you vulnerable to losing your passion for Christ
 
 #### Common Pitfalls
 
-- **Problem:** Feeling condemned when your fire grows cold
-  **Solution:** Normalize drift and return honestly to the secret place
-- **Problem:** Defining fire by platform size or fame
-  **Solution:** Understand passion for Christ as intimacy with Christ, not visibility or volume
-- **Problem:** Trying to reignite without community
-  **Solution:** Get around community that is passionate for Christ. Tell them you have drifted and ask them to pray for you.
+- **Problem:** Feeling condemned when your passion grows cold
+  **Solution:** Accept seasons of reduced passion and return honestly to God in prayer
+- **Problem:** Defining passion by platform size or fame
+  **Solution:** Understand closeness to Christ as the true measure of passion, not visibility or volume
+- **Problem:** Trying to reignite passion without community
+  **Solution:** Get around believers who are committed to Christ. Tell them you have drifted and ask them to pray for you.
 
 ### Topic 3: Suffering Well / Theology of Suffering
 
 #### Steps
 
-##### Step 1: Normalize Suffering and Pain
+##### Step 1: Accept Suffering as Reality
 
-Recognize that suffering and pain, and the distance from God they sometimes create, are normal. Do not allow the enemy to make you feel condemned for your feelings. God gives us grace to experience our emotions and has given us emotions to feel.
+Accept that suffering and pain, and the distance from God they sometimes create, are part of human experience. Do not allow the enemy to make you feel condemned for your feelings. God gives grace to experience emotions and created humans with the capacity to feel.
 
 ##### Step 2: Develop a Better Theology of Suffering
 
-Stop treating suffering as a sign of failed faith or a disease. Western culture often hides behind false perfection, but this does people a disservice. Embrace suffering as part of the Christian experience. There is no walk with Jesus without suffering.
+Stop treating suffering as evidence of failed faith or as something to be hidden. Western culture often hides behind a facade of perfection, but this misleads people. Suffering is a regular part of the Christian experience. There is no walk with Jesus that avoids suffering entirely.
 
 ##### Step 3: Learn to Suffer for Righteousness
 
-When suffering comes because you are in the will of God, you can whisper in your brokenness, "Lord, thank you that you have allowed me to suffer with you and to identify with your suffering." Suffering for righteousness unites you with Christ, shapes your character, and strengthens your faith.
+When suffering comes while you are walking with God, you can pray in your brokenness, "Lord, thank you that you have allowed me to suffer with you and to identify with your suffering." Suffering for righteousness draws you closer to Christ, shapes your character, and strengthens your faith.
 
-##### Step 4: Extract Good from Suffering
+##### Step 4: Pursue Growth Through Suffering
 
-Allow suffering to strengthen your faith, shape your character, and identify you with Christ. Learn to wipe tears from your eyes while thanking Him at the same time. Extract growth, character development, and deeper intimacy with Christ from suffering.
+Allow suffering to strengthen your faith, shape your character, and draw you closer to Christ. Learn to process pain through prayer and gratitude. Pursue growth, character development, and closer relationship with Christ through suffering.
 
 ##### Step 5: Recognize Suffering as a Gift
 
-Some suffering is a gift from God. The Apostle Paul connected suffering and being granted in the same sentence. Ask, "God, what are you trying to do in me as you are allowing me to go through this suffering?"
+Suffering can be a gift from God. The Apostle Paul wrote from a Roman prison cell in Philippians 1:29, connecting suffering with being granted in the same sentence. Ask, "God, what are you trying to do in me as you are allowing me to go through this suffering?"
 
 ##### Step 6: Allow Yourself to Feel
 
-Read the Psalms. They give you permission to feel, to be broken, to cry, to weep, to mourn, and to even question God. The Psalms were written by David, Moses, and other men inspired by the Holy Spirit and contain the full range of human emotion.
+Read the Psalms. They give you permission to feel, to be broken, to cry, to weep, to mourn, and to question God. The Psalms were written by David, Moses, and other men inspired by the Holy Spirit and express the breadth of human emotion.
 
 #### Examples
 
 ##### Example 1: The Psalms Give Permission
 
-The Psalms, the largest book preserved in the scriptures, show everything from radical joy to radical sadness. They give us permission to experience the full range of human emotion. We were made from dust and our frailties.
+The Psalms, one of the longest books in scripture, express emotions from joy to sorrow. They give us permission to experience human emotion. Humans were made from dust with frailties.
 
 ##### Example 2: Suffering Shapes Character
 
-Suffering is part of the Christian experience. When suffering for righteousness, we are brought closer to Christ, our character is shaped, and our faith is strengthened. There is value in suffering that unites us with Jesus in such a way that just being on mountaintops will never do.
+Suffering is a regular part of the Christian experience. When suffering for righteousness, you are drawn closer to Christ, your character is shaped, and your faith is strengthened. There is growth in suffering that draws you closer to Jesus in a way that comfort by itself will not achieve.
 
 ##### Example 3: Paul's Example
 
@@ -193,38 +192,38 @@ The Apostle Paul wrote from a Roman prison cell that suffering is a gift granted
 
 #### Best Practices
 
-- ✅ Normalize suffering and pain rather than treating them as failures
+- ✅ Accept suffering and pain as part of the Christian experience rather than treating them as failures
 - ✅ Allow yourself to feel without condemnation
-- ✅ Read the Psalms to find permission for your emotions
-- ✅ Suffer well, not just live well
-- ✅ Extract good from suffering
+- ✅ Read the Psalms to find language for your emotions
+- ✅ Process suffering well
+- ✅ Pursue growth through suffering
 - ✅ Ask God what He is doing in you through suffering
-- ✅ Remember that God allows suffering for your growth and His glory
-- ✅ Do not hide behind a veneer of false perfection
+- ✅ Remember that suffering can produce growth and reflect God's purposes
+- ✅ Do not hide behind a facade of false perfection
 
 #### Keep In Mind
 
-- Suffering is part of the Christian experience
-- There is no walk with Jesus without suffering
-- God will never create a life for us that makes Him unnecessary
-- Even your favorite preacher or a platform cannot remove suffering from your life
-- The enemy wants to make you feel condemned for your feelings and make you think God is angry with you
+- Suffering is a regular part of the Christian experience
+- There is no walk with Jesus that is free from suffering
+- God does not remove all suffering from a believer's life
+- No preacher or platform can remove suffering from your life
+- The enemy can make you feel condemned for your feelings and make you think God is angry with you
 
 #### Security & Safety Notes
 
-- Hiding suffering and pretending to be fine damages the body of Christ
+- Hiding suffering and pretending to be fine misleads the body of Christ
 - Treating suffering as failure leads to isolation and despair
 - Condemning yourself for feeling distant from God pushes you further from Him
-- False perfection on social media robs people of hope that even leaders suffer
+- Presenting a facade of perfection on social media denies people the hope that leaders also suffer
 
 #### Common Pitfalls
 
 - **Problem:** Treating suffering as a sign of failed faith
-  **Solution:** Understand suffering as part of the Christian experience and a tool for growth
+  **Solution:** Understand suffering as part of the Christian experience; Philippians 1:29 describes it as a gift granted by God
 - **Problem:** Condemning yourself for feeling distant from God
-  **Solution:** Read the Psalms and remember God gives you grace to feel
-- **Problem:** Hiding behind a veneer of perfection
-  **Solution:** Pull back the curtain and let people see your humanity
+  **Solution:** Read the Psalms and remember God gives grace to feel
+- **Problem:** Hiding a facade of perfection
+  **Solution:** Be honest about your struggles and let people see your humanity
 - **Problem:** Believing suffering means God is absent
   **Solution:** God walks with you through the valley and shapes you in the process
 
@@ -234,7 +233,7 @@ The Apostle Paul wrote from a Roman prison cell that suffering is a gift granted
 
 ##### Step 1: Acknowledge Your Condition Honestly
 
-Pastor Philip is dealing with a mysterious medical condition and is seeing a specialist. He posted about being laid up in a medical bed so people could see that his life is not perfect and that he is suffering with the brothers and sisters.
+Pastor Philip is dealing with an undiagnosed medical condition and is seeing a specialist. He posted about being confined to a medical bed so people could see that his life is not perfect and that he is suffering alongside other believers.
 
 ##### Step 2: Separate Your Condition from God's Character
 
@@ -256,15 +255,15 @@ Preach healing because the scripture teaches that signs and wonders will follow 
 
 ##### Example 1: Preaching Healing While Sick
 
-The Sunday after being in a medical bed, Pastor Philip preached Acts chapter 2 on the coming of the Spirit. During the altar call for healing, while he was sick in his own body, he believed with certainty that God was healing physical bodies, minds battling mental trauma, and hearts battling emotional trauma. There was no doubt in his heart.
+The Sunday after being in a medical bed, Pastor Philip preached Acts chapter 2 on the coming of the Spirit. During the altar call for healing, while he was sick in his own body, he expressed faith that God was healing physical ailments, mental trauma, and emotional pain. He stated he had no doubt that God was healing people at that moment.
 
 ##### Example 2: Doctrinal Foundation Over Physical Feeling
 
-Pastor Philip states, "I don't have to be healed to preach healing." My sickness does not change His character, nature, or word. This is not about feelings; it is about who Christ is and what the scriptures teach.
+Pastor Philip states, "I don't have to be healed to preach healing." Pastor Philip's sickness does not change Christ's character, nature, or word. This is not about personal feelings; it is about who Christ is and what the scriptures teach.
 
 ##### Example 3: Laying Hands on Yourself
 
-While laying hands on others for healing, Pastor Philip also lays hands on himself. His temporary circumstance does not negate the goodness of Christ, His character, His nature, or His word. He believes he is healed in Jesus' name and is not worried.
+While laying hands on others for healing, Pastor Philip also lays hands on himself. His current situation does not negate the goodness of Christ, His character, His nature, or His word. He believes he is healed in Jesus' name and is not worried.
 
 #### Best Practices
 
@@ -285,9 +284,9 @@ While laying hands on others for healing, Pastor Philip also lays hands on himse
 
 #### Security & Safety Notes
 
-- Allowing sickness to stop your ministry hinders the gospel
-- Letting doubt creep in because of your condition undermines your faith and the faith of those you minister to
-- Hiding your condition creates a false veneer that damages authenticity and trust
+- Allowing sickness to stop your ministry limits the reach of the gospel
+- Letting doubt enter because of your condition undermines your faith and the faith of those you minister to
+- Hiding your condition creates a facade that undermines authenticity and trust
 
 #### Common Pitfalls
 
@@ -304,11 +303,11 @@ While laying hands on others for healing, Pastor Philip also lays hands on himse
 
 ##### Step 1: Make Your Promise to God After Failure
 
-When Pastor Philip was two and a half years into his walk with Christ, he experienced an epic failure that hurt a lot of people, including family and church members. Staring at a podium in the back room of a church, he thought his ministry was over. Two years later, when asked to preach chapel after two years away from the pulpit, he fasted for a week, studied the text, and made a promise to God.
+When Pastor Philip was 2 and 1/2 years into his walk with Christ, he experienced a failure that hurt people, including family and church members. Staring at a podium in the back room of a church, he thought his ministry was over. Two years later, when asked to preach chapel after two years away from the pulpit, he fasted for one week, studied the text, and made a promise to God.
 
 ##### Step 2: Promise Faithfulness in Proclamation
 
-His first promise was that if God would anoint him again to preach, he would be faithful in his proclamation until God called him home. He kept that promise for almost 20 years and intends to keep it by God's grace until he dies.
+His first promise was that if God would anoint him again to preach, he would be faithful in his proclamation until God called him home. He kept that promise for nearly 20 years and intends to keep it by God's grace until he dies.
 
 ##### Step 3: Promise Faithfulness Regardless of Platform
 
@@ -316,17 +315,17 @@ The second promise came when his church changed its name from Victory to 2019 in
 
 ##### Step 4: Refuse to Bend the Scriptures
 
-Along with his second promise, he pledged that he would not bend the scriptures. He would not give an account to people; he would give an account to the one who gave him a second chance. He is content to be misunderstood, persecuted, lied on, called a demon, or called a false prophet.
+Along with his second promise, he pledged that he would not bend the scriptures. He would not give an account to people; he would give an account to God, who gave him a second chance. He is content to be misunderstood, persecuted, lied on, called a demon, or called a false prophet.
 
 ##### Step 5: Live as a Steward, Not an Owner
 
-His whole ministry and whole life is a second chance. He intends to make good with his second chance. All the favor, platform, doors, and relationships are from God. He is just a steward, not an owner. He will not protect a platform he did not build or appease people who are not the judge he will stand before.
+His whole ministry and whole life is a second chance. He intends to make good with his second chance. The favor, platform, opportunities, and relationships all come from God. He is a steward, not an owner. He will not protect a platform he did not build or appease people who are not the judge he will stand before.
 
 #### Examples
 
 ##### Example 1: The Second Chance Ministry
 
-Pastor Philip says, "My whole ministry and my whole life is a second chance. I intend to make good with my second chance." After an epic failure where he hurt a lot of people, he thought his time serving Jesus was over. But the Lord met him, restored him, and gave him another opportunity.
+Pastor Philip says, "My whole ministry and my whole life is a second chance. I intend to make good with my second chance." After a failure where he hurt people close to him, he thought his time serving Jesus was over. But the Lord met him, restored him, and gave him another opportunity.
 
 ##### Example 2: Preaching to 183 People
 
@@ -334,7 +333,7 @@ With 183 disciples in his church and seats available throughout an empty high sc
 
 ##### Example 3: Content to Suffer for Christ
 
-He is content to be misunderstood, persecuted, receive death threats, be lied on, be called a demon, be called a false prophet. He is content to suffer all of that for the name of Christ because he knows he is doing everything he can to be faithful to the one who gave him a second chance.
+He is content to be misunderstood, persecuted, receive death threats, be lied on, be called a demon, be called a false prophet. He is content to experience all of that for the name of Christ because he knows he is doing everything he can to be faithful to the one who gave him a second chance.
 
 #### Best Practices
 
@@ -357,8 +356,8 @@ He is content to be misunderstood, persecuted, receive death threats, be lied on
 
 #### Security & Safety Notes
 
-- Breaking promises to God breaks trust and forfeits anointing
-- Bending scripture to please people compromises the gospel
+- Breaking promises to God breaks trust
+- Bending scripture to please people conflicts with the message of the gospel
 - Protecting a platform you did not build leads to idolatry
 - Giving an account to people rather than to God leads to compromise
 
@@ -381,70 +380,70 @@ Pastor Philip's greatest fear is not death threats, opposition from false religi
 
 ##### Step 2: Take Inventory of God's Favor
 
-When you take inventory of all the ways God has worked in your life — your team, your church, your travels, the doors that have opened, the relationships you have — recognize that these blessings are from God. For a person who is not grounded, these blessings can create a false sense that you are the source of the blessing.
+When you take inventory of all the ways God has worked in your life — your team, your church, your travels, the doors that have opened, the relationships you have — recognize that these blessings are from God. For a person who is not grounded, these blessings can create a misplaced sense that you are the source of the blessing.
 
 ##### Step 3: Remember You Are a Steward, Not an Owner
 
-Jesus has done all of this for Himself. You just get to steward it. Recognize that you are an instrument that Jesus uses, not the source of the blessing. The people honor Christ, not the instrument He uses.
+Jesus has done all of this for Himself. You just get to steward it. Recognize that you are the one through whom Jesus works, not the source of the blessing. People honor Christ, not the one through whom He works.
 
-##### Step 4: Eat the Fruit, Stay Away from the Glory
+##### Step 4: Give God the Glory for Blessing
 
-When God blesses, remember He is not doing it for you. He is doing it for Himself. This is the instruction Pastor Philip gives to his worship leader: when God blesses the songs and the platform, remember it is for Christ alone. Receive the benefits of God's blessing, but do not seek the praise that belongs to Christ alone.
+When God blesses, remember He is not doing it for you. He is doing it for Himself. Pastor Philip tells his worship leader: when God blesses the team's songs and platform, remember it is for Christ alone. Receive what God provides, but do not seek the praise that belongs to Christ alone.
 
-##### Step 5: Hang Yourself on the Cross Again
+##### Step 5: Submit Pride to Christ Again
 
-When pride or arrogance enters, go back to the prayer room and submit yourself to Christ again. Say, "God, crucify this in me again and take this out of me again." Remind yourself that all God has done, He has done for Himself, not for you.
+When pride or arrogance enters, go back to prayer and submit yourself to Christ. Say, "God, remove this from me." Remind yourself that all God has done, He has done for Himself, not for you.
 
 #### Examples
 
-##### Example 1: The Donkey Illustration
+##### Example 1: The Humility Illustration
 
-Pastor Philip taught his church through Matthew for three years. At the end of Matthew, Jesus rides into Jerusalem on a donkey. If the donkey could talk, it might say, "Look at all these people throwing branches for me. They are screaming 'Hosanna!' for me." But the branches and the shouts are for the person on top of the donkey. We are just the donkeys Jesus rides on.
+Pastor Philip taught his church through Matthew for three years. At the end of Matthew, Jesus rides into Jerusalem on a donkey. If the donkey could talk, it might say, "Look at all these people throwing branches for me. They are screaming 'Hosanna!' for me." But the branches and the shouts are for the person on top of the donkey. We are the ones through whom Jesus works.
 
 ##### Example 2: The Worship Leader's Instruction
 
-Pastor Philip privately told his worship leader Trey, "Your influence is going to grow and the influence of the team is going to grow. Receive the benefits of God's blessing, but do not seek the praise that belongs to Christ alone. When God blesses 28:19 Worship and the songs we write, remember God is not doing that for you. He is doing that for Him."
+Pastor Philip privately told his worship leader Trey, "Your influence is going to grow and the influence of the team is going to grow. Receive the benefits of God's blessing, but do not seek the praise that belongs to Christ alone. When God blesses the 28:19 Worship team and the songs we write, remember God is not doing that for you. He is doing that for Him."
 
 ##### Example 3: Pride as an Insult to the Cross
 
-When pride and arrogance creep up in Pastor Philip's heart and make him think the platform and favor are for him, that is an insult to God and an insult to the cross of Christ. That is when he is most afraid. God can turn off the favor to show you that you cannot do any of this in your own strength.
+When pride and arrogance appear in Pastor Philip's heart and make him think the platform and favor are for him, that dishonors God and dishonors the message of Christ's sacrifice. That is when he is most afraid. God can remove favor to show that you cannot do any of this in your own strength.
 
 #### Best Practices
 
-- ✅ Identify your greatest fear and make it spiritual, not physical
+- ✅ Identify your greatest fear and make it about character, not comfort
 - ✅ Take inventory of God's favor and remember it is from Him
 - ✅ Live as a steward, not an owner
 - ✅ Receive the benefits of God's blessing, but do not seek the praise that belongs to Christ alone
 - ✅ Submit yourself to Christ when pride enters
-- ✅ Crucify pride and arrogance daily
+- ✅ Address pride and arrogance when they arise
 - ✅ Remember God has done everything for Himself, not for you
 - ✅ Do not protect platforms you did not build
 
 #### Keep In Mind
 
-- All favor and platform is from God, not for self
-- You are an instrument that Jesus uses
-- God can strip away favor in a moment to show you your dependence on Him
-- Pride and arrogance separate you from God and remove His incentive to keep pouring out favor
-- The greatest fear should not be death threats but pride creeping into your heart
+- All favor and platform come from God, not for self-promotion
+- You are the one through whom Jesus works
+- God can remove favor to show you your dependence on Him
+- Pride and arrogance separate you from God and reduce His purpose for your life
+- The greatest fear should not be death threats but pride entering your heart
 
 #### Security & Safety Notes
 
-- Pride and arrogance insult the cross of Christ
-- Self-reliance and pride emerging from God's blessing separate you from God
+- Pride and arrogance dishonor the message of Christ's sacrifice
+- Self-reliance and pride from God's blessing separate you from God
 - Forgetting that you are a steward leads to idolatry of platform and influence
 - Trying to appease people rather than God leads to compromise
 
 #### Common Pitfalls
 
 - **Problem:** Forgetting that all favor is from God
-  **Solution:** Take inventory daily and remind yourself that you are a steward, not an owner
+  **Solution:** Take inventory regularly and remind yourself that you are a steward, not an owner
 - **Problem:** Taking credit for God's blessings
-  **Solution:** Remember the donkey illustration; the glory belongs to Christ alone
+  **Solution:** Remember the humility illustration; the honor belongs to Christ alone
 - **Problem:** Being afraid of the wrong things
-  **Solution:** Make your greatest fear pride and arrogance creeping into your heart
+  **Solution:** Make your greatest fear pride and arrogance entering your heart
 - **Problem:** Protecting your platform at all costs
-  **Solution:** You did not build it; God can strip it away in a moment
+  **Solution:** You did not build it; God can remove it at any time
 
 ### Topic 7: Judgment and Critique
 
@@ -456,7 +455,7 @@ No one is above critique if they are living faithfully for Christ. Not a high sc
 
 ##### Step 2: Separate Critique into Three Categories
 
-Develop humility and discernment to separate critique into three categories: righteous or valid critique, slander disguised as critique (born out of jealousy and covetousness), and satanic attack where the devil works through unsaved mouths to diminish your credibility.
+Develop humility and discernment to separate critique into three categories: critique that is fair and worth considering, attacks posing as critique driven by jealousy and covetousness, and direct spiritual opposition where the enemy works through people who do not know God to undermine your credibility.
 
 ##### Step 3: Listen to Righteous Critique
 
@@ -464,64 +463,64 @@ There are valid critiques that, if you are humble, you should listen to. Interna
 
 ##### Step 4: Discern Slander Disguised as Critique
 
-Some critique is born out of the fallen nature of other human beings. People are jealous of your platform, covetous of your platform, and want your position but do not have it. The only way they can feel good about themselves is to tear you down to prop themselves up. This is slander hiding behind the guise of critique.
+Some critique comes from the sinful nature of other people. People can be jealous of your platform or position and want what you have. They may tear you down to feel better about themselves. This is slander appearing as critique.
 
 ##### Step 5: Discern Satanic Attack
 
-Some critique is directly satanic, where persecutions and lies are being spoken about servants of God to diminish their credibility so people will stop listening. The devil uses unsaved mouths to speak evil about you so that unsuspecting people will turn away from the voice God has raised up.
+Some critique is spiritually motivated opposition. False accusations are spoken about people in ministry to reduce their credibility so that others will stop listening. The enemy works through people who do not know God to speak against you so that undiscerning people turn away from the message God has given you.
 
 ##### Step 6: Do Not Let Critique Shut Down Your Ministry
 
-Even if people call you a demon or a false prophet, remain faithful. Jesus was called a demon and a false prophet. What chance do we have? We just have to be faithful in the midst of it all and pray for people to have more discernment.
+Even if people call you a demon or a false prophet, remain faithful. Jesus was called a demon and a false prophet. What hope do we have? We must remain faithful amid criticism and pray that people develop greater discernment.
 
 #### Examples
 
 ##### Example 1: Three Types of Critique
 
-Pastor Philip identifies three types: righteous or valid critique where the person is right and you should change; slander disguised as critique where jealousy and covetousness drive the words; and satanic attack where the devil works through unsaved mouths to discredit a servant of God.
+Pastor Philip identifies three types: fair critique where the person is right and you should change; attacks posing as critique where jealousy and covetousness drive the words; and spiritual opposition where the enemy works through people who do not know God to discredit a servant of God.
 
 ##### Example 2: The Pharisees as Sons of Satan
 
 When Jesus was persecuted by the Pharisees, He called them sons of Satan. They were jealous of His ministry because it was outshining theirs. Satan was working through them to antagonize Jesus with their mouths in an attempt to discredit His ministry so fewer people would listen. They shut the doors of the kingdom in people's faces.
 
-##### Example 3: Social Media as a Platform for Demonic Voices
+##### Example 3: Social Media and Criticism
 
-The widespread use of social media has given a platform to false voices and demonic influences. People call real men and women of God false prophets and demons because of a mistake or disagreement. Unsuspecting people without discernment watch or read these social media posts and comments and turn away from the voice God raised up.
+The widespread use of social media has given a platform to false voices and harmful influences. People call real men and women of God false prophets and demons because of a mistake or disagreement. Undiscerning people watch or read these social media posts and comments and turn away from the voice God raised up.
 
 #### Best Practices
 
 - ✅ Accept that no one is above critique if living faithfully for Christ
-- ✅ Separate critique into righteous, slanderous, and satanic categories
+- ✅ Separate critique into fair, personal-attack, and spiritually opposed categories
 - ✅ Listen to valid critique with humility and take it to prayer
 - ✅ Recognize jealousy and covetousness behind slander disguised as critique
-- ✅ Discern when the devil is working through unsaved mouths
+- ✅ Discern spiritually motivated criticism from personal opinion
 - ✅ Remain faithful in the midst of all critique
-- ✅ Pray for people to have more discernment
+- ✅ Pray that people develop sharper discernment
 - ✅ Do not let critique shut down your ministry
 
 #### Keep In Mind
 
 - If they hated Jesus, they will hate you too
 - If they called Jesus a devil, they will call you a devil too
-- Critique is inevitable for anyone living faithfully for Christ
-- To avoid critique is to do nothing and be unseen and unheard
-- The devil uses social media to shut the doors of the kingdom in people's faces
+- People who live faithfully for Christ will face critique
+- To avoid all critique is to do nothing and be unseen
+- Harmful voices on social media can turn people away from truth
 
 #### Security & Safety Notes
 
-- Listening to slanderous or satanic critique as if it were valid damages your faith and ministry
-- Responding to every critique gives power to the enemy's voice
-- Shutting down your ministry because of critique stops the gospel from reaching people
+- Listening to unfair or spiritually motivated critique as if it were valid undermines your faith and ministry
+- Responding to every critique gives power to harmful voices
+- Shutting down your ministry because of critique limits the reach of the gospel
 - Assuming all critique is valid leads to unnecessary self-condemnation
 
 #### Common Pitfalls
 
 - **Problem:** Treating all critique as valid
-  **Solution:** Separate critique into righteous, slanderous, and satanic categories with humility and discernment
-- **Problem:** Responding to slander as if it were correction
-  **Solution:** Recognize jealousy and covetousness for what they are and do not engage
+  **Solution:** Separate critique into fair, unfair, and spiritually motivated categories with humility and discernment
+- **Problem:** Responding to unfair critique as if it were correction
+  **Solution:** Recognize jealousy and personal attack for what they are and do not engage
 - **Problem:** Shutting down ministry because of criticism
-  **Solution:** Remain faithful and pray for discernment in those who are listening
+  **Solution:** Remain faithful and pray for greater discernment in those who are listening
 - **Problem:** Taking on the approval of people as your standard
   **Solution:** You will give an account to God, not to the people critiquing you
 
@@ -539,7 +538,7 @@ These people can say, "Don't go there." They can say, "Pray about that." They ca
 
 ##### Step 3: Let Lena Keep You Grounded
 
-Pastor Philip's wife Lena is the most unimpressed person with his platform, fame, or success. She is not impressed with him at all. She was not even following his own podcast until someone on staff told her she should. She is strong, pure, wise, godly, holy, and beautiful, and she keeps him grounded.
+Pastor Philip's wife Lena is the most unimpressed person with his platform, fame, or success. She is not impressed with him at all. She was not even following his own podcast until a staff member suggested she should. She is strong, pure, wise, godly, holy, and beautiful, and she keeps him grounded.
 
 ##### Step 4: Welcome Correction from Your Community
 
@@ -553,7 +552,7 @@ Have brothers in your life, lateral relationships, men of God who have your best
 
 ##### Example 1: Lena's Unimpressed Grounding
 
-Lena is not impressed with Pastor Philip's platform, fame, or success. She keeps him grounded. When he came home from ministry, she was not waiting to hear about the accolades. She was just Lena. This is exactly what he needs to stay tethered to reality.
+Lena is not impressed with Pastor Philip's platform, fame, or success. She keeps him grounded. When he came home from ministry, she was not waiting to hear about the accolades. She was just Lena. This is what he needs to stay grounded in reality.
 
 ##### Example 2: Children Who Rebuke Their Father
 
@@ -580,13 +579,13 @@ Pastor Philip has brothers in his life, peer relationships with men of God who h
 - Your children can and should rebuke you
 - Men take accountability, apologize, and own their mistakes
 - You need people in your life who have your best interests at heart
-- Accountability is essential for spiritual survival
+- Accountability is essential for healthy spiritual life
 
 #### Security & Safety Notes
 
 - Without accountability, pride and arrogance will creep in unchecked
 - Isolation from people who can tell you no makes you vulnerable to deception
-- Having only people who always agree with you around you leads to spiritual shipwreck
+- Having only people who always agree with you around you leads to serious spiritual harm
 - Refusing rebuke from the right people hardens your heart
 
 #### Common Pitfalls
@@ -594,90 +593,90 @@ Pastor Philip has brothers in his life, peer relationships with men of God who h
 - **Problem:** Surrounding yourself only with people who agree with you
   **Solution:** Identify and cultivate relationships with people who can tell you no
 - **Problem:** Resisting rebuke from family or spouse
-  **Solution:** Let someone unimpressed with your platform keep you grounded
+  **Solution:** Let someone who is not impressed with your public profile keep you grounded
 - **Problem:** Believing you have outgrown accountability
   **Solution:** No one is above accountability, no matter how anointed or successful
 - **Problem:** Not teaching accountability to the next generation
   **Solution:** Teach your children to own their mistakes and take accountability
 
-### Topic 9: Biblical Masculinity
+### Topic 9: Men and Their Calling
 
 #### Steps
 
 ##### Step 1: Recognize the Spiritual Attack on Men
 
-Understand that the attack on men and biblical masculinity is strategic. The enemy is working to rob men of biblical masculinity and remove them from the lives of children, homes, and families. This is spiritual warfare, not merely cultural drift.
+Understand that the attack on men is strategic. The enemy is working to weaken men in their calling and remove them from the lives of children, homes, and families. This is spiritual opposition, not merely cultural forces.
 
 ##### Step 2: Create Safe Spaces for Men
 
-Men need community where they can confess and be honest about what they are struggling with without feeling judged, condemned, or persecuted. They need spaces where they can be their authentic selves and find voices that speak life into them and call them to who God has called them to be.
+Men need community where they can confess and be honest about what they are struggling with without feeling judged or condemned. They need spaces where they can be honest and find voices that encourage them toward who God has called them to be.
 
 ##### Step 3: Comfort Men Who Are Hurting
 
-There is a category of men who are suffering in silence, doing everything they can to be husbands and fathers, who are just struggling and do not know what to do. They need comfort, love, healing, and people who will speak to the person God has called them to be.
+There is a group of men who are suffering silently, doing everything they can to be husbands and fathers, who are struggling and do not know what to do. They need comfort, love, healing, and people who will point them toward who God has called them to be.
 
 ##### Step 4: Rebuke Men Who Refuse Accountability
 
-There is also a category of men who need to be confronted, rebuked, and challenged. They need to stop being boys, care about their wives, girlfriends, sons, and daughters, and understand how their decisions affect the lives of those around them.
+There is also a group of men who need to be confronted, rebuked, and challenged. They need to stop avoiding responsibility, care about their wives, girlfriends, sons, and daughters, and understand how their decisions affect the lives of those around them.
 
-##### Step 5: Teach Men to Own Their Mess
+##### Step 5: Teach Men to Own Their Mistakes
 
-Teach men to stop pointing the finger and blaming everybody for what they are going through. There is a category of men who just have to own their mess. Men take accountability. Men know how to apologize. Men own their crap.
+Teach men to stop pointing the finger and blaming others for what they are going through. There is a group of men who need to own their mistakes. Men take accountability. Men know how to apologize. Men own their mistakes.
 
-##### Step 6: Call Men to Intangible Desires
+##### Step 6: Call Men to Inner Character
 
-Men naturally desire tangible things: cars, money, fame, status. These things stroke egos and help insecurities. But men need to be told to desire the intangible things that will make them better men on the inside first. Then it becomes much easier to be a better man outside to the people around them.
+Men naturally desire visible things: cars, money, fame, status. These things can feed pride and worsen insecurities. But men need to be called to desire internal character qualities that make them better men first. Then it becomes much easier to be a better man to the people around them.
 
 #### Examples
 
-##### Example 1: The Absentee Father Correlation
+##### Example 1: Father Absence and Brokenness
 
-Pastor Philip taught middle school for about four years. During that time, 75% of his students lived in homes without their fathers. As he studied the psychological damage of that, he saw a clear correlation between the absenteeism of fathers and men and human brokenness in adults. This is strategic.
+Pastor Philip taught middle school for approximately four years. During that time, 75% of his students lived in homes without their fathers. As he studied the psychological effects of this, he saw a connection between the absence of fathers and brokenness in adults. This reflects a larger pattern.
 
 ##### Example 2: Teaching His Own Sons
 
 Pastor Philip teaches his two sons, Malachi and Josiah: "Don't make excuses. We don't allow that in this house. Own your crap." If you did not take out the trash, own that. If you got into a beef with one of your sisters and were wrong, own that. If you dropped the ball on something your mother and I told you to do, own that. Repent, cry, let the Father love on you like a son or like the father you did not have.
 
-##### Example 3: The Systematic Attack
+##### Example 3: Strategic Opposition to Men
 
-Pastor Philip says, "I think much of this is a systematic spiritual attack against men and to ruin the biblical masculinity of men." Women are struggling to find strong men of God who can lead but also be tender. The enemy is working strategically to rob men of biblical masculinity and remove them from the lives of children and homes.
+Pastor Philip says, "I think much of this is a systematic spiritual attack against men and to weaken the role of men." Women are struggling to find men of God who can lead but also be tender. The enemy is working strategically to remove men from the lives of children and homes.
 
 #### Best Practices
 
-- ✅ Recognize the attack on biblical masculinity as spiritual warfare
+- ✅ Recognize the attack on men as spiritual opposition
 - ✅ Create safe spaces for men to confess and be vulnerable
-- ✅ Comfort men who are hurting and suffering in silence
+- ✅ Comfort men who are hurting and suffering quietly
 - ✅ Rebuke men who refuse accountability and responsibility
-- ✅ Teach men to stop making excuses and own their mess
+- ✅ Teach men to stop making excuses and own their mistakes
 - ✅ Teach young men that men take accountability and apologize
-- ✅ Call men to desire intangible things that make them better on the inside
+- ✅ Call men to desire internal character qualities that make them better on the inside
 - ✅ Be a man of character, integrity, holiness, and purity
 
 #### Keep In Mind
 
-- The attack on men is strategic and spiritual in nature
-- There is a correlation between father absenteeism and human brokenness
-- Men need safe spaces to confess without judgment
+- The pattern affecting men is strategic and spiritual in nature
+- There is a connection between father absence and brokenness in adults
+- Men need safe spaces to confess without condemnation
 - Men take accountability, apologize, and own their mistakes
-- We need godly men in this generation more than ever
+- This generation needs more men living with integrity
 
 #### Security & Safety Notes
 
-- The enemy's strategy to remove men from homes and families is damaging a generation
-- Men who refuse accountability hurt their wives, children, and communities
-- The absence of godly men leaves women without partners who can provide leadership and emotional care
-- Boys making excuses and not owning their mess perpetuates brokenness
+- The strategy to reduce men's presence in homes and families harms a generation
+- Men who avoid accountability hurt their wives, children, and communities
+- The absence of accountable men leaves women without partners who can lead and provide emotional care
+- Men making excuses and not owning their mistakes perpetuates brokenness
 
 #### Common Pitfalls
 
-- **Problem:** Treating the masculinity crisis as only cultural
-  **Solution:** Recognize it as a systematic spiritual attack and respond with prayer and intentional discipleship
-- **Problem:** Only condemning men without comforting them
-  **Solution:** Some men need rebuke; others need comfort. Discern the difference.
+- **Problem:** Treating the challenges facing men as only cultural
+  **Solution:** Recognize a spiritual dimension and respond with prayer and intentional discipleship
+- **Problem:** Only confronting men without comforting them
+  **Solution:** Some men need confrontation; others need comfort. Learn to tell the difference.
 - **Problem:** Not creating safe spaces for men to be vulnerable
-  **Solution:** Men need community where they can confess without fear of judgment
-- **Problem:** Teaching men to desire only worldly success
-  **Solution:** Call men to desire the intangible things that make them better on the inside
+  **Solution:** Men need community where they can confess without condemnation
+- **Problem:** Teaching men to desire only worldly achievement
+  **Solution:** Call men to desire internal character qualities that make them better men
 
 ### Topic 10: The Book "Contend"
 
@@ -689,33 +688,33 @@ Pastor Philip's book "Contend" is based on a message he preached in London durin
 
 ##### Step 2: Identify Who the Book Is For
 
-The book is for those who are struggling on the inside with shame, depression, regret, feelings of betrayal, loss, and all the inward struggles that come up on the inside and choke the faith out of us. It is for those who are going to church but feel dead on the inside, coming around brothers and sisters but feeling dead on the inside, trying to open their Bible but not feeling like reading, wanting to pray but feeling like God is not going to listen.
+The book is for those who are struggling inwardly with shame, depression, regret, feelings of betrayal, loss, and other inward struggles that weaken faith. It is for those who are going to church but feel dead on the inside, coming around brothers and sisters but feeling dead on the inside, trying to open their Bible but not feeling like reading, wanting to pray but feeling like God is not going to listen.
 
 ##### Step 3: Contend for the Faith on the Inside
 
-The book addresses contending inwardly against that which separates us from God. This is the fight against pride, arrogance, self-exaltation, and everything that tells us we cannot be used by God. It is for those who feel like God is disappointed with them, angry with them, or that they have really messed up and God cannot use them.
+The book addresses contending inwardly against pride, arrogance, self-exaltation, and the belief that God cannot use you. It is for those who feel like God is disappointed with them, angry with them, or that they have made serious mistakes and God cannot use them.
 
 ##### Step 4: Wrestle with the Inner Battle
 
-Pastor Philip describes contending on the inside as fighting for the faith against that which separates you from God. This includes pride, arrogance, thinking it is all about you, and self-exaltation. These things not only separate us from God but give Him no incentive to keep pouring out favor.
+Pastor Philip describes contending on the inside as fighting for the faith against pride, arrogance, self-exaltation, and the belief that the focus is on yourself. These things separate us from God and conflict with God's purposes for your life.
 
 ##### Step 5: Awaken the Body of Christ
 
-The book was not written to make money. God has provided for Pastor Philip's needs. The book was written to awaken the body of Christ to the hour we are in, the times we are living in, and the need for the bride to contend for the faith in this hour, both in culture and in our hearts.
+The book was written to awaken the body of Christ. The book releases on October 13th and addresses the need for believers to contend for the faith now, both in culture and in their hearts.
 
 #### Examples
 
 ##### Example 1: The London Message
 
-The book grew out of a message Pastor Philip preached in London from the letter of Jude. The message struck a chord, and the book expands on that theme of contending for the faith inwardly. It is the version of him that people do not always see on stage.
+The book grew out of a message Pastor Philip preached in London from the letter of Jude. The message resonated, and the book expands on that theme of contending for the faith inwardly. It reflects a personal side of Pastor Philip that people do not always see on stage.
 
 ##### Example 2: The Struggles It Addresses
 
-The book addresses shame, depression, regret, feelings of betrayal, loss, and these internal struggles that choke the faith out of us. It is for the person who is going to church but feels dead on the inside, who is trying to read the Bible but cannot focus, who wants to pray but feels like God is not listening.
+The book addresses shame, depression, regret, feelings of betrayal, loss, and these internal struggles that weaken faith. It is for the person who is going to church but feels dead on the inside, who is trying to read the Bible but cannot focus, who wants to pray but feels like God is not listening.
 
 ##### Example 3: Writing as a Form of Contending
 
-Pastor Philip has kept a journal for over 20 years. He is an urban man with depth on the inside, and his writing expresses that depth. The book is the next phase of his ministry, a way to reach people who are struggling inwardly with the same message he preaches from the pulpit.
+Pastor Philip has kept a journal for over 20 years. He is an urban man with depth, and his writing expresses that depth. The book is a next expression of his ministry to reach people who are struggling inwardly with the same message he preaches from the pulpit.
 
 #### Best Practices
 
@@ -724,25 +723,25 @@ Pastor Philip has kept a journal for over 20 years. He is an urban man with dept
 - ✅ Wrestle inwardly against pride, shame, and self-exaltation
 - ✅ Remember that the book was written to awaken the body of Christ
 - ✅ Allow the book to lead you back to the scriptures and back to Christ
-- ✅ Let the book put a fire in you for the hour we are living in
+- ✅ Let the book stir passion in you for the current era
 - ✅ Share the book with others who are struggling inwardly
-- ✅ Support the ministry by purchasing rather than pirating
+- ✅ Support the ministry by purchasing rather than unauthorized copying
 
 #### Keep In Mind
 
-- Pastor Philip says the book will drop on October 13th
+- Pastor Philip says the book will release on October 13th
 - It is based on the message of Jude preached in London
 - It is for those struggling with shame, depression, regret, betrayal, and loss
 - It is about contending for the faith inwardly, not just outwardly
-- It was written to awaken the body of Christ, not to generate income
-- Pastor Philip has kept a journal for over 20 years and writes with depth
+- It was written to awaken the body of Christ
+- Pastor Philip has kept a journal for over 20 years and writes from personal experience
 
 #### Security & Safety Notes
 
-- The inward battle against pride and shame is just as dangerous as outward persecution
-- Allowing inward struggles to choke your faith leads to spiritual death
-- Ignoring the inward battle while contending outwardly is incomplete Christianity
-- The enemy wants you to feel like God is disappointed with you and cannot use you
+- The inward battle against pride and shame is a threat equal to outward opposition
+- Allowing inward struggles to weaken faith leads to serious spiritual decline
+- Ignoring the inward battle while contending outwardly is incomplete Christian discipleship
+- The enemy can make you feel like God is disappointed with you and cannot use you
 
 #### Common Pitfalls
 
@@ -750,7 +749,7 @@ Pastor Philip has kept a journal for over 20 years. He is an urban man with dept
   **Solution:** Contend for the faith in your heart against pride, shame, and self-exaltation
 - **Problem:** Believing God cannot use you because of past mistakes
   **Solution:** Remember that Pastor Philip's whole ministry is a second chance; God can redeem your story
-- **Problem:** Letting inward shame, depression, or regret choke your faith
+- **Problem:** Letting inward shame, depression, or regret weaken your faith
   **Solution:** Read "Contend" and learn to fight for the faith on the inside
 - **Problem:** Thinking contending is only for the pulpit
   **Solution:** Contend for the faith in culture and in your heart, wherever you are
