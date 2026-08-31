@@ -2,14 +2,11 @@
 
 ## Overview
 
-This podcast episode features Bryce Crawford, a 21-year-old Gen Z Christian influencer, sharing his journey from battling crippling depression and planning suicide on Christmas Day 2020 to becoming a bold voice for Jesus. He discusses the hidden dangers of Christian content creation, street evangelism, mental health, biblical literacy, digital influence, and maintaining integrity as a young Christian leader. The conversation with Lecrae provides raw, actionable guidance on navigating faith, influence, and purpose in the digital age.
+This podcast episode features Bryce Crawford, a 21-year-old Gen Z Christian influencer, sharing his journey from battling crippling depression and going to take his life on Christmas Day 2020 to becoming a bold voice for Jesus. He discusses Christian content creation, street evangelism, mental health, biblical literacy, digital influence, and maintaining integrity as a young Christian leader. The conversation with Lecrae shares his experiences and perspectives on navigating faith, influence, and purpose in the digital age.
 
 ## When to Follow Podcast
 
-- When you need to understand the dangers and responsibilities of Christian content creation and digital influence
-- When working through mental health struggles as a Christian seeking both supernatural healing and practical therapy
-- When learning how to engage in street evangelism with love and integrity
-- When navigating dating, relationships, and biblical literacy as a young Christian
+- When you want to hear about Christian content creation, digital influence, street evangelism, mental health, biblical literacy, and integrity as a young Christian leader
 
 ## Discussed
 
@@ -19,27 +16,27 @@ This podcast episode features Bryce Crawford, a 21-year-old Gen Z Christian infl
 
 ##### Step 1: Recognize the Hidden Battle
 
-Admit that anxiety and depression are real struggles that can remain hidden for years. Acknowledge that these feelings bring shame, but they do not define your identity or your worth in God's eyes.
+Bryce acknowledged that anxiety and depression are real struggles that can remain hidden.
 
 ##### Step 2: Seek Connection Even in Desperation
 
-On the darkest day, when planning to end your life, choose one last act of human connection. Reach out to a family member, call a trusted friend, share a meal at a public restaurant with someone you know, or sit with a stranger in a coffee shop or diner, even if you feel you have nothing left to give.
+Bryce went to Waffle House as his last meal and sat with a stranger.
 
 ##### Step 3: Listen for God Speaking Through Unexpected Words
 
-Pay attention to specific statements or observations shared by strangers, friends, family members, or mentors that carry unexpected spiritual weight. A simple comment about love, growth, sacrifice, or relationships from someone who does not even mention Jesus can be the catalyst for God to break through years of pain and bring your head knowledge and heart experience into alignment.
+Bryce connected the Bible knowledge in his head with his heart through a stranger's comment at Waffle House: "There's no growth in a relationship if the love isn't mutual." He said it was the first time in years he'd felt the peace he was looking for in his depression and anxiety.
 
-##### Step 4: Make the Exchange With Jesus
+##### Step 4: Ask Jesus to Take Away Your Pain
 
-Respond to the conviction in the moment. Throw yourself at the feet of Jesus and ask Him directly to take away the pain, anxiety, or depression that has driven you to despair. Be specific in your request.
+Ask Jesus to take away the pain, anxiety, or depression. Bryce told Jesus, "If you're really real, take away my anxiety and depression," and experienced freedom from crippling anxiety after that encounter, with only one anxiety attack in the years following — about two weeks before this recording.
 
 ##### Step 5: Renounce Your Old Story
 
-Stop identifying yourself by your pain and struggles. Declare that Jesus is now your story, not the depression, not the anxiety, and not the past. Walk in the new identity He has given you.
+He said, "It wasn't my story anymore. Jesus was my story."
 
 ##### Step 6: Develop Your Communication Gifts
 
-Take writing classes, practice phrasing arguments, testimonies, and biblical truths in unique ways, and learn from preachers and teachers such as Francis Chan, Pastor Philip Anthony, and David Platt. Your ability to communicate is a gift that can be cultivated and used to share the gospel with power and emphasis.
+Bryce took writing classes in high school because he loves phrasing things and packaging truth in a unique way with power and emphasis. He listened to preachers such as Francis Chan, Pastor Philip Anthony, and David Platt.
 
 #### Examples
 
@@ -49,36 +46,28 @@ At 17, on Christmas Day 2020, Bryce went to Waffle House as his last meal. He sh
 
 ##### Example 2: Writing and Communication as Ministry
 
-Bryce loved writing in high school and took writing classes to learn how to package truth in powerful, unique ways. He listened to preachers like Francis Chan, Pastor Philip Anthony, and David Platt, absorbing how they delivered rebuke and truth. This training allowed him to communicate the gospel in a way that felt authentic and compelling.
+Bryce loved writing in high school and took writing classes to learn how to package truth in powerful, unique ways. He listened to preachers like Francis Chan, Pastor Philip Anthony, and David Platt, absorbing how they delivered rebuke and truth.
 
 #### Best Practices
 
-- ✅ Be honest about your struggles with people you trust
-- ✅ Use your pain as a testimony, not a hiding place
-- ✅ Cultivate the ability to communicate clearly and compellingly
+- ✅ Be honest about your struggles with trusted people, like Bryce was with his roommates in a group chat
+- ✅ Share your story, as Bryce now shares his story openly
+- ✅ Take writing classes and listen to preachers to learn how to package truth powerfully
 - ✅ Listen actively when someone else is sharing their story
 - ✅ Recognize that God can speak through anyone, even strangers
 - ❌ Do not let shame keep your depression hidden
-- ❌ Do not identify yourself by your mental health struggles
-- ❌ Do not isolate yourself when you feel most desperate
+- ❌ Do not let mental health struggles define your story
 
 #### Keep In Mind
 
-- The connection between head knowledge and heart experience can happen in a single moment through unexpected words.
-- Your last meal, your worst day, or your lowest moment can become the setting for your divine encounter.
-- Authentic testimony comes from a genuine transformed life, not performance.
-
-#### Security & Safety Notes
-
-- If you or someone you know is struggling with thoughts of suicide, reach out to a trusted person, a mental health professional, or a crisis helpline immediately.
-- Mental health struggles are serious and require both spiritual and practical support.
+- Bryce experienced the connection between his head knowledge and his heart in a single moment through a stranger's words at Waffle House.
 
 #### Common Pitfalls
 
 - **Problem:** Thinking your pain is unique and no one else could understand, leading to isolation.
-  **Solution:** Recognize that sharing your story openly is the first step to freedom and can become the very tool God uses to reach others.
+  **Solution:** Share your story, as Bryce now shares his story openly.
 - **Problem:** Having all the right theological knowledge but never letting it reach your heart.
-  **Solution:** Create space for genuine encounters with God through honest prayer and openness to His voice in unexpected moments.
+  **Solution:** Bryce told Jesus, "If you're really real, take away my anxiety and depression." The Bible knowledge in his head connected with his heart in that moment.
 
 ---
 
@@ -88,31 +77,31 @@ Bryce loved writing in high school and took writing classes to learn how to pack
 
 ##### Step 1: Adopt the Heart of Meeting People Where They Are
 
-Choose street evangelism because every person is eternal, and you have no way of knowing their story or where they stand with God. Ask God to send you to the darkest places and the most hurting people so you can be the one who shares the gospel with them.
+Bryce chose street evangelism because every person is eternal, and you have no way of knowing their story or where they stand with God. He asked God to send him to the darkest places and the most hurting people so he could be the one who shares the gospel with them.
 
 ##### Step 2: Ask Diagnostic Questions and Listen First
 
-Before sharing your testimony, engage people with genuine curiosity. Ask how they are doing, what is going on in their life, and listen intently. Bryce emphasizes that listening first is one of the most important evangelism skills: people are more likely to receive what you share after they feel seen and heard, rather than having their problems met with an immediate attempted fix.
+Ask how they are doing, what is going on in their life, and listen intently. Bryce emphasizes that listening first is one of the most important evangelism skills: people are more likely to receive what you share after they feel seen and heard, rather than having their problems met with an immediate attempted fix.
 
 ##### Step 3: Earn Trust Before Sharing the Gospel
 
-Build rapport through conversation. Do not rush to the sermon. Wait for the moment when the person feels seen and heard, has asked you a question, or explicitly invites you to share more deeply. Once trust is established, share honestly and vulnerably.
+Build rapport through conversation. Ask how they are doing, what is going on in their life, and listen intently. People are more likely to receive what you share after they feel seen and heard, rather than having their problems met with an immediate attempted fix.
 
 ##### Step 4: Follow Up and Invest in Relationship
 
-After the initial encounter, continue reaching out. Text everyone you meet on the street. Follow up consistently. The Great Commission includes teaching and walking with people, not just a one-time encounter.
+Bryce follows up with everyone he meets in the street. He texts everyone he meets in the street.
 
 ##### Step 5: Guard Against Pride and Micromanaging Others
 
-Avoid the subtle pride that enters when evangelizing. Do not view people as projects to be fixed or as inferior. See them as image-bearers of God with equal value. Let love, not pride, lead the conversation.
+Avoid the pride that can enter when evangelizing. Do not view people as projects to be fixed or as inferior. See them as image-bearers of God with equal value. Let love, not pride, lead the conversation.
 
 ##### Step 6: Respond to Hostility With Grace
 
-If someone reacts negatively, spits at you, or becomes aggressive, do not retaliate or argue. Pray for them. Maintain your composure. Remember that you represent Christ, and your response is part of the witness.
+If someone reacts negatively, spits at you, or becomes aggressive, do not retaliate or argue. Pray for them. Maintain your composure. Lecrae chose to pray for the man who spit on him, recognizing that everyone was watching to see if he would walk the talk.
 
 ##### Step 7: Play the Long Game
 
-Understand that measurable conversion results from evangelism may not appear for weeks, months, or years. Plant seeds faithfully, even when you do not see immediate decisions for Christ. Trust that God is growing what you have sown in ways you may never witness, and that every seed planted has the potential to produce a harvest in His timing.
+Plant seeds faithfully, even when you do not see immediate decisions for Christ.
 
 #### Examples
 
@@ -126,7 +115,7 @@ Bryce was the most disliked student at his private Christian school during his s
 
 ##### Example 3: Burning Man and the Orgy Bus
 
-At Burning Man, Bryce was invited onto an orgy bus. He used the moment to share the gospel with the people there. While they wanted nothing to do with the gospel in that moment, he remained faithful to the call to meet people where they are, even in the darkest environments.
+At Burning Man, Bryce was invited to the orgy bus. He used the moment to share the gospel with the people there. While they wanted nothing to do with the gospel in that moment, he remained faithful to the call to meet people where they are, even in the darkest environments.
 
 #### Best Practices
 
@@ -144,24 +133,18 @@ At Burning Man, Bryce was invited onto an orgy bus. He used the moment to share 
 
 #### Keep In Mind
 
-- Conversion through relationships has a higher rate than random street encounters. Lecrae noted that the percentage of conversion from street evangelism is extremely low, with the highest rate of conversion coming through relationships. Bryce still chooses street evangelism because every person is eternal, and you cannot know their story or where they stand with God.
-- Jesus sat with tax collectors and sinners without fleeing when religious people showed up. Follow His example of being present with those who are far from God.
+- The percentage of conversion from street evangelism is low. Lecrae noted that the highest rate of conversion is generally through relationships, then asked why Bryce chose street evangelism. Bryce still chooses street evangelism because every person is eternal, and you cannot know their story or where they stand with God.
+- Jesus sat with tax collectors and sinners without fleeing when religious people showed up. He was present with those who are far from God.
 - Your response to rejection or persecution is part of your testimony.
-
-#### Security & Safety Notes
-
-- Street evangelism can expose you to unsafe situations, hostility, or violence. Always be aware of your surroundings and have an exit strategy.
-- If you feel physically threatened, remove yourself from the situation. Your safety is important.
-- Do not engage in arguments that escalate into physical confrontation. Pray for those who mistreat you and move on.
 
 #### Common Pitfalls
 
 - **Problem:** Starting an argument instead of a conversation, mistaking conflict for persecution.
-  **Solution:** Focus on allowing the love of Christ to lead you. If you find yourself egging someone on or getting prideful, step back and evaluate your motives.
+  **Solution:** Focus on allowing the love of Christ to lead you. If you find yourself egging someone on, allow the love of Christ to lead you instead.
 - **Problem:** Becoming discouraged when no one converts immediately after sharing the gospel.
-  **Solution:** Remember that you are planting seeds, not forcing harvests. Trust God with the long-term fruit of your labor.
+  **Solution:** Remember that you are planting seeds. Trust God with the fruit of your labor.
 - **Problem:** Viewing yourself as better than those you are evangelizing.
-  **Solution:** Remind yourself that you were once enslaved to the same vices, addictions, and sinful patterns you are now calling others away from. Everyone is made in God's image and has equal value, regardless of their current struggles.
+  **Solution:** Remember Bryce's example: before he was a Christian, he was enslaved to pornography, the very thing Adam 22 was actively doing. Everyone is made in God's image and has equal value.
 
 ---
 
@@ -171,41 +154,41 @@ At Burning Man, Bryce was invited onto an orgy bus. He used the moment to share 
 
 ##### Step 1: Examine Your Heart Posture Before Posting
 
-Ask yourself why you are picking up the camera or posting content. Matthew 6 warns against doing good works to be seen by others. If your primary motivation is attention, views, or building a personal brand, you have already received your reward.
+Ask yourself why you are picking up the camera or posting content. Matthew 6 says, "Don't let your right hand know what your left hand's doing," and "Lest you be seen by others." If your whole goal is to be seen by other people, you already have your reward.
 
 ##### Step 2: Operate With Integrity and Accountability
 
-Because people are watching, make sure your heart is right. Live in a way that you can stand behind publicly. Lean on mentors, pastors, and trusted friends who can speak into your life and keep you accountable.
+Because people are watching, live in a way that you can stand behind publicly. Lean on mentors, pastors, and trusted friends who can speak into your life and keep you accountable.
 
 ##### Step 3: Be Cautious About What You Share
 
-Not everything needs to be posted. There are raw, unedited videos filmed and vulnerable personal moments that should never hit the internet. Be selective. If the Lord does not lead you to post something, keep it private.
+Not everything needs to be posted. There are videos that were filmed but never hit the internet. Be selective. If the Lord does not lead you to post something, keep it private.
 
 ##### Step 4: Avoid the Pressure to Constantly Produce Content
 
-Do not become a slave to the internet or feel obligated to always be posting. Your goal should never be to be the center of attention. Maintain a quiet life with hobbies, rest, and rhythms that are just for you.
+Do not become a slave to the internet or feel obligated to always be posting. Bryce's goal has never been to be the center of attention. Maintain a quiet life with hobbies, rest, and rhythms that are just for you.
 
 ##### Step 5: Recognize the Dark Side of Christian Content Creation
 
-Be aware that some Christian content creators enter the space for reasons other than genuine discipleship. According to Bryce, half of the Christian social media creators he knew when he first became a Christian are no longer Christians today, and he personally knows of other creators who have experienced similar deconstruction. This pattern leads to deconstruction, burnout, and a hollow faith. Focus on local church, discipleship, and genuine obedience, not views.
+Christianity has become a label, not a lifestyle. Half of the people doing Christian social media Bryce knew when he first became a Christian are no longer Christians.
 
 ##### Step 6: Encourage People Back to the Source
 
-The purpose of your content should always point people back to reading the Bible for themselves, not relying solely on your videos or teachings. Direct them to the Word, to Bible college, to sound theology, and to community.
+The purpose of your content should be to point people back to reading the Bible for themselves, not relying solely on your videos. Bryce says, "The whole reason we make the videos is, hey, go read your Bible for yourself."
 
 #### Examples
 
 ##### Example 1: The Dream That Confirmed the Calling
 
-Bryce had a dream at night where God spoke to him about what they were doing with digital ministry. This dream confirmed that the calling was real, but he still had to guard his heart posture to ensure he was not seeking attention for himself.
+Bryce had a dream at night where God spoke to him about what they were doing now.
 
 ##### Example 2: Content That Was Never Posted
 
-Bryce has filmed videos that never hit the internet and turned off the camera in interactions where he sensed the moment was not for public consumption. This shows intentionality and stewardship over his digital influence.
+Bryce has filmed videos that never hit the internet and turned off the camera in some interactions. He says, "There's so many videos that we filmed that haven't even hit the internet."
 
 ##### Example 3: The Deconstruction of Peers
 
-When Bryce first became a Christian, half of the friends he made through Christian social media and content creation are no longer Christians today. They entered the space when Christianity was popular, treating it as a label rather than a lifestyle. This serves as a warning about entering content creation for the wrong reasons.
+When Bryce first became a Christian, half of the people he knew doing Christian social media are no longer Christians. Christianity has become a label, not a lifestyle.
 
 #### Best Practices
 
@@ -214,32 +197,30 @@ When Bryce first became a Christian, half of the friends he made through Christi
 - ✅ Post selectively; not everything needs to be shared
 - ✅ Maintain private hobbies and rhythms that are just for you
 - ✅ Point people back to the Bible and local church, not to yourself
-- ✅ Focus on discipleship and spiritual maturity over view counts
+- ✅ Focus on local church and genuine following of Christ, not view counts
 - ❌ Do not become a slave to the internet or content creation
 - ❌ Do not post just because you feel obligated to stay relevant
-- ❌ Do not build your identity around being an influencer
-- ❌ Do not enter Christian content creation just because it is popular
+- ❌ Do not let your public persona become your entire life
+- ⚠️ Entering Christian content creation because Christianity is popular can lead to deconstruction
 
 #### Keep In Mind
 
-- Christianity has become a label, not a lifestyle, for some Christian influencers and content creators. Bryce observed that half of the Christian social media creators he knew when he first became a Christian are no longer Christians, and he personally knows of other creators who have experienced similar deconstruction, illustrating this trend.
-- The goal is not to become the center of attention, but to steward the platform God has given you.
-- People will have opinions about you, but only a small circle of trusted mentors, pastors, and leaders should have a voice in your life. This is the pattern Jesus modeled with the masses, the 72, the 12, and then the inner circle of Peter, James, and John.
+- Christianity has become a label, not a lifestyle. Bryce observed that half of the people doing Christian social media he knew when he first became a Christian are no longer Christians.
+- The goal is not to become the center of attention.
+- People will have opinions about you, but only a small circle of trusted mentors, pastors, and leaders should have a voice in your life. Bryce noted that Jesus preached to the masses, but then he had the 72, then the 12, then Peter, James, and John, and then John — there were levels of trust.
 
 #### Security & Safety Notes
 
-- Oversharing personal information or family details online can expose you and your loved ones to risk.
-- Be cautious about sharing your location, daily routines, or private struggles publicly.
-- Understand that anything posted online can be screenshotted, shared, and used against you in the future.
+
 
 #### Common Pitfalls
 
-- **Problem:** Entering Christian content creation because Christianity is popular, leading to deconstruction and a hollow faith. Bryce observed that half of the Christian social media creators he knew when he first became a Christian are no longer Christians.
-  **Solution:** Ensure your call is rooted in genuine discipleship, obedience to Christ, and a desire to serve, not to build a personal brand.
-- **Problem:** Letting public opinion and criticism shape your identity and decisions.
-  **Solution:** Remember that only a small circle of trusted mentors, pastors, and leaders should have a voice in your life. Lean on that small circle of trusted mentors and leaders God has placed around you, not the masses or the comment section.
+-   **Problem:** Entering Christian content creation because Christianity is popular. Bryce observed that half of the people doing Christian social media he knew when he first became a Christian are no longer Christians.
+  **Solution:** Bryce felt called because God gave him a dream. If your heart posture is to be seen by others, you already have your reward.
+- **Problem:** Letting public opinion and criticism shape your decisions.
+  **Solution:** Remember that only a small circle of trusted mentors, pastors, and leaders should have a voice in your life. Lean on that small circle of trusted mentors and leaders God has placed around you.
 - **Problem:** Feeling pressured to post constantly or share everything for the sake of engagement.
-  **Solution:** Live open-handed. If God does not lead you to post something, keep it private. Your worth is not tied to your content output.
+  **Solution:** Live open-handed. If God does not lead you to post something, keep it private. Bryce's goal has never been to be the center of attention.
 
 ---
 
@@ -249,27 +230,27 @@ When Bryce first became a Christian, half of the friends he made through Christi
 
 ##### Step 1: Bring Your Anxiety and Depression to Jesus
 
-Like Bryce did at 17, go to Jesus directly with your pain. Ask Him to take away your anxiety and depression. Trust in His power to heal supernaturally, just as He did for Bryce, who has experienced freedom from crippling anxiety for years after a single encounter.
+Bryce went to Jesus directly with his pain at 17. He told Jesus, "If you're really real, take away my anxiety and depression," and experienced freedom from crippling anxiety after that encounter, with only one anxiety attack in the years following — about two weeks before this recording.
 
 ##### Step 2: Recognize That Practical Help Is Also From God
 
-Do not dismiss therapy, medication, or medical wisdom as unspiritual. God gives wisdom to doctors and therapists. Trusting God can mean allowing Him to use the practical tools and professionals He has placed in your path.
+Do not dismiss therapy, medication, or medical wisdom as unspiritual. God gives wisdom to doctors and therapists. Bryce went to therapy at 18, 19, and 20 and praises God for the wisdom given to his therapist, Juliet.
 
 ##### Step 3: Take Practical Action Steps Alongside Your Faith
 
-Combine prayer and faith with practical discipline. If you cannot get off your phone past midnight, put the phone away. If you are struggling with porn, take practical steps to remove access. Faith without works is dead, and practical action honors God.
+Combine prayer and faith with practical discipline. If you cannot get off your phone past midnight, put the phone away. Bryce says we have to take practical action steps, like if someone wants to stop watching porn.
 
 ##### Step 4: Avoid Self-Help That Contradicts Scripture
 
-There is self-help content online and in bookstores that does not align with biblical truth. Bryce mentions "a bunch of self-help book and mumbo jumbo out there that doesn't align with scripture." Be discerning about what you consume. Seek counsel and resources that point you back to Christ and the Word of God.
+There is self-help content that does not align with biblical truth.
 
 ##### Step 5: Lean on Community and Accountability
 
-Surround yourself with mentors, pastors, and trusted friends who can support you. Bryce leaned on his roommates in a group chat where they held each other accountable before making decisions. Isolation makes mental health struggles worse.
+Surround yourself with mentors, pastors, and trusted friends who can support you. Bryce leaned on his roommates in a group chat where they held each other accountable.
 
 ##### Step 6: Be Honest About Your Struggles
 
-Do not pretend to have it all together. Transparency about your battles with anxiety, depression, or other mental health struggles can free others to seek help and remind the Church that these are real issues that need real solutions.
+Do not pretend to have it all together. Bryce was honest about his battles with anxiety and depression.
 
 #### Examples
 
@@ -300,23 +281,18 @@ Bryce emphasizes that if someone cannot get off their phone past midnight, the p
 
 #### Keep In Mind
 
-- God can heal everyone, but He does not always heal in the way or timing we expect.
-- Trusting God and using practical wisdom are not mutually exclusive.
-- Mental health struggles are not a sign of weak faith; they are a reality of living in a broken world.
-
-#### Security & Safety Notes
-
-- If you are experiencing a mental health crisis or having thoughts of harming yourself, reach out to a mental health professional, a trusted person, or a crisis helpline immediately.
-- Therapy and counseling are valuable tools, but ensure any professional you work with respects your faith and values.
+- Can God heal everyone? Yes. Does he know why? I don't know.
+- Sometimes trusting in God is allowing God to use the wisdom he has given to doctors and therapists.
+- Mental health struggles are real, and practical help from doctors and therapists can be part of trusting God.
 
 #### Common Pitfalls
 
 - **Problem:** Believing that seeking therapy or medication means you lack faith.
-  **Solution:** Reframe practical help as part of God's provision. He gives wisdom to doctors and therapists. Trusting God includes trusting the tools He has placed in your path.
+  **Solution:** Practical help from doctors and therapists can be part of trusting God. He gives wisdom to them. Bryce went to therapy at 18, 19, and 20 and praises God for the wisdom given to his therapist, Juliet.
 - **Problem:** Waiting passively for supernatural healing without taking any practical action.
-  **Solution:** Combine prayer and faith with practical steps. God honors both.
+  **Solution:** Combine prayer and faith with practical steps.
 - **Problem:** Isolating yourself because you feel ashamed of your mental health struggles.
-  **Solution:** Lean on community. You were never meant to walk through pain alone. Let trusted people speak into your life and support you.
+  **Solution:** Lean on community. Let trusted people speak into your life and support you.
 
 ---
 
@@ -326,23 +302,23 @@ Bryce emphasizes that if someone cannot get off their phone past midnight, the p
 
 ##### Step 1: Ask God for Permission Before Asking Someone Out
 
-Approach dating with reverence. Bryce's prayer before dating his girlfriend was, "God, can I take your daughter out on a date?" Recognize that you are pursuing someone whom God loves and for whom Christ died.
+Bryce's prayer when he started dating his girlfriend was, "God, can I take your daughter out on a date?"
 
 ##### Step 2: Lead Well as a Man
 
-For Christian men, take the initiative to lead with humility and integrity. Do not poke at or jab at people's hearts selfishly. Be a man who clings to the Word of God and leads with love, not entitlement.
+For my men out there, lead well. Cling to the Word. Guys tend to poke at or jab at girls' hearts, and it tends to be selfish.
 
 ##### Step 3: Do Not Settle as a Woman
 
-For Christian women, do not settle for less than a godly man. Know godly men by their fruit. The same standard applies to men evaluating women. Character and faithfulness matter more than charm or status.
+For my women out there, don't settle for less.
 
 ##### Step 4: Reject Entitlement in Dating
 
-Avoid the mindset that the dating pool is yours for the taking. Treat every person with dignity and respect. You are not choosing from a catalog; you are pursuing a fellow image-bearer of God.
+Avoid the entitlement mindset of thinking you can choose from a catalog of options. Remember that every person is made in God's image and has equal value.
 
 ##### Step 5: Learn From Married Mentors and Biblical Resources
 
-Glean wisdom from married couples you love and trust. Read books from authors like Ben Stewart and Jonathan Pluda who have sound biblical teaching on dating, engagement, and marriage. Do not figure it out alone.
+Glean wisdom from married couples you love and trust. Read books like "Single, Dating, Engaged, Married" by Ben Stewart and material from Pastor Jonathan Pluda.
 
 ##### Step 6: Submit to Authority Before Exercising It
 
@@ -352,11 +328,11 @@ You cannot lead well in relationships unless you have first learned to submit to
 
 ##### Example 1: Asking God Before Asking Her Out
 
-Bryce did not ask his girlfriend out until he felt he had asked God for permission. He viewed the relationship as something he was asking God to entrust to him, not something he was entitled to pursue on his own terms.
+Bryce's prayer before dating his girlfriend was, "God, can I take your daughter out on a date?"
 
 ##### Example 2: The Entitlement Warning
 
-Lecrae and Bryce both addressed the entitlement some Christian men in their early twenties feel, viewing dating as a marketplace where they can pick and choose from a pool of options. Bryce pushed back hard: "To all my young men out there that think you can choose from, you better sit down. You better sit down right now."
+Lecrae and Bryce both addressed the entitlement some Christian men feel, viewing dating as a marketplace where they can pick and choose from a pool of options. Bryce pushed back hard: "To all my young men out there that think you can choose from, you better sit down. You better sit down right now."
 
 #### Best Practices
 
@@ -373,23 +349,17 @@ Lecrae and Bryce both addressed the entitlement some Christian men in their earl
 
 #### Keep In Mind
 
-- Everyone is of equal value in God's eyes, regardless of their social status, popularity, or bank account.
-- The way you pursue someone reflects your understanding of the gospel.
-- Dating is not about choosing from a catalog of options; it is about pursuing God's will for your heart.
-
-#### Security & Safety Notes
-
-- Dating involves emotional vulnerability. Protect your heart by setting healthy boundaries and involving trusted mentors in your discernment process.
-- Do not rush into relationships without wise counsel. Take the time to know someone's character before committing.
+- Everyone is of equal value in God's eyes. Bryce said Adam 22 is of the same value as him, and the homeless man has the same value as Bill Gates. It is not the amount of money in their bank account that makes one more valuable than the other.
+- Dating is not about choosing from a catalog of options.
 
 #### Common Pitfalls
 
 - **Problem:** Viewing dating as a marketplace where you can pick and choose from a pool of options.
   **Solution:** Remember that every person is made in God's image and has equal value. Pursue relationships with reverence, not entitlement.
 - **Problem:** Leading selfishly or manipulatively in a relationship.
-  **Solution:** Cling to the Word, lead with love, and always prioritize the other person's well-being over your own desires.
+  **Solution:** Cling to the Word.
 - **Problem:** Making major relationship decisions without seeking wise counsel.
-  **Solution:** Sit under married mentors, read sound biblical resources, and pray continually throughout the process.
+  **Solution:** Sit under married mentors, read books like "Single, Dating, Engaged, Married" by Ben Stewart and material from Pastor Jonathan Pluda.
 
 ---
 
@@ -399,7 +369,7 @@ Lecrae and Bryce both addressed the entitlement some Christian men in their earl
 
 ##### Step 1: Read Your Bible For Yourself
 
-Do not rely solely on videos, podcasts, or sermons. Open the Word and read it yourself. Biblical literacy begins with personal engagement with Scripture, not consuming content about Scripture.
+Do not rely solely on videos, podcasts, or sermons. Bryce says, "The whole reason we make the videos is, hey, go read your Bible for yourself."
 
 ##### Step 2: Do Not Let Anyone Be Your Only Spiritual Source
 
@@ -407,29 +377,29 @@ Bryce explicitly says, "The last thing I want someone to do is only lean on Bryc
 
 ##### Step 3: Attend Bible College or Structured Study
 
-Supplement personal reading with structured learning. Bryce attends online Bible college and uses tools and software to deepen his understanding. Formal study can help you interpret Scripture correctly and avoid misinterpretation.
+Supplement personal reading with structured learning. Bryce attends online Bible college and uses tools and software to deepen his understanding.
 
 ##### Step 4: Test Everything Against Scripture
 
-When you hear a verse quoted online or in a sermon, look it up yourself. Do not accept a verse out of context or without understanding what it actually says. Bryce referenced a video where someone asked people at school who had Bible verses in their Instagram bios what those verses meant; they could not even quote the verse in their bio. This illustrates a pattern of biblical illiteracy among some young believers who post Scripture on social media without knowing what it means.
+When you hear a verse quoted online or in a sermon, look it up yourself. Do not accept a verse without understanding what it actually says. Bryce referenced a video where someone asked people at school who had Bible verses in their Instagram bios what those verses meant; they could not even quote the verse in their bio.
 
-##### Step 5: Embrace the Discomfort of Being a Bible Thumper
+##### Step 5: Take the Word of God Seriously
 
-Do not let Christianity become a vibe or a label. Engage with the Word seriously, even when it is challenging. The beauty of social media and Christian content is that it should encourage you to go deeper, not replace your own study.
+Do not let Christianity become a label. Bryce says, "The whole reason we make the videos is, hey, go read your Bible for yourself." He wants people to be Bible thumpers—people who take the word of God seriously.
 
 ##### Step 6: Understand the Difference Between Label and Lifestyle
 
-Christianity becoming popular on social media has both a positive and a negative effect. The positive effect is that people are genuinely turning to Jesus. The negative effect is that Christianity becomes a label or a cultural identity instead of a lifestyle. Following Jesus means denying yourself, picking up your cross, and going all in, not just attending a Bible study or wearing Christian apparel.
+Bryce noted a pro and con to Christianity becoming popular. The pro is that so many people are genuinely turning to Jesus. The con is that Christianity has become a label and not a lifestyle. Following Jesus means denying yourself, picking up your cross, and going all in.
 
 #### Examples
 
 ##### Example 1: The Instagram Bio Test
 
-Bryce referenced a video where someone asked people at school with Bible verses in their Instagram bios what those verses meant. They could not even quote the verse in their bio. This illustrates how Christianity has become a vibe for some Gen Z believers rather than a lifestyle rooted in Scripture.
+Bryce referenced a video where someone asked people at school with Bible verses in their Instagram bios what those verses meant. They could not even quote the verse in their bio.
 
 ##### Example 2: Half of Bryce's Peers Left the Faith
 
-When Bryce first became a Christian, some of his friends were doing Christian social media. Half of them are no longer Christians. This is because they entered the faith when Christianity was popular, treating it as a label rather than a lifestyle grounded in biblical truth.
+When Bryce first became a Christian, some of his friends were doing Christian social media. Half of them are no longer Christians. Bryce observed that Christianity has become a label, not a lifestyle, for some of the people doing Christian social media he knew when he first became a Christian.
 
 #### Best Practices
 
@@ -442,27 +412,21 @@ When Bryce first became a Christian, some of his friends were doing Christian so
 - ❌ Do not rely solely on social media or podcasts for spiritual food
 - ❌ Do not claim Bible verses you do not understand
 - ❌ Do not treat Christianity as a cultural label
-- ❌ Do not assume attending a Bible study is the same as following Jesus
+- ❌ Ask whether following Jesus is just attending a Bible study or denying yourself, picking up your cross, and going all in
 
 #### Keep In Mind
 
-- Gen Z is spiritually curious but also the most biblically illiterate generation, with Bryce referencing a video in which people at a school who had Bible verses in their Instagram bios could not quote or explain the verses they posted.
-- Content that encourages you is good, but it should lead you back to the Word, not replace it.
-- Biblical literacy requires discipline, time, and intentional study.
-
-#### Security & Safety Notes
-
-- Be cautious of false teaching and misinterpretation of Scripture. Always test what you hear against the full counsel of God's Word.
-- Be wary of influencers who build a following without grounding their content in sound biblical theology.
+- Bryce saw a video where a guy asked people at his school with Bible verses in their Instagram bios what those verses meant. They could not even quote the verse in their bio.
+- Bryce said Christian media, rap music, and gospel content encourage him in his faith and help him walk it out.
 
 #### Common Pitfalls
 
 - **Problem:** Relying solely on Christian influencers, podcasts, or videos for spiritual nourishment.
   **Solution:** Commit to reading the Bible for yourself. Use influencers and teachers as supplements, not replacements, for personal study.
-- **Problem:** Treating Christianity as a cultural identity or vibe rather than a call to deny yourself and follow Christ.
-  **Solution:** Regularly examine your motives. Ask whether your faith is shaping your daily choices, relationships, and priorities, or if it is just something you wear or post about.
+- **Problem:** Treating Christianity as a label or vibe rather than a call to deny yourself and follow Christ.
+  **Solution:** Regularly examine your motives. Ask whether your faith is shaping your daily choices, relationships, and priorities, or if following Jesus is just going to Bible study without denying yourself, picking up your cross, and going all in.
 - **Problem:** Being biblically illiterate while claiming to follow Christ.
-  **Solution:** Prioritize reading, studying, and memorizing Scripture. Join a Bible college or discipleship program to grow in understanding.
+  **Solution:** Prioritize reading and studying Scripture. Bryce attends online Bible college and uses tools and software to deepen his understanding.
 
 ---
 
@@ -472,11 +436,11 @@ When Bryce first became a Christian, some of his friends were doing Christian so
 
 ##### Step 1: Identify What Is Ministry and What Is Private
 
-Distinguish between content that serves and encourages others and areas of your life that should remain private. If the Lord leads you to post something, do so. If not, keep it to yourself. Not everything needs to be shared.
+Bryce says, "What's ministry is ministry." If the Lord leads you to post something or encourage someone, do so. If not, keep it to yourself.
 
 ##### Step 2: Cultivate Private Hobbies and Rhythms
 
-Maintain hobbies, interests, and rest rhythms that are just for you. Bryce loves playing basketball, fishing, and going to the beach, but he also has other private hobbies that no one knows about. These private spaces keep him grounded and prevent burnout by giving him an identity outside of his public ministry.
+Maintain hobbies, interests, and rest rhythms that are just for you. Bryce loves playing basketball, fishing, and going to the beach, but he also has other private hobbies that no one knows about. He wants things that are just for Bryce and just for his friends.
 
 ##### Step 3: Practice Sabbath and Rest
 
@@ -484,29 +448,29 @@ Build rhythms of rest into your life. The people who live the longest statistica
 
 ##### Step 4: Draw a Clear Line Around Your Private Life
 
-Decide what is for public consumption and what is not. Your goal should never be to be the center of attention. Protect your private life so that you have space to be a normal person outside of your ministry.
+Decide what is for public consumption and what is not. Bryce's goal has never been to be the center of attention. Protect your private life so that you have space to be a normal person outside of your ministry.
 
 ##### Step 5: Evaluate Your Motivation for Sharing
 
-Before posting anything, ask whether you are sharing for ministry or for attention. If your heart posture is to be seen by others, you already have your reward. Post from a place of obedience and stewardship, not ego.
+Before posting anything, ask whether you are sharing for ministry or for attention. If your heart posture is to be seen by others, you already have your reward.
 
 ##### Step 6: Lean on Trusted People, Not the Public
 
-When you are struggling, turn to your roommates, mentors, pastors, and close friends, not your audience. Bryce has a group chat with his roommates where they check each other before making decisions. Few people should have a voice in your life.
+When you are struggling, turn to your roommates, mentors, pastors, and close friends, not your audience. Bryce has a group chat with his roommates. Few people should have a voice in your life.
 
 #### Examples
 
 ##### Example 1: Bryce's Private Hobbies
 
-Bryce keeps certain hobbies and interests completely private, separate from the basketball, fishing, and beach activities he shares publicly. He does not want the world to know about them because they are for Bryce and his friends. This intentional privacy keeps him from becoming a product for public consumption.
+Bryce keeps certain hobbies and interests completely private, separate from the basketball, fishing, and beach activities he shares publicly. He does not want the world to know about them because they are for Bryce and his friends.
 
 ##### Example 2: The Group Chat Accountability System
 
-Bryce and his roommates have a group chat where they check in with each other before making decisions, especially ones that might be unwise. This system provides accountability and keeps him from making mistakes in isolation, even though the public is watching.
+Bryce and his roommates have a group chat where they text before making decisions they feel might be unwise. This system provides accountability and keeps him from making mistakes in isolation, even though the public is watching.
 
 ##### Example 3: Sabbath as a Guardrail
 
-Bryce emphasizes the importance of finding rhythms of rest and practicing Sabbath. He notes that the people who live the longest statistically are those who practice Sabbath, such as Jews and Seventh-day Adventists. Rest is not optional for sustainable ministry.
+Bryce emphasizes the importance of finding rhythms of rest and practicing Sabbath. He notes that the people who live the longest statistically are those who practice Sabbath, such as Jews and Seventh-day Adventists.
 
 #### Best Practices
 
@@ -518,29 +482,16 @@ Bryce emphasizes the importance of finding rhythms of rest and practicing Sabbat
 - ✅ Lean on trusted mentors and friends, not your audience
 - ❌ Do not share everything for the sake of engagement
 - ❌ Do not make being the center of attention your goal
-- ❌ Do not let your entire identity become your public persona
 - ❌ Do not make major life decisions in isolation from wise counsel
-
-#### Keep In Mind
-
-- Privacy is not secrecy; it is stewardship. You can be transparent about your ministry while protecting your personal life.
-- Your private life supports your public ministry. If you burn out or lose your sense of self, your influence will suffer.
-- The world does not need to know everything about you to be impacted by your testimony.
-
-#### Security & Safety Notes
-
-- Oversharing personal information, location data, or family details can expose you and your loved ones to stalking, harassment, or danger.
-- Be mindful of what you share about your daily routines, home address, or travel plans.
-- Understand that once something is posted online, it is permanently accessible.
 
 #### Common Pitfalls
 
-- **Problem:** Sharing everything for views and engagement, leading to burnout and loss of self.
-  **Solution:** Decide ahead of time what is for ministry and what is private. Keep specific categories of content entirely for yourself and your close circle, such as family vacations, personal struggles, health information, and private friendships.
-- **Problem:** Letting your public persona become your entire identity.
-  **Solution:** Cultivate a rich private life with hobbies, rest, and relationships that have nothing to do with your ministry. Remember that you are a person first and an influencer second.
+- **Problem:** Sharing everything for views and engagement.
+  **Solution:** Decide ahead of time what is for ministry and what is private. Keep some things entirely for yourself and your close circle.
+- **Problem:** Making your public persona your entire life.
+  **Solution:** Maintain a quiet life with hobbies and rhythms that are just for you, as Bryce does.
 - **Problem:** Making major decisions in the spotlight without wise private counsel.
-  **Solution:** Keep a small circle of trusted mentors and friends who know the real you and can speak into your life. Do not make decisions based on public opinion.
+  **Solution:** Keep a small circle of trusted mentors and friends who know the real you and can speak into your life.
 
 ---
 
@@ -550,29 +501,29 @@ Bryce emphasizes the importance of finding rhythms of rest and practicing Sabbat
 
 ##### Step 1: Activate What You Are Learning
 
-Wisdom is not just knowledge; it is the application of what you learn. Bryce has demonstrated maturity not because he simply learned sermons, Bible verses, and theological concepts, but because he activated them through real-life experience, street evangelism, and obedience.
+Wisdom is not just knowledge; it is the application of what you learn. Bryce talked about supernatural maturity that God allows to happen in people, especially when their hands are on the plow and they are in it.
 
 ##### Step 2: Operate in the Gifts God Has Given You
 
-Recognize that God has given each believer specific gifts for ministry. You may be called to shepherd and care for people through discipleship and relationship, to preach the Word publicly, to teach and explain Scripture in depth, to evangelize and reach the lost on the streets and online, to lead worship, or to serve in mercy ministry. Do not compare your gift to others. Operate in the specific calling God has placed on your life and collaborate with the broader body of Christ.
+Recognize that people have different gifts. Some are good at shepherding people and leading people. Some are preachers. Some are teachers. Some are pastors. Some are prophets. Do not compare your gift to others. Operate in the gift that God has given you and work together to reap souls for the kingdom.
 
 ##### Step 3: Keep a Posture of Learning and Humility
 
-Do not think you have arrived. Stay teachable. Even at 21 with a large platform, Bryce does not feel special or more important than anyone else. He recognizes that everything he is doing now, he was doing the moment he got saved, just on a smaller scale.
+Do not think you have arrived. Bryce says, "I feel the same as everybody else. I don't feel more special or more anything different. Everything that we're doing now I was doing the moment I got saved."
 
 ##### Step 4: Be "Us for the World," Not "Me Against the World"
 
-Avoid the us-versus-them mentality that is common among zealous young believers in their late teens and early twenties. Embrace the truth that Jesus died for the world, and you are here for them. Let love, not opposition, define your posture toward those who do not believe.
+Avoid the us-versus-them mentality. A 21 or 22 year old can be very zealous and think it's me against them, us against the world. Instead, remember it's us for the world—Jesus died for the world, so you are here for them.
 
 ##### Step 5: Submit to Authority Before Leading Others
 
-Understand that you cannot be in authority unless you have been under authority. Learn from mature believers who have walked with God for decades, served in ministry, and demonstrated Christlike character. Submit to mentors, pastors, and leaders. The authority you carry in ministry flows out of your willingness to be led.
+Understand that you cannot be in authority unless you have been under authority. Submit to mentors, pastors, and leaders.
 
 #### Examples
 
 ##### Example 1: Trip Lee and the Lightning Bolt
 
-Lecrae compared Bryce to Trip Lee, who was also discovered at 16 and grew rapidly because he was hungry for the Word and truth. By 21, Trip Lee was saying profound things about the gospel and Christian living that revealed spiritual maturity. Supernatural maturity happens when your hands are on the plow and you are actively applying what you learn.
+Lecrae compared Bryce to Trip Lee, who was also found at 16 and grew rapidly. By 21, Trip Lee was saying profound things about the gospel and Christian living that revealed spiritual maturity. Bryce talked about supernatural maturity that God allows to happen in people, especially when their hands are on the plow and they are in it.
 
 ##### Example 2: No Sense of Entitlement
 
@@ -585,7 +536,7 @@ Despite having a large platform and being looked up to by other young Christians
 - ✅ Stay humble and teachable regardless of your platform or age
 - ✅ Embrace a posture of being for the world, not against it
 - ✅ Submit to authority before seeking to lead others
-- ✅ Collaborate with the broader body of Christ
+- ✅ Work together to reap souls for the kingdom
 - ❌ Do not think wisdom comes from time alone; it comes from activating truth
 - ❌ Do not compare your ministry or gift to others
 - ❌ Do not let a large platform inflate your sense of importance
@@ -594,20 +545,18 @@ Despite having a large platform and being looked up to by other young Christians
 #### Keep In Mind
 
 - Supernatural maturity can happen when you are actively engaged in ministry and applying what you learn.
-- Wisdom comes from experience and obedience, not just age or knowledge.
+- Wisdom comes from experience and applying what you learn, not just age or knowledge.
 - Your platform does not make you more valuable or important than anyone else.
 
 #### Security & Safety Notes
 
-- Humility is your greatest protection against pride and spiritual downfall.
 - Keep a small circle of people who can speak honestly into your life, regardless of how popular you become.
-- Do not isolate yourself under the weight of leadership or public expectation.
 
 #### Common Pitfalls
 
 - **Problem:** Accumulating knowledge without applying it, leading to a lack of wisdom despite being well-informed.
-  **Solution:** Activate what you learn. Get practical experience. Allow God to mature you through obedience and real-life ministry.
+  **Solution:** Activate what you learn. Get practical experience. Allow God to mature you through real-life ministry.
 - **Problem:** Adopting a me-against-the-world mentality as a young zealous believer in their late teens or early twenties.
   **Solution:** Remember that Jesus died for the world. Your mission is to love people and bring them to Christ, not to fight them or view them as enemies.
 - **Problem:** Feeling entitled to lead or influence because of age or platform.
-  **Solution:** Submit to authority first. Learn from mature believers who have walked with God for decades and demonstrated Christlike character. Leadership flows out of a submitted life.
+  **Solution:** Submit to authority first. Learn from older, wiser people. You cannot be in authority unless you have been under authority.
