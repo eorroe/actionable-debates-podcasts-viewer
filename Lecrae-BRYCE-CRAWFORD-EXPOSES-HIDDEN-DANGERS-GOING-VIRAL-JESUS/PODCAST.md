@@ -39,13 +39,13 @@ Stop identifying yourself by your pain and struggles. Declare that Jesus is now 
 
 ##### Step 6: Develop Your Communication Gifts
 
-Take writing classes, practice phrasing arguments, testimonies, and biblical truths in unique ways, and learn from preachers and teachers such as Francis Chan, Pastor Philip Anthony, David Platt, and other mature believers whose ministry aligns with Scripture and who are recognized by trusted Christian organizations such as The Gospel Coalition or 9Marks. Your ability to communicate is a gift that can be cultivated and used to share the gospel with power and emphasis.
+Take writing classes, practice phrasing arguments, testimonies, and biblical truths in unique ways, and learn from preachers and teachers such as Francis Chan, Pastor Philip Anthony, and David Platt. Your ability to communicate is a gift that can be cultivated and used to share the gospel with power and emphasis.
 
 #### Examples
 
 ##### Example 1: The Waffle House Encounter
 
-At 17, on Christmas Day 2020, Bryce went to Waffle House as his last meal. He shared a table with a stranger who was going through his own heartbreak. When the stranger said, "There's no growth in a relationship if the love isn't mutual," Bryce's entire perspective shifted. In that moment, years of Bible knowledge connected with his heart, and he realized he had never actually tried to love God back. He ran out of the restaurant crying, got in his car, and told Jesus that if He was real, to take away his anxiety and depression. He was instantly freed.
+At 17, on Christmas Day 2020, Bryce went to Waffle House as his last meal. He shared a table with a stranger who was going through his own heartbreak. When the stranger said, "There's no growth in a relationship if the love isn't mutual," Bryce's entire perspective shifted. In that moment, years of Bible knowledge connected with his heart, and he realized he had never actually tried to love God back. He ran out of the restaurant crying, got in his car, and told Jesus that if He was real, to take away his anxiety and depression. He experienced freedom from that point forward.
 
 ##### Example 2: Writing and Communication as Ministry
 
@@ -112,7 +112,7 @@ If someone reacts negatively, spits at you, or becomes aggressive, do not retali
 
 ##### Step 7: Play the Long Game
 
-Understand that measurable conversion results from evangelism may not appear for 3 years, 10 years, 20 years, or even 10 minutes. Plant seeds faithfully, even when you do not see immediate decisions for Christ. Trust that God is growing what you have sown in ways you may never witness, and that every seed planted has the potential to produce a harvest in His timing.
+Understand that measurable conversion results from evangelism may not appear for weeks, months, or years. Plant seeds faithfully, even when you do not see immediate decisions for Christ. Trust that God is growing what you have sown in ways you may never witness, and that every seed planted has the potential to produce a harvest in His timing.
 
 #### Examples
 
@@ -179,7 +179,7 @@ Because people are watching, make sure your heart is right. Live in a way that y
 
 ##### Step 3: Be Cautious About What You Share
 
-Not everything needs to be posted. There are raw, unedited videos filmed and vulnerable personal moments, such as family struggles, private conversations, and unscripted reactions, that should never hit the internet. Be selective. If the Lord does not lead you to post something, keep it private.
+Not everything needs to be posted. There are raw, unedited videos filmed and vulnerable personal moments that should never hit the internet. Be selective. If the Lord does not lead you to post something, keep it private.
 
 ##### Step 4: Avoid the Pressure to Constantly Produce Content
 
@@ -187,7 +187,7 @@ Do not become a slave to the internet or feel obligated to always be posting. Yo
 
 ##### Step 5: Recognize the Dark Side of Christian Content Creation
 
-Be aware that half of Christian content creators enter the space because Christianity is popular on social media, not because they are truly committed to discipleship. According to Bryce, half of the Christian social media creators he knew when he first became a Christian are no longer Christians today, and he personally knows of other creators who have experienced similar deconstruction. This pattern leads to deconstruction, burnout, and a hollow faith. Focus on local church, discipleship, and genuine obedience, not views.
+Be aware that some Christian content creators enter the space for reasons other than genuine discipleship. According to Bryce, half of the Christian social media creators he knew when he first became a Christian are no longer Christians today, and he personally knows of other creators who have experienced similar deconstruction. This pattern leads to deconstruction, burnout, and a hollow faith. Focus on local church, discipleship, and genuine obedience, not views.
 
 ##### Step 6: Encourage People Back to the Source
 
@@ -222,9 +222,9 @@ When Bryce first became a Christian, half of the friends he made through Christi
 
 #### Keep In Mind
 
-- Christianity has become a label, not a lifestyle, for Christian influencers and content creators who entered the space when it became culturally popular on social media platforms. Bryce observed that half of the Christian social media creators he knew when he first became a Christian are no longer Christians, and he personally knows of other creators who have experienced similar deconstruction, illustrating this trend.
+- Christianity has become a label, not a lifestyle, for some Christian influencers and content creators. Bryce observed that half of the Christian social media creators he knew when he first became a Christian are no longer Christians, and he personally knows of other creators who have experienced similar deconstruction, illustrating this trend.
 - The goal is not to become the center of attention, but to steward the platform God has given you.
-- People will have opinions about you, but only a small circle of 3 to 5 trusted mentors, pastors, and leaders should have a voice in your life. This is the pattern Jesus modeled with the masses, the 72, the 12, and then the inner circle of Peter, James, and John.
+- People will have opinions about you, but only a small circle of trusted mentors, pastors, and leaders should have a voice in your life. This is the pattern Jesus modeled with the masses, the 72, the 12, and then the inner circle of Peter, James, and John.
 
 #### Security & Safety Notes
 
@@ -237,7 +237,7 @@ When Bryce first became a Christian, half of the friends he made through Christi
 - **Problem:** Entering Christian content creation because Christianity is popular, leading to deconstruction and a hollow faith. Bryce observed that half of the Christian social media creators he knew when he first became a Christian are no longer Christians.
   **Solution:** Ensure your call is rooted in genuine discipleship, obedience to Christ, and a desire to serve, not to build a personal brand.
 - **Problem:** Letting public opinion and criticism shape your identity and decisions.
-  **Solution:** Remember that only a small circle of 3 to 5 trusted mentors, pastors, and leaders should have a voice in your life. Lean on that small circle of trusted mentors and leaders God has placed around you, not the masses or the comment section.
+  **Solution:** Remember that only a small circle of trusted mentors, pastors, and leaders should have a voice in your life. Lean on that small circle of trusted mentors and leaders God has placed around you, not the masses or the comment section.
 - **Problem:** Feeling pressured to post constantly or share everything for the sake of engagement.
   **Solution:** Live open-handed. If God does not lead you to post something, keep it private. Your worth is not tied to your content output.
 
@@ -261,7 +261,7 @@ Combine prayer and faith with practical discipline. If you cannot get off your p
 
 ##### Step 4: Avoid Self-Help That Contradicts Scripture
 
-There is self-help content online and in bookstores that does not align with biblical truth, including secular psychology frameworks that contradict Scripture, prosperity gospel teachings that promise health and wealth, and motivational speaking that replaces the cross with self-improvement. Examples include books and podcasts that promote the prosperity gospel, self-help gurus who deny the necessity of Christ's atonement, and psychology frameworks that pathologize normal human struggles without reference to sin and redemption. Be discerning about what you consume. Seek counsel and resources that point you back to Christ and the Word of God.
+There is self-help content online and in bookstores that does not align with biblical truth. Bryce mentions "a bunch of self-help book and mumbo jumbo out there that doesn't align with scripture." Be discerning about what you consume. Seek counsel and resources that point you back to Christ and the Word of God.
 
 ##### Step 5: Lean on Community and Accountability
 
@@ -342,7 +342,7 @@ Avoid the mindset that the dating pool is yours for the taking. Treat every pers
 
 ##### Step 5: Learn From Married Mentors and Biblical Resources
 
-Glean wisdom from married couples you love and trust. Read books from authors like Ben Stewart and Pastor Jonathan Pluda who have sound biblical teaching on dating, engagement, and marriage. Do not figure it out alone.
+Glean wisdom from married couples you love and trust. Read books from authors like Ben Stewart and Jonathan Pluda who have sound biblical teaching on dating, engagement, and marriage. Do not figure it out alone.
 
 ##### Step 6: Submit to Authority Before Exercising It
 
