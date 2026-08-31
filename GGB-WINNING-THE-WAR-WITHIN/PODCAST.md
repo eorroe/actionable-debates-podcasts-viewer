@@ -2,7 +2,7 @@
 
 ## Overview
 
-This podcast episode from "Girls Gone Bible" features an intimate interview with Pastor Philip Anthony Mitchell discussing the urgency of end-time stewardship, maintaining spiritual fire, suffering well, preaching amid personal sickness, and the spiritual dangers of pride. The conversation explores how believers can live faithfully for Christ, probably in the last seconds of the church age, contend inwardly against shame and depression, and steward God's favor without idolizing platform or fame. Pastor Mitchell shares two promises he made to God, his theology of suffering as a gift, and his commitment to faithful proclamation even when sick in his own body.
+This podcast episode from "Girls Gone Bible" features an intimate interview with Pastor Philip Anthony Mitchell discussing the urgency of end-time stewardship, maintaining spiritual fire, suffering well, preaching amid personal sickness, and the spiritual dangers of pride. The conversation explores how believers can live faithfully for Christ in the last seconds of the church age, contend inwardly against shame and depression, and steward God's favor without idolizing platform or fame. Pastor Mitchell shares two promises he made to God, his theology of suffering as a gift, and his commitment to faithful proclamation even when sick in his own body.
 
 ## When to Follow Podcast
 
@@ -24,7 +24,7 @@ Before stepping onto any platform, Sunday gathering, podcast, or conference, ask
 
 ##### Step 2: Evaluate Your Proclamation
 
-When any given Sunday, podcast, or conference ends, ask: Was Christ exalted? Did we have gospel conversations? Were the scriptures properly proclaimed and faithfully exegeted rather than isogeted? Let these questions govern your preparation.
+When a Sunday, podcast, or conference ends, ask: Was Christ exalted? Did we have gospel conversations? Were the scriptures properly proclaimed and faithfully exegeted rather than isogeted? Let these questions govern your preparation.
 
 ##### Step 3: Take the Call to Multiply Disciples Seriously
 
@@ -312,7 +312,7 @@ His first promise was that if God would anoint him again to preach, he would be 
 
 ##### Step 3: Promise Faithfulness Regardless of Platform
 
-The second promise came when his church changed its name from Victory to 2019 in January 2023. With only 183 disciples, preaching in an empty high school auditorium where you can come an hour late and still get a seat, he promised God he would be faithful to preach to whomever God put in front of him, whether the room was full or empty.
+The second promise came when his church changed its name from Victory to 2019 in January 2023. With 183 disciples in his church, he was preaching in an empty high school auditorium where you could come an hour late and still get a seat. He promised God he would be faithful to preach to whomever God put in front of him, whether the room was full or empty.
 
 ##### Step 4: Refuse to Bend the Scriptures
 
@@ -330,7 +330,7 @@ Pastor Philip says, "My whole ministry and my whole life is a second chance. I i
 
 ##### Example 2: Preaching to 183 People
 
-With only 183 disciples and seats everywhere in an empty high school auditorium, Pastor Philip promised God he would be faithful to preach to whomever God put in front of him, whether the room was full or empty. He would not bend the scriptures and would not be handcuffed by the approval of people.
+With 183 disciples in his church and seats everywhere in an empty high school auditorium, Pastor Philip promised God he would be faithful to preach to whomever God put in front of him, whether the room was full or empty. He would not bend the scriptures and would not be handcuffed by the approval of people.
 
 ##### Example 3: Content to Suffer for Christ
 
@@ -685,7 +685,7 @@ Pastor Philip says, "I think much of this is a systematic spiritual attack again
 
 ##### Step 1: Understand the Book's Origin
 
-Pastor Philip's book "Contend" is based on a message he preached in London during the 2019 crusade. The message was from the letter of Jude, and the book centers on contending for the faith both in culture and in the heart. It is expected to come out October 13th, if the date does not change, and is available for pre-order on Amazon.
+Pastor Philip's book "Contend" is based on a message he preached in London during the 2019 crusade. The message was from the letter of Jude, and the book centers on contending for the faith both in culture and in the heart. Pastor Philip expects the book to release on October 13th, if the date does not change, and it is available for pre-order on Amazon.
 
 ##### Step 2: Identify Who the Book Is For
 
@@ -730,7 +730,7 @@ Pastor Philip has kept a journal for over 20 years. He is an urban dude with dep
 
 #### Keep In Mind
 
-- The book is expected to drop October 13th, if the date does not change
+- Pastor Philip expects the book to drop on October 13th, if the date does not change
 - It is based on the message of Jude preached in London
 - It is for those struggling with shame, depression, regret, betrayal, and loss
 - It is about contending for the faith inwardly, not just outwardly
