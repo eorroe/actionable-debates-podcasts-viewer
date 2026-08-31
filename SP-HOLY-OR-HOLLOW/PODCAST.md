@@ -15,7 +15,7 @@ This podcast challenges listeners to pursue true holiness rather than a version 
 
 ### Steward Your Time Intentionally
 
-Time is a fixed resource that God has entrusted to you. You have exactly 1,440 minutes each day, and you do not own them—you steward them. Because you do not know how much time you have left, you must invest it in God-glorifying activities and relationships that align with His eternal purposes rather than wasting it on distractions.
+Time is a fixed resource that God has entrusted to you. You have exactly 1,440 minutes each day, and you do not own them—you steward them. Because you do not know how much time you have left, you must invest it in activities and relationships that advance the goals discussed in this podcast rather than wasting it on distractions.
 
 #### Steps
 
@@ -24,26 +24,26 @@ Time is a fixed resource that God has entrusted to you. You have exactly 1,440 m
 Accept that you will not get another day, month, or decade beyond what God intends. You do not control the length of your life.
 ##### Step 2: Audit how you spend your 1,440 minutes.
 
-Look honestly at your daily schedule and identify where time is going to activities and distractions that do not serve the purposes discussed in this podcast.
+Review your daily schedule and identify where time goes to activities that do not advance reconciled relationships, generosity toward gospel ministry, or faithful obedience.
 ##### Step 3: Eliminate time-wasting activities.
 
-Stop giving your days to meetings, relationships, and pursuits that do not contribute to the goals discussed in this podcast: reconciled relationships, generosity toward gospel ministry, and faithful obedience.
+Stop spending time on meetings, relationships, and pursuits that do not contribute to reconciled relationships, generosity toward gospel ministry, or faithful obedience.
 ##### Step 4: Be intentional with relationships.
 
-Intentionally invest in your spouse, children, staff, church, and community.
+Invest in your spouse, children, staff, church, and community.
 ##### Step 5: Align your calendar with eternal value.
 
-Prioritize activities that align with what this podcast identifies as eternal priorities: reconciled relationships, faithful giving, and obedience to God's promptings.
+Prioritize activities that align with the podcast's identified priorities: reconciled relationships, faithful giving, and obedience to God's promptings.
 
 #### Examples
 
 ##### Example 1: The NBA Player
 
-NBA player Brandon Clark died suddenly at age 27, an event the hosts use to illustrate that death can come unexpectedly and a person cannot know how much time they have left.
+NBA player Brandon Clark died at age 27, an event the hosts use to illustrate that death can come unexpectedly and a person cannot know how much time they have left.
 
 ##### Example 2: The Book Author
 
-Tim Timberlake wrote his book "Contend" with urgency, stating he did not know if he would write another book. He included mentors, family, and lessons so that his intended readers would have access to the material he wanted to share.
+Tim Timberlake wrote his book "Contend" with urgency, saying he did not know if he would get a second book.
 
 ##### Example 3: Cleaning Bathrooms to the Glory of God
 
@@ -59,8 +59,8 @@ A new believer cleaned church bathrooms while listening to worship music, making
 
 #### Keep In Mind
 
-- Time is a stewardship, not something you own. Scripture describes God's eternal plan as spanning from the beginning of creation to the return of Christ, and calls you to steward the time within that span.
-- How you steward your time is one measure of the values that shape the direction of your life.
+- Time is a stewardship, not something you own. The hosts describe God's word as forever settled in heaven and relevant in every generation, and they call you to steward the time you have.
+- How you steward your time shows the values that shape the direction of your life.
 
 #### Security & Safety Notes
 
@@ -69,10 +69,10 @@ A new believer cleaned church bathrooms while listening to worship music, making
 
 #### Common Pitfalls
 
-- **Problem:** Focusing only on immediate comfort and neglecting the lasting significance of how you live.
+- **Problem:** Focusing only on immediate comfort and neglecting the lasting value of how you live.
   **Solution:** Periodically step back and view your life from the perspective of eternity. Ask yourself, "Will this matter when I stand before God?"
 - **Problem:** Wasting time because you assume you have plenty of years ahead.
-  **Solution:** Remind yourself daily that life is brief and fixed. Plan and act as if you could have fewer years than you expect.
+  **Solution:** Remind yourself regularly that life is brief and fixed. Plan and act as if you could have fewer years than you expect.
 - **Problem:** Being late, leaving early, or stealing from your employer because your boss is unbelieving.
   **Solution:** Work as unto the Lord regardless of your circumstances. Doing your work well can influence how others view your faith.
 
@@ -86,16 +86,16 @@ A myopic view sees only the present moment and misses the larger question of wha
 
 ##### Step 1: Step back from your current circumstances.
 
-Intentionally create space to see beyond your immediate situation.
+Create space to see beyond your immediate situation.
 ##### Step 2: Visualize eternity.
 
-Daily remind yourself that this life is temporary and that you are accountable to God for the life you live now.
+Remind yourself regularly that this life is temporary and that you are accountable to God for the life you live now.
 ##### Step 3: Ask the "end of life" question.
 
-Determine the single quality you want your life to be remembered for.
+Determine the quality you want your life to be remembered for.
 ##### Step 4: Align daily decisions with the end goal.
 
-Let your final breath—and what you want it to say—shape how you live today.
+Let what you want your life to be remembered for shape how you live today.
 ##### Step 5: Let the Holy Spirit work in the gap between now and your next.
 
 Allow God to weave together even the broken seasons of your life for His glory.
@@ -108,22 +108,22 @@ If you stand too close to a mirror with your nose pressed against it, you cannot
 
 ##### Example 2: The Skyline of New York City
 
-If you stare only at your immediate circumstances, you can miss the larger story of what God is doing. Stepping back allows you to see both your current situation and the broader context at the same time.
+If you stare only at your immediate circumstances, you can miss what God is doing over the course of your life. Stepping back allows you to see your current situation and how it fits into God's larger work at the same time.
 
 ##### Example 3: Wesley and Whitfield
 
-John Wesley and George Whitfield traveled on horseback across Europe and America and by boat across the Atlantic to spread the gospel. The hosts cite their example to ask whether believers today have a comparable reason not to share the gospel.
+John Wesley and George Whitfield traveled from Europe to the Americas, mostly on horseback, to spread the gospel. The hosts cite their example to ask whether believers today have a comparable reason not to share the gospel.
 
 #### Best Practices
 
-- ✅ Set aside time each day to view your life through the lens of eternity.
+- ✅ Set aside time regularly to view your life through the lens of eternity.
 - ✅ Ask yourself, "What do I want to be known for when I die?" and let that one word shape your decisions.
 - ✅ Read Scripture about eternity and the return of Christ to keep the long view alive in your heart.
 - ✅ Surround yourself with people who challenge you to see beyond the present.
 
 #### Keep In Mind
 
-- Distance from the immediate gives perspective on the longer arc of God's work in a person's life.
+- Distance from the immediate gives perspective on how God works over the course of a person's life.
 
 #### Security & Safety Notes
 
@@ -131,8 +131,8 @@ John Wesley and George Whitfield traveled on horseback across Europe and America
 
 #### Common Pitfalls
 
-- **Problem:** Being so fixed on current comfort that you miss God's call to sacrifice and spread the gospel.
-  **Solution:** Periodically remind yourself that faithfulness now has lasting significance. Ask God to expand your vision.
+- **Problem:** Being so focused on current comfort that you miss God's call to sacrifice and spread the gospel.
+  **Solution:** Periodically remind yourself that faithfulness now has lasting value. Ask God to expand your vision.
 - **Problem:** Myopic focus on personal problems or career advancement.
   **Solution:** Intentionally step back and ask, "What is God doing in the bigger picture, and how does my life fit into it?"
 - **Problem:** Assuming that because you are comfortable now, you are where God wants you.
@@ -142,13 +142,13 @@ John Wesley and George Whitfield traveled on horseback across Europe and America
 
 ### Obey God's Promptings and Complete What He Has Given You
 
-The call is to obey what God has already told you to do, be faithful with it, and live so that you have no uncompleted assignments to present to the Lord.
+The call is to obey what God has already told you to do, be faithful with it, and live so that you have no unfinished work to present to the Lord.
 
 #### Steps
 
 ##### Step 1: Identify the assignment God has already given you that you have not yet obeyed.
 
-This includes a relationship to reconcile, a person to apologize to, a work to go back and fix, or a ministry to start.
+This includes a relationship to reconcile, a person to apologize to, or a work to go back and fix.
 ##### Step 2: Repent of sitting on God's instructions.
 
 Confess that you have been unfaithful with what He has already given you.
@@ -166,7 +166,7 @@ Write, speak, serve, and give as if you may not get another opportunity.
 
 ##### Example 1: The Man Running Out of Time
 
-Tim Timberlake wrote his book "Contend" with urgency, stating he did not know if he would write another book. He included mentors, family, and lessons so that his intended readers would have access to the material he wanted to share. The hosts present this as the mindset every believer should adopt: use your gifts, resources, and opportunities now.
+Tim Timberlake wrote his book "Contend" with urgency, saying he did not know if he would get a second book. The hosts present this as the mindset every believer should adopt: use your gifts, resources, and opportunities now.
 
 ##### Example 2: Completing All Assignments
 
@@ -180,17 +180,17 @@ Paul described his life being offered up like a drink offering—poured out comp
 
 - ✅ Keep a journal of what God speaks to you and review it regularly to check your obedience.
 - ✅ Make amends quickly when you realize you have wronged someone or not obeyed God.
-- ✅ Serve faithfully in your local church even when it is inconvenient or unnoticed.
-- ✅ Give from your income to support gospel ministry and soul-winning.
+- ✅ Serve in your local church by completing assigned tasks well, even when it is inconvenient or unnoticed.
+- ✅ Give from your income to support gospel ministry.
 
 #### Keep In Mind
 
 - The hosts present obedience to current assignments—reconciling a relationship, apologizing to someone, or finishing a work you started—as the foundation before seeking new directions.
-- The things God has given you—your platform, ministry, finances, relationships, and opportunities—are for now. They will not follow you into eternity, but the impact of your faithfulness will.
+- The things God has given you—your platform, ministry, finances, relationships, and opportunities—are for now. They will not follow you into eternity, but the fruit of your faithfulness will remain.
 
 #### Security & Safety Notes
 
-- Do not share deeply personal details of your spiritual struggles or failures in public forums without discernment. Seek accountability with trusted spiritual leaders instead.
+- Do not share deeply personal details of your spiritual struggles or failures in public forums without counsel from trusted spiritual leaders. Seek accountability with trusted spiritual leaders instead.
 
 #### Common Pitfalls
 
@@ -205,7 +205,7 @@ Paul described his life being offered up like a drink offering—poured out comp
 
 ### Work As Unto the Lord
 
-Your job is an opportunity to glorify God. The Scripture teaches that you should work as unto the Lord, not unto men. Doing your work well, with faithfulness and integrity, can influence how others view your faith. Being late, leaving early, or stealing from your employer are forms of unfaithfulness that dishonor the God you serve.
+Your job is a context where you can glorify God. The Scripture teaches that you should work as unto the Lord, not unto men. Doing your work well, with faithfulness and integrity, can influence how others view your faith. Being late, leaving early, or stealing from your employer are forms of unfaithfulness that dishonor the God you serve.
 
 #### Steps
 
@@ -223,13 +223,13 @@ Avoid stealing supplies, padding expenses, or misusing company resources.
 Clean the bathroom with worship music playing if that is your assignment. Preach with preparation if that is your assignment. The standard is the same: do it as unto the Lord.
 ##### Step 5: Work even when your boss is unbelieving.
 
-Your conduct in difficult environments can influence how others view your faith.
+Your conduct at work can influence how others view your faith.
 
 #### Examples
 
 ##### Example 1: Cleaning Bathrooms
 
-A new believer cleaned church bathrooms while listening to worship music, making them immaculate. He did it to the glory of God, demonstrating the standard the hosts apply to every task.
+A new believer cleaned church bathrooms while listening to worship music, making them immaculate. He did it to the glory of God, demonstrating the standard the hosts teach for every task.
 
 ##### Example 2: The $100 Analogy
 
@@ -244,7 +244,7 @@ If God gave you only $100 and you would never receive another dollar, you would 
 
 #### Keep In Mind
 
-- The hosts teach that everything under your leadership and within your hands is a gift from God to steward.
+- The hosts teach that your work, resources, and relationships are gifts from God to steward.
 - The author of Hebrews writes, "It is appointed to man once to die and then the judgment" (Hebrews 9:27). The hosts cite this passage as describing a universal human reality according to Scripture. You will give an account for how you managed what God entrusted to you.
 
 #### Security & Safety Notes
@@ -254,9 +254,9 @@ If God gave you only $100 and you would never receive another dollar, you would 
 #### Common Pitfalls
 
 - **Problem:** Being unfaithful at work because your boss is unbelieving or difficult.
-  **Solution:** Remember that you work as unto the Lord, not unto men. Your faithfulness in difficult places can influence how others view your faith.
+  **Solution:** Remember that you work as unto the Lord, not unto men. Your conduct at work can influence how others view your faith.
 - **Problem:** Treating work as merely a means to a paycheck rather than a stewardship.
-  **Solution:** View every task as an opportunity to glorify God. Doing your work well is how you offer it to Him.
+  **Solution:** View every task as an opportunity to glorify God. Completing your work well is how you offer it to Him.
 - **Problem:** Stealing time or resources from your employer.
   **Solution:** Recognize that dishonesty in your job is unfaithfulness to God. Work with integrity in all things.
 
@@ -264,7 +264,7 @@ If God gave you only $100 and you would never receive another dollar, you would 
 
 ### Reconcile Broken Relationships
 
-Before you plan future ministry activities, examine what God has already told you to do in the past. Ask yourself: what relationship do you need to reconcile? Who do you need to apologize to? What work do you need to go back and fix? The hosts describe reconciliation as essential to genuine Christian faith.
+Before you plan new ministry activities, examine what God has already told you to do that you have not yet obeyed. Ask yourself: what relationship do you need to reconcile? Who do you need to apologize to? What work do you need to go back and fix? The hosts describe reconciliation as essential to genuine Christian faith.
 
 #### Steps
 
@@ -273,16 +273,16 @@ Before you plan future ministry activities, examine what God has already told yo
 Who is someone you need to reconcile with or reach out to?
 ##### Step 2: Take responsibility for your part.
 
-Whether you were fully at fault or not, humble yourself and apologize where needed.
+Whether you were fully at fault or not, humble yourself and apologize for your part.
 ##### Step 3: Go back and fix what you can.
 
-If there is work you abandoned or a situation you left incomplete, prayerfully consider how to make it right.
+If there is work you abandoned or a situation you left incomplete, consider how to make it right.
 ##### Step 4: Forgive those who have wronged you.
 
 Reconciliation requires both repentance and forgiveness.
 ##### Step 5: Restore trust through consistent action.
 
-One conversation is not enough. Let your changed life be the proof of your repentance.
+One conversation is not enough. Let your consistent actions be the proof of your repentance.
 
 #### Examples
 
@@ -297,13 +297,13 @@ Katherine Kman said she wants to stand before the Lord and say, "Lord, I tried. 
 #### Best Practices
 
 - ✅ Do not let the sun go down on your anger. Address conflict quickly.
-- ✅ Write down who you need to reconcile with and take steps this week.
+- ✅ Write down who you need to reconcile with and contact them this week.
 - ✅ Be specific in your apologies. Do not make excuses or shift blame.
 - ✅ Forgive freely, even when the other person has not asked for it.
 
 #### Keep In Mind
 
-- The hosts teach that how you treat others reflects the condition of your faith.
+- The hosts teach that how you treat others shows whether your faith is genuine.
 
 #### Security & Safety Notes
 
@@ -335,9 +335,9 @@ Support local churches, missionaries, and ministries that are faithfully proclai
 ##### Step 3: Give cheerfully and regularly.
 
 Make giving a habit, not a one-time event.
-##### Step 4: View giving as an advance on the work the hosts describe as having eternal significance.
+##### Step 4: View giving as an advance on the work the hosts describe as having lasting value.
 
-Every dollar given to advance the gospel advances the work the hosts describe as having eternal significance.
+Every dollar given to advance the gospel supports gospel ministry.
 ##### Step 5: Do not withhold what you have committed to give.
 
 If you have made a commitment to give, follow through.
@@ -346,11 +346,11 @@ If you have made a commitment to give, follow through.
 
 ##### Example 1: Gaining Friends in Heaven
 
-Jesus taught that giving can have eternal significance. The hosts describe this as an investment with lasting return.
+Jesus taught that giving stores up treasure in heaven. The hosts describe this as an investment with lasting return.
 
 ##### Example 2: The Power of 1440
 
-The hosts reference Tim Timberlake's book *The Power of 1440*, which teaches that stewarding time is a matter of eternal significance. Giving your time and money to gospel ministry is part of that stewardship.
+The hosts reference Tim Timberlake's book *The Power of 1440*, which teaches that stewarding time matters for eternity. Giving your time and money to gospel ministry is part of that stewardship.
 
 #### Best Practices
 
@@ -381,13 +381,13 @@ The hosts reference Tim Timberlake's book *The Power of 1440*, which teaches tha
 
 ### Define Success by Eternal Metrics
 
-Culture celebrates image, platforms reward performance, and churches have measured faith by attendance goals and financial growth. The hosts argue that authentic transformation, not outward appearance, is the standard of genuine faith.
+Philip Anthony Mitchell describes how he used to measure success in ministry by attendance numbers and financial provision for his family, but changed his definition to align with Paul's words about finishing his race. The hosts argue that authentic transformation, not outward appearance, is the standard of genuine faith.
 
 #### Steps
 
 ##### Step 1: Redefine success by Paul's words.
 
-Let "I fought the good fight, I kept the faith, I finished my race" be your standard, not attendance goals or financial milestones.
+Let "I fought the good fight, I kept the faith, I finished my race" be your standard, not attendance goals or financial targets.
 ##### Step 2: Identify your race.
 
 God has given each person a calling. Do not compare your race to anyone else's.
@@ -396,10 +396,10 @@ God has given each person a calling. Do not compare your race to anyone else's.
 Picture your final moments and ask whether you will have finished what God set before you.
 ##### Step 4: Reject cultural metrics of success.
 
-Platforms, performance, and appearances are hollow. The hosts argue that a transformed life, not outward appearance, is the genuine mark of faith.
+Platforms, performance, and appearances do not last. The hosts argue that a transformed life, not outward appearance, is the genuine mark of faith.
 ##### Step 5: Pursue love as your legacy.
 
-The hosts present love as the defining quality they want to characterize a believer's life.
+The hosts present love as the mark of a believer's life.
 
 #### Examples
 
@@ -409,7 +409,7 @@ Philip Anthony Mitchell describes an encounter with God at the Garden Tomb in Je
 
 ##### Example 2: John Wesley and George Whitfield
 
-These revivalists traveled on horseback across continents and by boat across the sea to spread the gospel. The hosts cite their example to show that their priority was the gospel mission, not personal comfort.
+These revivalists traveled from Europe to the Americas, mostly on horseback, to spread the gospel. The hosts cite their example to show that their priority was the gospel mission, not personal comfort.
 
 ##### Example 3: The Crown Laid Up
 
@@ -419,22 +419,22 @@ Paul wrote that the crown of righteousness was laid up for him because he finish
 
 - ✅ Write down your definition of success and revisit it regularly.
 - ✅ Compare your life against Scripture, not social media or cultural standards.
-- ✅ Ask trusted spiritual leaders to hold you accountable to eternal metrics.
+- ✅ Ask trusted spiritual leaders to hold you accountable to finishing your race well.
 - ✅ Choose one word you want to be known for and align all your decisions with it.
 
 #### Keep In Mind
 
-- Culture celebrates image, platforms reward performance, and churches have measured faith by attendance goals and financial growth rather than by finishing your race well. Authentic transformation, not outward appearance, is the standard of genuine faith.
+- Philip Anthony Mitchell describes how he used to measure success in ministry by attendance numbers and financial provision for his family, but changed his definition. Authentic transformation, not outward appearance, is the standard of genuine faith.
 
 #### Security & Safety Notes
 
-- Do not share your personal struggles with success or failure in public spaces without wisdom. Seek accountability in trusted, safe relationships.
+- Do not share your personal struggles with success or failure in public spaces without counsel from trusted spiritual leaders. Seek accountability in trusted, safe relationships.
 
 #### Common Pitfalls
 
 - **Problem:** Measuring success by attendance, financial growth, or platform size.
   **Solution:** Anchor your definition of success in Scripture, specifically Paul's words about finishing his race well.
-- **Problem:** Comparing your race to someone else's ministry or life.
-  **Solution:** Focus on your own race. God has given you a calling. Run it well.
+- **Problem:** Comparing your ministry or life to someone else's.
+  **Solution:** Focus on your own calling. God has given you a race to run. Run it well.
 - **Problem:** Seeking to be known for your preaching, platform, or leadership rather than for love.
   **Solution:** Ask yourself, "What do I want to be known for when I die?" If the answer is not love, realign your priorities.
