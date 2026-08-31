@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Street Preachers Podcast exists to walk through the Word of God and encourage believers facing trials, persecution, and hardship. Hosted by Tim Timberlake and Phillip Anthony Mitchell, this podcast episode teaches that life's difficulties are temporary and therefore tolerable, and that true joy is found in Christ alone rather than in movable things. The podcast builds a global community called the "street team" committed to spreading the gospel of Jesus Christ through authentic, unscripted conversation rooted in Scripture.
+The podcast teaches that life's difficulties are temporary and therefore tolerable, and that true joy is found in Christ alone rather than in movable things. The podcast builds a community called the "street team" committed to spreading the gospel of Jesus Christ through authentic, unscripted conversation rooted in Scripture.
 
 ## When to Follow Podcast
 
@@ -28,7 +28,7 @@ Speak the truth out loud: "This is temporary." Apply this truth to your specific
 
 ##### Step 3: Anchor yourself to the eternal promise
 
-Meditate on 1 Peter 1:3-5, which describes your inheritance as imperishable, undefiled, and unfading, kept for you in heaven. Remember that your faith is being guarded through trials for a salvation ready to be revealed in the last time.
+Meditate on 1 Peter 1:3-5, which describes your inheritance as imperishable, undefiled, and unfading, kept for you in heaven. Remember that your faith is being guarded through trials for a salvation ready to be revealed in the last days.
 
 #### Examples
 
@@ -50,9 +50,9 @@ If you are grieving the loss of a relationship or dealing with family conflict, 
 
 #### Keep In Mind
 
-- Peter calls life "a little while" and "temporary" intentionally to help believers endure
+- Peter calls life "a little while" and "temporary" to encourage believers enduring trials
 - Your faith is being tested through trials, which purify and strengthen your trust in God
-- Trials are intended to produce genuine faith that honors God
+- Trials test the genuineness of your faith, which is more precious than gold that perishes
 
 #### Security & Safety Notes
 
@@ -163,9 +163,9 @@ When you go to a funeral and lose someone you love, if Christ is your source of 
 
 #### Keep In Mind
 
-- Christ is the one constant in your life. Everything else is movable and will fade.
-- When Christ becomes enough, your joy remains consistent because it is rooted in Christ rather than in changing circumstances.
-- A believer who finds joy in Christ alone remains faithful through trials and experiences strength in Christian community and service.
+- Christ is presented as a constant in your life. Everything else is described as movable and will fade.
+- Choosing to root joy in Christ means it is not dependent on changing circumstances.
+- Finding joy in Christ can sustain a believer through trials, in community, and in service.
 
 #### Security & Safety Notes
 
@@ -174,7 +174,7 @@ When you go to a funeral and lose someone you love, if Christ is your source of 
 #### Common Pitfalls
 
   - **Problem:** You believe you need additional blessings such as a larger ministry, more wealth, or improved relationships before Christ is enough for you.
-   **Solution:** Recognize that expanded opportunities, additional success or recognition will not produce lasting satisfaction. Only Christ can satisfy the human need for purpose and connection. Start today by spending time with Him and choosing to delight in Him alone.
+   **Solution:** Recognize that expanded opportunities, additional success or recognition will not produce lasting satisfaction. Christ is presented as the only one who can satisfy the human need for purpose and connection. Start today by spending time with Him and choosing to delight in Him alone.
 
 - **Problem:** You feel guilty for enjoying good things like your spouse, children, or career.
   **Solution:** You can and should be thankful for these blessings. The problem only arises when these blessings become the foundation of your joy. Enjoy the gift, but keep your joy rooted in the Giver.
@@ -245,7 +245,7 @@ Ask yourself: Is my love for Jesus just empty platitudes, or does it show up in 
 
 ##### Step 2: Identify what needs to die in you for Christ to be magnified
 
-What habits, desires, or attachments are keeping you from fully loving Christ? Be honest before God about what He is asking you to surrender. Worship is the space where you bring these things to the cross.
+What habits, desires, or attachments are keeping you from loving Christ completely? Be honest before God about what He is asking you to surrender. Worship is the space where you bring these things to the cross.
 
 ##### Step 3: Live self-sacrificially for Christ
 
@@ -259,7 +259,7 @@ When you shed tears, remember the cross: "I am loved." When you go through hards
 
 ##### Example 1: Wearing two crosses
 
-One host wears two crosses around his neck: one representing the cross Christ carried, and one representing the cross he carries. This is a sign of love. It reminds him daily that he must carry his cross because Christ carried His.
+Phillip Anthony Mitchell wears two crosses around his neck: one representing the cross Christ carried, and one representing the cross he carries. This is a sign of love. It reminds him daily that he must carry his cross because Christ carried His.
 
 ##### Example 2: Loving when it costs you
 
