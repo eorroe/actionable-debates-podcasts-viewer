@@ -24,30 +24,30 @@ Time is a fixed resource that God has entrusted to you. You have exactly 1,440 m
 Accept that you will not get another day, month, or decade beyond what God intends. You do not control the length of your life.
 ##### Step 2: Audit how you spend your 1,440 minutes.
 
-Look honestly at your daily schedule and identify where time is going to activities and distractions that do not advance God's kingdom.
+Look honestly at your daily schedule and identify where time is going to activities and distractions that do not serve the purposes discussed in this podcast—living with an eternal perspective, reconciling relationships, giving to gospel ministry, and working as unto the Lord.
 ##### Step 3: Eliminate time-wasting activities.
 
-Stop giving your days to meetings, relationships, and pursuits that do not bear eternal fruit.
+Stop giving your days to meetings, relationships, and pursuits that do not contribute to the eternal goals discussed here: reconciled relationships, generosity toward gospel ministry, and a life marked by faithful obedience.
 ##### Step 4: Be intentional with relationships.
 
 Intentionally invest in your spouse, children, staff, church, and community.
 ##### Step 5: Align your calendar with eternal value.
 
-Prioritize activities that reflect what will matter when you stand before God.
+Prioritize activities that align with what this podcast identifies as eternal priorities: reconciled relationships, faithful giving, and obedience to God's promptings.
 
 #### Examples
 
 ##### Example 1: The NBA Player
 
-NBA player Brandon Clark died suddenly at age 27, illustrating that no one knows how much time they have left. Because time can end unexpectedly, every day should be treated as a gift to be invested wisely.
+NBA player Brandon Clark died suddenly at age 27, illustrating that a person cannot know how much time they have left. Because time can end unexpectedly, every day should be treated as a gift to be invested wisely.
 
 ##### Example 2: The Book Author
 
-Tim Timberlake was working on his book "Contend" and packed it with as much content as possible because he did not know if he would get a second book. He wrote like "a man running out of time," name-dropping mentors, family, and lessons because he wanted to ensure nothing important was left unsaid.
+Tim Timberlake was working on his book "Contend" and wrote with urgency because he did not know if he would get a second book. He included mentors, family, and lessons because he wanted to ensure nothing important was left unsaid.
 
 ##### Example 3: Cleaning Bathrooms to the Glory of God
 
-A new believer cleaned church bathrooms while listening to worship music, making them immaculate. Whether cleaning toilets or preaching the gospel, the standard is excellence because everything is done as unto the Lord.
+A new believer cleaned church bathrooms while listening to worship music, making them immaculate. Whether cleaning toilets or preaching the gospel, the same commitment applies: do everything to the best of your ability as unto the Lord.
 
 #### Best Practices
 
@@ -59,8 +59,8 @@ A new believer cleaned church bathrooms while listening to worship music, making
 
 #### Keep In Mind
 
-- Time is a stewardship, not something you own. God, who lives outside of time, has locked humanity between two boundaries, from Adam's beginning to Christ's return, and called you to steward it.
-- How you steward your time dictates and determines how and where you will spend eternity. This gives new meaning to the phrase "the test of time."
+- Time is a stewardship, not something you own. Scripture describes God's eternal plan as spanning from the beginning of creation to the return of Christ, and calls you to steward the time within that span.
+- How you steward your time reflects the values that shape the direction of your life. This gives new meaning to the phrase "the test of time."
 
 #### Security & Safety Notes
 
@@ -74,13 +74,13 @@ A new believer cleaned church bathrooms while listening to worship music, making
 - **Problem:** Wasting time because you assume you have plenty of years ahead.
   **Solution:** Remind yourself daily that life is brief and fixed. Plan and act as if you could have fewer years than you expect.
 - **Problem:** Being late, leaving early, or stealing from your employer because your boss is unbelieving.
-  **Solution:** Work as unto the Lord regardless of your circumstances. Excellence is your witness.
+  **Solution:** Work as unto the Lord regardless of your circumstances. Doing your work well serves as a testimony to those around you.
 
 ---
 
 ### Live With an Eternal Perspective
 
-Too many believers fall into a myopic view that sees only the present moment—their job, their comfort, their immediate circumstances. They miss the bigger picture of what God is doing in history and where their life fits into eternity. To live well, you must keep one eye on your current responsibilities and both eyes on eternity. Stepping back from the immediacy of now allows you to see the details of how God desires to prepare you for the coming of His Son.
+A myopic view sees only the present moment—a person's job, comfort, and immediate circumstances—and misses the bigger picture of what God is doing in history and where their life fits into eternity. To live well, you must keep one eye on your current responsibilities and both eyes on eternity. Stepping back from the immediacy of now allows you to see the details of how God desires to prepare you for the coming of His Son.
 
 #### Steps
 
@@ -124,7 +124,7 @@ John Wesley and George Whitfield traveled on horseback across Europe and America
 #### Keep In Mind
 
 - You cannot see the details of how God is preparing you if you are standing too close to now. Distance from the immediate gives you perspective on the eternal.
-- The church needs bold voices to wake people up to the bigger picture of what is really going on in these final days of the church age.
+- The church needs bold voices to wake people up to the bigger picture of what is really going on in the present era.
 
 #### Security & Safety Notes
 
@@ -167,7 +167,7 @@ Write, speak, serve, and give as if you may not get another opportunity.
 
 ##### Example 1: The Man Running Out of Time
 
-Tim Timberlake packed his first book with as much content as possible because he did not know if he would get a second book. He included mentors, family, and lessons because he felt the urgency of his finite time. This is the mindset every believer should have.
+Tim Timberlake wrote his first book "Contend" with urgency because he did not know if he would get a second book. He included mentors, family, and lessons because he wanted to ensure nothing important was left unsaid. The hosts present this as the mindset every believer should adopt.
 
 ##### Example 2: Die Empty
 
@@ -186,7 +186,7 @@ Paul described his life being offered up like a drink offering—poured out comp
 
 #### Keep In Mind
 
-- Obedience now is the prerequisite for new assignments. You cannot ask God for more if you have not been faithful with what He already gave you.
+- The hosts present obedience to what God has already told you as the foundation before seeking new directions. Faithfulness with current responsibilities is their framework for receiving further assignments.
 - The things God has given you—your platform, ministry, finances, relationships, and opportunities—are for now. They will not follow you into eternity, but the fruit of your faithfulness will.
 
 #### Security & Safety Notes
@@ -206,7 +206,7 @@ Paul described his life being offered up like a drink offering—poured out comp
 
 ### Work As Unto the Lord
 
-Your job, whether it is cleaning toilets or preaching the gospel, is an opportunity to glorify God. The Scripture teaches that you should work as unto the Lord, not unto men. It does not matter if your boss is humble, an unbeliever, or from another religion. Excellence, faithfulness, and integrity in your work are your witness to the world. Being late, leaving early, or stealing from your employer are forms of unfaithfulness that dishonor the God you serve.
+Your job, whether it is cleaning toilets or preaching the gospel, is an opportunity to glorify God. The Scripture teaches that you should work as unto the Lord, not unto men. It does not matter if your boss is humble, an unbeliever, or from another religion. Doing your work well, with faithfulness and integrity, serves as a testimony to the world. Being late, leaving early, or stealing from your employer are forms of unfaithfulness that dishonor the God you serve.
 
 #### Steps
 
@@ -219,7 +219,7 @@ Do not steal time from your employer.
 ##### Step 3: Do not take what does not belong to you.
 
 Avoid stealing supplies, padding expenses, or misusing company resources.
-##### Step 4: Excellence is your standard.
+##### Step 4: The standard is doing everything to the best of your ability as unto the Lord.
 
 Clean the bathroom with worship music playing if that is your assignment. Preach with preparation if that is your assignment. The standard is the same: do it as unto the Lord.
 ##### Step 5: Work even when your boss is unbelieving.
@@ -245,8 +245,8 @@ If God gave you only $100 and you would never receive another dollar, you would 
 
 #### Keep In Mind
 
-- You do not own anything. Everything under your leadership and within your hands is a gift from God to steward. You will give an account for how you managed it.
-- The unknown writer of Hebrews says, "It is appointed to man once to die and then the judgment." No one escapes that account.
+- The hosts teach that everything under your leadership and within your hands is a gift from God to steward. You will give an account for how you managed it.
+- The unknown writer of Hebrews says, "It is appointed to man once to die and then the judgment." This passage describes a universal human reality according to Scripture.
 
 #### Security & Safety Notes
 
@@ -257,7 +257,7 @@ If God gave you only $100 and you would never receive another dollar, you would 
 - **Problem:** Being unfaithful at work because your boss is unbelieving or difficult.
   **Solution:** Remember that you work as unto the Lord, not unto men. Your faithfulness in difficult places is a powerful testimony.
 - **Problem:** Treating work as merely a means to a paycheck rather than a stewardship.
-  **Solution:** View every task as an opportunity to glorify God. Excellence is your offering.
+  **Solution:** View every task as an opportunity to glorify God. Doing your work well is how you offer it to Him.
 - **Problem:** Stealing time or resources from your employer.
   **Solution:** Recognize that dishonesty in your job is unfaithfulness to God. Work with integrity in all things.
 
@@ -265,7 +265,7 @@ If God gave you only $100 and you would never receive another dollar, you would 
 
 ### Reconcile Broken Relationships
 
-Before you make a list of all the ministry plans you want to do for God in the future, examine what He has already told you to do in the past. Ask yourself: what relationship do you need to reconcile? Who do you need to apologize to? What work do you need to go back and fix? Unresolved conflict and unrepented sin block your ability to move forward in faithfulness. Reconciliation is not optional for the believer—it is a mark of genuine Christianity.
+Before you make a list of all the ministry plans you want to do for God in the future, examine what He has already told you to do in the past. Ask yourself: what relationship do you need to reconcile? Who do you need to apologize to? What work do you need to go back and fix? Unresolved conflict and unrepented sin block your ability to move forward in faithfulness. The hosts describe reconciliation as essential to genuine Christian faith, not an optional practice.
 
 #### Steps
 
@@ -304,7 +304,7 @@ Katherine Kman said she wants to stand before the Lord and say, "Lord, I tried. 
 
 #### Keep In Mind
 
-- Relationships are gifts from God, and mismanaging them is a form of unfaithful stewardship. How you treat people is one of the clearest evidences of your faith.
+- Relationships are gifts from God, and mismanaging them is a form of unfaithful stewardship. How you treat others is a significant indicator of the state of your faith.
 
 #### Security & Safety Notes
 
@@ -323,7 +323,7 @@ Katherine Kman said she wants to stand before the Lord and say, "Lord, I tried. 
 
 ### Give to Gospel Ministry
 
-God has called believers to use a portion of their income to support the spread of the gospel. This is not optional; it is a stewardship. Your money is a tool to gain eternal friends—people who will greet you in heaven and say, "Because of your faithfulness and giving, I am here." Giving is not about the amount; it is about the heart behind it. When you give, you are investing in souls that will last forever.
+God has called believers to use a portion of their income to support the spread of the gospel. The hosts present this as a stewardship responsibility, not an optional practice. Your money is a tool to gain eternal friends—people who will greet you in heaven and say, "Because of your faithfulness and giving, I am here." The hosts emphasize that the heart behind the gift matters more than the dollar amount given. When you give, you are investing in souls that will last forever.
 
 #### Steps
 
@@ -362,11 +362,11 @@ The hosts reference Tim Timberlake's book, *The Power of 1440*, which teaches th
 
 #### Keep In Mind
 
-- Everything you have belongs to God. Giving is not generosity; it is simply returning to Him what is already His. The question is whether you are being a faithful steward of what He has entrusted to you.
+- Giving reflects the recognition that everything you have belongs to God. The question is whether you are being a faithful steward of what He has entrusted to you.
 
 #### Security & Safety Notes
 
-- Research ministries thoroughly before giving large sums. Ensure they are legitimate, transparent, and aligned with biblical teaching.
+- Research ministries thoroughly before giving. Ensure they are legitimate, transparent, and aligned with biblical teaching.
 - Do not give under emotional manipulation or pressure. Giving should be a decision made with a clear mind and a willing heart.
 
 #### Common Pitfalls
@@ -397,7 +397,7 @@ God has given each person a calling. Do not compare your race to anyone else's.
 Picture your final moments and ask, "Will I be able to say I finished my race with confidence?"
 ##### Step 4: Reject cultural metrics of success.
 
-Platforms, performance, and appearances are hollow. God has never been impressed by what merely looks spiritual.
+Platforms, performance, and appearances are hollow. The hosts argue that authentic transformation, not outward appearance, is what God values.
 ##### Step 5: Pursue love as your legacy.
 
 If you had to be known for one word, let it be love. Every decision should flow from that desire.
@@ -425,7 +425,7 @@ Paul wrote that the crown of righteousness was laid up for him because he finish
 
 #### Keep In Mind
 
-- Culture celebrates image, platforms reward performance, and the Church has settled for a faith measured by attendance goals, financial growth, and leaving money for children rather than by finishing your race well. God has never been impressed by what merely looks spiritual. Authentic transformation is what matters.
+- Culture celebrates image, platforms reward performance, and the Church has measured faith by attendance goals, financial growth, and leaving money for children rather than by finishing your race well. Authentic transformation, not outward appearance, is the standard of genuine faith.
 
 #### Security & Safety Notes
 
