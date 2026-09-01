@@ -1,0 +1,4314 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 80,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "There's been a lot of misinformation\nabout AI.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3120,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e This is Andrew. He co-founded Google\nBrain and Corsera. His machine learning",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 7919,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "course has reached millions of learners\nand he is one of the most influential",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 11599,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voices in AI today.\n\u003e\u003e So, a handful of leading AI companies",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 14880,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have been very loud voices of fear\nmonongering around AI to try to get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 19199,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "regulations passed. This drum beat of\nfear-based messaging has skewed [music]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 23600,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "societal perception to be really\nnegative on AI. People talk to me about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 28000,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "data centers and job loss.\n\u003e\u003e Maybe AI could do 30 40% of many jobs.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 33520,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And what that means is well that 60%\nthat the human does has become even more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 38239,
+    "dDurationMs": 4081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "valuable.\n\u003e\u003e What about loss of human control over",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 41760,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "AI?\n\u003e\u003e I think about something else that we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 44000,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can't control.\nI think you're one of the voices in AI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 49200,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who comes with a huge background in\nmachine learning and teaching AI and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 54000,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "also you're a positive voice because\nthis is something that I've been seeing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 58160,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "especially this summer how poor the\nsociety has become especially on social",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62480,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "media when I'm posting about AI and\npeople talk to me about data centers and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 67600,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "job loss. Why do you think this wave\nstarted recently? What do you think the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 72720,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "causes are? There's been a lot of\nmisinformation about AI and the root",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 77680,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cause of a lot of this is an unfortunate\nattempt that started two three years ago",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 82479,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of I think PR and regret capture. It\nturns out that the most one of the most",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 87840,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "valuable things in AI right now is the\ngiant AI models, giant large language",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 91360,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "models that some have trained. But if\nyou spend billions of dollars training a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 95600,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "model is really inconvenient if someone\nelse trains a model and wants to give it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 99600,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to anyone in the world to use for free.\nSo, a handful of leading AI companies, I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 104560,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think, as you know, have been very loud\nvoices, fear-mongering around AI to try",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 109200,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to get regulations passed to create an\nunfair playing field that favors",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 114560,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incumbents so that we all have to pay a\nhigh toll for use of AI while stying the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 121520,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "other teams, be it researchers or other\ncompanies that want to just give away",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 125439,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "open way to open source models that\nanyone could use much cheaper.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 128640,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Unfortunately, fear-mongering works. Um,\nwhen you go and say AI is like nuclear",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 133920,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "weapons, which is an analogy that has no\nbasis in fact, what do they have to even",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 137520,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do with each other? Or when you go\naround and cherrypick cases of AI, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 142160,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, making a misstep and making it\nmuch bigger than it is or even spread",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 146640,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "misinformation about how AI uses data\ncenters, uses a lot more water than the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 152160,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actual reality. This drum beat of\nfear-based messaging has skewed societal",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 157519,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perception to be really negative on AI,\nwhich is unfortunate because this is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 162640,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "slowing down American adoption in AI.\nThis is making America less competitive.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 167680,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um, and unless we get the truth about AI\nout there, which is that it's fantastic",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 172319,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "benefit with some problems, but not\nnearly the TV which they're blown up to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 176160,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be, it will um will hurt individuals.\n\u003e\u003e I'm going to read out some of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 180000,
+    "dDurationMs": 4159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problems that people are highlighting.\nJob loss and inequality. What do you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 183599,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think?\n\u003e\u003e The job apocalypse or job apocalypse,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 186640,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this idea that AI will take over 50% of\njobs, people will be out of work, riding",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 191680,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the streets, that's just not going to\nhappen. With every wave of technology,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 195519,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "including AI, [gasps]\nthe skills we need to do great work",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 200000,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shifts. And so AI is changing job\nprofessions. But boy, I wish AI were AI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 206000,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just doesn't work well enough. I know\nthat handful of businesses want to hype",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 209519,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "up AI to say we have super intelligence\nor we have artificial general",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 213680,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "intelligence or whatever and can do all\nthe stuff that humans do. I wish AI work",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 218000,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "better. We're just not good enough to\nmake AI do everything a human does. And",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 221760,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you look at the analysis of jobs,\neconomists uh like my friend Eric",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 226560,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Brennoffson at Stanford, Andy McAfee at\nMIT, um economists have analyzed many",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 232400,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people's jobs and by break it down into\nindividual tasks and maybe AI could do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 237360,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know 30 40% of many jobs and what\nthat means is well that 60% that a human",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 243760,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "does has become even more valuable\nbecause it's called an economic",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 247360,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "complement to the 30 40% that's now\ncheaper and So what will happen is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 253680,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people that use AI, maybe people that\nuse AI will replace people that don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 258400,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "use AI, but AI is not in a position for\nthe vast majority of jobs to replace",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 264240,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people. Of all the different\nprofessions, the one that's most",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 267120,
+    "dDurationMs": 5363,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "affected by AI now is software\nengineering because AI is actually",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 270320,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fantastic at writing code. And\n[clears throat] what we see is that the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 273919,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "number of job openings in software\nengineering is up contrary to what you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 278800,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know the doom fear-mongerers would say\nright AI is not actually able to replace",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 283680,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "software engineers and all the good\nsoftware engineers I know are busier",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 287120,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "than ever now the flip side of it is if\nsomeone still write code like is 2022",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 293360,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "before chai GPT they're in trouble they\nneed new skills like don't don't do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 297360,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stuff that that 30 40% AI can automate\nyou got to stop doing that let AI do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 301759,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that but then gain your skills to do the\nother 60 70% that AI cannot do.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 307759,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e What would your advice be to new\ngraduates? Cuz I talked to Eric um on",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 311759,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this podcast and uh he was talking about\nthat there's not really a lot of impact",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 316880,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on the job market except for I think he\nmentioned people from 18 to 25 who just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 321199,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "graduated. What would be your advice to\nthose people who don't have the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 325280,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "expertise maybe to strategize in their\njob yet? uh they can only do manual work",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 330000,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that AI can do as well.\n\u003e\u003e So one real challenge um uh for fresh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 334960,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "college grads is that the university\nsystem is slow to adapt and so um you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 342320,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know I love academia. I think we should\nall support academia and universities.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 346240,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And when AI comes and transforms the way\nsoftware is written, universities often",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 351600,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "take like a year or two for the faculty\nto master skills, then create new",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 356080,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "courses, get curriculum committee\napproval, whatever, get the faculty",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 359680,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "senate to vote. It just takes years. And\nthat speed of change in academia is very",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 365199,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poorly matched to the speed of change in\nAI. So sadly, many universities are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 370240,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "still teaching students to be ready for\nthe jobs of 2022 when we shouldn't even",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 375280,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be teaching them for the jobs of 2026.\nWe should be teaching them for the jobs",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 378800,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of 2028 and beyond. And what this means\nis the job openings are there. Uh tons",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 385039,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of employees I know just can't find\nenough skilled, you know, uh people at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 389280,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "any level of seniority. But um it turns\nout in my office right now, we have a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 394160,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot of interns. There are current\ncollege students, fresh college grad. We",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 397440,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "also had one high school intern and\nthey're amazing and productive. But the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 400880,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "key is they're all very AI native. They\nall use AI tools to do the things AI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 405039,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could do, but then also, you know, lean\nin to doing the things that uh humans",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 409120,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can do that AI can't for the for for a\nlong time. So there's plenty of work for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 412960,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people to do. But so my advice to fresh\ncollege grads or the people currently in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 417600,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "college is um by all means work hard in\nclasses. you know, get good grades,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 422400,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learn from the instructors, but to the\nextent that there's still additional",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 426240,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "skills that the university has not yet\nadapted to teaching, then find other",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 430639,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ways to learn online, be it from Corsera\nor Deep Learning.AI or Udemy or other",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 436160,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "places where you can gain the more\ncutting edge skills, especially AI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 440160,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "skills that um universities have not yet\nworked in the curriculara.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 444479,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Quick pause because what Andrew just\nsaid about workflows connects to",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 447840,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something that HubSpot just put out for\nfree. The thing is the real opportunity",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 452000,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right now is not just in the models\nthemselves, but in what you build on top",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 456240,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of them. How you turn AI from a chat\nwindow into workflows that actually do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 461199,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work for you. And the good news is you\ndon't have to start by building a full",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 464800,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agent. You can start much simpler with\nbetter prompts. HubSpot just released",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 469280,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the advanced chat GBT prompt engineering\nplaybook. And the idea is very simple.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 475039,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in 7 days. It helps you move from\ngetting generic AI answers to building",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 479520,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prompts that give you much more\nconsistent and useful options because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 483039,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we've all had this moment. You type in\none vague sentence, get something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 487520,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mediocre back, and then spend the next\n20 minutes fixing it yourself. This",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 492240,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "playbook is basically built for that\nexact problem, and it walks you through",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 496240,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a single progression. First, you learn\nhow to structure prompts with things",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 500400,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like role, context, format, and\nparameters. Then it gets more advanced.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 505199,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Few shot examples, chain of thought\nreasoning, more precise prompt",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 509039,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "structures, and ways to make outputs\nmore reliable. What I like is that it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 512880,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doesn't stop at individual prompts. It\nalso shows you how to build reusable AI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 516880,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas, modular prompt components, and\neventually your own signature prompt",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 521599,
+    "dDurationMs": 6001,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "engineering system. So instead of\nstarting from scratch every time, you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 525760,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "building a repeatable way to work with\nAI. Whether you're creating content,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 529600,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "analyzing data, or making business\ndecisions, the playbook is free. Links",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 533920,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the description. Thanks to Hopspot\nfor sponsoring this video. And now back",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 538000,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to our conversation with Andrew.\n\u003e\u003e I want to say one other thing. Um it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 543440,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "turns out one if if look at the skill\nmap changes. One of the most important",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 548959,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "changes is um it's so much easier to\nbuild with AI than before. When",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 553600,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something becomes much easier, a lot\nmore people should do it. And so now,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 559040,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not only should professional software\nengineers build software with AI, it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 562800,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "becoming much easier for everyone to\nbuild with AI and people that embrace",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 567920,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that and do so will be more productive\nand will accomplish more and I think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 571600,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have more fun than the ones that don't.\nAnd AI lets you build really fast. So",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 576480,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for people that not just software\nengineers but you know marketers,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 580560,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recruiters, uh HR professionals,\noperations specialists, I think if they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 584560,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learn to build with AI, uh they'll\nreally just do much more whatever their",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 589120,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "job row is.\n\u003e\u003e How do you by the way measure uh the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 592480,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "increase in productivity uh when you\ndeploy AI? Do you have like a KPI in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 597120,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your company?\n\u003e\u003e I wish a simple answer. I find that the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 601519,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business outcome of AI is more a\nfunction of the business than a function",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 605200,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the AI. For for some it may be um\nincrease you know uh customer growth and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 611279,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "retention or maybe faster to serve\ncustomers or increase accuracy in some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 615360,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tasks. So the KPIs tend to be related to\nthe business rather than the AI. M so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 619440,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you can't like directly measure just AI\nbecause it's it's an interesting thing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 622560,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to do because we've been deploying AI\nactively in my company and I think for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 625519,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me as a media company it's probably the\namount of views the output [snorts] uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 629200,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's just interesting how yeah it's just\ninteresting how different people measure",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 632959,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even revenue like if you're becoming\nmore effective",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 635920,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e uh with um how you make money\n\u003e\u003e actually same how are you using AI in",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 639040,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your business\n\u003e\u003e oh my god I have the so first of all we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 642640,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have claude for all of us and we have\ncertain projects for every social media",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 646640,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that we're on so for example for this\npodcast. We [snorts] have a project",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 649839,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's called guests and it knows all\nthe analytics from previous guests and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 654240,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it has certain criteria on which we rank\nevery single person who comes to the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 657760,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podcast whether he's he or she's cited\nwhether they have a certain opinion on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 663600,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "AI whether they've been active with AI\nin their company or if they're a recent",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 667680,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "founder in AI. So it gives them\ndifferent weights and it comes up with a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 671680,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grade based out of 40. 40 meaning tier\none, 30 meaning tier three, etc. And",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 677920,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then we have another one that analyzes\nevery single podcast and gives me tips",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 681839,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on how to ask questions.\n\u003e\u003e Oh wow.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 684000,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Same for Instagram, same for LinkedIn.\nIt has my tone of voice, personal",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 688160,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dossier, my business strategy. So it\nwhenever it writes something, it knows",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 692720,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all the facts about me, how I sound.\nEvery social media is run by a person.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 696640,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So a person makes a strategic call and\nby the way if you can give me feedback",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 700640,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on this if I can improve. So what I'm\nworking on right now is closing the loop",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 704800,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because sometimes they send me a text.\nI'm like oh we need to change this this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 708240,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and that. But that happens in a chat in\nTelegram and we have this feedback. We",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 713040,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we have a bot that scans all of our\nchats. But I really want AI to be able",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 718079,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to learn continuously from this feedback\nto just know my taste better. There's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 722480,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one thing I see a lot in AI which is um\nit turns out for AI as data scientists",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 726800,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or AI brainstorming partner it often\ncomes up with you know one or two good",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 730720,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ideas two or three mediocre ones and\nlike you know four atrocious ones and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 736000,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sometimes you wonder how could my AI\nhave thought you know like that could",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 739839,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even be a plausible idea and to me this\nrelates to the job apocalypse point of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 744639,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "view which is that for a long time\nhumans you me everyone watching this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 750320,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "will have a significant context\nadvantage over AI, which is that you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 754320,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know something that's incredibly obvious\nto you that you know that was an awful",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 757920,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "idea but the AI did not and it turns out\nthat one of the reasons why AI will not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 763040,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "replace our jobs or whatever of large\nbusiness anytime soon is because humans",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 768800,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have a massive context advantage\ncompared to AI. We know so much that you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 774079,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know from our years of experience that\nwe talked to customer we saw the funny",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 777680,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "facial expression that told us ah they\ndon't like this or we talked to business",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 781040,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or you know our manager said hey blah\nblah blah I really care about this and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 785040,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so it turns out that almost all humans\nwell maybe all humans just know a lot of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 790000,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stuff that the plumbing does not exist\nand I don't think exists for the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 793760,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "foreseeable future for AI to get I know\nsometimes people talk about the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 798240,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importance of human judgment or human\ntaste and Some people wonder all right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 803040,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what is taste is this fuzzy thing but to\nme the technical thing that underlies",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 807440,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "why humans have better judgment and\nbetter taste than AI is this context",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 811360,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "advantage and because this is a\nlong-term advantage like no one's going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 815360,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to solve this you know in a few years\nthis is why we just need a lot more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 819600,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "humans with that judgment and taste to\nkeep on complimenting AI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 823200,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e and doesn't this make education even\nmore important because education gives",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 827040,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "us context because it's another another\nthing I'm hearing about AI like you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 830079,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "won't need education because all the\ninformation is at your fingertips. You",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 832959,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just ask Chad GPT. But when you say\ncontext and taste, for me, that's years",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 838639,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of acquiring knowledge and learning from\nthe best and seeing how they perform",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 842399,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "versus just asking a chat.\n\u003e\u003e I'm going to say something that may be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 846240,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "controversial. I don't know I've said\nthis publicly, but I think it's true,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 849519,
+    "dDurationMs": 10721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "which is frankly AI models are terrible\nfor learning. Um, I know people think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 857360,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "AI is AI is wonderful at getting things\ndone. use it all the time, love it. But",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 863279,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all the data that's coming out is that\nwhen say college students use AI, we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 868480,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know this. It's just a study now back up\nas well. So we also have numbers. But",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 872240,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the data is very clear. Students score\nhigher on homeworks when they use AI.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 877120,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yay, higher homework scores. But\nretention, their long-term performance",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 881600,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is much worse because their AI do the\nwork for them. more and more studies are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 884800,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coming out to back this up now that I\nthink people think oh it turns out you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 890959,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know I think Wikipedia is a wonderful\ntool has tons of facts web search is a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 895279,
+    "dDurationMs": 8721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wonderful tool has tons of facts but it\nturns out that when you ask AI to do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 900800,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work for you you're cognitive offloading\nto AI which is great because that's how",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 906240,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "society moves forward and gets work done\nbut human retention is much worse it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 911600,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just so clear that LMS MS as they are\nmost commonly used are terrible for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 916399,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learning. I'm not saying there's no way\nto use it in a way that is good for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 919440,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learning. I think there are ways to use\nthat good for learning but even for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 922160,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "myself there's so many things on the AI\nmodel over the last you know 6 months or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 925839,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whatever like I don't know [gasps]\nbuilding some project how does this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 928880,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "front end backend component work\nwhatever give me the answer get the job",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 932480,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "done it was fantastic but 6 months later\nI don't remember the answer when I need",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 936720,
+    "dDurationMs": 8479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to redo that front end backend component\nI ask AI again so data is really clear",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 942639,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we should stop thinking of AI as helpful\nfor learning at least the vast majority",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 948000,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of ways that the vast majority majority\nof your people are using AI models",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 951120,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "today. It's absolutely terrible for\nlearning.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 953120,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e But you're building a company helping\nsolve that, right? Because the one",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 956800,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "onetoone tutoring with AI is that where\nyou just announced with a 100 million",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 960959,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "investment from Corsera.\n\u003e\u003e Yes. So I'm excited about leading a new",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 964639,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "organization called Learn Vector that is\nfocused on um building new learning",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 969920,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "experiences that is much more onetoone\nthan one to many. So you know 15 years",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 974320,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ago I I was privileged to participate in\nthe online courses movement that I think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 980240,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "changed the way a lot of people learn\nbut that was and still remains largely a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 985120,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one to many experience where everyone\nyou know kind of watches the same video",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 988959,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "which is actually okay it actually works\nwell but the technology now exists to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 992720,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "create much more personalized customized\nonetoone experiences and so our team is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 998079,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "working hard on that I think we'll have\na lot more to show by early next year",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1002079,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when think about human skill\ndevelopment. I I feel like because AI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1005360,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "has so heavily impacted software\nengineering, um what we see happening in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1010560,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the job market for software engineering\nis a harbinger as a forerunner of what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1014720,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we'll see in other disciplines as well.\nAnd in software engineering, um people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1019360,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "need to learn new skills, but when they\ndo, they are thriving and creating more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1023600,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "value and frankly getting raises and\ndoing even more exciting projects. And",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1027520,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what I've seen the early signs of in\nother disciplines as well for example in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1031120,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "software engineering you know most\ndevelopers like front end backend",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1034480,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "developers have now become full stack\ndevelopers because of AI hub you could",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1039039,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "take on broader scope I'm seeing early\nsigns of this in other disciplines as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1043199,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well where for example someone that in\nmarketing that did marketing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1046799,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coordination uh coordinating marketing\ncampaigns with AI help they can now",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1050799,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "become more of a full cycle marketing\ntake on a broader scope and I'm seeing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1055039,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know frankly sources in recruiting\nbecome more full cycle do endto-end",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1059280,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recruiting. So now the good news and bad\nnews is for people to step up to these",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1063919,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "broader roles. You do need to learn AI\nskills but also it's not just learning",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1067600,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "AI you also need to learn these other\nskills uh like how do you do the other",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1070799,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parts of marketing of recruiting or\nsoftware engineering or AI engineering.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1074000,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So I think this actually creates a heavy\nneed, a big need for people to gain new",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1078559,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "skills. But when they do, which is both\nAI skills, but also disciplinary skills,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1083679,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then they can do much more, hopefully\nhave more fun, work on more exciting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1088080,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "projects, hopefully get paid more as\nwell. And one reason I kind of worry",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1092160,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about the fear mongering is um I got an\nemail from someone that was about to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1096160,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enter college and you know he emailed me\nsaying hey Andrew taking online courses",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1101039,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but I'm really struggling with what I\nshould major in college because in four",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1104880,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "years won't AI do all this and\neverything I learn will be obsolete and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1108480,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the answer is no of course it won't all\nbe obsolete but when we keep on pushing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1112559,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these fear messages uh we make people\nwonder if they will even be relevant and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1118799,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it makes people not lean in to gain\nthese skills, they'll put them in much",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1123440,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "better position. So, I see very clearly\nthat these fear-mongering messages are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1128160,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distorting how many people, including,\nyou know, high school students, college",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1132640,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "students, fresh grads, think about the\neconomy. And frankly, making people give",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1137280,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "up is one of the worst things we'll be\ndoing in this era when people that lean",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1141679,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in will thrive.\n\u003e\u003e Andrew has taught over 8 million people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1145840,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "AI. He started teaching machine learning\nonline back in 2011, years before the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1151280,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "current AI boom. Now, one of the\ncompanies he's building is focused on AI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1155039,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agents. From the way that it sounds, it\ncan still feel way too technical. So, I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1159600,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "put together a step-by-step guide to\nbuilding your first AI agent with no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1163760,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coding required. It walks you through\nwhat to automate, how to set it up, and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1167760,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how to make it actually useful. It is in\nmy newsletter this week. The newsletter",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1171679,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is called Future Proof. It's free. Link\nis in the description. What would you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1176240,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reply back to that email that somebody\nsent you? What would you say is the best",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1180640,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "major to study now to thrive in AI era?\nDo you think it's like going deep into a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1185200,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "niche or just broader computer science\nso that you can acquire AI skills really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1189440,
+    "dDurationMs": 3359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fast?\n\u003e\u003e You know, I don't know what's the best",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1191280,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "major. There are awful lot of great\nmajors. It's is like um I kind of feel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1195360,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like what's the best job in the world is\nlike what's the best major in the world?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1198640,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Oh, something that you love, right?\n\u003e\u003e Yeah. My daughter wants to be an",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1201120,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "astronaut. I don't know if she can major\nin becoming an astronaut. I have to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1204240,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think about that. When she get older\nthough, she may change your mind. I see",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1206559,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so many opportunities um across across\nso many job roles. It all seems very",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1211360,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exciting to me. But do learn AI, do\nlearn to build with AI. The other thing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1215360,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that my team's been working on AI\nengineing skills map to try to map out,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1219440,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, the most important skills for\nAI engineering. One thing that I felt",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1222640,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "intuitively, but I was surprised to see\nit show up in the data was that a lot",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1226640,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "more job descriptions seem to be saying\nthey want people that demonstrate a very",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1230480,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "high sense of agency. Because it turns\nout with AI there a lot more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1234640,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opportunities for individuals to spot\nproblems and go build something or do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1240320,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something to go solve it. So I think\nwe're really evolving. Well, we've long",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1244480,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "been evolving but we're accelerating\npositive era where people sit around and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1248960,
+    "dDurationMs": 3360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wait for their boss to tell them what to\ndo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1250880,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e This is what I've been feeling a lot\nespecially when we started doing remote",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1253919,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work. I want people to be entrepreneurs\nwithin their niche. Like if you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1258480,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "helping me with LinkedIn, you're an\nentrepreneur there. You can hire more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1261919,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contractors. You can deploy different\ntools. You make the strategic decision",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1265679,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whether this topic is good or not. Shall\nwe proceed with it? I really think and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1269840,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tell me if you agree with me, we're\nmoving into that job market where",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1272799,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everyone is kind of independent in their\nworkplace.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1275760,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I think people will have much more\nautonomy and creativity. So I agree with",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1279200,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that. And I'd even go one step further\nwhich is I talked to a lot of people is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1283360,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know engineers and others in large\ncompanies that tell me that their",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1286880,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manager tells them to stay in their swim\nlane. They'll say, \"Oh, I have this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1289919,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creative idea, but the manager says,\n\"No, I need you to focus on this one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1293360,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing, frankly, often because their\nmanager's career depends on it.\" But I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1296880,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "feel like the number of opportunities\nfor people to spot things outside the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1300640,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "swim lane. Um, and then in a responsible\nway explore how to get it done, that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1306159,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "feels very exciting to me. And I think\nthat in the future the businesses that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1310400,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "set up a culture that encourage people\nto learn AI build fast responsibly um",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1317120,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talk to customers would drive a lot more\nvalue than the more hierarchical silo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1322559,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "organizations.\n\u003e\u003e Yeah, it it starts with hiring the right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1325440,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people and then nurturing this in your\norganization. When you say learn how to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1329440,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "use AI and become proficient with AI,\ncan you give me some benchmarks like of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1333440,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a person who's like say a marketer,\nknowledge worker, advanced with AI, what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1337919,
+    "dDurationMs": 3681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are you looking for when you're\ninterviewing this person?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1340240,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I'm pretty sure my team's ahead of the\ncurve. All of my marketers know how to",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1343360,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "code. So, as part of how I interview\nmarketers, we ask them what they've",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1347120,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "built and uh if they have not built any\nsoftware.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1351200,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e If it's a dashboard, is it good or bad?\nLike, is it too basic or",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1354880,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e a dashboard? Again, my team's probably,\nyou know, somewhat ahead of the curve,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1358400,
+    "dDurationMs": 3120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but uh\n\u003e\u003e was good to hear like that.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1360320,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e All of my marketers have built much\nspecific things in",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1363440,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Oh, I I feel like um I don't know the\nother day uh one of our someone on the",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1367919,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marketing team was talking about the\ntools that he had built to uh when he's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1371440,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "considering writing an article on\nsomething, it will um crawl the web,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1375520,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "find related work, has a custom desktop\napp, actually built a desktop app that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1379280,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "runs on his Mac to um highlight related\narticles for him. then you can chat to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1383440,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the whole system navigate you know the\nthing he's writing as well as the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1387200,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "related work and he had a large\ndashboard for trolling the internet to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1391840,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "highlight to him exciting things that\nare popping up um now even on my team I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1396720,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think that marketers is ahead of the\ncurve",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1398960,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e but that's that's great to hear any\nother interesting use cases uh that will",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1403600,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inspire people to build something\nsimilar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1406240,
+    "dDurationMs": 10799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e let's see maybe u uh my finance team\nuses AI extensively",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1412320,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So I think uh uh my um one of my CFOs uh\nrealized that you know her team was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1419200,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "spending hours every week clicking\nthrough documents open this copy paste",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1422480,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this number here and so um she started\nbuilding uh automation scripts that runs",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1427679,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on a routine that um automatically opens\nfiles checks what's in there checks for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1432400,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "consistency highlights to her team if\nthere's something uh if there's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1436080,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something they need to be paying\nattention to if a new document has",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1438559,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "showed up. So I find that rather than\nwaiting around for an engineer to do the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1442559,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work for them, the team's ability to to\nkind of a not just build dashboards but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1448080,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "build kind of a data management\ninfrastructures. They can ingest data,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1452400,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alert them if something's happening.\n\u003e\u003e I think uh my finance and marketing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1456159,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teams are doing that. Oh my recruiting\nteam um well we actually have recruiting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1460720,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "engineers which are really professional\nengineers that sit in a recruiting team",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1465679,
+    "dDurationMs": 4081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that are building very sophisticated\ntools for recruiting. And this is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1468480,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually the other trend. I think\nmarketers, recruiters, HR professional,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1471360,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ops people should all learn AI. But the\nother thing is when you take an engineer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1475200,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and embed them in these teams, then that\nfurther accelerates what you can do.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1478720,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e We do the same. We we start with\nsomething basic, build it ourselves,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1481600,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then we hit the wall, an engineer comes\nin, we build it further.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1485200,
+    "dDurationMs": 3839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Frankly, when you look at not just\nsoftware engineers, but recruiting",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1487440,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "engineers, marketing engineers, HR\nengineers, I think there's so much",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1490880,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "valuable engineering work that can now\nbe done. I'm just, you know, not worried",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1495360,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about running out of, [laughter]\nfrankly, all my friends were so busy. We",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1498799,
+    "dDurationMs": 3441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think, boy, how could we run out of\nengineering jobs?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1501039,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah. Yeah. There are so many cool ideas\nyou can experiment on. But you touched",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1503679,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "up on something that is actually one of\nthe fears when when we talk about like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1507039,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "financial information, how much you're\ngiving to AI. So, I gave my perplexity",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1511919,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "permission to scan my Fidelity account\nso it can track my portfolio, tell me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1516320,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when to rebalance. It doesn't do\nanything on my behalf, but it has",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1519200,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "access. Do you think there is any\nproblem with that?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1523679,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e This is complicated. I think AI and\nprivacy is a complex area. Um, and it",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1529520,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "depends a lot on the company that you\nare sharing your data with. So, for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1533840,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "example, I trust all the hyperscalers to\nreally 100%, you know, follow their",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1540080,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "terms of service and to do what they\nsay. my personal opinion not not giving",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1543279,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "legal business advice but I'd be shocked\nif you know the largest hyperscalers",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1547120,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "publish the terms of service with some\nprivacy notice and if they breach that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1550960,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because that would be not the culture be\nso damaging of the long-term business",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1554000,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "model now that's on the largest\nhyperscaler side if you look at AI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1558400,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "company's side there's been you know at\nleast one company that I won't name that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1563600,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seems to occasionally change the terms\nof service and if you're using it you go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1568480,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to the website so you pop up hey we\nchanged the terms of service to retain",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1571600,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your data or train your data and if\nyou're aren't paying attention and click",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1574640,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the wrong button then they suddenly gave\nthemselves permission to access your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1579360,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "data in a way that I'm not that\ncomfortable with. I feel like I handle",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1582480,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know some sensitive information. So\nthen I tend to be very careful with the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1587120,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "businesses that I just don't feel that\nculture and the DNA and frankly the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1592320,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "long-term business model is as tied to\nprotecting individual user privacy than",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1597600,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the hyperscalers. And um I see\nbusinesses, you know, get this as well.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1603600,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "For example, one of my teams, AI Aspire,\nwe work with very large corporations,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1607600,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "including banks, with incredibly\nsensitive financial data. And as you can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1613840,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagine, AI Aspire and our and our\nclients do not willy-nilly share, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1619760,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, really sensitive I often material\nnonpublic information, right? NPI uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1625039,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with Frontier with with Frontier Labs\nwithout really careful thinking about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1629919,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the guardrails and privacy. So I think\nit's complicated.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1632640,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So trusting hypers scale, but also u\nanother thing that you can do, you can",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1636159,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "download an open source model and just\nrun it on your computer and then it just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1639360,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stays on your computer, right?\n\u003e\u003e Yes. I think yes I it turns out a lot of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1643360,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "banks will actually run um the things in\nuh you know a virtual private car or on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1647600,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prem so they so it never even leaves\ntheir control but I think for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1651039,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "individuals it's true for for the really\nsensitive things um uh I sometimes run a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1656000,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "local model and it's been interesting\nwith the open way models some of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1659200,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "latest open way models are approaching\nfrontier capability and that are you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1663919,
+    "dDurationMs": 3521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know actually small enough they're\nactually really good models now they can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1667039,
+    "dDurationMs": 2081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "run on it\n\u003e\u003e yeah the one from Meta right the recent",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1668880,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one\n\u003e\u003e oh yes Metamuse is a good model and I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1670880,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thinking Also the latest version of Quen\nis also very good but I think frankly",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1674640,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these models change every other week. So\nI think the best practice is to not get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1679440,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stuck on one but keep on trying new\nmodels.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1681840,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So basically when there is a situation\nthat you don't trust anyone you run a",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1685360,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "local model and this is how you keep\nyour data safe.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1688320,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I do trust the hyperscalers but\nsometimes for you know literally NMPI",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1693440,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "material nonpublic information that I\nwon't even send to that I just can't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1697279,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even send that to the cloud. So that uh\nI'll either do it manually without AI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1702000,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "help or if I really need to use AI then\nyou know really carefully only use a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1707200,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "local model.\n\u003e\u003e Interesting. Okay. This is this is this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1710080,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is an interesting one. Okay. What about\nloss of human control over AI? Because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1716159,
+    "dDurationMs": 10000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I've talked to I talked to Yoshua Benja\nwho is very um negative when it comes to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1722480,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "open free AI without any regulation and\nhe painted me some very scary pictures",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1729200,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of AI taking over control because we\nbasically the the whole scenario is we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1734480,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can't control something that's smarter\nthan us and if AI gets smarter and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1738399,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "smarter where where do we end up? What\ndo you think about that? I think about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1741520,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something else that we can't control\nwhich is um airplanes. No one can build",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1746480,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "an airplane that you can fly perfectly.\nWinds will buffet it around. And then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1750799,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "candly in the early days of developing\nairplanes, some airplanes crash and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1754799,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people died and it was tragic and awful.\nBut through the early lessons learned,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1759840,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we then learned to control airplanes\nbetter and better. So that today, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1763440,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, we can mostly get in an airplane\nand not fear too much for our lives. And",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1768080,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's really like that too of AI. No one\ncan perfectly control AI because it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1772320,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generates tokens or outputs that a\nlittle bit random. So we don't really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1776080,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know what exactly it'll do. But as we\nrun them and you know there's been a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1780480,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "small number of mishaps which is\nunfortunate and some number of mishaps",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1784559,
+    "dDurationMs": 9281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have done some real damage but the way\nwe engineer almost any system from an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1789600,
+    "dDurationMs": 9439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "airplane to electric circus to now AI is\ncarefully grow their capabilities so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1797200,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that we can have a controlled\nenvironment in which to measure what's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1801279,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wrong and then to shape it to make sure\nwe can control it well enough that it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1805360,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "behaves responsibly and safely and to\nthis day we can't perfectly control any",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1809200,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "airplane and we will never perfectly\ncontrol AI either but I think um we are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1814799,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "certainly controlling them well enough\nthat this loss of control doesn't feel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1819279,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like science science\n\u003e\u003e fiction yeah what about deep fakes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1824559,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e deep fakes are a problem well one of the\nmost disgusting things I've ever seen or",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1828880,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "heard of is non-consensual\nintimate deep fake imagery",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1833840,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I'm really glad that you know US\nCongress has been moving Right. Let's",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1837360,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pass laws. Get rid of that. Penalties\nfor that. I'm just I think there's some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1840960,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really problematic uses of AI that we\nshould outlaw, heavily penalize. Let's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1845600,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just get rid of that.\n\u003e\u003e What do you think about children and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1848399,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "social connection when it comes to AI\nwith kids using more of AI? Because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1852720,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we've seen social media how, you know,\nthere are people who are dumb scrolling",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1857279,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all day and my daughter who is 5 years\nold now, whenever I don't have an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1861200,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "answer, he's like, \"Ask Chad GPT.\" And\nlike, who's that person? I'm like, \"I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1865440,
+    "dDurationMs": 9119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't know. Ask Jajiv Viti like she\nthinks Jaji knows everything. What would",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1870720,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you say about you know kids future with\nAI?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1875200,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e First I think kids have a bright future.\nIt's just such an exciting time to be",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1878480,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "child to grow up in this environment\nwith tools that none of us ever had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1881279,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "before. [gasps] At the same time we've\nseen that social media um I think social",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1886320,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "media has probably been blamed a bit\nmore than it deserves. But it does",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1889679,
+    "dDurationMs": 9041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deserve blame uh has kind of not been\ngreat for kids. I actually worry a lot",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1894640,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about it's a wonderful tool, but AI\ndamaging learning is something I worry a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1900960,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot about. So, it turns out um I have a\n5-year-old and a seven-year-old. When I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1905679,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teach them math, they're so young enough\nthat I can basically, you know, not let",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1909679,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them use a calculator, can say, \"How do\nyou multiply these numbers?\" And I don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1914080,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "give them a calculator and practice that\nwith them. But as they're a little bit",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1916880,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "older, I worry a lot about students\nusing cognitive offloading to AI in a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1922960,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "way that damages the long-term learning\nretention. Um, but then at the same",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1927039,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time, oh, I actually built an app. I did\nnot like any of the, you know, free",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1930720,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "online learning to type types of things.\nSo, I actually built my own to um have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1935679,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my daughter learn to type. And I'm\nhoping that she's actually getting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1939360,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pretty decent now for a seven-year-old.\n\u003e\u003e Oh, she's Oh, yeah. She actually typed",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1942960,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all the lowercase letters. she's a\nlittle bit fit, you know, not her shift",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1947360,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uppercase letter is a little bit not\nquite there. But I think that this um",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1951679,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unlocks, you know, responsible adult\nsupervised use of online tools and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1957919,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think it's really tricky. You know, I\nthink um adult supervised use of digital",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1963440,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tools seems a great thing for kids, but\ntoo many adults don't have time to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1966799,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "supervise the use of the tools and then\nthe incentives of [gasps] say social",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1970559,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "media, right, to do funny things.\n\u003e\u003e Yeah. has to be the right incentive when",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1975360,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it comes to AI. Okay. [snorts] You\nmentioned we we talked about the fears.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1979360,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We talked about how you can improve your\nwork with AI. Can you name some of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1984159,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "biggest opportunities in AI in 2026 for\npeople who want to build? for an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1988799,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "individual that wants to build. I don't\nthink it's one size fits all, but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1993519,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because the cost of building has\nplummeted,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1997600,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um, [clears throat]\nI encourage people to learn AI, build",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2002000,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fast, and talk to customers. I find\nmyself building things, I don't know,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2008399,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "every week, every weekend because I or\nsomeone on our team, we have some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2012799,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problem and I have some idea for\nbuilding some AI thing. to automate it.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2019039,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Last weekend, I had really I was using a\nfrontier model to analyze a lot of our",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2023519,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "key business metrics because I didn't\nhave time to do it myself, but it was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2026720,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of measuring, you know, deandized\nkey business metrics and I didn't have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2031279,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time to go find a data scientist to go\nwork me on it. So, I just did variety of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2035919,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "frontier models being really careful on\ntheir uh data retention policies. I did",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2040559,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not use models with data retention\npolicies I don't like uh in order to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2044399,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "analyze data. But and then I find that\num what's happen of AI is the cost of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2050000,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "building has plummeted and so the\nchallenge is shifting to deciding what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2053679,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to build which I was calling which I've\nbeen calling the product management",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2056879,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bottleneck and so people you know\nfounders engineers product managers that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2061919,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can talk to customers get a sense for\nthe taste of judgment on what to build",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2066399,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and then build with AI and iterate\nquickly. I think that's just a ton of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2070320,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exciting things to do\n\u003e\u003e and you've been starting so many",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2072560,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "companies. You're like when I looked at\nyour portfolio, do you think for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2076240,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "beginners when you said you built\nsomething during the weekend, how do you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2079919,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decide what to focus on or you can\npursue multiple ideas because of AI now",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2083440,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you can just be, you know, playing\nin different companies at the same time.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2087119,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e It turns out building a company is still\nreally, really hard and so there's a lot",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2090960,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to be said for a single threaded\nleadership or someone that's fully",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2094159,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "focused on just one thing. I find it,\nyou know, over a weekend I can often",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2098320,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "build an Elm wrap, build a simple\napplication, but I wish it was that easy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2103359,
+    "dDurationMs": 8961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to build a large company. Um, I find\nthat building something meaningful often",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2109280,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "takes either real technical depth uh and\nor deep customer insight and integration",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2115040,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with customers. And yes, we can now, you\nknow, use AI to code something in a few",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2120079,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hours, but that's a small piece of the\npuzzle. So spending time understanding",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2124320,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the technical complexity and building\nthe really complex software that takes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2128160,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "us like months you know maybe years or\nhaving that deep custom insight to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2132240,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decide what to build that also just\ntakes a lot talking to people reading",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2135280,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "facial expressions surveys doing that\nover and over until we figure out what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2138880,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to build. Um and so I think sometimes\nthere's a lot of value to sampling",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2143440,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "widely but then having that focus for an\nindividual to go really deep in a couple",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2148240,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sectors that that still seems important\nfor building a business. My last",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2151760,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "question, I know it's we don't have much\ntime, but I wanted to ask you about AGI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2155839,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just because people use this word so\nmuch and some people say I think Jensen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2160000,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hang said we already reached AGI. You\nsaid it's decades away. What's the one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2165200,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "criteria when you're going to say we\nreach AGI?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2168560,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So different people say we reach AGI at\ndifferent times because of different",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2171839,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "definitions of AGI. The definition I'm\nmost familiar with is AI that could do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2176000,
+    "dDurationMs": 9359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "any intellectual task that a human can.\nBut so the human brain can take say five",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2182079,
+    "dDurationMs": 8641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "years to study and do a PhD thesis or or\nand so can AI write a PhD thesis or a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2188320,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "human can learn to drive a truck through\na dense rainforest with you know tens of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2193040,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "minutes of practice. So when can AI do\nthat to drive new environment with tens",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2197280,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of minutes of practice. It feels like\nthere's a long list of these things that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2201760,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "AI cannot do uh for what feels to me\ndecades. I hope it's only decades. maybe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2208000,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you turn out to be longer. So that's why\nI think for that definition of AI or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2211760,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "AGI, AGI is still very far away.\n\u003e\u003e But um it turns out because of you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2217440,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "economic incentives, I think open\nMicrosoft had an agreement that's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2220960,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually been renegotiated now. So\nthat's gone away. But open AI had an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2224480,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "economic incentive to try to declare\nreaching AGI earlier. Uh and so it turns",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2230000,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out that if you come up with other\ndefinitions of AI depending on how far",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2234240,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you lower the bar then you could totally\nhave reached AGI you know already or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2238720,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even 30 years ago depending on how you\nwant to define it.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2241440,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah true Andrew thank you so much for\nthis positive conversation very",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2245440,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "applicable. I like when u you watch\nsomething and then you go and you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2249520,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "measure yourself against what people are\ndoing with AI look at your process and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2254240,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh maybe expand it. So thank you so much\nfor showing what your team is doing and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2258079,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thank you for your insights. Yeah, I\nthink given the huge benefits of AI to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2263119,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "come, I hope whoever was watching this\nis motivated to really go learn AI,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2268000,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apply it, um, and and even to go build\nsome",
+      "acAsrConf": 0
+    } ]
+  } ]
+}
