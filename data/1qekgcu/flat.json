@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "nzy52dl",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 9,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzy52dl/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768581792.0
+  },
+  {
+    "id": "nzy5llt",
+    "author": "NextGenAIInsight",
+    "body": "Lol fair 😄 I used AI to help edit, but the points are mine. What part do you disagree with?",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzy5llt/",
+    "parent_id": "t1_nzy52dl",
+    "created_utc": 1768581933.0
+  },
+  {
+    "id": "nzy9sxs",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 6,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzy9sxs/",
+    "parent_id": "t1_nzy5llt",
+    "created_utc": 1768583049.0
+  },
+  {
+    "id": "o00k74q",
+    "author": "Hefty-Reaction-3028",
+    "body": ">everything in the LLM world are prompts that are either direct(user) or the app (cursor/claude) appending their own prompts behind the scenes.\n\n\nI mean, you're not wrong except the \"everything\" part. Retraining, loras, stuff like that actually ARE necessary to make a foundation LLM useful. You absolutely can't do it with prompt engineering alone.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o00k74q/",
+    "parent_id": "t1_nzy9sxs",
+    "created_utc": 1768606249.0
+  },
+  {
+    "id": "o00w0yc",
+    "author": "Electronic_Exit2519",
+    "body": "The Biotech take is the most egregious for me to be honest. Coming up with molecules that you can't effectively screen out let alone advance through the clinic is not a bottleneck that exists.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o00w0yc/",
+    "parent_id": "t1_nzy9sxs",
+    "created_utc": 1768610308.0
+  },
+  {
+    "id": "o0c0vcf",
+    "author": "fenixnoctis",
+    "body": "You are interacting with an LLM end to end. Even this reply by OP was an LLM callback.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0c0vcf/",
+    "parent_id": "t1_nzy9sxs",
+    "created_utc": 1768761148.0
+  },
+  {
+    "id": "nzz8zfn",
+    "author": "danteselv",
+    "body": "AI engineering is not \"What ML scientists do\".\n\nML engineer = does science  \nAI engineer = applies science\n\nThis wouldn't matter if you hadn't presented yourself as some expert critic.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzz8zfn/",
+    "parent_id": "t1_nzy9sxs",
+    "created_utc": 1768592446.0
+  },
+  {
+    "id": "o00klho",
+    "author": "Hefty-Reaction-3028",
+    "body": "Engineering skills are necessary for scientists, and scientific knowledge is necessary for engineers\n\n\nBut ML engineers do not do science (except as a side thing if your company doesn't have any scientists). They engineer machine learning software. AI engineers are very similar, and nowadays, essentially are the same as ML engineers because very few people study AI that isn't ML.\n\n\nAI is a slightly broader category than ML. AI includes ML and also things like expert systems where the logic is created by a human. ML is specifically when you use an algorithm to improve a computer's performance at some task.",
+    "score": 3,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o00klho/",
+    "parent_id": "t1_nzz8zfn",
+    "created_utc": 1768606385.0
+  },
+  {
+    "id": "nzzd3zc",
+    "author": "gatorling",
+    "body": "ML is the term researchers use when referring to AI. \nAI is the term the general public use to describe machine learning; and increasingly used to refer to generative AI. \n\nML/AI engineers mostly concern themselves with fine tuning existing foundational models , setting up the data pipelines and integrating ML into products. \n\nML/AI researchers typically focus on pushing the boundary of the field and are more concerned about publishing papers and discovering new architecture. \n\n\nBut yes, OP has no idea what they are talking about. The progress of AI in the field of code generation has been amazing in the last 3 years. It has gone from useless to a dependable productivity tool. It's not hard to imagine that in 1 or 2 years I'll mostly be specifying what I want to an LLM and then tweaking the output. \n\nWill it replace all SWEs in 1-2 years? Probably no, but it will reduce labor demand significantly.",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzzd3zc/",
+    "parent_id": "t1_nzz8zfn",
+    "created_utc": 1768593589.0
+  },
+  {
+    "id": "nzyh0ak",
+    "author": "wosayit",
+    "body": "And who the fuck are you? Some authoritative figure that has talked to industry leaders? You know jack shit just like the rest of us.",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzyh0ak/",
+    "parent_id": "t1_nzy5llt",
+    "created_utc": 1768584964.0
+  },
+  {
+    "id": "nzz7hj4",
+    "author": "fligglymcgee",
+    "body": "Funny, the edit you let the llm make transformed your own original writing into the exact same language and formatting it would have generated from scratch.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzz7hj4/",
+    "parent_id": "t1_nzy5llt",
+    "created_utc": 1768592026.0
+  },
+  {
+    "id": "o00wmma",
+    "author": "TheCamerlengo",
+    "body": "I don’t thinking coding “dna sequences” makes any sense whatsoever. Expand.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o00wmma/",
+    "parent_id": "t1_nzy5llt",
+    "created_utc": 1768610516.0
+  },
+  {
+    "id": "o03iwaq",
+    "author": "NoleMercy05",
+    "body": "It's ridiculous and dumb",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o03iwaq/",
+    "parent_id": "t1_nzy5llt",
+    "created_utc": 1768654516.0
+  },
+  {
+    "id": "o0131gb",
+    "author": "DiverVisible3940",
+    "body": "I actually use AI all the time.  But for some reason when people use it for personal correspondence (I'll include this post) I find it unbearable.\n\nLike your words are more than just a representation of your thoughts.  The literally action of forming thoughts to words is part of what creates your understanding of the world and your relationship with it.\n\nThis idea that you have all these great thoughts but can't put them into words is an illusion.  Replacing your thought with AI's language is just a travesty.\n\nThe tone and diction of the LLMs is also insanely aggravating.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0131gb/",
+    "parent_id": "t1_nzy52dl",
+    "created_utc": 1768612885.0
+  },
+  {
+    "id": "o0autp8",
+    "author": "CagedBeast3750",
+    "body": "I respectfully disagree.   I so often have a bullet list of thoughts i need to convey and I have never been able to write well articulated correspondence.  Ai has really been helpful for me here",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0autp8/",
+    "parent_id": "t1_o0131gb",
+    "created_utc": 1768749179.0
+  },
+  {
+    "id": "o0b65bx",
+    "author": "DiverVisible3940",
+    "body": "It's fine, of course you can do what you want.  It is just a difference in disposition and priority!  I do worry about the congestion of AI-articulated bullet points online, though.  I think eventually there will become a huge appetite for authenticity but on the way there you are never going to know what is human and what is not and to what extent.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0b65bx/",
+    "parent_id": "t1_o0autp8",
+    "created_utc": 1768752489.0
+  },
+  {
+    "id": "o03qtmt",
+    "author": "FWitU",
+    "body": "“The truth about…” giant ai red flag",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o03qtmt/",
+    "parent_id": "t1_nzy52dl",
+    "created_utc": 1768657550.0
+  },
+  {
+    "id": "o061uk1",
+    "author": "iamamoa",
+    "body": "Increasingly posts edited by AI are the most informative and engaging. What’s becoming slop are comments like this that just try to call it out.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o061uk1/",
+    "parent_id": "t1_nzy52dl",
+    "created_utc": 1768681848.0
+  },
+  {
+    "id": "nzzc68f",
+    "author": "seanpuppy",
+    "body": "Don't think of it as AI replacing devs... think of it as AI making the good devs 2-5x as productive as before. Now what happens to the \"bad devs\"? \n\nImagine if overnight semi trucks were allowed to operate twice as far per day. All of a sudden the freight capacity has doubled but the demand is the same... do you think the number of truck drivers will remain the same?",
+    "score": 4,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzzc68f/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768593326.0
+  },
+  {
+    "id": "o01ibku",
+    "author": "snipsuper415",
+    "body": "i think that is the wrong metaphor. i think it's closer imagine a truck driver bring able operate 2 to 3 times more trucks at once instead of operating the 1 truck thanks to extreme efficient tools and automation. you'll need less truck drivers to move the same amount of stuff",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o01ibku/",
+    "parent_id": "t1_nzzc68f",
+    "created_utc": 1768618687.0
+  },
+  {
+    "id": "o01tz80",
+    "author": "seanpuppy",
+    "body": "I like that metaphore better",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o01tz80/",
+    "parent_id": "t1_o01ibku",
+    "created_utc": 1768623313.0
+  },
+  {
+    "id": "o02bk43",
+    "author": "band-of-horses",
+    "body": "I’ll be curious to see how this plays out, because one way to look at it is that companies will need less people to do the same amount of work, but the flip side is that companies could also do a LOT MORE while keeping staff levels the same. \n\nMost companies always have more priorities they want to work on than they have people to work on them, so instead of leading to less employment this could instead allow all those executives and product managers to finally get all the output and experiments and parallel work they’ve dreamed of.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o02bk43/",
+    "parent_id": "t1_o01ibku",
+    "created_utc": 1768631330.0
+  },
+  {
+    "id": "o02e4cb",
+    "author": "snipsuper415",
+    "body": "there is always more work to do...all we can do is just be a better problem solver",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o02e4cb/",
+    "parent_id": "t1_o02bk43",
+    "created_utc": 1768632658.0
+  },
+  {
+    "id": "o03fdld",
+    "author": "ChallengeDiaper",
+    "body": "You’re right, but I think in most cases executives will just use this as a justification to cut direct costs but continue to demand more.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o03fdld/",
+    "parent_id": "t1_o02bk43",
+    "created_utc": 1768652975.0
+  },
+  {
+    "id": "o04vdik",
+    "author": "4215-5h00732",
+    "body": "But there isn't an infinite amount of more work to do, wanted, or needed, so what happens when the extra bandwidth gets them caught up and they have more people than work?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o04vdik/",
+    "parent_id": "t1_o02bk43",
+    "created_utc": 1768669721.0
+  },
+  {
+    "id": "o61n14z",
+    "author": "ResponsibleGulp",
+    "body": "There is in fact an infinite amount of more work to do",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o61n14z/",
+    "parent_id": "t1_o04vdik",
+    "created_utc": 1771419364.0
+  },
+  {
+    "id": "o62sxt6",
+    "author": "4215-5h00732",
+    "body": "Theoretically, yes. In reality, absolutely not.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o62sxt6/",
+    "parent_id": "t1_o61n14z",
+    "created_utc": 1771431981.0
+  },
+  {
+    "id": "o62tutq",
+    "author": "ResponsibleGulp",
+    "body": "I don’t know, all historical evidence implies that as problems are solved, new problems come up. Every company, even after saturating their niche, can at least invest in optimizing the allocation of their financial assets. But evidence suggests there is an infinite amount of work to do as a species.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o62tutq/",
+    "parent_id": "t1_o62sxt6",
+    "created_utc": 1771432230.0
+  },
+  {
+    "id": "o632ola",
+    "author": "4215-5h00732",
+    "body": "But locally, that's not true. There are not, for example, an infinite number of construction projects available. Companies can, of course, increase their region, go national or even international. That's not always an easy thing to do, but even if it were, you're just putting pressure on a different market. \n\nThe other part is just the basic function of the economy - it's cyclic. There will always be periods of contraction where work dries up and hiring slows or stops. I take \"infinite\" literally and assume it also means continuous.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o632ola/",
+    "parent_id": "t1_o62tutq",
+    "created_utc": 1771434628.0
+  },
+  {
+    "id": "o01inl3",
+    "author": "iComeInPeices",
+    "body": "I know a couple of tpm folks that were “failed devs” that are now replacing several developers, because they know what works and what to ask for.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o01inl3/",
+    "parent_id": "t1_nzzc68f",
+    "created_utc": 1768618811.0
+  },
+  {
+    "id": "o06dqlw",
+    "author": "BosonCollider",
+    "body": "In the truck analogy, it would be like a truck driver operating three trucks at once, but once a week one of them gets stuck in montana while he is in florida",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o06dqlw/",
+    "parent_id": "t1_nzzc68f",
+    "created_utc": 1768685523.0
+  },
+  {
+    "id": "o0b6her",
+    "author": "Antique_Aside8760",
+    "body": "one thing that happens is the price drops and people that wanted a dev beforehand but couldnt afford them suddenly are adding their demand to the market and the amount of work increases.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0b6her/",
+    "parent_id": "t1_nzzc68f",
+    "created_utc": 1768752583.0
+  },
+  {
+    "id": "o0c5zqb",
+    "author": "seanpuppy",
+    "body": "Possibly true, especially in low stakes projects like freelance front end dev. I think certain roles could lead to even higher salaries than the past few years if developers can be experts on high impact projects doing the work of what would be a team of people.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0c5zqb/",
+    "parent_id": "t1_o0b6her",
+    "created_utc": 1768762540.0
+  },
+  {
+    "id": "o0vlfgl",
+    "author": "greasyjon1",
+    "body": "Why are we assuming demand is the same? Customers wouldn't want more features and fewer bugs? Businesses wouldn't want more scale and efficiency?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0vlfgl/",
+    "parent_id": "t1_nzzc68f",
+    "created_utc": 1769012151.0
+  },
+  {
+    "id": "nzzewv2",
+    "author": "ceacar",
+    "body": "every coworker is vibe coding. i think AI replacing developers are already happening extensively.\n\na boring task usually takes a day, now it's about 1 hr.",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzzewv2/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768594096.0
+  },
+  {
+    "id": "o0akrng",
+    "author": "Aware-Individual-827",
+    "body": "And the bugs it creates used to be 1h to debug because of code ownership and now it's 12h haha",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0akrng/",
+    "parent_id": "t1_nzzewv2",
+    "created_utc": 1768745942.0
+  },
+  {
+    "id": "o0boed8",
+    "author": "ceacar",
+    "body": "Your statement is certainly true in some cases. But recently I have found LLM is getting a lot smarter and is able to grasp complex idea of a big project.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0boed8/",
+    "parent_id": "t1_o0akrng",
+    "created_utc": 1768757701.0
+  },
+  {
+    "id": "o133xdv",
+    "author": "Her3ForKnowledge",
+    "body": "I felt this more than I would like to admit. The bugs ai introduces if you let it drive especially in a mid to large code base is not worth it. If i want something done by AI i have to simplify the question and provide small snippets to get a decent answer otherwise im spending the next 3 hours checking the git diff to make sure it didnt change something it was not supposed to",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o133xdv/",
+    "parent_id": "t1_o0akrng",
+    "created_utc": 1769104503.0
+  },
+  {
+    "id": "o14cm2f",
+    "author": "Aware-Individual-827",
+    "body": "Yeah! For me I give functions that are low risk, easy and low value to AI to generate.\n\n\nOther time it's mostly to have inspiration on how it does this thing and then take it, make it more robust, more efficient etc. it's very good for first draft.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o14cm2f/",
+    "parent_id": "t1_o133xdv",
+    "created_utc": 1769116700.0
+  },
+  {
+    "id": "o0ar389",
+    "author": "[deleted]",
+    "body": "its replacing developers in some tasks, but this also frees up devs to work on more interesting, tougher problems.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0ar389/",
+    "parent_id": "t1_nzzewv2",
+    "created_utc": 1768748012.0
+  },
+  {
+    "id": "o0bnqdk",
+    "author": "ceacar",
+    "body": "This is a much beautiful of saying it. But in reality. What you are saying mean less demand for developers. Developers gonna be one less well paid job and loads of people gonna lose their job.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0bnqdk/",
+    "parent_id": "t1_o0ar389",
+    "created_utc": 1768757508.0
+  },
+  {
+    "id": "o0c466f",
+    "author": "[deleted]",
+    "body": "I'm not so sure about this. When excel was invented, it probably replaced the work of many accountants, which was number crunching on spreadsheets. And yet there's still many accountants still around, the nature of the work just changed. But I also think destiny could lose jobs, its hard to say until we look back in retrospect.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0c466f/",
+    "parent_id": "t1_o0bnqdk",
+    "created_utc": 1768762045.0
+  },
+  {
+    "id": "nzy84g4",
+    "author": "DaRandomStoner",
+    "body": "Over past few months I haven't read or wrote a single line of code. Even debugging is becoming an automated process. I'm building things out that would have taken a small team of more qualified people months in days/weeks. \n\nI think context engineering (not prompt engineering) will become the most in demand skill in the tech industry by the end of the year. Most people have never heard of a context graph... never built or used a skill or subagent... I don't think most devs have even setup a claude/agent md file yet. \n\nBottom line is that if you're not learning to manage context and use these tools now you are going to fall behind the curve this year.",
+    "score": 3,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzy84g4/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768582598.0
+  },
+  {
+    "id": "o010tm2",
+    "author": "Primary_Bee_43",
+    "body": "1000% agree and nobody seems to realize this yet. managing context and a workflow that allows you to iterate and build while understanding, is the future. I’ve been building extremely fast while never letting my projects exceed my knowledge level",
+    "score": 3,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o010tm2/",
+    "parent_id": "t1_nzy84g4",
+    "created_utc": 1768612041.0
+  },
+  {
+    "id": "o032gju",
+    "author": "rangorn",
+    "body": "Sounds like somekind of human in the loop (HIL) development. Problem is still that people forget and make mistakes so I have made sure that the agents documents the general structure of the project with a top document and then you can drill down into the specific parts. But anyways I am the bottleneck nowadays the agents can run all day but I need coffee and food.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o032gju/",
+    "parent_id": "t1_o010tm2",
+    "created_utc": 1768646228.0
+  },
+  {
+    "id": "nzz9xt9",
+    "author": "Ok_Addition_356",
+    "body": "I don't completely disagree with your opinion but I think calling \"context engineering\" a form of engineering is being a little too generous IMO.  \n\nLike this statement: \"Most people have never heard of a context graph... never built or used a skill or subagent\" \n\nThat's because most experienced people don't NEED to know much about that. \n\nIt's not something that's going to be it's own field within STEM.  And certainly a degree in it is going to be worthless since every engineer out there is going to need to understand context usage in LLM assisted development.",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzz9xt9/",
+    "parent_id": "t1_nzy84g4",
+    "created_utc": 1768592711.0
+  },
+  {
+    "id": "o05pl9s",
+    "author": "htnahsarp",
+    "body": "Context engineering seems like a skill now. AI will acquire that too. Remember when you had to specifically give cursor context about your project.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o05pl9s/",
+    "parent_id": "t1_nzz9xt9",
+    "created_utc": 1768678178.0
+  },
+  {
+    "id": "o0l3chb",
+    "author": "mristic",
+    "body": "You don't do that anymore? How do you define context then? I haven't used cursor in about half a year now",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0l3chb/",
+    "parent_id": "t1_o05pl9s",
+    "created_utc": 1768872212.0
+  },
+  {
+    "id": "o0nc22c",
+    "author": "htnahsarp",
+    "body": "I mean the amount of context I out in now is almost nothing compared to what I did before. \nBut also I've been documenting code a lot better do its able to gather context on its own.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0nc22c/",
+    "parent_id": "t1_o0l3chb",
+    "created_utc": 1768907401.0
+  },
+  {
+    "id": "o0bxhyq",
+    "author": "DaRandomStoner",
+    "body": "The context I've engineered for my current systems to use include sql databases and even full blown knowledge graphs. Python scripts for automated data management. Thousands of structured md files... logs... ect... \n\nI've already been approached with offers to purchase or develop systems. People who by all accounts should be more qualified and better positioned to build such a system who have been pouring resources are reaching out to me asking for help or something they can use. \n\nIt's not hard to build them but it's different than traditional programming. It's a different skill and thus requires training. I don't really know what to do about education and degrees and that stuff in light of all this. All I can tell you is that there is going to be big money for people who can put these systems together in a way that works over the next few years or so. After that I don't really know what to expect the world is going to look a lot different by then I suspect.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0bxhyq/",
+    "parent_id": "t1_nzz9xt9",
+    "created_utc": 1768760235.0
+  },
+  {
+    "id": "nzy9ji6",
+    "author": "nivix_zixer",
+    "body": "I work for a progressive tech company with lots of legacy code. They have really embraced AI in the last 6 months. Coincidentally - the number of incidents for our products has also increased. By a large amount. \n\nAnd the worst part is, engineers are silent about the root cause analysis because they don't 100% understand the code. AI is causing problems and I'm happy to be one of the few engineers still writing code. It makes me very valuable and the first engineer they call for incident response.",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzy9ji6/",
+    "parent_id": "t1_nzy84g4",
+    "created_utc": 1768582977.0
+  },
+  {
+    "id": "o00gc5o",
+    "author": "hooli-ceo",
+    "body": "This is a problem now, but by the time upper management is aware there’s a serious problem it’ll probably be too late, and there will be no one left who knows how the code is actually working. RIP",
+    "score": 3,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o00gc5o/",
+    "parent_id": "t1_nzy9ji6",
+    "created_utc": 1768604970.0
+  },
+  {
+    "id": "o02bvlx",
+    "author": "band-of-horses",
+    "body": "The biggest problem with AI tools is that they let you be really lazy while seeming productive and having output that seems to work. But if you fall into that you’ll have a lot of bugs and wtf code. The real skill lies in not getting complacent, understanding the strengths and weaknesses, and knowing when to drive, how to direct, and how to review and test properly.",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o02bvlx/",
+    "parent_id": "t1_nzy9ji6",
+    "created_utc": 1768631495.0
+  },
+  {
+    "id": "o03ymb5",
+    "author": "Electronic_Yam_6973",
+    "body": "Do developers not review the output from the AI and then test before pushing the code? That’s crazy, they are just bad developers if they are not doing that.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o03ymb5/",
+    "parent_id": "t1_o02bvlx",
+    "created_utc": 1768660133.0
+  },
+  {
+    "id": "o03gbgb",
+    "author": "ChallengeDiaper",
+    "body": "Automation testing doesn’t catch everything, but if your incident rate has gone up that significantly sounds like an area your company needs to improve on.\n\nMost companies do a poor job of automation testing. The amount of code being generated is multiplying due to AI. This increases the need and importance for automation testing.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o03gbgb/",
+    "parent_id": "t1_nzy9ji6",
+    "created_utc": 1768653410.0
+  },
+  {
+    "id": "o04vtma",
+    "author": "nivix_zixer",
+    "body": "I've been an SE for a long time, I understand the right way to do this. But it's like screaming into the void, and the more these guys use AI the more smooth their brain becomes. \n\nSo instead I just sit back and sip my coffee, waiting for the next incident where I am seen as useful.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o04vtma/",
+    "parent_id": "t1_o03gbgb",
+    "created_utc": 1768669846.0
+  },
+  {
+    "id": "o00fzfw",
+    "author": "ColdSoviet115",
+    "body": "So the future is making 2 new jobs. Context/ System Engineers and Verification Engineers. Despite your more reliable and consistent coding skills, the economy does not demand perfect code. But seeing the labor pool transform during a technological revolution is a treat.",
+    "score": 0,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o00fzfw/",
+    "parent_id": "t1_nzy9ji6",
+    "created_utc": 1768604857.0
+  },
+  {
+    "id": "o00wnvh",
+    "author": "nivix_zixer",
+    "body": "There will always be a niche in the economy that demands perfect systems. Nuclear power plant control systems for example.. or banking software.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o00wnvh/",
+    "parent_id": "t1_o00fzfw",
+    "created_utc": 1768610528.0
+  },
+  {
+    "id": "nzyb59a",
+    "author": "Pitiful-Sympathy3927",
+    "body": "This is what I have been saying, it won't replace competent engineers, if they learn the tools.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzyb59a/",
+    "parent_id": "t1_nzy84g4",
+    "created_utc": 1768583406.0
+  },
+  {
+    "id": "nzypbf3",
+    "author": "Timely-Group5649",
+    "body": "Yep.\n\nCompetent engineers use the tools too. \n\nFailures complain that they exist.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzypbf3/",
+    "parent_id": "t1_nzyb59a",
+    "created_utc": 1768587171.0
+  },
+  {
+    "id": "nzzee0p",
+    "author": "Imaginary_Beat_1730",
+    "body": "What you say makes no sense at all. When i use AI i always have to read the code to cross check it. No way i am copy pasting code without proof reading, people who do what you say are unskilled and should be in no tech related role; period.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzzee0p/",
+    "parent_id": "t1_nzy84g4",
+    "created_utc": 1768593949.0
+  },
+  {
+    "id": "o00mqig",
+    "author": "Marod_",
+    "body": "Why are you copy pasting code at all? Are you using a web based LLM? Or something?",
+    "score": 2,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o00mqig/",
+    "parent_id": "t1_nzzee0p",
+    "created_utc": 1768607114.0
+  },
+  {
+    "id": "nzztma3",
+    "author": "WalidfromMorocco",
+    "body": "These people don't have the experience to read the enormous slop that these LLMs output, so they enable \"accept edits\" and let the LLM generate what it wants until the code compiles. They are not reviewing because they won't even be able to do it, as that would require an understanding of backend, frontend, database, devops, etc. It will be interesting when VC money runs out and the real subscription costs come out.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzztma3/",
+    "parent_id": "t1_nzzee0p",
+    "created_utc": 1768598253.0
+  },
+  {
+    "id": "nzy8kzd",
+    "author": "NextGenAIInsight",
+    "body": "Exactly 100% right..! Must know the latest AI Trends and its usage",
+    "score": 0,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzy8kzd/",
+    "parent_id": "t1_nzy84g4",
+    "created_utc": 1768582719.0
+  },
+  {
+    "id": "nzyatdd",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 0,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzyatdd/",
+    "parent_id": "t1_nzy84g4",
+    "created_utc": 1768583319.0
+  },
+  {
+    "id": "o0012ie",
+    "author": "6maniman303",
+    "body": "Exactly. And I will be more then happy to learn the battle tested methods and tools IF the multi agent AI workflows will become the standard.\n\nI already have a good and stable job, where I do more significantly more then required. I am compensated well. I don't need to run in a rat race to be the cutting edge first.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0012ie/",
+    "parent_id": "t1_nzyatdd",
+    "created_utc": 1768600361.0
+  },
+  {
+    "id": "o013mau",
+    "author": "lukazzzzzzzzzzzzzzz",
+    "body": "ye, but until you put everything and kapbom!",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o013mau/",
+    "parent_id": "t1_nzyatdd",
+    "created_utc": 1768613108.0
+  },
+  {
+    "id": "nzy6bfs",
+    "author": "burlapintern",
+    "body": "Great insights. I'm so tired of the hype </3",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzy6bfs/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768582123.0
+  },
+  {
+    "id": "nzy8khz",
+    "author": "brycecodes",
+    "body": "me when i post using a.i",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzy8khz/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768582716.0
+  },
+  {
+    "id": "nzyggqh",
+    "author": "prehensilemullet",
+    "body": "Does anyone still take obvious AI generated/edited posts seriously at this point?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzyggqh/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768584820.0
+  },
+  {
+    "id": "nzyu2v7",
+    "author": "PresentStand2023",
+    "body": "Don't quit your day job bud",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzyu2v7/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768588425.0
+  },
+  {
+    "id": "nzzaln2",
+    "author": "ryan1257",
+    "body": "Why does many posts on Reddit sound like AI marketing slop?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzzaln2/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768592894.0
+  },
+  {
+    "id": "nzzaowu",
+    "author": "[deleted]",
+    "body": "Everything talks about existing businesses fully staffed IT not seeing gains which could be the case, but here I am with 0 IT seeing huge gains in production so you might just be out of the current",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzzaowu/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768592919.0
+  },
+  {
+    "id": "nzzm1n8",
+    "author": "YangBuildsAI",
+    "body": "AI made me faster at the boring stuff (boilerplate, tests, refactoring) but slower at the important stuff because now I'm also debugging its confident hallucinations and explaining to junior devs why the AI's \"solution\" won't work at scale. The real shift isn't \"AI replacing developers,\" it's \"developers becoming code reviewers who occasionally write from scratch.\"",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzzm1n8/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768596114.0
+  },
+  {
+    "id": "nzzu054",
+    "author": "ninjaluvr",
+    "body": "Stop falling for \"Here’s what’s actually happening\" posts.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzzu054/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768598362.0
+  },
+  {
+    "id": "o00s00u",
+    "author": "Repulsive-Hurry8172",
+    "body": "Project is brown, broken into microservices hell. No way an LLM can assist with the tasks in a major way.\n\n\nI use it for docstrings, code review for non critical work.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o00s00u/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768608913.0
+  },
+  {
+    "id": "o0115h7",
+    "author": "spookyclever",
+    "body": "The good enough models saved me hours this week writing crud code between the data, business and api layers. They’re also doing about 60% of the work porting client code I’ve already written twice as a web app and .net Maui/xamarin code into native mobile code.  \n\nThe unexpected joy of not having to write it a fourth time is really lovely. It messes up all the time and deleted an important file, but it’s so nice not having to slog through doing a whole app again.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0115h7/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768612166.0
+  },
+  {
+    "id": "o013dap",
+    "author": "Initial-Initial-1061",
+    "body": "Yeah AI will replace all developers right after it finishes\n\nwriting code that compiles\n\nremembering project context longer than 5 minutes\n\nand not confidently inventing functions that never existed\n\n\n\nRight now AI feels less like a replacement and more like a very fast junior who never sleeps and also never admits when it has no idea.\n\n\n\nUseful for boilerplate, tests, and refactors when you already know the answer.\n\nDangerous when you dont.\n\n\n\nIf anything, the job didnt disappear, it just shifted from writing code to reading code very suspiciously.\n\n\n\nWake me up when an AI volunteers to own prod at 3am and explain to finance why the AWS bill doubled.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o013dap/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768613011.0
+  },
+  {
+    "id": "o015i7o",
+    "author": "lukazzzzzzzzzzzzzzz",
+    "body": "i am a system/network engineer, i do coding from time to time,mostly low level programming, c/rust, my take is simple, i agree with most of things this post says, because at the end of the days, ai is going to be remind as a tool for humans, thats how they are made, and thats what they are going to be, no matter how technology advances, those who think we as humans are doomed know practically nothing about ai, those who think ai is nothing but a slop also sadly cant not keep up, either short term or long term, but at the end of the day, it all boils down to skill issues, so be better. plus, my comment is not ai generated",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o015i7o/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768613826.0
+  },
+  {
+    "id": "o01j50v",
+    "author": "Clean_Bake_2180",
+    "body": "The most fundamental problem with what AI/Transformers/LLMs are good at is that it’s ultimately not removing the #1 bottlenecks within various industries. Take biotech, the bottleneck was never drug design, it’s the 10-year clinical trial periods where drugs may seem miraculous during pre-clinical and even Phase 1 trials but generally falls apart during Phase 2/3 testing. Even coding productivity, which is by far the #1 thing AI excels at, isn’t solving the main bottleneck in tech. There’s plenty of people who can type fast on keyboards across the world. The bottleneck is good long-term decision-making and not shipping junk features that no one uses and are on a deprecation path basically as soon as it’s shipped. Being able to lay off some of the hands on keyboard guys simply isn’t that compelling of a value prop when you’re spending trillions on infra. Long-term decision making just so happens to be what Transformers are absolutely awful at.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o01j50v/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768618992.0
+  },
+  {
+    "id": "o01ktm2",
+    "author": "ryan_the_dev",
+    "body": "I predict a skills market place will evolve.\n\nhttps://vibeandscribe.xyz/posts/2026-01-11-skills-marketplace.html",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o01ktm2/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768619635.0
+  },
+  {
+    "id": "o026wmk",
+    "author": "damhack",
+    "body": "The perspective you’re missing is that LLMs are nowhere near their final form and test-time scaling and agents using MCP are not the be-all-and-end-all.\n\nVarious large and small AI labs are improving the Transformer architecture, scaling new non-Transformer architectures, and solving issues in causal attention, hallucination, generalization, hierarchical associative memory and logical reasoning.\n\nCurrent SOTA LLMs will not replace the bulk of coding and white collar jobs, but the generation after the next one will.  That generation may only be 2-3 years away.  The winners may not be the obvious large AI labs.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o026wmk/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768628998.0
+  },
+  {
+    "id": "o081exz",
+    "author": "lukazzzzzzzzzzzzzzz",
+    "body": "not realistic, id say most of low skilled humans will be replaced anyways, not because of ai",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o081exz/",
+    "parent_id": "t1_o026wmk",
+    "created_utc": 1768704137.0
+  },
+  {
+    "id": "o0glxuo",
+    "author": "damhack",
+    "body": "I’m not sure why you say “not realistic” when most of the recent papers out of the large AI labs, MIT, Stanford and Harvard are precisely about solving these issues.\n\nCurrent LLMs are almost useless for business but the next generation later this year will be more capable and the generation after will have most of the issues resolved.\n\nbtw I’m an AGI sceptic and I don’t think that current LLMs are actually AI.  But I do keep on top of what is brewing in the labs and I can see many of the issues that hold LLMs back being resolved in the next 2-3 years.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0glxuo/",
+    "parent_id": "t1_o081exz",
+    "created_utc": 1768823053.0
+  },
+  {
+    "id": "o02kih8",
+    "author": "terserterseness",
+    "body": "2027... It's 2026 and I see claude code (currently, others will takeover; it's a race still) replace bags of people. Absolutes like 'ALL' developers obviously won't be the case. You still need devs to do whatever the AI cannot do, but this is not something that requires a lot of devs. Compared to what we have now at least. My company has to work closely with devs from many large NON software (insurance, banking, healthcare, energy etc) companies and yeah, most of the people who work there as developers are literally not worth what they are paid and that IS going to show the coming time. One senior tech lead simply can do most of his team's work without Claude Code (fill in your favorite). If you keep denying this, it's not gonna be great for you unless you are at the top. Distribution if where it is at. If you have happy clients AND work with LLMs a lot, you might be able to eat all their development for years to come while they fire their teams. In our markets, the \\*only\\* reason this is not destroying a bizarre amount of jobs \\*now\\* is companies unsure if their code/data is safe. We are in the EU and they are worried about American companies and their data silos eating simply all their code and data. But outside that, a lot of people would be gone and will be gone.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o02kih8/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768636125.0
+  },
+  {
+    "id": "o04c2h4",
+    "author": "knetx",
+    "body": "This conversation is really boring.\n\nAll you need to do is follow it through to its logically conclusion. Is this industry the first industry to ever have a revolution in the building blocks of its output? The answer is no.\n\nBoth sides have a shade of what's correct. Not too long ago we had 3D printing. People thought that the end result was going to be some level of replicators which could create on demand. Did we get that? Did we eliminate all manufacture jobs? No across the board.\n\nIs it going to be the same here? No. Is this going to end all software jobs? No. You could certainly eliminate some level of labor but the end result will not be as dramatic as the utopian view people have. You will probably eliminate the lower levels of labor and this will have the lasting effect of removing that knowledge which I'm sure some where down the line will be needed. We still have COBOL engineers in high demand.\n\nWe are not getting the utopian dream one side wants. We are not getting the dystopian dream the other side claims either. We are going to land in the middle and everyone will be disappointed. That's history. That's life.\n\nWe all need to do something more productive then arguing about this. Glad you all have opinions.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o04c2h4/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768664281.0
+  },
+  {
+    "id": "o07e9dp",
+    "author": "Old_Promotion_7393",
+    "body": "I work in biotech and the AI hype is utter horseshit. \n\n„AI to code DNA sequences and treat diseases“\n\nWhat does this even mean? There are dozens of programs that can code DNA for you. The DNA code has been solved 60 years ago. Bioinformatics has been around for decades. Give me a pen and paper and I can code DNA for you. Absolute nonsense!\n\nAI won’t be useful to treat diseases because we don’t understand most diseases yet. There are factors that we haven’t found yet. Scientists are still discovering new things in biology all the time. How is AI going to treat diseases if multiple factors sre unknown? \n\nBiotech needs more capital for R&D and less AI delusions. ",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o07e9dp/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768696741.0
+  },
+  {
+    "id": "o0a2yh8",
+    "author": "csppr",
+    "body": "Same here, same opinion.\n\nAI methods (not LLMs) are very good at protein structure prediction and probably protein design, no question about that. They might be good at ligand prediction and design, but that verdict is still out imo.\n\nWhat is being hyped up beyond reason are now foundation models, in particular cell foundation models - and they are very, very bad. The winning teams for this years ARC Virtual Cell Challenge threw (depending on the team) tens to hundreds of thousands in compute at their models, and Turbine equalled their performance with a dirt-cheap regression model.\n\nWe are struggling this much with cell models, it won’t get any easier when we start factoring in tissue/organ/organism complexity. And we have tons of gene expression data to learn from - we can’t even simultaneously profile all epigenetic modifications in the same cell, so there is a huge and critical information layer that we can’t provide to those models (and won’t for probably another decade).",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0a2yh8/",
+    "parent_id": "t1_o07e9dp",
+    "created_utc": 1768738841.0
+  },
+  {
+    "id": "o08dcnl",
+    "author": "GamerInChaos",
+    "body": "Please tell me about these breakthrough LLMs that can code DNA are besides bullshit press releases. I’d like to see them.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o08dcnl/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768708197.0
+  },
+  {
+    "id": "o09jrf5",
+    "author": "Important_Coach9717",
+    "body": "The fact that people still haven’t figured out how to reformat AI slop makes me even more confident AI will replace human developers",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o09jrf5/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768728537.0
+  },
+  {
+    "id": "o0acbv6",
+    "author": "[deleted]",
+    "body": "You spent 0 time. Idiot",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0acbv6/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768742922.0
+  },
+  {
+    "id": "o0vhzh2",
+    "author": "imp_op",
+    "body": "I use AI at work, but I'm still coding. It does my testing scaffolds and sometimes annoying refactors. It's great at global search and replace. \n\nWhat it's not good at is solving business logic or understanding the code base as a whole. I suppose that could be accomplished by feeding it everything about my codebase, but then that kind of goes against company policy in some ways. I also like to code, I'm good at it and I do it fairly quickly, always within time to meet deadlines. It's also amazing at code reviews, which I think is it's strength with code.\n\nI love it when I ask AI to help me solve an issue, it gives me a solution, only to be told in the code review by the same AI how that solution is flawed.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0vhzh2/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1769011221.0
+  },
+  {
+    "id": "o4991zl",
+    "author": "Curious-Lion-2556",
+    "body": "Good One. From what I’m seeing, AI is definitely making us faster on boilerplate, tests, and quick debugging, but it hasn’t replaced real engineering work. Architecture, trade-offs, and production decisions still need humans.\n\nAlso agree that the “one perfect model” idea isn’t real. Most teams use AI to remove small blockages while keeping a strong review process. The productivity gain is, but on the other hand, it takes extra time spent on validating outputs and managing cost/tools.\n\nFeels less like a replacement and more like another layer in the dev workflow that we’re all still figuring out.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o4991zl/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1770560999.0
+  },
+  {
+    "id": "o6449ph",
+    "author": "CounterNational4593",
+    "body": "The link is not working",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o6449ph/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1771444717.0
+  },
+  {
+    "id": "nzyhi5g",
+    "author": "woundedkarma",
+    "body": "**TL;DR;** Really, all you need to know is that corps are greedy and llms are reducing costs. That's it. That's the ballgame.\n\nI'm not a guru. I've just used the system and I've been a programmer all my life.\n\nLook at it this way.\n\nCorporations exist for one purpose: maximize profit. Programmers cost a fortune. Human ones are terrible at everything. They don't engineer anything. They use dumbass variable names. They implement bugs everywhere.\n\nThis costs corporations not only the fortune they paid in salaries and benefits but also in wasted time spent fixing human mistakes.\n\nFor a fraction, a tiny, tiny, tiny fraction of the cost of a developer, they can produce systems lightning fast, test them, do everything they need. Do they get bugs? Sure. Is it more than human developers? Not even close.\n\nYou put these things together and the picture becomes extremely clear. Humans as software developers in the hand-coding sense is over. A dying breed.\n\nCan you succeed if you know software dev and work well with AI? Maybe. For a short time. A bit longer.\n\nBut the quality and speed of LLM generated code is good enough and it will continue to get better.\n\nYou don't have to trust me. Don't. Not at all.\n\nJust use your brain for half a second. You'll see the same pattern and the same flaws.\n\nCan we stop it? If you have a government that works. Here in the U.S. we just lost our government. The horizon looks like WWIII so it might not matter anyway.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzyhi5g/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768585098.0
+  },
+  {
+    "id": "o012yok",
+    "author": "lukazzzzzzzzzzzzzzz",
+    "body": "that is your take, and your take alone, ai is not good enough to be autonomously driving the software world, not just yet, skilled human workers still have an upper hand, period, unless, at the end of the day, ai will be able to self evaluate/correct to completely eliminate hallucinations, and have a strategic mindset a human engineer would have. from what you have commented, i think you are not only knowing nothing about software, back and front end, neither do you know anything about ai. the only thing in you post that makes sense is “corps are greedy”, but, dont we all?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o012yok/",
+    "parent_id": "t1_nzyhi5g",
+    "created_utc": 1768612855.0
+  },
+  {
+    "id": "o0800n6",
+    "author": "lukazzzzzzzzzzzzzzz",
+    "body": "no i did not, and i think you are very stupid, i dont give a f either, so you can just fk off for all i care,lol",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0800n6/",
+    "parent_id": "t1_o012yok",
+    "created_utc": 1768703683.0
+  },
+  {
+    "id": "o01igjo",
+    "author": "woundedkarma",
+    "body": "I don't give a f if you listen. You'll find out.",
+    "score": 0,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o01igjo/",
+    "parent_id": "t1_o012yok",
+    "created_utc": 1768618739.0
+  },
+  {
+    "id": "o0fubs0",
+    "author": "davidbasil",
+    "body": "AI is a cheap and widely available tool. It provides zero competitive advantage in the long run. Companies will still need to hire people.",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0fubs0/",
+    "parent_id": "t1_nzyhi5g",
+    "created_utc": 1768807858.0
+  },
+  {
+    "id": "nzycsup",
+    "author": "sdwennermark",
+    "body": "This is hilarious that you posted AI generated content.",
+    "score": 0,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzycsup/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768583847.0
+  },
+  {
+    "id": "nzzfamb",
+    "author": "Actual__Wizard",
+    "body": "It's legitimately collapsing right now. Microslop is down as investors finally realize the \"demand is a hallucination.\" I think the Core Weave scam or fraud, or whatever the heck that scheme is called, is falling apart now. Oracle is being sued for their clear and obvious scam. What's next guys? \n\nWhat's the next big scam from big tech?\n\nI can't wait!\n\nI mean with stuff like Strategy, with \"gamblers betting on assets shoved into a company\", I mean, what's next? Seriously? Probably a war right? I don't think big tech has killed enough people for money yet have they?",
+    "score": 0,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/nzzfamb/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768594203.0
+  },
+  {
+    "id": "o014g9c",
+    "author": "lukazzzzzzzzzzzzzzz",
+    "body": "what do you mean by hallucination?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o014g9c/",
+    "parent_id": "t1_nzzfamb",
+    "created_utc": 1768613424.0
+  },
+  {
+    "id": "o0175ql",
+    "author": "Actual__Wizard",
+    "body": "The massive ultra demand for these data centers is coming from the people saying \"demand.\" It's them. They're demanding it. Microslop demands data centers for their AI scam tech enterprise. It's legitimately tech fascist thugs stealing everything to turn it into a spam bot, that they're pretending is AI. Then they're jack boot thug style scamming people into it by pretending that their demented plagiarism parrot is some how capable of doing their jobs. \n\nIn reality, it's that they're applying crony capitalism style rental business tactics to their computer software business that relies on stealing everything. In reality their product doesn't even meet the criteria for AI and is rather an \"automated plagiarism as a service product.\" Which involves them selling other people's work with out their permission to the service's customers, with out mentioning what the product they're receiving really is.\n\nSo, once people understand what's really going on, obviously there's no real demand for that. It's just a hallucination in the minds of the executives doing this stuff.",
+    "score": 0,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o0175ql/",
+    "parent_id": "t1_o014g9c",
+    "created_utc": 1768614460.0
+  },
+  {
+    "id": "o080f2b",
+    "author": "lukazzzzzzzzzzzzzzz",
+    "body": "ye, none of that made any sense",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o080f2b/",
+    "parent_id": "t1_o0175ql",
+    "created_utc": 1768703813.0
+  },
+  {
+    "id": "o00491i",
+    "author": "beepistoostrong",
+    "body": "This post I mean I'm not trying to hate on it but it's low quality to say the least in my opinion",
+    "score": 0,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o00491i/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768601284.0
+  },
+  {
+    "id": "o014ndh",
+    "author": "lukazzzzzzzzzzzzzzz",
+    "body": "really? that right? so what is genius like you taking on this subject huh? nothing? right, exactly :}",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o014ndh/",
+    "parent_id": "t1_o00491i",
+    "created_utc": 1768613498.0
+  },
+  {
+    "id": "o016fr0",
+    "author": "beepistoostrong",
+    "body": "Well I'd rather not publicly say on a public forum because it's valuable if you believe what this post says then you're already behind and you don't understand the tech it's that simple no reason to get angry about it man you spend a lot of time on that name I see let me count the Z's never mind",
+    "score": 0,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o016fr0/",
+    "parent_id": "t1_o014ndh",
+    "created_utc": 1768614184.0
+  },
+  {
+    "id": "o016r7l",
+    "author": "beepistoostrong",
+    "body": "Let me put it this way I can destroy each one of those bullets perfectly and articulately but why waste the time if you're in ai and then you know how wrong those bullets are",
+    "score": 0,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o016r7l/",
+    "parent_id": "t1_o014ndh",
+    "created_utc": 1768614305.0
+  },
+  {
+    "id": "o080p38",
+    "author": "lukazzzzzzzzzzzzzzz",
+    "body": "you sound like a iq of a 3 years old",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o080p38/",
+    "parent_id": "t1_o016r7l",
+    "created_utc": 1768703905.0
+  },
+  {
+    "id": "o01be08",
+    "author": "rabbit_hole_engineer",
+    "body": "Ban this fucker",
+    "score": 0,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o01be08/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768616080.0
+  },
+  {
+    "id": "o080uqq",
+    "author": "lukazzzzzzzzzzzzzzz",
+    "body": "why?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o080uqq/",
+    "parent_id": "t1_o01be08",
+    "created_utc": 1768703956.0
+  },
+  {
+    "id": "o080yas",
+    "author": "lukazzzzzzzzzzzzzzz",
+    "body": "yo jealous about how handsome he is? he stole your chick?",
+    "score": 1,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o080yas/",
+    "parent_id": "t1_o01be08",
+    "created_utc": 1768703989.0
+  },
+  {
+    "id": "o01yleg",
+    "author": "OkCluejay172",
+    "body": "What’s the point of vomiting up AI slop like this? Is the value of engagement on your Reddit account somehow worth the time and money this takes?\n\nIt’s not even good engagement because the content is so low quality.",
+    "score": 0,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o01yleg/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768625268.0
+  },
+  {
+    "id": "o02uxwj",
+    "author": "kord2003",
+    "body": "AI slop detected",
+    "score": 0,
+    "permalink": "/r/AI_developers/comments/1qekgcu/stop_falling_for_the_ai_will_replace_all/o02uxwj/",
+    "parent_id": "t3_1qekgcu",
+    "created_utc": 1768641969.0
+  }
+]
