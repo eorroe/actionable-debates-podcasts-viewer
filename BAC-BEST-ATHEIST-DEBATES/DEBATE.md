@@ -2,36 +2,48 @@
 
 ## Overview
 
-A compilation of live debates between Cliffe Knechtle and atheists, ex-Christians, and students on university campuses, addressing objections to Christianity through questions of morality, the Bible, Jesus as the only way, hell, the resurrection, suffering, science and faith, original sin, and homosexuality. The debates model how to engage challengers with grace, intellectual honesty, and a commitment to evidence-based dialogue.
+A compilation of live debates between Cliffe Knechtle and atheists, ex-Christians, and students on university campuses, addressing objections to Christianity through questions of morality (e.g., "Why is date rape wrong?"; "Why does a zebra deserve to have its throat crushed by a lion?"), the Bible (e.g., contradictions in gospel accounts; slavery and homosexuality in the Bible), Jesus as the only way (e.g., "Isn't Gandhi burning in hell?"), hell (e.g., "I don't want to go to heaven"), the resurrection (e.g., "Where is the evidence that Jesus physically rose from the dead?"), suffering (e.g., "Why do babies suffer?"), science and faith (e.g., "God is energy"; "I didn't feel anything when I was a Christian"), original sin (e.g., "I was born with this desire, therefore it is good"), and homosexuality (e.g., "Which one is for everyone for eternity and this one's just for you guys right now?"). The debates model how to engage challengers with grace, intellectual honesty, and a commitment to evidence-based dialogue.
 
 ## When to Follow Debate
 
 - When you need to defend Christianity against objections from atheists or skeptics
 - When working through questions about morality, suffering, the Bible, or Jesus as the only way
-- When the user asks about how to engage in respectful but firm dialogue about faith
+- When the user asks how to engage in dialogue about faith with intellectual respect and clarity, asking hard questions while refusing to water down core Christian claims
 
 ## Glossary / Prerequisite Terms To Know Before Following Debate
 
+- **Hell**: The consequence of freely choosing to be separated from God forever, not arbitrary torture. God does not send people to hell; they choose it by rejecting him.
+- **Heaven**: Eternal life defined as knowing God and Jesus Christ (John 17:3), involving real relationship with God and others, meaningful work, creativity, and service. Not endless worship or mindless praise.
+- **Suffering**: Moral evil (human choices like rape, murder) and natural evil (disease, natural disasters) resulting from a world broken by human rebellion in Genesis 3. Animals suffer because the whole created order is broken, not because they sinned.
+- **Homosexuality**: In the context of these debates, Cliffe argues the Bible's view is rooted in Genesis 1-2 (creation of male and female for lifelong marriage) and the New Testament's consistent teaching, not Levitical ceremonial law.
+- **Theocracy**: A form of government in which God is recognized as the supreme civil ruler, applied specifically to the ancient nation of Israel.
+- **Ceremonial law**: The laws governing worship, sacrifices, purity, and religious practices in ancient Israel (e.g., dietary restrictions, circumcision), distinct from moral law.
+- **Civil law**: The laws governing the nation of Israel's civil life (e.g., property laws, penalties for crimes), distinct from moral law.
+- **Moral law**: The universal, timeless moral principles reflecting God's character (e.g., the Ten Commandments in Exodus 20), binding on all people for all time.
+- **Inerrancy**: The claim that the Bible contains no errors in its original autographs. In these debates, the term is raised by skeptics, and Cliffe acknowledges textual variants while arguing no doctrine depends on them.
+- **Polygamy**: The practice of having multiple spouses. Cliffe cites Solomon's 700 wives and 300 concubines as an example of deviation from God's design, not an endorsement.
+- **Crusades**: Military campaigns sanctioned by the Catholic Church during the medieval period, cited in the debates as historical evil done in Christianity's name.
+- **Inquisition**: Historical institutions within the Catholic Church tasked with identifying and punishing heresy, cited in the debates as historical evil done in Christianity's name.
+- **Salem Witch Trials**: 1692 trials in colonial Massachusetts where people were executed for witchcraft, cited in the debates as historical evil done in Christianity's name.
+- **Slavery**: The practice of owning human beings as property. In the debates, Cliffe acknowledges the Mosaic legislation regulated rather than abolished slavery, and notes Christians both enslaved people and led the abolition movement.
+- **Caste system**: The Hindu social hierarchy where people are born into different castes considered to have different values, contrasted with Christianity where all are created in God's image.
+- **Sermon on the Mount**: Jesus' ethical teachings in Matthew 5-7, described by a Harvard psychology professor as the greatest ethical document ever written.
+- **Date rape**: Sexual assault by someone known to the victim, used in the debates as an example of a moral absolute that people recognize as wrong.
 - **Original sin**: The readiness to sin factor present in all humans from birth, not imputed guilt but a natural inclination toward wrongdoing
   - **From Atheist Viewpoint**: A doctrine that blames individuals for the actions of Adam and Eve, seen as unjust punishment for a crime they did not personally commit
   - **From Christian Viewpoint**: A spiritual birth defect and inherent tendency toward sin that all humans inherit, not God-given but arising from human rebellion in Genesis 3
-
 - **Mosaic Legislation**: The 613 laws given to the nation of Israel in Exodus, Leviticus, Numbers, and Deuteronomy, governing the theocracy of ancient Israel
   - **From Christian Viewpoint**: Distinguished from the moral law (Exodus 20), with the ceremonial and civil laws applying specifically to Israel as a nation and not binding on all people for all time
   - **From Atheist Viewpoint**: Part of a larger set of biblical rules, with no clear distinction made within the text between temporary and eternal laws
-
 - **Naturalism**: The philosophical presupposition that reality is limited to matter and energy, excluding the supernatural
   - **From Atheist Viewpoint**: The default position for evaluating historical and scientific claims, requiring natural explanations for all events
   - **From Christian Viewpoint**: A presupposition that filters out the possibility of miracles and the resurrection before examining the historical evidence
-
 - **Free Will**: The ability to make genuine choices, including the choice to love or reject God and others
   - **From Christian Viewpoint**: Given by God to humans, allowing real love and real rebellion, and the basis for moral responsibility
   - **From Atheist Viewpoint**: Can be explained through natural processes, and raises questions about why a good God would grant free will if it leads to suffering
-
 - **Resurrection**: The claim that Jesus physically rose from the dead on the third day after his crucifixion
   - **From Christian Viewpoint**: The central historical event validating Jesus' claims, supported by eyewitness testimony and the transformation of the early church
   - **From Atheist Viewpoint**: A supernatural claim requiring extraordinary evidence, considered philosophically impossible under naturalism
-
 - **Manuscript Variants**: Differences between ancient copies of biblical manuscripts, such as whether a detail is mentioned once or twice
   - **From Christian Viewpoint**: So small and insignificant that no doctrine depends on any single variant, demonstrating the remarkable reliability of the New Testament text
   - **From Atheist Viewpoint**: Evidence that the Bible is a human document with transmission errors, undermining claims of inerrancy
@@ -95,11 +107,11 @@ You do not need to study every religion. Take the two or three that seem most cr
 
 ##### Example 1: Muhammad Contradicts Jesus
 
-Muhammad's claim that Jesus was a great prophet but not God directly contradicts the eyewitness testimony of those who lived with Jesus for three years and heard him claim to be God. Since Muhammad never met Jesus and lived 500+ years later, he is not a reliable primary source on who Jesus really was.
+Cliffe argues that Muhammad's claim that Jesus was a great prophet but not God contradicts the eyewitness testimony of those who lived with Jesus for three years and heard him claim to be God. Since Muhammad never met Jesus and lived 500+ years later, he is not a reliable primary source on who Jesus really was.
 
 ##### Example 2: Materialism as a Religion
 
-The majority of people live for money and materialism, but this is an incredibly empty life. Putting ultimate faith in materialism is a mistake. Money is good but living for it is not. Christianity offers a better alternative in Christ.
+Cliffe observes that the majority of his friends are materialists who work on Wall Street (Goldman Sachs, JP Morgan) and are very good at making money. He is convinced that putting ultimate faith in materialism is a mistake. Money is good but living for it is not. Christianity offers a better alternative in Christ.
 
 ##### Example 3: The Trustworthiness Test
 
@@ -124,7 +136,7 @@ If someone rose from the dead, you should listen carefully to everything they sa
 
 #### Security & Safety Notes
 
-- When someone shares their deconversion story (e.g., "I didn't feel anything when I was a Christian"), ask what standard they were using. Were they expecting an emotional experience rather than examining evidence?
+- When someone shares their deconversion story (e.g., "I didn't feel anything when I was a Christian, so I turned away from it"), ask what standard they were using. Were they expecting to feel God's love as an emotional experience rather than examining the historical evidence of Jesus' life, teachings, death, and resurrection?
 - Do not dismiss someone's doubt or pain. Engage honestly with the reasons they stopped believing.
 
 #### Common Pitfalls
@@ -267,7 +279,7 @@ If a Christian enslaves people, rapes, or murders, they have violated Christ's t
 - **Problem:** Using Jesus' exclusive claim to condemn people
   **Solution:** State the truth claim but leave judgment to God. Offer the gospel as good news, not as condemnation.
 - **Problem:** Assuming all who call themselves Christians are genuine followers of Christ
-  **Solution:** Distinguish between cultural Christianity and genuine discipleship. Jesus warned that many who call him Lord will be rejected.
+  **Solution:** Distinguish between cultural Christianity and genuine discipleship. Jesus warned that those who call him Lord will be rejected.
 
 
 ### Hell and Heaven
@@ -497,7 +509,7 @@ Babies who die go to heaven because they have not yet reached an age of accounta
 
 ##### Example 1: The Biblical Argument Is Not from Leviticus
 
-When a student asks about gay marriage, Cliffe says the Bible's view on homosexuality is not based on Leviticus 21-22 (which applies to the priesthood of Israel). It is based on Genesis 1-2, the creation mandate that sexuality is designed for one man and one woman in lifelong marriage. The entire New Testament consistently communicates that homosexuality is a twisting of that gift.
+When a student asks about gay marriage, Cliffe says the Bible's view on homosexuality is not based on Leviticus 21-22 (which applies to the priesthood of Israel). It is based on Genesis 1-2, the creation mandate that sexuality is designed for one man and one woman in lifelong marriage. The entire New Testament consistently communicates that homosexuality is a twisting of the gift of sexuality, which God created to be enjoyed in the context of sexual intercourse between one man and one woman until death parts us.
 
 ##### Example 2: Homosexuality Is a Wrong Use of a Good Gift
 
@@ -507,7 +519,7 @@ God created sexuality to be enjoyed in the context of lifelong marriage between 
 
 - ✅ Base the argument against homosexuality on Genesis 1-2 and the New Testament, not on Levitical ceremonial law
 - ✅ Present sexuality as a good gift that can be used wrongly
-- ✅ Communicate God's love and offer of forgiveness to those struggling with same-sex attraction
+- ✅ Communicate God's love and offer of forgiveness to those struggling with same-sex attraction. God's love is demonstrated through Jesus Christ dying on the cross for his enemies, and forgiveness is receiving God's forgiveness through Christ for the wrong that we have done.
 - ❌ Do not use Levitical laws as the basis for opposing homosexuality without explaining the distinction between ceremonial and moral law
 - ❌ Do not present the argument as hateful or discriminatory
 
@@ -533,16 +545,16 @@ God created sexuality to be enjoyed in the context of lifelong marriage between 
 
 |Topic | Cliffe Knechtle (Christian) | Atheist/Ex-Christian/Skeptic | Example | Consensus|
 |-----|-----|-----|-----|-----|
-|Christianity vs Other Religions|Jesus is unique and trustworthy based on historical evidence; other religions contradict Jesus|All religions make contradictory truth claims; cannot all be true|Debate on UT Austin campus|No consensus - contradictory truth claims|
-|Morality|Objective moral law grounded in God; humans have a conscience implanted by God|Morality is a social convention, evolutionary product, or personal preference|Debate on basis of date rape being wrong|No consensus - disagreement on foundation|
-|Bible|No contradictions; textual variants are insignificant; distinguish Mosaic law from moral law|Bible has contradictions and textual problems; Mosaic law includes problematic commands|Debate on slavery and homosexuality in the Bible|No consensus - disagreement on interpretation|
-|Jesus as the Only Way|Jesus claimed to be God; either he is Lord or he is a liar/lunatic; do not judge individual destinies|Exclusive truth claims are intolerant; Gandhi and good non-Christians would go to hell|Debate on John 14:6 and Gandhi's fate|No consensus - disagreement on exclusivity|
-|Hell|Consequence of freely rejecting God; God respects free will; heaven is relationship and work|Eternal punishment for finite crimes is unjust; both heaven and hell are unappealing|Debate on nature of heaven and hell|No consensus - disagreement on justice of eternal punishment|
-|Resurrection|Historical event supported by eyewitness testimony; empty tomb; changed worship patterns|Supernatural claim impossible under naturalism; no scientific proof|Debate on evidence outside the New Testament|No consensus - disagreement on historicity|
-|Science and Faith|God is a personal being; love is real but immaterial; naturalism is a presupposition, not science|God is unnecessary; love is chemistry; supernatural claims are unscientific|Debate on nature of God and love|No consensus - disagreement on supernatural|
-|Suffering|Result of free will and the Fall; God created a good world broken by human rebellion; Jesus suffers with us|Inconsistent with an all-powerful, all-loving God; animals suffer unjustly|Debate on animal suffering and natural evil|No consensus - disagreement on origin of suffering|
-|Original Sin|Readiness to sin factor; not imputed guilt; free will still applies; babies go to heaven|Unjust doctrine; blames individuals for Adam's sin; babies born innocent|Debate on nature of sin and infant salvation|No consensus - disagreement on definition|
-|Homosexuality|Wrong use of God's gift of sexuality; argument from Genesis 1-2 and New Testament, not Leviticus|Discriminatory; used to condemn LGBTQ+ people; inconsistent application of biblical law|Debate on gay marriage and biblical interpretation|No consensus - disagreement on biblical interpretation|
+|Christianity vs Other Religions|Jesus is unique and trustworthy based on historical evidence; other religions contradict Jesus|All religions make contradictory truth claims; cannot all be true|Debate on UT Austin campus|Disagreement: Cliffe points to Jesus' historical reliability; challengers see contradictory truth claims among religions|
+|Morality|Objective moral law grounded in God; humans have a conscience implanted by God|Morality is a social convention, evolutionary product, or personal preference|Debate on basis of date rape being wrong|Disagreement: Cliffe grounds morality in God's character; challengers ground it in naturalism, culture, or personal preference|
+|Bible|No contradictions; textual variants are insignificant; distinguish Mosaic law from moral law|Bible has contradictions and textual problems; Mosaic law includes problematic commands|Debate on slavery and homosexuality in the Bible|Disagreement: Cliffe sees the Bible as reliable with minor variants; challengers see it as contradictory and morally problematic|
+|Jesus as the Only Way|Jesus claimed to be God; either he is Lord or he is a liar/lunatic; do not judge individual destinies|Exclusive truth claims are intolerant; Gandhi and good non-Christians would go to hell|Debate on John 14:6 and Gandhi's fate|Disagreement: Cliffe affirms exclusivity but refuses to judge individuals; challengers see exclusivity as intolerant|
+|Hell|Consequence of freely rejecting God; God respects free will; heaven is relationship and work|Eternal punishment for finite crimes is unjust; both heaven and hell are unappealing|Debate on nature of heaven and hell|Disagreement: Cliffe sees hell as freely chosen separation; challengers see eternal punishment as unjust for finite crimes|
+|Resurrection|Historical event supported by eyewitness testimony; empty tomb; changed worship patterns|Supernatural claim impossible under naturalism; no scientific proof|Debate on evidence outside the New Testament|Disagreement: Cliffe presents historical evidence for resurrection; challengers reject supernatural claims as unscientific|
+|Science and Faith|God is a personal being; love is real but immaterial; naturalism is a presupposition, not science|God is unnecessary; love is chemistry; supernatural claims are unscientific|Debate on nature of God and love|Disagreement: Cliffe argues love is real and immaterial; challengers reduce love to chemical reactions|
+|Suffering|Result of free will and the Fall; God created a good world broken by human rebellion; Jesus suffers with us|Inconsistent with an all-powerful, all-loving God; animals suffer unjustly|Debate on animal suffering and natural evil|Disagreement: Cliffe explains suffering through free will and the Fall; challengers see it as incompatible with God's attributes|
+|Original Sin|Readiness to sin factor; not imputed guilt; free will still applies; babies go to heaven|Unjust doctrine; blames individuals for Adam's sin; babies born innocent|Debate on nature of sin and infant salvation|Disagreement: Cliffe explains original sin as a readiness to sin; challengers see it as unjust inherited guilt|
+|Homosexuality|Wrong use of God's gift of sexuality; argument from Genesis 1-2 and New Testament, not Leviticus|Discriminatory; used to condemn LGBTQ+ people; inconsistent application of biblical law|Debate on gay marriage and biblical interpretation|Disagreement: Cliffe bases argument on Genesis and New Testament; challengers see it as discriminatory and inconsistent|
 
 
 ## Steps For Each Topic and Each Topic's View
@@ -551,7 +563,7 @@ God created sexuality to be enjoyed in the context of lifelong marriage between 
 
 #### Step 1: Acknowledge the Question
 
-Listen carefully to the question about why Christianity over other religions. Do not dismiss it. Acknowledge that it is a fair and important question.
+Listen carefully to the question about why Christianity over other religions. Do not dismiss it. Acknowledge that it is an important question.
 
 #### Step 2: Separate Christianity from Christ
 
@@ -586,7 +598,7 @@ If the other person is a materialist who lives for money and success, acknowledg
 
 #### Step 2: Share Personal Experience
 
-Share that the majority of your friends are materialists who work on Wall Street and are very good at making money. But you are convinced that putting ultimate faith in materialism is a mistake.
+Share that the majority of your friends are materialists who work on Wall Street (Goldman Sachs, JP Morgan) and are very good at making money. But you are convinced that putting ultimate faith in materialism is a mistake.
 
 #### Step 3: Point to the Alternative
 
@@ -617,7 +629,7 @@ If there is a God who is just and who created humans in his image, then there is
 
 #### Step 4: Address the Atheist's Conscience
 
-Acknowledge that atheists can and do know that certain things are wrong (e.g., date rape). But ask them to explain the basis. If there is no God, then good and evil are just social conventions or chemical reactions. But they experience them as real, transcendent values.
+Acknowledge that atheists can and do know that date rape is wrong. But ask them to explain the basis. If there is no God, then good and evil are just social conventions or chemical reactions. But they experience them as real, transcendent values.
 
 #### Step 5: Distinguish Moral Behavior from Moral Foundation
 
@@ -629,7 +641,7 @@ Point to universal human experience of guilt. We all know we have done wrong. Th
 
 #### Step 7: Present the Alternative
 
-If there is no God, then ultimately what we do with our lives is meaningless. Hitler and Mother Teresa end up in the same place - the fertilizer pit. But if there is a God who is just, then our decisions today are significant, and we are valuable because God wants us to live for eternity with him in heaven.
+If there is no God, then ultimately what we do with our lives is meaningless. Hitler and Mother Teresa end up in the same place - the fertilizer pit. But if there is a God who is just, then our decisions today determine our eternal destiny, and we are valuable because God wants us to live for eternity with him in heaven.
 
 
 ### Morality - The Basis of Good and Evil
@@ -667,7 +679,7 @@ When someone asks why God did not simply say "slavery is bad," explain that the 
 
 #### Step 3: Address Contradiction Claims
 
-When someone points to apparent contradictions (e.g., one angel vs. two at the empty tomb), explain that these are different perspectives, not contradictions. Two eyewitnesses to the same event can report different details without contradicting each other. If all four gospels said exactly the same thing, it would look like collusion.
+When someone points to apparent contradictions (e.g., one angel vs. two at the empty tomb), explain that these are different perspectives, not contradictions. Two eyewitnesses to the same event can report different details without contradicting each other. If all four gospels said exactly the same thing, it would look like collusion. Cliffe says that in 32 years of speaking on university campuses, he has had religion professors, philosophy professors, and brilliant students tell him about all the contradictions in the Bible, but they have not found one yet.
 
 #### Step 4: Address Manuscript Variants
 
@@ -694,7 +706,7 @@ From Genesis 1 and 2, God created our sexuality to be enjoyed in the context of 
 
 #### Step 3: Show the Consistency of Scripture
 
-From Genesis to Revelation, the Bible consistently communicates that homosexuality is a twisting of that beautiful gift that God gave us. It is a wrong use of the gift of sex.
+From Genesis to Revelation, the Bible consistently communicates that homosexuality is a twisting of the gift of sexuality, which God created to be enjoyed in the context of sexual intercourse between one man and one woman until death parts us. It is a wrong use of the gift of sex.
 
 #### Step 4: Address the Leviticus Objection
 
@@ -736,7 +748,7 @@ If someone says they are Christian because they grew up in America, challenge th
 
 #### Step 2: Distinguish Belief in God from Belief in Jesus
 
-Acknowledge that it is possible to believe in God without believing in Jesus. Many people believe in a vague higher power. But if Jesus is God in human form, then he is either Lord or he is a liar.
+Acknowledge that it is possible to believe in God without believing in Jesus. Some people believe in a vague higher power. But if Jesus is God in human form, then he is either Lord or he is a liar.
 
 #### Step 3: Present the Historical Evidence
 
@@ -771,7 +783,7 @@ If someone says they do not want heaven, explore why. Is it because of a misunde
 
 #### Step 5: Connect Heaven and Hell to Meaning
 
-If there is no heaven and no hell, then ultimately what we do with our lives is meaningless. Hitler and Mother Teresa end up in the same place. But if there is a God who is just, then our decisions today are significant, and we are valuable because God wants us to live for eternity with him.
+If there is no heaven and no hell, then ultimately what we do with our lives is meaningless. Hitler and Mother Teresa end up in the same place. But if there is a God who is just, then our decisions today determine our eternal destiny, and we are valuable because God wants us to live for eternity with him.
 
 
 ### Hell and Heaven
@@ -790,7 +802,7 @@ If someone says "We are all on different paths and we are all going to be okay,"
 
 #### Step 4: Explain the Consequences of No Judgment
 
-If there is no heaven and no hell, there are big implications for today. What you and I do with our lives is ultimately meaningless. But if there is a day of judgment, then our decisions today are really significant.
+If there is no heaven and no hell, there are big implications for today. What you and I do with our lives is ultimately meaningless. But if there is a day of judgment, then our decisions today determine our eternal destiny.
 
 #### Step 5: Present the Christian Alternative
 
@@ -855,7 +867,7 @@ Explain that naturalism is a philosophical presupposition, not a scientific conc
 
 #### Step 2: Address the "No Feeling" Objection
 
-If someone says they turned away from Christianity because they did not feel anything, ask what standard they were using. Were they waiting to feel God's love? God's love is not a feeling; it is a person. Faith is not based on feelings but on the credibility of the object.
+If someone says they turned away from Christianity because they did not feel anything, ask what standard they were using. Were they waiting to feel God's love as an emotional experience? God's love is not a feeling; it is a person. Faith is not based on feelings but on the credibility of the object.
 
 #### Step 3: Argue That Love Is Real but Immaterial
 
@@ -905,7 +917,7 @@ Genesis 1-2 records a good creation. Genesis 3 records human rebellion against G
 
 #### Step 4: Distinguish Human and Animal Suffering
 
-Animals suffer not because they sinned, but because the whole created order is broken by human sin. This is not fair. The world is not as it should be. But God is not responsible for the suffering of animals or the suffering of innocent people. The world is broken because we broke it.
+Animals suffer not because they sinned, but because the whole created order is broken by human sin. The world is not as it should be. But God is not responsible for the suffering of animals or the suffering of innocent people. The world is broken because we broke it.
 
 #### Step 5: Address the "Why Do Babies Suffer" Question
 
@@ -997,7 +1009,7 @@ God created our sexuality to be enjoyed in the context of sexual intercourse bet
 
 #### Step 3: Show the Consistency of Scripture
 
-From Genesis to Revelation, the Bible consistently communicates that homosexuality is a twisting of that beautiful gift that God gave us. It is a wrong use of the gift of sex.
+From Genesis to Revelation, the Bible consistently communicates that homosexuality is a twisting of the gift of sexuality, which God created to be enjoyed in the context of sexual intercourse between one man and one woman until death parts us. It is a wrong use of the gift of sex.
 
 #### Step 4: Address the Leviticus Objection
 
@@ -1016,7 +1028,7 @@ When a student asks about gay marriage, do not evade the question. Address it di
 
 #### Step 2: Explain the Biblical Argument
 
-The Bible clearly and consistently communicates that God created our sexuality to be enjoyed between one man and one woman till death parts us. Homosexual sex is a twisting of that beautiful gift.
+The Bible clearly and consistently communicates that God created our sexuality to be enjoyed between one man and one woman till death parts us. Homosexual sex is a twisting of the gift of sexuality, which God created to be enjoyed in the context of sexual intercourse between one man and one woman until death parts us.
 
 #### Step 3: Distinguish Between the Law and the Gospel
 
