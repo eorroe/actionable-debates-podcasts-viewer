@@ -47,6 +47,13 @@ A compilation of live debates between Cliffe Knechtle and atheists, ex-Christian
 - **Manuscript Variants**: Differences between ancient copies of biblical manuscripts, such as whether a detail is mentioned once or twice
   - **From Christian Viewpoint**: So small and insignificant that no doctrine depends on any single variant, demonstrating the remarkable reliability of the New Testament text
   - **From Atheist Viewpoint**: Evidence that the Bible is a human document with transmission errors, undermining claims of inerrancy
+- **Materialism**: The worldview that physical matter is the only reality, and that all phenomena can be explained by material causes. In the debates, Cliffe contrasts this with Christianity, arguing that living for money and material possessions is an empty life.
+- **Karma**: The Hindu concept that actions in this life determine one's fate in future lives. In the debates, a challenger mentions karma as a non-Christian basis for moral judgment.
+- **Grace**: In Christianity, the unmerited favor of God toward sinners, forgiveness and new life through Jesus Christ, not earned by good works.
+- **Presupposition**: A prior assumption or commitment that shapes how one evaluates evidence. In the debates, Cliffe argues that naturalism is a presupposition that rules out the supernatural before examining the evidence.
+- **Immaterial**: Not physical or material; in the debates, used to describe love, moral values, and beauty as real but not measurable by physical instruments.
+- **Transcendent**: Going beyond the physical or material; in the debates, used to describe moral values and love as real and not merely chemical reactions or social conventions.
+- **Moral obligation**: A duty to act based on moral principles; in the debates, used to describe why Christians share their faith.
 
 
 ## Discussed Topics
@@ -81,7 +88,7 @@ You do not need to study every religion. Take the two or three that seem most cr
 
 #### Keep In Mind
 
-- Religions make mutually exclusive truth claims. They cannot all be true.
+- Cliffe argues that religions make mutually exclusive truth claims and therefore cannot all be true.
 - Jesus' claim to be God is the critical dividing line. He is either a liar, a lunatic, or Lord.
 - Muhammad lived 500 years after Jesus and never met him. The eyewitnesses to Jesus (Matthew, Mark, John, Peter, James) are the primary sources for who Jesus claimed to be.
 - Even if Christianity as an institution has been used to justify evil (Crusades, Inquisition, slavery), Jesus himself is distinct from his followers.
@@ -111,7 +118,7 @@ Cliffe argues that Muhammad's claim that Jesus was a great prophet but not God c
 
 ##### Example 2: Materialism as a Religion
 
-Cliffe observes that the majority of his friends are materialists who work on Wall Street (Goldman Sachs, JP Morgan) and are very good at making money. He is convinced that putting ultimate faith in materialism is a mistake. Money is good but living for it is not. Christianity offers a better alternative in Christ.
+Cliffe observes that most of his friends are materialists who work on Wall Street (Goldman Sachs, JP Morgan) and are very good at making money. He is convinced that putting ultimate faith in materialism is a mistake. Money is good but living for it is not. Christianity offers a better alternative in Christ.
 
 ##### Example 3: The Trustworthiness Test
 
@@ -131,8 +138,8 @@ If someone rose from the dead, you should listen carefully to everything they sa
 #### Keep In Mind
 
 - Open-mindedness is not cynicism. You cannot study every religion equally, but you must follow the evidence where it leads.
-- If Jesus is not God, he is either a liar or a lunatic. There is no middle ground of "just a good moral teacher."
-- The resurrection is a historical claim that can be evaluated like any other historical event.
+- Cliffe presents the Lewis trilemma: if Jesus is not God, he is either a liar or a lunatic, with no middle ground of "just a good moral teacher."
+- Cliffe treats the resurrection as a historical claim that can be evaluated like other historical events.
 
 #### Security & Safety Notes
 
@@ -181,7 +188,7 @@ Goodness is an intangible value that requires a mind to define it. A tree or a c
 
 #### Security & Safety Notes
 
-- Be careful not to use the problem of evil as a bludgeon. Acknowledge honestly that no one has a complete answer to why God allows suffering.
+- Be careful not to use the problem of evil as a bludgeon. Acknowledge honestly that no one can give a complete answer to why God allows suffering.
 - When discussing hell, do not claim to know who is or is not there. Only God judges.
 
 #### Common Pitfalls
@@ -302,7 +309,7 @@ An atheist student objects that 80 years of finite life does not deserve infinit
 
 - ✅ Explain hell as the natural consequence of freely rejecting God, not as arbitrary torture
 - ✅ Present heaven as relationship and work, not just worship
-- ✅ Acknowledge the difficulty of the doctrine without dismissing it
+- ✅ Acknowledge that people find the doctrine challenging
 - ❌ Do not delight in the idea of hell
 - ❌ Do not claim certainty about who is in hell
 - ❌ Do not reduce heaven to a place of endless leisure or worship only
@@ -311,7 +318,7 @@ An atheist student objects that 80 years of finite life does not deserve infinit
 
 - Hell exists because God respects human free will. He does not force anyone to love him.
 - Heaven is primarily about knowing God and Jesus Christ (John 17:3).
-- Both heaven and hell appeal to different people. Some do not want heaven because they do not want to surrender to God's authority.
+- Both heaven and hell appeal to different people. Cliffe suggests that some people reject heaven because they do not want to surrender to God's authority.
 
 #### Security & Safety Notes
 
@@ -456,7 +463,7 @@ When someone asks why a zebra deserves to have its throat crushed by a lion, the
 - **Problem:** Claiming that all suffering is caused by personal sin
   **Solution:** Much suffering is the result of living in a broken world, not direct punishment. Jesus healed people who had not sinned.
 - **Problem:** Claiming to have a complete answer to the problem of evil
-  **Solution:** Acknowledge honestly that no one has a complete answer. This does not mean Christianity is false.
+  **Solution:** Acknowledge honestly that no one can give a complete answer. This does not mean Christianity is false.
 
 
 ### Original Sin
@@ -594,11 +601,11 @@ If someone says they believe in Christianity because they grew up in a Christian
 
 #### Step 1: Acknowledge the Materialist Objection
 
-If the other person is a materialist who lives for money and success, acknowledge the appeal of this worldview. Money has perks and benefits. But living for money is an empty life.
+If the other person is a materialist who lives for money and success, acknowledge the appeal of this worldview. Money has perks and benefits. But Cliffe argues that living for money is a mistake because it cannot provide ultimate purpose or meaning.
 
 #### Step 2: Share Personal Experience
 
-Share that, according to Cliffe, the majority of his friends are materialists who work on Wall Street (Goldman Sachs, JP Morgan) and are very good at making money. But you are convinced that putting ultimate faith in materialism is a mistake.
+Share that, according to Cliffe, most of his friends are materialists who work on Wall Street (Goldman Sachs, JP Morgan) and are very good at making money. But you are convinced that putting ultimate faith in materialism is a mistake.
 
 #### Step 3: Point to the Alternative
 
@@ -737,7 +744,7 @@ If someone points to Christians who enslaved people, raped, or murdered, acknowl
 
 #### Step 5: Challenge the Objector to Examine the Evidence
 
-Do not ask people to believe in Jesus because you do. That is a horrible reason to believe. Instead, ask them to read the Gospels of Matthew, Mark, Luke, and John for themselves. Ask whether the historical evidence of the way Jesus taught, treated people, died forgiving his enemies, and rose from the dead points to Christ being trustworthy.
+Do not ask people to believe in Jesus because you do. Cliffe argues that is a poor reason to believe. Instead, ask them to read the Gospels of Matthew, Mark, Luke, and John for themselves. Ask whether the historical evidence of the way Jesus taught, treated people, died forgiving his enemies, and rose from the dead points to Christ being trustworthy.
 
 
 ### Jesus as the Only Way
@@ -856,7 +863,7 @@ Encourage the person to pray: "Lord God, whoever you are, I want to know you. If
 
 #### Step 5: Do Not Believe Because I Do
 
-Do not believe in Jesus because Cliffe does. That is a horrible reason to believe. Read the Gospels for yourself and decide whether the evidence is compelling.
+Do not believe in Jesus because Cliffe does. Cliffe argues that is a poor reason to believe. Read the Gospels for yourself and decide whether the evidence is compelling.
 
 
 ### Science, Faith, and Naturalism
