@@ -360,7 +360,7 @@ Jesus claimed he would die and rise from the dead. This made his claim falsifiab
 
 #### Keep In Mind
 
-- Faith is not determined by passion or sincerity. It is determined by the credibility of the object of faith.
+- Cliffe defines credibility as the reliability of the object of faith based on historical evidence. Faith is not determined by passion or sincerity; it is determined by the credibility of the object of faith.
 - If you sincerely believe in thin ice and walk on it, you will fall through. The object of your faith must be reliable.
 - 1 Corinthians 15: If Christ is not risen, Christians are idiots for believing in him.
 
@@ -644,11 +644,11 @@ Affirm that atheists can live moral lives. The question is not "Can atheists be 
 
 #### Step 6: Use the Guilt Argument
 
-Point to universal human experience of guilt. We all know we have done wrong. This points to a real moral law that we all violate. If we experience guilt, the question is how to handle it. One healthy way is to turn to Christ for forgiveness.
+Point to universal human experience of guilt. We all know we have done wrong. This points to a real moral law that we all violate. If we experience guilt, the question is how to handle it. One valid way is to turn to Christ for forgiveness, as Cliffe argues.
 
 #### Step 7: Present the Alternative
 
-If there is no God, then ultimately what we do with our lives is meaningless. Hitler and Mother Teresa end up in the same place - the fertilizer pit. But if there is a God who is just, then our decisions today determine our eternal destiny, and we are valuable because God wants us to live for eternity with him in heaven.
+If there is no God, then ultimately what we do with our lives is meaningless. Hitler and Mother Teresa end up in the same physical fate of decomposition, which Cliffe describes as the fertilizer pit. But if there is a God who is just, then our decisions today determine our eternal destiny, and we are valuable because God wants us to live for eternity with him in heaven.
 
 
 ### Morality - The Basis of Good and Evil
@@ -686,11 +686,11 @@ When someone asks why God did not simply say "slavery is bad," explain that the 
 
 #### Step 3: Address Contradiction Claims
 
-When someone points to apparent contradictions (e.g., one angel vs. two at the empty tomb), explain that these are different perspectives, not contradictions. Two eyewitnesses to the same event can report different details without contradicting each other. If all four gospels said exactly the same thing, it would look like collusion. According to Cliffe's personal experience of 32 years of speaking on university campuses, he has had religion professors, philosophy professors, and brilliant students tell him about all the contradictions in the Bible, but they have not found one yet.
+When someone points to apparent contradictions (e.g., one angel vs. two at the empty tomb), explain that these are different perspectives, not contradictions. Two eyewitnesses to the same event can report different details without contradicting each other. If all four gospels said exactly the same thing, it would look like collusion. Cliffe claims that, from his personal experience of 32 years of speaking on university campuses, he has had religion professors, philosophy professors, and brilliant students tell him about all the contradictions in the Bible, but they have not found one yet.
 
 #### Step 4: Address Manuscript Variants
 
-Acknowledge that there are textual variants in the 5,200 Greek manuscripts of the New Testament. But these variants are so small and insignificant that no doctrine depends on them. The variant in Matthew 1 about whether Jesus was called the son of a virgin once or twice does not change any Christian doctrine.
+Acknowledge that there are textual variants in the 5,200 Greek manuscripts of the New Testament. Cliffe argues that these variants are so small and insignificant that no doctrine depends on them. By "insignificant," Cliffe means the variants do not change any Christian doctrine—for example, whether Matthew 1 states that Jesus was the son of Mary, a virgin once or twice does not change any doctrine.
 
 #### Step 5: Use the Analogy of Different Perspectives
 
@@ -824,11 +824,11 @@ Encourage the person to read the Gospels of Matthew, Mark, Luke, and John as his
 
 #### Step 2: Examine the Changed Lives of the Disciples
 
-The disciples were willing to die for what they saw. If the resurrection were a lie, they would have recanted under persecution. Instead, they died for their testimony. People do not die for lies.
+The disciples were willing to die for what they saw. If the resurrection were a lie, they would have recanted under persecution. Instead, they died for their testimony. Cliffe claims that people do not die for lies.
 
 #### Step 3: Examine the Changed Worship Pattern
 
-Thousands of Jews in the first century, according to Cliffe, changed their day of worship from Saturday (Sabbath) to Sunday (the first day of the week) because Jesus rose on the first day. This is recorded outside the New Testament and is evidence that something extraordinary happened.
+Thousands of Jews in the first century, according to Cliffe, changed their day of worship from Saturday (Sabbath) to Sunday (the first day of the week) because Jesus rose on the first day. Cliffe claims that this shift in worship is recorded outside the New Testament and is evidence that something extraordinary happened.
 
 #### Step 4: Address the Naturalistic Objection
 
@@ -836,11 +836,11 @@ If someone says they do not believe in the resurrection because they are a natur
 
 #### Step 5: Address the Demand for Photographic Evidence
 
-If someone asks for a photograph of the resurrection, point out that we do not base historical conclusions on photographs. Eyewitness testimony and transformed lives are better evidence than a photograph that could be faked.
+If someone asks for a photograph of the resurrection, point out that we do not base historical conclusions on photographs. Cliffe argues that eyewitness testimony and transformed lives are better evidence than a photograph that could be faked.
 
 #### Step 6: Present the Historical Evidence
 
-The evidence for the resurrection includes: the empty tomb, the eyewitness testimony of the disciples, the transformation of the disciples from fear to boldness, the changed worship pattern of the early church, and the existence of the church itself. This evidence is compelling.
+The evidence for the resurrection includes: the empty tomb, the eyewitness testimony of the disciples, the transformation of the disciples from fear to boldness, the changed worship pattern of the early church, and the existence of the church itself. Cliffe finds this evidence compelling.
 
 
 ### The Resurrection and Evidence for Christianity
@@ -851,7 +851,7 @@ The evidence that God exists is philosophical (order and design point to a desig
 
 #### Step 2: Address the Sincerity Objection
 
-If someone says a Muslim is just as sincere as a Christian, agree. Sincerity does not make a belief true. If you sincerely believe in thin ice and walk on it, you will fall through. The validity of faith is determined by the credibility of the object, not by the sincerity of the believer.
+If someone says a Muslim is just as sincere as a Christian, agree. Sincerity does not make a belief true. Cliffe uses the thin ice metaphor to illustrate that sincerity alone does not make a belief true; the reliability of the object of faith determines whether faith is justified. If you sincerely believe in thin ice and walk on it, you will fall through. The validity of faith is determined by the credibility of the object, not by the sincerity of the believer.
 
 #### Step 3: Challenge the Other Person to Read
 
@@ -878,7 +878,7 @@ If someone says they turned away from Christianity because they did not feel any
 
 #### Step 3: Argue That Love Is Real but Immaterial
 
-Love cannot be measured on an MRI scan or an X-ray. But we experience it as real. If there is no God, then love is just a chemical reaction or a social convention. But we know that love is a real, transcendent value. This points to a God who created love.
+Love cannot be measured on an MRI scan or an X-ray. But we experience it as real. If there is no God, then love is just a chemical reaction or a social convention. Cliffe argues that we know love is a real, transcendent value, which points to a God who created love.
 
 #### Step 4: Address the "God Is Energy" Objection
 
@@ -893,11 +893,11 @@ If someone says "I believe God is the lamp post," challenge them. If you truly b
 
 #### Step 1: Challenge the "My Truth" Objection
 
-If someone says "That's your truth, not mine," challenge this. If you disagree with me, that is fine. But do not pretend that you do not disagree. You are here because you think I am wrong. What is the evidence that your truth is right?
+If someone says "That's your truth, not mine," challenge this. If you disagree with me, that is fine. But do not pretend that you do not disagree. Cliffe interprets the challenger's presence as evidence that they think he is wrong: "You are here because you think I am wrong. What is the evidence that your truth is right?"
 
 #### Step 2: Explain the Purpose of Dialogue
 
-Christians are on university campuses because they love people and have found that Jesus Christ is totally reliable. If Jesus can help you with death, then Christians have a moral obligation to tell you about him, just as they would call 911 if you had a seizure and they knew a doctor who could cure your cancer.
+Christians are on university campuses because they love people and have found that Jesus Christ is totally reliable. If Jesus can help you with death, then Christians have a moral obligation to tell you about him—just as they would call 911 if you had a seizure and they knew a doctor who could cure your cancer, and would be negligent if they withheld that information.
 
 #### Step 3: Address the "Religion Is Easy" Objection
 
@@ -928,7 +928,7 @@ Animals suffer not because they sinned, but because the whole created order is b
 
 #### Step 5: Address the "Why Do Babies Suffer" Question
 
-Babies suffer and die not because they did anything wrong, but because they are born into an unfair, unjust, messed up world. This is the consequence of human rebellion. But God enters into our suffering in the person of Jesus Christ, the only suffering God.
+Babies suffer and die not because they did anything wrong, but because they are born into a world where birth defects occur and suffering enters as a consequence of human rebellion against God. But God enters into our suffering in the person of Jesus Christ, the only suffering God.
 
 #### Step 6: Do Not Claim a Complete Answer
 
@@ -939,7 +939,7 @@ Acknowledge honestly that you do not know ultimately why God allows specific ins
 
 #### Step 1: Compare Worldviews at the Bedside
 
-When you are at the bedside of a dying person, the Christian worldview offers hope: a suffering God who is with us in our pain, and eternal life through Jesus Christ. The atheist worldview offers: "See you later. Sorry, you're falling through a trap door into timeless, spaceless eternity." These are radically different.
+When you are at the bedside of a dying person, the Christian worldview offers hope: a suffering God who is with us in our pain, and eternal life through Jesus Christ. Cliffe describes the atheist worldview as offering: "See you later. Sorry, you're falling through a trap door into timeless, spaceless eternity." These are radically different.
 
 #### Step 2: Address the Hindu Problem of Suffering
 
@@ -1035,7 +1035,7 @@ When a student asks about gay marriage, do not evade the question. Address it di
 
 #### Step 2: Explain the Biblical Argument
 
-The Bible clearly and consistently communicates that God created our sexuality to be enjoyed between one man and one woman till death parts us. Homosexual sex is a twisting of the gift of sexuality, which God created to be enjoyed in the context of sexual intercourse between one man and one woman until death parts us.
+Cliffe's reading of the Bible is that it clearly and consistently communicates that God created our sexuality to be enjoyed between one man and one woman till death parts us. Homosexual sex is a twisting of the gift of sexuality, which God created to be enjoyed in the context of sexual intercourse between one man and one woman until death parts us.
 
 #### Step 3: Distinguish Between the Law and the Gospel
 
@@ -1043,7 +1043,7 @@ The Old Testament ceremonial law (including Levitical passages about homosexuali
 
 #### Step 4: Be Honest About the Difficulty
 
-Acknowledge that this is a difficult and controversial issue. But the Bible is clear. Do not water down the teaching to avoid conflict.
+Acknowledge that this is a difficult and controversial issue. But Cliffe argues that the Bible is clear. Do not water down the teaching to avoid conflict.
 
 #### Step 5: Offer Grace
 
