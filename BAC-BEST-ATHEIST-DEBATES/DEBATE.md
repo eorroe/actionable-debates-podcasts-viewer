@@ -38,6 +38,11 @@ A compilation of live debates between Cliffe Knechtle and atheists, ex-Christian
 - **Naturalism**: The philosophical presupposition that reality is limited to matter and energy, excluding the supernatural
   - **From Atheist Viewpoint**: The default position for evaluating historical and scientific claims, requiring natural explanations for all events
   - **From Christian Viewpoint**: A presupposition that filters out the possibility of miracles and the resurrection before examining the historical evidence
+- **Naturalistic philosophy**: Philosophy that assumes naturalism is true and uses it as the framework for evaluating all claims, including historical ones. Cliffe argues this is not neutral history but a philosophical bias.
+- **Lewis trilemma**: The argument that if Jesus was not God, he must be either a liar or a lunatic, with no middle ground of "just a good moral teacher." Presented by Cliffe as a logical framework for evaluating Jesus' claims.
+- **Thin ice**: A metaphor used by Cliffe to illustrate that sincerity alone does not make a belief true; the reliability of the object of faith determines whether faith is justified. Sincere faith in thin ice will still result in falling through.
+- **Fertilizer pit**: Cliffe's metaphor for the physical fate of all human bodies after death - decomposition in the ground. Used to argue that without God and resurrection, all people end up in the same physical fate regardless of moral character.
+- **Lamp post**: A metaphor used by Cliffe to challenge whether someone truly believes what they claim to believe. If you truly believed something was true, would you try to convince others? The fact that Christians share their faith is evidence they believe it is true, not just a personal preference.
 - **Free Will**: The ability to make genuine choices, including the choice to love or reject God and others
   - **From Christian Viewpoint**: Given by God to humans, allowing real love and real rebellion, and the basis for moral responsibility
   - **From Atheist Viewpoint**: Can be explained through natural processes, and raises questions about why a good God would grant free will if it leads to suffering
@@ -210,7 +215,7 @@ When critics point to differences between gospel accounts (e.g., one angel at th
 
 ##### Example 2: Distinguishing Mosaic Law from Moral Law
 
-Cliffe points out that there is a humongous difference between the 613 ceremonial and civil laws for the theocracy of Israel (Exodus, Leviticus, Numbers, Deuteronomy) and the moral law of God (Exodus 20). Confusing them leads to absurd conclusions. Christians are not bound by the ceremonial laws (dietary restrictions, sacrifices) but are bound by the moral law (do not murder, do not steal, etc.).
+Cliffe points out that there is a humongous difference between the 613 ceremonial and civil laws for the theocracy of Israel (Exodus, Leviticus, Numbers, Deuteronomy) and the moral law of God (Exodus 20). Confusing them leads to a huge textual mistake. Christians are not bound by the ceremonial laws (dietary restrictions, sacrifices) but are bound by the moral law (do not murder, do not steal, etc.).
 
 ##### Example 3: Manuscript Variants
 
@@ -319,7 +324,7 @@ An atheist student objects that 80 years of finite life does not deserve infinit
 
 - Hell exists because God respects human free will. He does not force anyone to love him.
 - Heaven is primarily about knowing God and Jesus Christ (John 17:3).
-- Both heaven and hell appeal to different people. Cliffe suggests that some people reject heaven because they do not want to surrender to God's authority.
+- Both heaven and hell appeal to different people. Cliffe suggests that some people say they do not want to go to heaven.
 
 #### Security & Safety Notes
 
@@ -340,7 +345,7 @@ An atheist student objects that 80 years of finite life does not deserve infinit
 
 ##### Example 1: The Empty Tomb and Changed Worship
 
-Cliffe claims that, because Jesus rose on the first day, this is evidence that something extraordinary happened to convince them.
+Cliffe claims that, because Jesus rose on the first day, this is evidence that something extraordinary happened to convince the disciples.
 
 ##### Example 2: The Credibility of the Witnesses
 
@@ -579,7 +584,7 @@ Make clear that you do not put your faith in Christianity as an institution. Chr
 
 #### Step 3: Present the Evidence for Jesus
 
-Present the evidence for Jesus: his sinless life, his amazing ethical teachings (the Sermon on the Mount, described by Harvard psychology professor Robert Coles as the greatest ethical document ever written), his death on the cross forgiving his enemies, and his resurrection from the dead.
+Present the evidence for Jesus: his sinless life, his amazing ethical teachings (the Sermon on the Mount, described by Harvard psychology professor Robert Kohl as the greatest ethical document ever written), his death on the cross forgiving his enemies, and his resurrection from the dead.
 
 #### Step 4: Apply the Trustworthiness Test
 
@@ -614,7 +619,7 @@ Present Jesus Christ as the alternative. He lived a life of self-giving love, ta
 
 #### Step 4: Challenge the Assumption of Equal Validity
 
-When someone says you should give every religion an equal chance, challenge this. It is impossible to study every religion equally. Instead, Cliffe advises to look for what has the ring of truth, what seems plausible and reasonable — claims that fit with reality and stand up to examination. If someone presents an option that is better than yours, be willing to change.
+When someone says you should give every religion an equal chance, challenge this. It is impossible to study every religion equally. Instead, Cliffe advises to look for what has the ring of truth, what seems plausible and reasonable. If someone presents an option that is better than yours, be willing to change.
 
 #### Step 5: Be Honest About Your Friends
 
@@ -633,7 +638,7 @@ Ask why that thing is wrong. Is it because of personal taste, cultural condition
 
 #### Step 3: Present the Christian Foundation
 
-If there is a God who is just and who created humans in his image, then there is an objective basis for morality. Our conscience is implanted by God and convicts us when we do wrong. Even if we do not acknowledge God, we experience guilt because we know we have violated a real moral law.
+If there is a God who is just and who created humans in his image, then there is an objective basis for morality. Our conscience is implanted by God and convicts us when we do wrong. Even if we do not acknowledge God, we experience guilt because we know we have violated a real moral law, Cliffe argues.
 
 #### Step 4: Address the Atheist's Conscience
 
@@ -668,7 +673,7 @@ If there is no God, then goodness is not eternal because it demands a mind to de
 
 #### Step 4: Distinguish Between Personal Preference and Objective Morality
 
-If morality is just personal preference, then one person's definition of love (e.g., sexually using a woman) is just as valid as another's definition (treating her with respect). But we know that some things are really wrong, regardless of what anyone thinks. This points to an objective moral standard grounded in God.
+If morality is just personal preference, then one person's definition of love (e.g., sexually using a woman) is just as valid as another's definition (treating her with respect). But Cliffe argues that some things are really wrong, regardless of what anyone thinks. This points to an objective moral standard grounded in God.
 
 #### Step 5: Address the Question of Who Defines Love
 
@@ -679,7 +684,7 @@ If there is no God, then love is just a chemical reaction or a personal preferen
 
 #### Step 1: Distinguish Between Mosaic Law and Moral Law
 
-Explain that Cliffe points out that there is a humongous difference between the 613 laws found in Exodus, Leviticus, Numbers, and Deuteronomy that applied to the theocracy of Israel and the moral law of God found in Exodus 20 (the Ten Commandments). Confusing them leads to absurd conclusions.
+Explain that Cliffe points out that there is a humongous difference between the 613 laws found in Exodus, Leviticus, Numbers, and Deuteronomy that applied to the theocracy of Israel and the moral law of God found in Exodus 20 (the Ten Commandments). Confusing them leads to a huge textual mistake.
 
 #### Step 2: Address the Slavery Objection
 
@@ -687,7 +692,7 @@ When someone asks why God did not simply say "slavery is bad," explain that the 
 
 #### Step 3: Address Contradiction Claims
 
-When someone points to apparent contradictions (e.g., one angel vs. two at the empty tomb), explain that these are different perspectives, not contradictions. Two eyewitnesses to the same event can report different details without contradicting each other. If all four gospels said exactly the same thing, it would look like collusion. Cliffe claims that, from his personal experience of 32 years of speaking on university campuses, he has had religion professors, philosophy professors, and brilliant students tell him about any contradictions in the Bible, but they have not found one yet.
+When someone points to apparent contradictions (e.g., one angel vs. two at the empty tomb), explain that these are different perspectives, not contradictions. Two eyewitnesses to the same event can report different details without contradicting each other. If all four gospels said exactly the same thing, it would look like collusion. Cliffe claims that from his personal experience of 32 years of speaking on university campuses, religion professors, philosophy professors, and brilliant students have told him about contradictions in the Bible, but he says they have not found one yet.
 
 #### Step 4: Address Manuscript Variants
 
@@ -775,7 +780,7 @@ When someone says they do not want heaven or that eternal punishment is unjust, 
 
 #### Step 1: Explain Why Hell Exists
 
-Hell exists because God gave humans free will. If God is all-powerful but chooses to limit his power by giving us free will, then we are responsible for our own choices. God did not force anyone to reject him. Hell is the consequence of freely choosing to be separated from God forever.
+Cliffe explains that hell exists because God gave humans free will. If God is all-powerful but chooses to limit his power by giving us free will, then we are responsible for our own choices. God did not force anyone to reject him. Hell is the consequence of freely choosing to be separated from God forever.
 
 #### Step 2: Address the Problem of Eternal Punishment
 
@@ -921,7 +926,7 @@ God is all-powerful, but he chose to limit his power by giving humans free will.
 
 #### Step 3: Explain the Fall
 
-Genesis 1-2 records a good creation. Genesis 3 records human rebellion against God. When humans told God to leave, God honored their free will and stepped back. The result is a broken world where nature unravels, genetic breakdown occurs, and suffering enters.
+Cliffe teaches that Genesis 1-2 records a good creation. Genesis 3 records human rebellion against God. When humans told God to leave, God honored their free will and stepped back. The result, according to Cliffe, is a broken world where nature unravels, genetic breakdown occurs, and suffering enters.
 
 #### Step 4: Distinguish Human and Animal Suffering
 
