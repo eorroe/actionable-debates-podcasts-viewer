@@ -54,6 +54,7 @@ A compilation of live debates between Cliffe Knechtle and atheists, ex-Christian
 - **Immaterial**: Not physical or material; in the debates, used to describe love, moral values, and beauty as real but not measurable by physical instruments.
 - **Transcendent**: Going beyond the physical or material; in the debates, used to describe moral values and love as real and not merely chemical reactions or social conventions.
 - **Moral obligation**: A duty to act based on moral principles; in the debates, used to describe why Christians share their faith.
+- **Falsifiable**: Able to be proven false by evidence. In the debates, Cliffe says Christianity is falsifiable because if Jesus did not rise from the dead, the whole faith collapses.
 
 
 ## Discussed Topics
@@ -578,7 +579,7 @@ Make clear that you do not put your faith in Christianity as an institution. Chr
 
 #### Step 3: Present the Evidence for Jesus
 
-Present the evidence for Jesus: his sinless life, his amazing ethical teachings (the Sermon on the Mount, described by Harvard psychology professor Robert Kohl as the greatest ethical document ever written), his death on the cross forgiving his enemies, and his resurrection from the dead.
+Present the evidence for Jesus: his sinless life, his amazing ethical teachings (the Sermon on the Mount, described by Harvard psychology professor Robert Coles as the greatest ethical document ever written), his death on the cross forgiving his enemies, and his resurrection from the dead.
 
 #### Step 4: Apply the Trustworthiness Test
 
@@ -613,7 +614,7 @@ Present Jesus Christ as the alternative. He lived a life of self-giving love, ta
 
 #### Step 4: Challenge the Assumption of Equal Validity
 
-When someone says you should give every religion an equal chance, challenge this. It is impossible to study every religion equally. Instead, Cliffe advises to look for what has the ring of truth, what seems plausible and reasonable. If someone presents an option that is better than yours, be willing to change.
+When someone says you should give every religion an equal chance, challenge this. It is impossible to study every religion equally. Instead, Cliffe advises to look for what has the ring of truth, what seems plausible and reasonable — claims that fit with reality and stand up to examination. If someone presents an option that is better than yours, be willing to change.
 
 #### Step 5: Be Honest About Your Friends
 
@@ -648,7 +649,7 @@ Cliffe points to universal human experience of guilt. We all know we have done w
 
 #### Step 7: Present the Alternative
 
-If there is no God, then ultimately what we do with our lives is meaningless. Hitler and Mother Teresa end up in the same physical fate of decomposition, which Cliffe describes as the fertilizer pit. But if there is a God who is just, then our decisions today determine our eternal destiny, and we are valuable because God wants us to live for eternity with him in heaven.
+If there is no God, then ultimately what we do with our lives is meaningless. Hitler and Mother Teresa end up in the same physical fate of decomposition, which Cliffe describes as the fertilizer pit — meaning both bodies return to the same physical matter in the ground. But if there is a God who is just, then our decisions today determine our eternal destiny, and we are valuable because God wants us to live for eternity with him in heaven.
 
 
 ### Morality - The Basis of Good and Evil
