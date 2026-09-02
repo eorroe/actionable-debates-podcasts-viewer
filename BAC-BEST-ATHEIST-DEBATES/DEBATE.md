@@ -339,7 +339,7 @@ An atheist student objects that 80 years of finite life does not deserve infinit
 
 ##### Example 1: The Empty Tomb and Changed Worship
 
-Thousands of Jews in the first century, according to Cliffe, changed their day of worship from Saturday (Sabbath) to Sunday (the first day of the week). Cliffe claims that because Jesus rose on the first day, this is recorded outside the New Testament and is evidence that something extraordinary happened to convince them.
+Cliffe claims that, because Jesus rose on the first day, this is evidence that something extraordinary happened to convince them.
 
 ##### Example 2: The Credibility of the Witnesses
 
@@ -686,7 +686,7 @@ When someone asks why God did not simply say "slavery is bad," explain that the 
 
 #### Step 3: Address Contradiction Claims
 
-When someone points to apparent contradictions (e.g., one angel vs. two at the empty tomb), explain that these are different perspectives, not contradictions. Two eyewitnesses to the same event can report different details without contradicting each other. If all four gospels said exactly the same thing, it would look like collusion. Cliffe claims that, from his personal experience of 32 years of speaking on university campuses, he has had religion professors, philosophy professors, and brilliant students tell him about all the contradictions in the Bible, but they have not found one yet.
+When someone points to apparent contradictions (e.g., one angel vs. two at the empty tomb), explain that these are different perspectives, not contradictions. Two eyewitnesses to the same event can report different details without contradicting each other. If all four gospels said exactly the same thing, it would look like collusion. Cliffe claims that, from his personal experience of 32 years of speaking on university campuses, he has had religion professors, philosophy professors, and brilliant students tell him about any contradictions in the Bible, but they have not found one yet.
 
 #### Step 4: Address Manuscript Variants
 
@@ -828,7 +828,7 @@ The disciples were willing to die for what they saw. If the resurrection were a 
 
 #### Step 3: Examine the Changed Worship Pattern
 
-Thousands of Jews in the first century, according to Cliffe, changed their day of worship from Saturday (Sabbath) to Sunday (the first day of the week) because Jesus rose on the first day. Cliffe claims that this shift in worship is recorded outside the New Testament and is evidence that something extraordinary happened.
+Cliffe claims that, because Jesus rose on the first day, this shift in worship is evidence that something extraordinary happened.
 
 #### Step 4: Address the Naturalistic Objection
 
