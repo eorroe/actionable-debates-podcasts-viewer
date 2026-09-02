@@ -435,7 +435,7 @@ Genesis 1-2 records a good creation. Genesis 3 records human rebellion against G
 
 ##### Example 3: Suffering Is Not Always Punishment
 
-When someone asks why a zebra deserves to have its throat crushed by a lion, the answer is that animals did not sin, but they live in a world broken by human rebellion. Suffering is not always direct punishment for personal sin. Cliffe says that sometimes suffering is the consequence of living in a fallen world.
+When someone asks why a zebra deserves to have its throat crushed by a lion, the answer is that animals did not sin, but they live in a world broken by human rebellion. Cliffe teaches that suffering is not always direct punishment for personal sin. Cliffe says that sometimes suffering is the consequence of living in a fallen world.
 
 #### Best Practices
 
@@ -450,7 +450,7 @@ When someone asks why a zebra deserves to have its throat crushed by a lion, the
 #### Keep In Mind
 
 - God did not create a world with suffering. He created a good world that was broken by human rebellion.
-- Animals suffer because the whole created order is groaning under the weight of human sin (Romans 8).
+- Animals suffer because Cliffe describes the whole created order as groaning under the weight of human sin (Romans 8).
 - Cliffe claims that Jesus Christ is the only God who suffers with us, and that this is unique to Christianity.
 
 #### Security & Safety Notes
@@ -480,7 +480,7 @@ Having a sinful nature is not an excuse for sin. We still have free will and are
 
 ##### Example 3: Babies Are in Heaven
 
-Cliffe says that babies who die go to heaven because they have not yet reached an age of accountability. David's baby with Bathsheba died, and David said, "I will go to you. You will not come to me." This implies the baby is with God. Babies are not condemned for original sin.
+Cliffe says that babies who die go to heaven because they have not yet reached an age of accountability. David's baby with Bathsheba died, and David said, "I will go to you. You will not come to me." Cliffe argues that this implies the baby is with God. Babies are not condemned for original sin.
 
 #### Best Practices
 
@@ -613,7 +613,7 @@ Present Jesus Christ as the alternative. He lived a life of self-giving love, ta
 
 #### Step 4: Challenge the Assumption of Equal Validity
 
-When someone says you should give every religion an equal chance, challenge this. It is impossible to study every religion equally. Instead, look for what has the ring of truth, what seems plausible and reasonable. If someone presents an option that is better than yours, be willing to change.
+When someone says you should give every religion an equal chance, challenge this. It is impossible to study every religion equally. Instead, Cliffe advises to look for what has the ring of truth, what seems plausible and reasonable. If someone presents an option that is better than yours, be willing to change.
 
 #### Step 5: Be Honest About Your Friends
 
@@ -644,7 +644,7 @@ Affirm that atheists can live moral lives. The question is not "Can atheists be 
 
 #### Step 6: Use the Guilt Argument
 
-Point to universal human experience of guilt. We all know we have done wrong. This points to a real moral law that we all violate. If we experience guilt, the question is how to handle it. One valid way is to turn to Christ for forgiveness, as Cliffe argues.
+Cliffe points to universal human experience of guilt. We all know we have done wrong. This points to a real moral law that we all violate. If we experience guilt, the question is how to handle it. One valid way is to turn to Christ for forgiveness, as Cliffe argues.
 
 #### Step 7: Present the Alternative
 
@@ -655,7 +655,7 @@ If there is no God, then ultimately what we do with our lives is meaningless. Hi
 
 #### Step 1: Define Goodness as Requiring a Mind
 
-Argue that goodness is an intangible value that requires a mind to define it. A tree, a cement block, or a camera has no understanding of good. If goodness exists as an objective reality, it must be grounded in a mind.
+Cliffe argues that goodness is an intangible value that requires a mind to define it. A tree, a cement block, or a camera has no understanding of good. If goodness exists as an objective reality, it must be grounded in a mind.
 
 #### Step 2: Address the Challenge
 
@@ -678,11 +678,11 @@ If there is no God, then love is just a chemical reaction or a personal preferen
 
 #### Step 1: Distinguish Between Mosaic Law and Moral Law
 
-Explain that there is a humongous difference between the 613 laws found in Exodus, Leviticus, Numbers, and Deuteronomy that applied to the theocracy of Israel and the moral law of God found in Exodus 20 (the Ten Commandments). Confusing them leads to absurd conclusions.
+Explain that Cliffe points out that there is a humongous difference between the 613 laws found in Exodus, Leviticus, Numbers, and Deuteronomy that applied to the theocracy of Israel and the moral law of God found in Exodus 20 (the Ten Commandments). Confusing them leads to absurd conclusions.
 
 #### Step 2: Address the Slavery Objection
 
-When someone asks why God did not simply say "slavery is bad," explain that the Mosaic legislation regulated an existing practice rather than abolishing it outright. God's moral law, however, is clear: love your neighbor as yourself. The Bible as a whole moves toward the abolition of slavery.
+When someone asks why God did not simply say "slavery is bad," explain that the Mosaic legislation regulated an existing practice rather than abolishing it outright. God's moral law, however, is clear: love your neighbor as yourself. Cliffe argues that the Bible as a whole moves toward the abolition of slavery.
 
 #### Step 3: Address Contradiction Claims
 
@@ -690,7 +690,7 @@ When someone points to apparent contradictions (e.g., one angel vs. two at the e
 
 #### Step 4: Address Manuscript Variants
 
-Acknowledge that there are textual variants in the 5,200 Greek manuscripts of the New Testament. Cliffe argues that these variants are so small and insignificant that no doctrine depends on them. By "insignificant," Cliffe means the variants do not change any Christian doctrine—for example, whether Matthew 1 states that Jesus was the son of Mary, a virgin once or twice does not change any doctrine.
+Acknowledge that there are textual variants in the 5,200 Greek manuscripts of the New Testament. Cliffe argues that these variants are so small that no doctrine depends on them. By "insignificant," Cliffe means the variants do not change any Christian doctrine—for example, whether Matthew 1 states that Jesus was the son of Mary, a virgin once or twice does not change any doctrine.
 
 #### Step 5: Use the Analogy of Different Perspectives
 
@@ -790,7 +790,7 @@ If someone says they do not want heaven, explore why. Is it because of a misunde
 
 #### Step 5: Connect Heaven and Hell to Meaning
 
-If there is no heaven and no hell, then ultimately what we do with our lives is meaningless. Hitler and Mother Teresa end up in the same place. But if there is a God who is just, then our decisions today determine our eternal destiny, and we are valuable because God wants us to live for eternity with him.
+Cliffe argues that if there is no heaven and no hell, then ultimately what we do with our lives is meaningless. Hitler and Mother Teresa end up in the same place. But if there is a God who is just, then our decisions today determine our eternal destiny, and we are valuable because God wants us to live for eternity with him.
 
 
 ### Hell and Heaven
@@ -886,7 +886,7 @@ If someone says God is love or God is energy, push back. God is a personal being
 
 #### Step 5: Use the Lamp Post Illustration
 
-If someone says "I believe God is the lamp post," challenge them. If you truly believed that, would you try to convince others? Would you stand on a street corner telling people about the lamp post? If not, then you do not really believe it. The fact that Christians share their faith is evidence that they believe it is true, not just a personal preference.
+If someone says "I believe God is the lamp post," challenge them. If you truly believed that, would you try to convince others? Would you stand on a street corner telling people about the lamp post? If not, then you do not really believe it. Cliffe argues that the fact that Christians share their faith is evidence that they believe it is true, not just a personal preference.
 
 
 ### Science, Faith, and Naturalism
@@ -912,7 +912,7 @@ If there is no God, then love is just personal preference. One person's definiti
 
 #### Step 1: Ask the Atheist's Solution
 
-When someone asks how you explain suffering, ask them first: What is your solution to the problem of evil and death? If there is no God, what makes anything ultimately right or wrong? If we are all just matter and energy, then suffering has no meaning.
+When someone asks how you explain suffering, ask them first: What is your solution to the problem of evil and death? If there is no God, what makes anything ultimately right or wrong? Cliffe argues that if we are all just matter and energy, then suffering has no meaning.
 
 #### Step 2: Explain Free Will
 
@@ -924,7 +924,7 @@ Genesis 1-2 records a good creation. Genesis 3 records human rebellion against G
 
 #### Step 4: Distinguish Human and Animal Suffering
 
-Animals suffer not because they sinned, but because the whole created order is broken by human sin. The world is not as it should be. But God is not responsible for the suffering of animals or the suffering of innocent people. The world is broken because we broke it.
+Animals suffer not because they sinned, but because the whole created order is broken by human sin. The world is not as it should be. But Cliffe teaches that God is not responsible for the suffering of animals or the suffering of innocent people. The world is broken because we broke it.
 
 #### Step 5: Address the "Why Do Babies Suffer" Question
 
@@ -943,15 +943,15 @@ When you are at the bedside of a dying person, the Christian worldview offers ho
 
 #### Step 2: Address the Hindu Problem of Suffering
 
-In Hinduism, suffering is often explained by karma - you are suffering because of something you did in this life or a past life. But this does not fit our experience. A child with cancer did not cause their own suffering. A person born into poverty did not choose their circumstances. The Christian faith teaches that suffering often has nothing to do with personal sin.
+Cliffe notes that in Hinduism, suffering is often explained by karma - you are suffering because of something you did in this life or a past life. But this does not fit our experience. A child with cancer did not cause their own suffering. A person born into poverty did not choose their circumstances. The Christian faith teaches that suffering often has nothing to do with personal sin.
 
 #### Step 3: Explain Grace vs. Karma
 
-Christianity is based on grace: you can turn and accept Christ at any time, even on your deathbed, and be forgiven. Hinduism is based on karma: your bad deeds accumulate and determine your future. This is a type of determinism that does not account for the grace and forgiveness offered in Christ.
+Christianity is based on grace: Cliffe teaches that you can turn and accept Christ at any time, even on your deathbed, and be forgiven. Hinduism is based on karma: your bad deeds accumulate and determine your future. This is a type of determinism that does not account for the grace and forgiveness offered in Christ.
 
 #### Step 4: Address the Caste System
 
-In Hinduism, people are born into different castes, and some are considered more valuable than others. In Christianity, all people are created in the image of God and are absolutely equal. Our value does not change because of what Jesus did for us on the cross.
+In Hinduism, people are born into different castes, and some are considered more valuable than others. Cliffe teaches that in Christianity, all people are created in the image of God and are absolutely equal. Our value does not change because of what Jesus did for us on the cross.
 
 #### Step 5: Present the Christian Alternative
 
@@ -974,11 +974,11 @@ Having a sinful nature is not an excuse for sin. We still have free will and are
 
 #### Step 4: Address the Catholic Doctrine of Original Sin
 
-If someone says original sin means unbaptized babies cannot go to heaven, disagree. There is no biblical basis for this. Babies who die are with the Lord. David's baby with Bathsheba died, and David said, "I will go to you. You will not come to me." This implies the baby is with God.
+If someone says original sin means unbaptized babies cannot go to heaven, disagree. Cliffe argues that there is no biblical basis for this. Babies who die are with the Lord. David's baby with Bathsheba died, and David said, "I will go to you. You will not come to me." This implies the baby is with God.
 
 #### Step 5: Address the Environmental Influence Question
 
-If someone asks whether our understanding of good and evil is taught by our environment, acknowledge that it is heavily influenced by our environment. But it is not determined by it. We have a conscience and a rational mind, and we are responsible before God to contradict our culture when it is wrong.
+If someone asks whether our understanding of good and evil is taught by our environment, acknowledge that it is heavily influenced by our environment. But our understanding of good and evil is not determined by it. We have a conscience and a rational mind, and we are responsible before God to contradict our culture when it is wrong.
 
 #### Step 6: Use the College Basketball Illustration
 
@@ -1039,7 +1039,7 @@ Cliffe's reading of the Bible is that it clearly and consistently communicates t
 
 #### Step 3: Distinguish Between the Law and the Gospel
 
-The Old Testament ceremonial law (including Levitical passages about homosexuality) applied to the theocracy of Israel. The New Testament consistently teaches that homosexuality is contrary to God's design. The gospel offers forgiveness and transformation to all who repent, including those who have engaged in homosexual sex.
+The Old Testament ceremonial law (including Levitical passages about homosexuality) applied to the theocracy of Israel. Cliffe's reading of the New Testament is that it consistently teaches that homosexuality is contrary to God's design. The gospel offers forgiveness and transformation to all who repent, including those who have engaged in homosexual sex.
 
 #### Step 4: Be Honest About the Difficulty
 
