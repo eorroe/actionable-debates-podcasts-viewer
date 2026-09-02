@@ -1,4 +1,4 @@
-# Cliffe Knechtle's Best Atheist Debates Ever!
+# Cliffe Knechtle's Atheist Debates Ever!
 
 ## Overview
 
@@ -12,8 +12,8 @@ A compilation of live debates between Cliffe Knechtle and atheists, ex-Christian
 
 ## Glossary / Prerequisite Terms To Know Before Following Debate
 
-- **Hell**: The consequence of freely choosing to be separated from God forever, not arbitrary torture. God does not send people to hell; they choose it by rejecting him.
-- **Heaven**: Eternal life defined as knowing God and Jesus Christ (John 17:3), involving real relationship with God and others, meaningful work, creativity, and service. Not endless worship or mindless praise.
+- **Hell**: The consequence of freely choosing to be separated from God forever, not arbitrary torture. Cliffe argues that God does not send people to hell; they choose it by rejecting him.
+- **Heaven**: Cliffe defines eternal life as knowing God and Jesus Christ (John 17:3), involving real relationship with God and others, meaningful work, creativity, and service. Not endless worship or mindless praise.
 - **Suffering**: Moral evil (human choices like rape, murder) and natural evil (disease, natural disasters) resulting from a world broken by human rebellion in Genesis 3. Animals suffer because the whole created order is broken, not because they sinned.
 - **Homosexuality**: In the context of these debates, Cliffe argues the Bible's view is rooted in Genesis 1-2 (creation of male and female for lifelong marriage) and the New Testament's consistent teaching, not Levitical ceremonial law.
 - **Theocracy**: A form of government in which God is recognized as the supreme civil ruler, applied specifically to the ancient nation of Israel.
@@ -27,7 +27,7 @@ A compilation of live debates between Cliffe Knechtle and atheists, ex-Christian
 - **Salem Witch Trials**: 1692 trials in colonial Massachusetts where people were executed for witchcraft, cited in the debates as historical evil done in Christianity's name.
 - **Slavery**: The practice of owning human beings as property. In the debates, Cliffe acknowledges the Mosaic legislation regulated rather than abolished slavery, and notes Christians both enslaved people and led the abolition movement.
 - **Caste system**: The Hindu social hierarchy where people are born into different castes considered to have different values, contrasted with Christianity where all are created in God's image.
-- **Sermon on the Mount**: Jesus' ethical teachings in Matthew 5-7, described by a Harvard psychology professor as the greatest ethical document ever written.
+- **Sermon on the Mount**: Jesus' ethical teachings in Matthew 5-7, described by Harvard psychology professor Robert Kohl as the greatest ethical document ever written.
 - **Date rape**: Sexual assault by someone known to the victim, used in the debates as an example of a moral absolute that people recognize as wrong.
 - **Original sin**: The readiness to sin factor present in all humans from birth, not imputed guilt but a natural inclination toward wrongdoing
   - **From Atheist Viewpoint**: A doctrine that blames individuals for the actions of Adam and Eve, seen as unjust punishment for a crime they did not personally commit
@@ -57,7 +57,7 @@ A compilation of live debates between Cliffe Knechtle and atheists, ex-Christian
 
 ##### Example 1: Why Christianity over Islam or Hinduism?
 
-Cliffe argues that all world religions make contradictory truth claims. Muhammad's claim that Jesus was merely a good prophet contradicts Jesus' own claim to be God. Since Muhammad never met Jesus and lived 500+ years after him, Cliffe says you cannot trust him as a primary source over the eyewitnesses who lived with Jesus. Islam's internal contradictions and Hinduism's caste system are cited as reasons to reject those religions in favor of Christianity.
+Cliffe argues that all world religions make contradictory truth claims. Muhammad's claim that Jesus was merely a good prophet contradicts Jesus' own claim to be God. Since Muhammad never met Jesus and lived 500 years after him, Cliffe says you cannot trust him as a primary source over the eyewitnesses who lived with Jesus. Islam's internal contradictions and Hinduism's caste system are cited as reasons to reject those religions in favor of Christianity.
 
 ##### Example 2: Evidence-Based Trust
 
@@ -83,7 +83,7 @@ You do not need to study every religion. Take the two or three that seem most cr
 
 - Religions make mutually exclusive truth claims. They cannot all be true.
 - Jesus' claim to be God is the critical dividing line. He is either a liar, a lunatic, or Lord.
-- Muhammad lived 500+ years after Jesus and never met him. The eyewitnesses to Jesus (Matthew, Mark, John, Peter, James) are the primary sources for who Jesus claimed to be.
+- Muhammad lived 500 years after Jesus and never met him. The eyewitnesses to Jesus (Matthew, Mark, John, Peter, James) are the primary sources for who Jesus claimed to be.
 - Even if Christianity as an institution has been used to justify evil (Crusades, Inquisition, slavery), Jesus himself is distinct from his followers.
 
 #### Security & Safety Notes
@@ -107,7 +107,7 @@ You do not need to study every religion. Take the two or three that seem most cr
 
 ##### Example 1: Muhammad Contradicts Jesus
 
-Cliffe argues that Muhammad's claim that Jesus was a great prophet but not God contradicts the eyewitness testimony of those who lived with Jesus for three years and heard him claim to be God. Since Muhammad never met Jesus and lived 500+ years later, he is not a reliable primary source on who Jesus really was.
+Cliffe argues that Muhammad's claim that Jesus was a great prophet but not God contradicts the eyewitness testimony of those who lived with Jesus for three years and heard him claim to be God. Since Muhammad never met Jesus and lived 500 years later, he is not a reliable primary source on who Jesus really was.
 
 ##### Example 2: Materialism as a Religion
 
@@ -177,7 +177,7 @@ Goodness is an intangible value that requires a mind to define it. A tree or a c
 
 - The question is not "Can atheists be moral?" but "How do atheists account for objective morality?"
 - Everyone experiences guilt, which points to a real moral standard we fail to meet.
-- If there is no God, there is no objective good or evil - only personal preference, cultural convention, or evolutionary conditioning.
+- Cliffe argues that if there is no God, there is no objective good or evil - only personal preference, cultural convention, or evolutionary conditioning.
 
 #### Security & Safety Notes
 
@@ -187,7 +187,7 @@ Goodness is an intangible value that requires a mind to define it. A tree or a c
 #### Common Pitfalls
 
 - **Problem:** Demanding that God prevent all evil and suffering
-  **Solution:** If God gives humans free will, then moral evil (rape, murder, etc.) is the result of human choices, not God's failure. Natural evil (earthquakes, disease) is a consequence of the world being broken by human rebellion in Genesis 3.
+  **Solution:** If God gives humans free will, then moral evil (rape, murder, etc.) is the result of human choices, not God's failure. Cliffe teaches that natural evil is a consequence of the world being broken by human rebellion in Genesis 3.
 - **Problem:** Arguing that atheists have no basis for morality
   **Solution:** Affirm that atheists can and do act morally. The question is the foundation: without God, moral values are subjective and relative.
 
@@ -202,11 +202,11 @@ When critics point to differences between gospel accounts (e.g., one angel at th
 
 ##### Example 2: Distinguishing Mosaic Law from Moral Law
 
-There is a humongous difference between the 613 ceremonial and civil laws for the theocracy of Israel (Exodus, Leviticus, Numbers, Deuteronomy) and the moral law of God (Exodus 20). Confusing them leads to absurd conclusions. Christians are not bound by the ceremonial laws (dietary restrictions, sacrifices) but are bound by the moral law (do not murder, do not steal, etc.).
+Cliffe points out that there is a humongous difference between the 613 ceremonial and civil laws for the theocracy of Israel (Exodus, Leviticus, Numbers, Deuteronomy) and the moral law of God (Exodus 20). Confusing them leads to absurd conclusions. Christians are not bound by the ceremonial laws (dietary restrictions, sacrifices) but are bound by the moral law (do not murder, do not steal, etc.).
 
 ##### Example 3: Manuscript Variants
 
-There are textual variants in the 5,200+ Greek manuscripts of the New Testament, but they are so small that no doctrine depends on them. The variant in Matthew 1 about whether "Jesus was the son of Mary, a virgin" is stated once or twice does not change any doctrine.
+Cliffe notes that there are textual variants in the 5,200 Greek manuscripts of the New Testament, but they are so small that no doctrine depends on them. The variant in Matthew 1 about whether "Jesus was the son of Mary, a virgin" is stated once or twice does not change any doctrine.
 
 #### Best Practices
 
@@ -288,11 +288,11 @@ If a Christian enslaves people, rapes, or murders, they have violated Christ's t
 
 ##### Example 1: Why Does Hell Exist?
 
-Hell exists because God gives humans free will. If God is all-powerful but chooses to limit his power by giving us free will, then we are responsible for our own choices. God did not force anyone to reject him. Hell is the consequence of freely choosing to be separated from God forever.
+Cliffe explains that hell exists because God gives humans free will. If God is all-powerful but chooses to limit his power by giving us free will, then we are responsible for our own choices. God did not force anyone to reject him. Hell is the consequence of freely choosing to be separated from God forever.
 
 ##### Example 2: Heaven Is About Relationship and Work
 
-Heaven is not just endless worship. It is about relationship with God and with others, and about meaningful work. John 17:3 says eternal life is knowing God and Jesus Christ. Work is a gift from God, not a curse. In heaven, we will continue to create, serve, and love.
+Heaven is not just endless worship. It is about relationship with God and with others, and about meaningful work. Cliffe cites John 17:3 to define eternal life as knowing God and Jesus Christ. Work is a gift from God, not a curse. In heaven, we will continue to create, serve, and love.
 
 ##### Example 3: The Problem of Eternal Punishment
 
@@ -321,9 +321,9 @@ An atheist student objects that 80 years of finite life does not deserve infinit
 #### Common Pitfalls
 
 - **Problem:** Describing hell as God torturing people arbitrarily
-  **Solution:** Hell is the consequence of freely choosing to be separated from God. God does not send people to hell; they choose it by rejecting him.
+  **Solution:** Hell is the consequence of freely choosing to be separated from God. Cliffe argues that God does not send people to hell; they choose it by rejecting him.
 - **Problem:** Reducing Christianity to a fire insurance policy
-  **Solution:** Christianity is about relationship with God, not just avoiding hell.
+  **Solution:** Cliffe emphasizes that Christianity is about relationship with God, not just avoiding hell.
 
 
 ### The Resurrection and Evidence for Christianity
@@ -332,11 +332,11 @@ An atheist student objects that 80 years of finite life does not deserve infinit
 
 ##### Example 1: The Empty Tomb and Changed Worship
 
-Thousands of Jews in the first century changed their day of worship from Saturday (Sabbath) to Sunday (the first day of the week) because Jesus rose on the first day. This is recorded outside the New Testament and is evidence that something extraordinary happened to convince them.
+Thousands of Jews in the first century, according to Cliffe, changed their day of worship from Saturday (Sabbath) to Sunday (the first day of the week). Cliffe claims that because Jesus rose on the first day, this is recorded outside the New Testament and is evidence that something extraordinary happened to convince them.
 
 ##### Example 2: The Credibility of the Witnesses
 
-People saw the risen Jesus and were willing to die for what they saw. If the resurrection were a lie, the disciples would have recanted under persecution. Instead, they died for their testimony.
+Cliffe claims that eyewitnesses saw the risen Jesus and were willing to die for what they saw. Cliffe argues that if the resurrection were a lie, the disciples would have recanted under persecution. Instead, they died for their testimony.
 
 ##### Example 3: The Falsifiability of Christ's Claim
 
@@ -399,7 +399,7 @@ When someone says God is love or God is energy, Cliffe pushes back. God is a per
 
 - Science studies the natural world. It cannot answer questions about God, morality, or meaning.
 - The resurrection is a historical claim, not a scientific one. It can be evaluated by historical methods.
-- If there is no God, then love, good, and evil are just chemical reactions or social conventions. But we experience them as real, transcendent values.
+- Cliffe argues that if there is no God, then love, good, and evil are just chemical reactions or social conventions. But we experience them as real, transcendent values.
 
 #### Security & Safety Notes
 
@@ -428,7 +428,7 @@ Genesis 1-2 records a good creation. Genesis 3 records human rebellion against G
 
 ##### Example 3: Suffering Is Not Always Punishment
 
-When someone asks why a zebra deserves to have its throat crushed by a lion, the answer is that animals did not sin, but they live in a world broken by human rebellion. Suffering is not always direct punishment for personal sin. Sometimes it is the consequence of living in a fallen world.
+When someone asks why a zebra deserves to have its throat crushed by a lion, the answer is that animals did not sin, but they live in a world broken by human rebellion. Suffering is not always direct punishment for personal sin. Cliffe says that sometimes suffering is the consequence of living in a fallen world.
 
 #### Best Practices
 
@@ -444,7 +444,7 @@ When someone asks why a zebra deserves to have its throat crushed by a lion, the
 
 - God did not create a world with suffering. He created a good world that was broken by human rebellion.
 - Animals suffer because the whole created order is groaning under the weight of human sin (Romans 8).
-- Jesus Christ is the only God who suffers with us. This is unique to Christianity.
+- Cliffe claims that Jesus Christ is the only God who suffers with us, and that this is unique to Christianity.
 
 #### Security & Safety Notes
 
@@ -465,7 +465,7 @@ When someone asks why a zebra deserves to have its throat crushed by a lion, the
 
 ##### Example 1: Original Sin Is a Readiness to Sin Factor
 
-Original sin is not God punishing babies for Adam's sin. It is a readiness to sin factor present in all humans from birth. Cliffe illustrates this with a story about his four-year-old self hitting a playmate with a metal truck in a sandbox, and his infant son deliberately knocking over a glass of grape juice. No one taught them to act that way; it came naturally.
+Cliffe teaches that original sin is not God punishing babies for Adam's sin. It is a readiness to sin factor present in all humans from birth. Cliffe illustrates this with a story about his four-year-old self hitting a playmate with a metal truck in a sandbox, and his infant son deliberately knocking over a glass of grape juice. No one taught them to act that way; it came naturally.
 
 ##### Example 2: Free Will Still Applies
 
@@ -473,7 +473,7 @@ Having a sinful nature is not an excuse for sin. We still have free will and are
 
 ##### Example 3: Babies Are in Heaven
 
-Babies who die go to heaven because they have not yet reached an age of accountability. David's baby with Bathsheba died, and David said, "I will go to you. You will not come to me." This implies the baby is with God. Babies are not condemned for original sin.
+Cliffe says that babies who die go to heaven because they have not yet reached an age of accountability. David's baby with Bathsheba died, and David said, "I will go to you. You will not come to me." This implies the baby is with God. Babies are not condemned for original sin.
 
 #### Best Practices
 
@@ -509,7 +509,7 @@ Babies who die go to heaven because they have not yet reached an age of accounta
 
 ##### Example 1: The Biblical Argument Is Not from Leviticus
 
-When a student asks about gay marriage, Cliffe says the Bible's view on homosexuality is not based on Leviticus 21-22 (which applies to the priesthood of Israel). It is based on Genesis 1-2, the creation mandate that sexuality is designed for one man and one woman in lifelong marriage. The entire New Testament consistently communicates that homosexuality is a twisting of the gift of sexuality, which God created to be enjoyed in the context of sexual intercourse between one man and one woman until death parts us.
+When a student asks about gay marriage, Cliffe says the Bible's view on homosexuality is not based on Leviticus 21-22 (which applies to the priesthood of Israel). It is based on Genesis 1-2, the creation mandate that sexuality is designed for one man and one woman in lifelong marriage. Cliffe argues that the entire New Testament consistently communicates that homosexuality is a twisting of the gift of sexuality, which God created to be enjoyed in the context of sexual intercourse between one man and one woman until death parts us.
 
 ##### Example 2: Homosexuality Is a Wrong Use of a Good Gift
 
@@ -519,7 +519,7 @@ God created sexuality to be enjoyed in the context of lifelong marriage between 
 
 - ✅ Base the argument against homosexuality on Genesis 1-2 and the New Testament, not on Levitical ceremonial law
 - ✅ Present sexuality as a good gift that can be used wrongly
-- ✅ Communicate God's love and offer of forgiveness to those struggling with same-sex attraction. God's love is demonstrated through Jesus Christ dying on the cross for his enemies, and forgiveness is receiving God's forgiveness through Christ for the wrong that we have done.
+- ✅ Communicate God's love and offer of forgiveness to those struggling with same-sex attraction. Cliffe teaches that God's love is demonstrated through Jesus Christ dying on the cross for his enemies, and forgiveness is receiving God's forgiveness through Christ for the wrong that we have done.
 - ❌ Do not use Levitical laws as the basis for opposing homosexuality without explaining the distinction between ceremonial and moral law
 - ❌ Do not present the argument as hateful or discriminatory
 
@@ -571,7 +571,7 @@ Make clear that you do not put your faith in Christianity as an institution. Chr
 
 #### Step 3: Present the Evidence for Jesus
 
-Present the evidence for Jesus: his sinless life, his amazing ethical teachings (the Sermon on the Mount is called the greatest ethical document ever written), his death on the cross forgiving his enemies, and his resurrection from the dead.
+Present the evidence for Jesus: his sinless life, his amazing ethical teachings (the Sermon on the Mount, described by Harvard psychology professor Robert Kohl as the greatest ethical document ever written), his death on the cross forgiving his enemies, and his resurrection from the dead.
 
 #### Step 4: Apply the Trustworthiness Test
 
@@ -579,7 +579,7 @@ If someone died and rose from the dead, that is evidence they are trustworthy. J
 
 #### Step 5: Address Other Religions Specifically
 
-Explain why you are not a Muslim or an atheist or a follower of any other religion. For Islam, point to Muhammad's claim that Jesus was merely a prophet, which contradicts the eyewitness testimony of those who lived with Jesus for three years and heard him claim to be God. Muhammad never met Jesus and lived 500+ years after him, so he is not a reliable primary source.
+Explain why you are not a Muslim or an atheist or a follower of any other religion. For Islam, point to Muhammad's claim that Jesus was merely a prophet, which contradicts the eyewitness testimony of those who lived with Jesus for three years and heard him claim to be God. Muhammad never met Jesus and lived 500 years after him, so he is not a reliable primary source.
 
 #### Step 6: Challenge the Other Person to Be Objective
 
@@ -598,7 +598,7 @@ If the other person is a materialist who lives for money and success, acknowledg
 
 #### Step 2: Share Personal Experience
 
-Share that the majority of your friends are materialists who work on Wall Street (Goldman Sachs, JP Morgan) and are very good at making money. But you are convinced that putting ultimate faith in materialism is a mistake.
+Share that, according to Cliffe, the majority of his friends are materialists who work on Wall Street (Goldman Sachs, JP Morgan) and are very good at making money. But you are convinced that putting ultimate faith in materialism is a mistake.
 
 #### Step 3: Point to the Alternative
 
@@ -633,7 +633,7 @@ Acknowledge that atheists can and do know that date rape is wrong. But ask them 
 
 #### Step 5: Distinguish Moral Behavior from Moral Foundation
 
-Affirm that atheists can live moral lives. The question is not "Can atheists be moral?" but "How do atheists account for objective morality?" If there is no God, there is no objective basis for good and evil. They are just personal preferences or cultural conventions.
+Affirm that atheists can live moral lives. The question is not "Can atheists be moral?" but "How do atheists account for objective morality?" Cliffe argues that if there is no God, there is no objective basis for good and evil. They are just personal preferences or cultural conventions.
 
 #### Step 6: Use the Guilt Argument
 
@@ -679,11 +679,11 @@ When someone asks why God did not simply say "slavery is bad," explain that the 
 
 #### Step 3: Address Contradiction Claims
 
-When someone points to apparent contradictions (e.g., one angel vs. two at the empty tomb), explain that these are different perspectives, not contradictions. Two eyewitnesses to the same event can report different details without contradicting each other. If all four gospels said exactly the same thing, it would look like collusion. Cliffe says that in 32 years of speaking on university campuses, he has had religion professors, philosophy professors, and brilliant students tell him about all the contradictions in the Bible, but they have not found one yet.
+When someone points to apparent contradictions (e.g., one angel vs. two at the empty tomb), explain that these are different perspectives, not contradictions. Two eyewitnesses to the same event can report different details without contradicting each other. If all four gospels said exactly the same thing, it would look like collusion. According to Cliffe's personal experience of 32 years of speaking on university campuses, he has had religion professors, philosophy professors, and brilliant students tell him about all the contradictions in the Bible, but they have not found one yet.
 
 #### Step 4: Address Manuscript Variants
 
-Acknowledge that there are textual variants in the 5,200+ Greek manuscripts of the New Testament. But these variants are so small and insignificant that no doctrine depends on them. The variant in Matthew 1 about whether Jesus was called the son of a virgin once or twice does not change any Christian doctrine.
+Acknowledge that there are textual variants in the 5,200 Greek manuscripts of the New Testament. But these variants are so small and insignificant that no doctrine depends on them. The variant in Matthew 1 about whether Jesus was called the son of a virgin once or twice does not change any Christian doctrine.
 
 #### Step 5: Use the Analogy of Different Perspectives
 
@@ -821,7 +821,7 @@ The disciples were willing to die for what they saw. If the resurrection were a 
 
 #### Step 3: Examine the Changed Worship Pattern
 
-Thousands of Jews in the first century changed their day of worship from Saturday (Sabbath) to Sunday (the first day of the week) because Jesus rose on the first day. This is recorded outside the New Testament and is evidence that something extraordinary happened.
+Thousands of Jews in the first century, according to Cliffe, changed their day of worship from Saturday (Sabbath) to Sunday (the first day of the week) because Jesus rose on the first day. This is recorded outside the New Testament and is evidence that something extraordinary happened.
 
 #### Step 4: Address the Naturalistic Objection
 
@@ -955,7 +955,7 @@ Christianity teaches that we are all sinners, but we can accept Christ's forgive
 
 #### Step 1: Define Original Sin Accurately
 
-Original sin is not God punishing babies for Adam's sin. It is a readiness to sin factor present in all humans from birth. Cliffe illustrates this with stories from his own childhood and his son's childhood, showing that selfishness and rebellion come naturally without being taught.
+Cliffe teaches that original sin is not God punishing babies for Adam's sin. It is a readiness to sin factor present in all humans from birth. Cliffe illustrates this with stories from his own childhood and his son's childhood, showing that selfishness and rebellion come naturally without being taught.
 
 #### Step 2: Use Personal Illustration
 
