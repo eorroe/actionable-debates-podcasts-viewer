@@ -1,0 +1,5 @@
+Transcript Source: /tmp/attachments/agent_ae814c12-5388-41aa-9be2-672353d6dca7/0a976afa-9d91-494d-85d2-5832b5541cb3/f6a93851-0a41-4861-89b2-b324950e5b73/24344c71-7b3f-4a3a-a24c-651ecb2b2546.txt
+
+Note: The original transcript file was provided as an attachment and analyzed to create PODCAST.md. The full transcript (8568 lines) covers an interview with Mark Zuckerberg discussing Meta's AI manifesto, the Muse personal agent, open source vs closed AI, data center community investment, privacy architecture, model development, government partnership, smart glasses privacy, and youth safety frameworks.
+
+Due to the ephemeral nature of the source file, the full transcript text is not reproduced here. The PODCAST.md file contains the synthesized actionable content from this transcript.
